@@ -1,4 +1,7 @@
-# Open Food Network Userguide
+# Guide utilisateur Open Food France
+
+Ce guide a pour objet de vous accompagner dans l'utilisation d'Open Food France.
+blablabla
 
 This user guide provides information for local food enterprises and organisations who wish to use Open Food Network's tools and functionality.
 
