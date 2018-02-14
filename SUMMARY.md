@@ -1,7 +1,7 @@
 # Summary
 
-* [Open Food Network User Guide](README.md)
-* [Setup Manuals](model-specific-setup-instructions.md)
+* [Guide utilisateur Open Food France](README.md)
+* [Modèles courants](model-specific-setup-instructions.md)
   * [Producer \(Profile Only\)](producer-profile-only.md)
   * [Producer \(Shop\)](producer-set-up-guide.md)
   * [Hub \(Profile Only\)](hub-profile-only.md)
@@ -10,7 +10,7 @@
   * [Multi-Producer Pre-orders](multi-farm-pre-orders.md)
   * [Farmer's Market \(Group Page\)](farmers-market.md)
   * [Farmer's Market \(Shops\)](farmers-market-shops.md)
-* [Basic Features](basic-features.md)
+* [Fonctionnalités de base](basic-features.md)
   * [Register and create your profile](create-an-account.md)
   * [Package types](hub-profile-types.md)
   * [Enterprise Settings](your-profile.md)
@@ -24,7 +24,7 @@
   * [Order Cycles \(for Producers\)](order-cycles-for-producers.md)
   * [View Orders](view-orders.md)
   * [Reports](get-reports.md)
-* [Advanced Features](advanced-features.md)
+* [Fonctionnalités avancées](advanced-features.md)
   * [Your Profile](your-profile-adv.md)
     * [Making a producer profile searchable by product category](making-a-producer-profile-searchable-by-product-category.md)
     * [Transfer ownership](transferring-ownership-of-a-profile.md)
