@@ -5,7 +5,7 @@ Ce guide a pour objet de vous accompagner dans l'utilisation d'Open Food France.
 <iframe width="669" height="376" src="https://www.youtube.com/embed/eA3IcMUnU14" frameborder="0" allowfullscreen></iframe>
 
 ## Un guide personnalisé par profil utilisateur
-We have put together unique [setup manuals](/model-specific-setup-instructions.md) which provide specific setup guidance depending on who you are and how you want to use the Open Food Network. Have a look at our setup manuals to find the one that's right for you. 
+Nous avons rédiger des [manuels d'installation](/model-specific-setup-instructions.md) par type de profil utilisateur. En effet, en fonction de votre profil
 
 ## Rechercher
 N'hésitez pas à utiliser la fonctionnalité de recherche en haut à gauche pour rechercher des points spécifiques.
