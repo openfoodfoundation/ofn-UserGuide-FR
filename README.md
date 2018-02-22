@@ -10,8 +10,12 @@ We have put together unique [setup manuals](/model-specific-setup-instructions.m
 ## Rechercher
 N'hésitez pas à utiliser la fonctionnalité de recherche en haut à gauche pour rechercher des points spécifiques.
 
-## Fonctionnalités de base
-The content of this guide is separated into the basic features, and advanced features. You can browse these chapters freely, to find what interests you.
+## Fonctionnalités standards
+Nous avons choisis de séparer les fonctionnalités en deux parties : les fonctionnalités standards et les fonctionnalités avancées.
 
 ## FAQs
-We've put together some FAQs which might answer some questions you have.
+La Foire aux Questions en fin de guide peut vous aiguiller également.
+
+## D'autres questions ? Des améliorations ?
+N'hésitez pas à nous écrire à l'adresse suivante : A COMPLETER
+

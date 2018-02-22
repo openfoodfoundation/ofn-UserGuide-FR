@@ -10,7 +10,7 @@
   * [Multi-Producer Pre-orders](multi-farm-pre-orders.md)
   * [Farmer's Market \(Group Page\)](farmers-market.md)
   * [Farmer's Market \(Shops\)](farmers-market-shops.md)
-* [Fonctionnalités de base](basic-features.md)
+* [Fonctionnalités standards](basic-features.md)
   * [Register and create your profile](create-an-account.md)
   * [Package types](hub-profile-types.md)
   * [Paramètre Entreprise](your-profile.md)
