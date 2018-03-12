@@ -2,7 +2,7 @@
 
 * [Guide utilisateur Open Food France](README.md)
 * [Utilisateurs courants](model-specific-setup-instructions.md)
-  * [Producteur \(Profile Only\)](producer-profile-only.md)
+  * [Le profil producteur](producer-profile-only.md)
   * [Producer \(Shop\)](producer-set-up-guide.md)
   * [Hub \(Profile Only\)](hub-profile-only.md)
   * [Hub \(Shop\)](hubs-set-up-guide.md)
