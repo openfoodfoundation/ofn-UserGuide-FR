@@ -1,11 +1,11 @@
-# Producer Profile
+# Le profil producteur
 
-## What is a producer profile?
+## Qu'est-ce qu'un profil producteur ?
 
-* A profile gives you a place to tell your story.
-* You'll be visible on the OFN map.
-* You'll be visible in the producer directory.
-* You can add in your products and be stocked others' shops on OFN.
+* Un profile vous permet un espace pour raconter votre histoire.
+* Vous serez visible sur la carte Open Food France.
+* Vous serez visible sur la liste des producteurs.
+* Vous pouvez ajouter vos produits et à les relier à des boutiques existantes sur Open Food France.
 * If you ever want to run your own shop, you can add the shopfront functionality to your profile.
 
 ## What does it do?
@@ -44,5 +44,6 @@ You will now have a space to tell the story of your enterprise and to help drive
 
 * [Making your profile searchable by product category](/making-a-producer-profile-searchable-by-product-category.md)
 
-**Want to setup an online shop?
+**Want to setup an online shop?  
 ** Now that you have a profile on the OFN, with just a few more setup steps, you can open an online shop. See the [Producer Shop setup manual](/producer-set-up-guide.md). You've already completed step 1 when you created your profile, so start at step 2 and change your package.
+
