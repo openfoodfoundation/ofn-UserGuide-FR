@@ -8,9 +8,9 @@
 
 3. Vous recevrez ensuite un email avec un lien vous permettant de confirmer votre adresse email. Cliquez sur ce lien qui vous dirigera vers la page de connexion.
 
-4. Login and return to /register. Click the ‘Agree to Terms of Service’ box and click ‘Let’s Get Started!’
+4. Connectez-vous. _Click the ‘Agree to Terms of Service’ box and click ‘Let’s Get Started!’_
 
-5. Fill in your enterprise name and contact details
+5. Renseignez le nom de votre entreprise et vos coordonnées
 
 6. Choose if you’re ‘a producer’ \(e.g. farmer, baker, etc\) or ‘not a producer’ \(We call non-producers hubs, which includes: a seller and/or distributor of food: coop, food hub, wholesaler etc.\).
 
