@@ -1,12 +1,12 @@
-# Register and create your profile
+# Inscription et création de profil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Isuk7JjtkYY" frameborder="0" allowfullscreen></iframe>
 
-1. Go to your local Open Food Network and add /register to the end of the URL \(e.g. [www.openfoodnetwork.org.au**/register**](/www.openfoodnetwork.org.au/register)\)
+1. Rendez-vous sur [https://www.openfoodfrance.org/register](https://www.openfoodfrance.org/register)
 
-2. Enter your email address and choose a password. 
+2. Renseignez votre adresse email et choisissez un mot de passe
 
-3. You will need to confirm your email before you can continue. Check your inbox and click on the confirmation link.
+3. Vous recevrez ensuite un email avec un lien vous permettant de confirmer votre adresse email. Cliquez sur ce lien qui vous dirigera vers la page de connexion.
 
 4. Login and return to /register. Click the ‘Agree to Terms of Service’ box and click ‘Let’s Get Started!’
 
