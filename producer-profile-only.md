@@ -22,28 +22,26 @@ Si vous travaillez déjà avec une boutique visible sur Open Food France, vous i
 
 2\) Veuillez sélectionner un [type de package](/hub-profile-types.md).
 
-#### **Your basic profile is now complete!**
+#### Votre compte est désormais prêt !
 
-**If you want to edit your profile, or add further detail you can**
+Si vous avez besoin de le modifier etou d'ajouter des détails, vous pouvez :
 
-3\) modify your [Enterprise Settings](/your-profile.md). It's a good idea to add your Properties here e.g. free range, organic.
+3\) modifier vos [Paramètres](/your-profile.md). C'est toujours un plus si vous pouvez indiquer vos méthodes de production \(BIO, élevage en plein air...\)
 
-#### Well done, you're set up!
+#### Bien joué, votre profil est désormais complété ;\)
 
-You will now have a space to tell the story of your enterprise and to help drive connections to your social and online presence.
+Si  **vous souhaitez qu'une boutique vende vos produits :**
 
-**If you want to supply a shop on OFN with your produce:**
+4\) [Ajoutez vos produits](/products.md).
 
-4\) [Add your product range](/products.md).
-
-5\) Grant the shop you want to supply with [permission to stock your products](/enterprise-to-enterprise-permissions-e2es.md).
+5\) Donnez l'autorisation à la boutique [permission de gérer vos produits](/enterprise-to-enterprise-permissions-e2es.md).
 
 ---
 
-## Advanced features that are helpful for producers with profiles.
+## Fonctionnalités avancées.
 
-* [Making your profile searchable by product category](/making-a-producer-profile-searchable-by-product-category.md)
+* [Rendre votre profil consultable par catégorie de produit ](/making-a-producer-profile-searchable-by-product-category.md)
 
-**Want to setup an online shop?    
-** Now that you have a profile on the OFN, with just a few more setup steps, you can open an online shop. See the [Producer Shop setup manual](/producer-set-up-guide.md). You've already completed step 1 when you created your profile, so start at step 2 and change your package.
+**Vous souhaitez ouvrir une boutique en ligne ?     
+**En quelques clics, vous pouvez ouvrir votre propre boutique en ligne. Pour ce point, consultez le [guide à ce lien](/producer-set-up-guide.md). Vous avez déjà réalisé l'étape 1, il vous suffit de vous rendre directement à l'étape deux et changer vos types de packages.
 
