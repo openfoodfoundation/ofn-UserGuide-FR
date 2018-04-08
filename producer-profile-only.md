@@ -1,26 +1,26 @@
-# Le profil producteur
+# Le producteur sans boutique
 
-## Qu'est-ce qu'un profil producteur ?
+## Qu'est-ce qu'un producteur sans boutique ?
 
-* Un profile vous permet un espace pour raconter votre histoire.
+* Ce profil est idéal si vous souhaitez vendre vos produits, mais pas gérer de boutique
 * Vous serez visible sur la carte Open Food France.
 * Vous serez visible sur la liste des producteurs.
-* Vous pouvez ajouter vos produits et à les relier à des boutiques existantes sur Open Food France.
-* If you ever want to run your own shop, you can add the shopfront functionality to your profile.
+* Vous pourrez ajouter vos produits et à les relier à des boutiques existantes sur Open Food France.
+* Si dans le futur, vous souhaitez gérer votre propre boutique, vous pourrez ajouter la fonctionnalité à votre profil \(voir chapitre suivant\)
 
-## What does it do?
+## Pourquoi s'inscrire sur Open Food France ?
 
-**Makes you visible**  
-When you have a profile on the Open Food Network, you become visible in your local food movement. You become contactable to customers who want to access your products. And you become reachable to other enterprises who may want to collaborate or distribute with you.
+**Augmenter votre visibilité**  
+Lorsque vous vous créez un compte sur la plateforme Open Food France, vous devez visible dans la communauté locale et francophone. Les consommateurs peuvent commander vos produits, vous pouvez vendre vos produits au travers de diverses boutiques \(avec lesquelles vous travaillez peut-être déjà\) et d'autres entreprises peuvent vous contacter pour des partenariats éventuels.
 
-**Lets you supply other shops**  
-If you want to supply a shop on the Open Food Network, you can create your profile, and then upload your product range. The shop you supply can then see your products and add them to their OFN online shopfront.
+**Accéder à plusieurs boutiques qui pourront vendre vos produits**  
+Si vous travaillez déjà avec une boutique visible sur Open Food France, vous inscrire vous permettra de gérer vos produits et de les rendre visible à cette boutique. Par la suite, vous pourrez également choisir de vendre vo produits au travers d'autres boutiques du réseau Open Food France.
 
-## Steps for setting up a Producer Profile
+## Comment se créer un compte producteur ?
 
-1\) [Register your profile](/create-an-account.md) on Open Food Network. This setup tool will ask for basic information about your enterprise to create your profile. You'll be prompted to confirm your email address.
+1\) [Créez votre compte](/create-an-account.md) on Open Food France. Cette étape vous demandera de renseigner des informations standards sur votre entreprise. Egalement un email vous sera envoyé afin que vous puissiez compléter votre adresse email.
 
-2\) Select the 'producer profile' [package type](/hub-profile-types.md).
+2\) Veuillez sélectionner un [type de package](/hub-profile-types.md).
 
 #### **Your basic profile is now complete!**
 
@@ -44,6 +44,6 @@ You will now have a space to tell the story of your enterprise and to help drive
 
 * [Making your profile searchable by product category](/making-a-producer-profile-searchable-by-product-category.md)
 
-**Want to setup an online shop?  
+**Want to setup an online shop?    
 ** Now that you have a profile on the OFN, with just a few more setup steps, you can open an online shop. See the [Producer Shop setup manual](/producer-set-up-guide.md). You've already completed step 1 when you created your profile, so start at step 2 and change your package.
 
