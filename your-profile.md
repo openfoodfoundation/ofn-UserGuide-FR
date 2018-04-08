@@ -1,13 +1,9 @@
-# Enterprise Settings
+# Paramètres
 
 Enterprise Setting is where you can manage details relating to your profile and/or shopfront.
 
-This video will show you how to access, edit and add information to your profile at any time. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bCxfNiLxwDk" frameborder="0" allowfullscreen></iframe>
-
-
-### Access your Enterprise Settings
+### Accéder aux paramètres
 1. Click on 'Enterprise' in the blue horizontal menu
 2. Click on 'Manage' next to your enterprise
 
