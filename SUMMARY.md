@@ -1,13 +1,13 @@
 # Summary
 
 * [Guide utilisateur Open Food France](README.md)
-* [Utilisateurs courants](model-specific-setup-instructions.md)
+* [Les différents profils utilisateurs](model-specific-setup-instructions.md)
   * [Le producteur sans boutique](producer-profile-only.md)
-  * [Le producteur avec boutique](producer-set-up-guide.md)
+  * [Le producteur avec une boutique \(uniquement ses produits\)](producer-set-up-guide.md)
+  * [Le producteur avec une boutique \(mais plusieurs sources\)](multi-farm-shop.md)
+  * [Un collectif de producteur avec une boutique](multi-farm-pre-orders.md)
   * [Le hub sans boutique](hub-profile-only.md)
   * [Le hub avec boutique](hubs-set-up-guide.md)
-  * [Multi-Producer Shop](multi-farm-shop.md)
-  * [Multi-Producer Pre-orders](multi-farm-pre-orders.md)
   * [Farmer's Market \(Group Page\)](farmers-market.md)
   * [Farmer's Market \(Shops\)](farmers-market-shops.md)
 * [Fonctionnalités standards](basic-features.md)
