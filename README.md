@@ -1,6 +1,6 @@
 # Guide utilisateur Open Food France
 
-Ce guide a pour objet de vous accompagner dans l'utilisation de la plateforme Open Food France.
+Ce guide a pour objet de vous accompagner dans l'utilisation de la plateforme Open Food France \(OFF\).
 
 ## Un guide personnalisé par profil utilisateur
 
