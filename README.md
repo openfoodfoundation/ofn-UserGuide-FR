@@ -13,7 +13,7 @@ Nous avons rédigé des [manuels d'utilisation](/model-specific-setup-instructio
   * [Micromarché](http://www.micromarche.fr/)
   * [Panier rusé](http://aupanierruse.initiative.place/)
   * [Aixtra bio](https://www.facebook.com/aixtrabio/?ref=page_internal)
-* **Aux producteurs revendeurs** : cette catégorie concerne les producteurs réalisant de la vente directe de leurs produits, mais également de produits issus d'autres producteurs. 
+* **Aux producteurs revendeurs** : cette catégorie concerne les producteurs réalisant de la vente directe de leurs produits, mais également de produits issus d'autres producteurs. Si votre profil correspond àcette description et que vous souhaitez disposer d'une boutique en ligne, rendez-vous sur la page [Le producteur revendeur avec une boutique](/multi-farm-shop.md "Le producteur revendeur avec une boutique")
 
 ## Rechercher
 

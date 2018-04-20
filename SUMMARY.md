@@ -4,7 +4,7 @@
 * [Les différents profils utilisateurs](model-specific-setup-instructions.md)
   * [Le producteur sans boutique](producer-profile-only.md)
   * [Le producteur avec une boutique \(vendant uniquement ses produits\)](producer-set-up-guide.md)
-  * [Le producteur avec une boutique \(vendant aussi les produits d'autres producteurs\)](multi-farm-shop.md)
+  * [Le producteur revendeur avec une boutique](multi-farm-shop.md)
   * [Un collectif de producteur avec une boutique](multi-farm-pre-orders.md)
   * [Le hub non producteur sans boutique en ligne](hub-profile-only.md)
   * [Le hub non producteur avec boutique en ligne](hubs-set-up-guide.md)
