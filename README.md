@@ -14,7 +14,11 @@ Nous avons rédigé des [manuels d'utilisation](/model-specific-setup-instructio
   * [Panier rusé](http://aupanierruse.initiative.place/)
   * [Aixtra bio](https://www.facebook.com/aixtrabio/?ref=page_internal)
 * **Aux producteurs revendeurs** : cette catégorie concerne les producteurs réalisant de la vente directe de leurs produits, mais également de produits issus d'autres producteurs. Si votre profil correspond à cette description et que vous souhaitez disposer d'une boutique en ligne, rendez-vous sur la page [Le producteur revendeur avec une boutique en ligne](/multi-farm-shop.md "Le producteur revendeur avec une boutique").  Au contraire, si vous souhaitez simplement être référencé sur OFF rendez-vous sur la rubrique [Le producteur sans boutique en ligne](/producer-profile-only.md). 
-* **Aux producteurs en vente directe** : sont ici concernés tous les producteurs vendant en direct leurs produits et leurs produits uniquement. Si votre profil correspond à cette description et que vous souhaitez avoir une boutique en ligne, consultez la rubrique [Le producteur en vente directe avec une boutique en ligne.](/producer-set-up-guide.md)
+* **Aux producteurs en vente directe** : sont ici concernés tous les producteurs vendant en direct leurs produits et leurs produits uniquement. Si votre profil correspond à cette description et que vous souhaitez avoir une boutique en ligne, consultez la rubrique [Le producteur en vente directe avec une boutique en ligne.](/producer-set-up-guide.md) Au contraire, si vous souhaitez simplement être référencé sur OFF rendez-vous sur la rubrique [Le producteur sans boutique en ligne](/producer-profile-only.md).
+* **Aux importateurs  / exportateurs en circuit-court** :
+* **Aux marchés** :
+* **Aux AMAPs** :
+* **Aux consommateurs** : 
 
 ## Rechercher
 
