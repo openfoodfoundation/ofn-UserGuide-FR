@@ -20,21 +20,23 @@ OFF donne de la visibilité aux producteurs en leur donnant de la reconnaissance
 
 %/accordion%
 
-%accordion%How is the OFN different to other online food delivery services?%accordion%
+%accordion%En quoi OFF est-elle différente des autres plateformes de vente de produits en circuit-courts ?%accordion%
 
-The OFN is not for profit and committed to building a better and fairer food system. Some online stores still source through conventional supply chains which are shrouded in mystery, but on the OFN you can always see where your food has come from.  The OFN is also contributing to something bigger. The code for the OFN software is free for others to use, so is contributing improving food systems all over the world.
+OFF est une association à but non lucratif dédiée à la création d'un meilleur système alimentaire. Les plateformes e-commerce classiques présentent souvent un service peu transparent : le consommateur ne sait pas d'où viennent les produits. D'autres services répondent déjà à ce besoin comme la Ruche Qui DIt Oui ! Notre principale différence réside dans la propriété du code source d'OFF : il est ouvert et maintenu afin que d'autres plateformes puissent se créer partout dans le monde. Enfin, OFF ne prend pas de commission sur les ventes réalisées sur son site.
 
 %/accordion%
 
-### Placing orders
+### Réaliser des commandes
 
-%accordion%What are order cycles?%accordion%
+%accordion%Qu'est-ce qu'un cycle de vente ?%accordion%
 
-Some shops operate their ordering and delivery in ‘order cycles’, as opposed to shops which are perpetually open and process orders on a one-by-one basis. Order cycles are a way for enterprises to process orders in bulk, which makes their business more efficient, so they can pass on savings to you \(think how inefficient it would be for a farmer to harvest a lettuce each time an order is placed\).
+Certaines boutiques fonctionnent grâce à un cycle de vente, par opposition avec d'autres qui sont ouvertes de manière continue et gère les commandes au cas par cas. Un cycle de vente permet aux entreprises de gérer les commandes par lots, ce qui facilite leur gestion \(imaginez un producteur devant produire des laitues à la demande uniquement :\) \).
 
-An order cycle starts with a period of time when the shop is open and accepts orders. Then it will close, and the shop will process \(harvest, pack and deliver\) all of the orders that were placed. This process will then repeat itself. A full order cycle might take 2 weeks \(e.g. the shop is open for 10 days, and then orders are harvested, packed and delivered in 4 days\). For customers, this can mean that you will place your order a few days to a week before your order is delivered. Once you get used to ordering in advance like this, and planning your shopping ahead, the system works well, and brings you the freshest goodies!
+Un cycle de vente démarre par une période durant laquelle la boutique est ouverte et accepte les commandes. Ensuite la boutique ferme et traite toutes les commandes qui ont été réalisées \(récolte, packaging et livraison\). Le processus peut ensuite se répéter.
 
-If you see that a shop is closed, just return back when their next order cycle is open to start shopping with them.
+Un cycle de vente complet peut prendre jusqu'à deux semaines \(de la commande à la livraison\). Cela signifie qu'il est possible d'être livré entre quelques jours et une semaine, une fois sa commande passée. 
+
+Si vous visualisez une boutique fermée, consultez les dates pour connaitre la prochaine réouverture !
 
 %/accordion%
 
