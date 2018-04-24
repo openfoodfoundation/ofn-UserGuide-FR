@@ -10,11 +10,11 @@ Pas exactement. OFF est un site internet qui permet aux entreprises respectant n
 
 %accordion%En quoi OFF est transparent ?%accordion%
 
-Pour la première fois, vous allez connaitre, pour tous vos achat l'allocation exacte du prix entre la part du producteur et celle du distributeur \(dans notre cas essentiellement des associations, épiceries, coopératives et collectifs de producteurs\). Les utilisateurs d'OFF s'engagent également à renseigner les caractéristiques des produits \(certification biologique, lieu de production...\).
+Pour la première fois, vous allez connaitre, pour tous vos achats l'allocation exacte du prix entre la part du producteur et celle du distributeur \(dans notre cas essentiellement des associations, épiceries, coopératives et collectifs de producteurs\). Les utilisateurs d'OFF s'engagent également à renseigner les caractéristiques des produits \(certification biologique, lieu de production...\).
 
 %/accordion%
 
-%accordion%En quoi faire ses achats sur OFF est bénéfique à l'environnement, aux producteurs ou à mon quartier ?%accordion%
+%accordion%En quoi acheter sur OFF est bénéfique à l'environnement, aux producteurs ou à mon quartier ?%accordion%
 
 OFF donne de la visibilité aux producteurs en leur donnant de la reconnaissance et un prix juste. Un système alimentaire indépendant des grandes multinationales et permettant les échanges directs avec les producteurs au sein de communautés locales permet à ces mêmes communautés de profiter des bénéfices et accentue les liens entre les membres. Faire ses courses localement a un impact environnemental réduit au travers des émissions liées au transport évitées, ainsi que via les produits consommés, respectants d'avantages les saisons.
 
