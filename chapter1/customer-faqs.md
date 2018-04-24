@@ -8,7 +8,7 @@ Pas exactement. OFF est un site internet qui permet aux entreprises respectant n
 
 %/accordion%
 
-%accordion%En quoi OFF est transparent ?%accordion%
+%accordion%En quoi OFF est transparente ?%accordion%
 
 Pour la première fois, vous allez connaitre, pour tous vos achats l'allocation exacte du prix entre la part du producteur et celle du distributeur \(dans notre cas essentiellement des associations, épiceries, coopératives et collectifs de producteurs\). Les utilisateurs d'OFF s'engagent également à renseigner les caractéristiques des produits \(certification biologique, lieu de production...\).
 
