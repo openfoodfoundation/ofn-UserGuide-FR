@@ -58,7 +58,7 @@
   * [Commandes](ordres.md)
     * [Create an Order](create-orders.md)
 * [FAQs](chapter1.md)
-  * [Customer FAQs](chapter1/customer-faqs.md)
-  * [Producer FAQs](chapter1/producer-faqs.md)
-  * [Hub FAQs](chapter1/hub-faqs.md)
+  * [Consommateur](chapter1/customer-faqs.md)
+  * [Producteur](chapter1/producer-faqs.md)
+  * [Hub](chapter1/hub-faqs.md)
 

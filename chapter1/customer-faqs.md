@@ -1,31 +1,31 @@
-# Customer FAQs
+# Vous êtes consommateur
 
-### About Open Food Network
-%accordion%Is the OFN a fruit and vegetable box delivery service?%accordion%
+### A propos d'Open Food France \(OFF\)
 
-Not exactly. The OFN itself is a website which provides an online directory and ecommerce software to food enterprises. All of the shops on the OFN are independently owned and operated and offer unique products and services to customers. While, some shops might offer mixed fruit and vegetable box deliveries, others might take custom orders, or ask that you collect your purchase from their farm, or market. To find details of how a specific shop operates and what products/services they offer, check out their profile. 
+%accordion%OFF livre-t-elle des paniers de fruits et légumes ?%accordion%
 
-%/accordion%
-
-%accordion%What are the OFN's transparency features?%accordion%
-
-Traditional grocery supply chains are shrouded in mystery, making it difficult for customers to know where their food is coming from, how it has been produced, and where their grocery dollar will end up. Transparency is central to the OFN, because we believe that visible supply chains are healthier than those which are hidden. On the OFN, customers can always see where their food has come from and what proportion of the price goes to the farmer.
-
-In an online shop, the  pricing pie chart will show you how the price is allocated between the producer and other players like the hub or retailer. You can also see the product properties \(such as certified organic, free range etc\) to know more about how the food was produced.
+Pas exactement. OFF est un site internet qui permet aux entreprises respectant notre charte d'avoir un site internet leur permettant de vendre leurs produits. Toutes les boutiques sur le site sont indépendantes et réalisent une activité unique. Certaines vont proposer des paniers, d'autres proposent des commandes à la demande, ou sur un marché. Pour connaitre avec précision le fonctionnement d'une boutique, consultez son profil !
 
 %/accordion%
 
-%accordion%How does shopping on the OFN bring benefits to farmers, the environment and my local community?%accordion%
+%accordion%En quoi OFF est transparent ?%accordion%
 
-The OFN makes producers visible again, giving them recognition and a fair price, for their hard work. A food system with more direct trading between farmers and local community enterprises \(instead of multinational corporations\) keeps food dollars in the community’s hands and builds ties and understanding. Shopping local also brings benefits to the environment through lower food miles and more seasonal consumption.
+Pour la première fois, vous allez connaitre, pour tous vos achat l'allocation exacte du prix entre la part du producteur et celle du distributeur \(dans notre cas essentiellement des associations, épiceries, coopératives et collectifs de producteurs\). Les utilisateurs d'OFF s'engagent également à renseigner les caractéristiques des produits \(certification biologique, lieu de production...\).
+
+%/accordion%
+
+%accordion%En quoi faire ses achats sur OFF est bénéfique à l'environnement, aux producteurs ou à mon quartier ?%accordion%
+
+OFF donne de la visibilité aux producteurs en leur donnant de la reconnaissance et un prix juste. Un système alimentaire indépendant des grandes multinationales et permettant les échanges directs avec les producteurs au sein de communautés locales permet à ces mêmes communautés de profiter des bénéfices et accentue les liens entre les membres. Faire ses courses localement a un impact environnemental réduit au travers des émissions liées au transport évitées, ainsi que via les produits consommés, respectants d'avantages les saisons.
 
 %/accordion%
 
 %accordion%How is the OFN different to other online food delivery services?%accordion%
 
-The OFN is not for profit and committed to building a better and fairer food system. Some online stores still source through conventional supply chains which are shrouded in mystery, but on the OFN you can always see where your food has come from.  The OFN is also contributing to something bigger. The code for the OFN software is free for others to use, so is contributing improving food systems all over the world. 
+The OFN is not for profit and committed to building a better and fairer food system. Some online stores still source through conventional supply chains which are shrouded in mystery, but on the OFN you can always see where your food has come from.  The OFN is also contributing to something bigger. The code for the OFN software is free for others to use, so is contributing improving food systems all over the world.
 
 %/accordion%
+
 ### Placing orders
 
 %accordion%What are order cycles?%accordion%
@@ -55,6 +55,7 @@ All online shops on the OFN are independently operated and have different paymen
 You can view your past orders by logging in at the homepage, clicking the cog in the top right hand corner and selecting Account. Here you will see a summary of your orders at each shop and be able to view details of each unique order.
 
 %/accordion%
+
 ### The best way to use OFN
 
 %accordion%How can customers make the OFN convenient to them%accordion%
@@ -70,6 +71,7 @@ Many of us who have grown used to shopping in supermarkets can find shopping at 
 The OFN shops are wonderfully diverse, which means that you’re sure to find one which suits your needs. You can use the OFN map feature on your local OFN site to find enterprises located near to you. Then, check out the profiles of shops to see if the product range and the payment and shipping methods meet your needs. Each shop has links to the profiles of supplying producers, so you can learn about where the food is coming from, and how it was produced. If production characteristics such as organic certification, or free range is important to you, you can choose see which products and shops meet these standards. The OFN is transparent in pricing as well, so you can see how your food dollar is distributed.
 
 %/accordion%
+
 ### Other
 
 %accordion%Is the OFN affordable?%accordion%
