@@ -34,59 +34,52 @@ Certaines boutiques fonctionnent grâce à un cycle de vente, par opposition ave
 
 Un cycle de vente démarre par une période durant laquelle la boutique est ouverte et accepte les commandes. Ensuite la boutique ferme et traite toutes les commandes qui ont été réalisées \(récolte, packaging et livraison\). Le processus peut ensuite se répéter.
 
-Un cycle de vente complet peut prendre jusqu'à deux semaines \(de la commande à la livraison\). Cela signifie qu'il est possible d'être livré entre quelques jours et une semaine, une fois sa commande passée. 
+Un cycle de vente complet peut prendre jusqu'à deux semaines \(de la commande à la livraison\). Cela signifie qu'il est possible d'être livré entre quelques jours et une semaine, une fois sa commande passée.
 
 Si vous visualisez une boutique fermée, consultez les dates pour connaitre la prochaine réouverture !
 
 %/accordion%
 
-%accordion%How are orders delivered?%accordion%
+%accordion%Comment sont livrées les commandes ?%accordion%
 
-All online shops on the ONF are independently operated and offer different shipping methods. Some shops offer more conventional shipping methods like home delivery, or postage. Others will have more creative ways for getting the food from the farmer to plate, such as collection from a central location \(like a school, farmer’s market or workplace\), collection from a neighbourhood grocer or butcher or distribution through a buying group \(group of customers\).
-
-%/accordion%
-
-%accordion%What are the payment options?%accordion%
-
-All online shops on the OFN are independently operated and have different payment methods available. Visit a shop to see what options are offered. Most shops with use a mixture of Paypal, EFTPOS, Pin Payments, banks transfer or cash on delivery.
+Chaque boutique est indépendante et gère elle-même les différents type de livraison qu'elle propose. Veuillez consulter le profil de la boutique qui vous intéresse pour en savoir plus.
 
 %/accordion%
 
-%accordion%Can I see a record of my past orders?%accordion%
+%accordion%Quelles méthodes de paiement sont disponibles ?%accordion%
 
-You can view your past orders by logging in at the homepage, clicking the cog in the top right hand corner and selecting Account. Here you will see a summary of your orders at each shop and be able to view details of each unique order.
-
-%/accordion%
-
-### The best way to use OFN
-
-%accordion%How can customers make the OFN convenient to them%accordion%
-
-The OFN hosts a diversity of different shops, offering different products and services. Check out the product ranges and shipping options of enterprises in your area- you’re bound to find one which fits with your budget, preferences and routine!
-
-Many of us who have grown used to shopping in supermarkets can find shopping at local markets, or shopping online a bit of an adjustment. But once you get into the swing of it and start enjoying all of the other benefits of buying through alternative, local food enterprises, you’ll soon find you don’t miss the weekly trip to the supermarket.
+Chaque boutique est indépendante et gère elle-même les différents type de méthode de paiement qu'elle propose.  Veuillez consulter le profil de la boutique qui vous intéresse pour en savoir plus.
 
 %/accordion%
 
-%accordion%All of the shops on the OFN are different, how do I know which one is right for me?%accordion%
+%accordion%Est-ce que je peux voir un historique des mes commandes passées ?%accordion%
 
-The OFN shops are wonderfully diverse, which means that you’re sure to find one which suits your needs. You can use the OFN map feature on your local OFN site to find enterprises located near to you. Then, check out the profiles of shops to see if the product range and the payment and shipping methods meet your needs. Each shop has links to the profiles of supplying producers, so you can learn about where the food is coming from, and how it was produced. If production characteristics such as organic certification, or free range is important to you, you can choose see which products and shops meet these standards. The OFN is transparent in pricing as well, so you can see how your food dollar is distributed.
-
-%/accordion%
-
-### Other
-
-%accordion%Is the OFN affordable?%accordion%
-
-The OFN strives to make good food accessible and affordable to all. By shortening supply chains and bringing transparency back to the table, customers can see where their food is coming from and know they’re getting value for money.
+En vous connectant à la plateforme \(en haut à droite sur la page d'accueil\), vous pouvez accéder à votre compte et ainsi consulter toutes vos commandes.
 
 %/accordion%
 
-%accordion%What are buying groups and how can I join or establish one?%accordion%
+### Autre
 
-A buying group is a collective of customers, who place a bulk order through a shop, then receive and distribute the order amongst members. This might take place in someone’s back shed, or local community space. Buying groups are often not for profit and run by members. By ordering in bulk, and taking on the task of packing and distributing individual orders, members of a buying group can access great produce at lower prices. Joining or starting a buying group with your neighbours or community group can be a great way to access affordable produce and also build  sense of community.
+%accordion%Toutes les boutiques sur OFF sont différentes. Comment connaitre celle qui me convient le mieux ?%accordion%
 
-If a shop delivers to a buying group, ask them about how you can join. Or if you want to start a new buying group, get in touch with a shop to see if it can be accommodated, and talk with your community to get others involved.
+Les boutiques OFF sont très diverses, cela signifie qu'il y en a forcément une qui correspond à vos besoins. Vous pouvez utilisez la carte pour découvrir les boutiques à côté de chez vous. Sur chaque profil de boutique, vous pouvez connaitre le type de produits vendus, les méthodes de paiement et de livraison, et surtout, connaitre les producteurs à l'origine des produits vendus \(quelles sont leurs méthodes de production, etc\). Les tarifs sont transparents : pour chaque boutique vous connaissez le montant reversé à la boutique et le montant reversé au producteur.
+
+%/accordion%
+
+%accordion%Les produits vendus sont-ils accessibles ?%accordion%
+
+Notre objectif est de rendre accessible les bons produits aux bons prix \(bons pour les producteurs, bons pour les consommateurs\). En réduisant les intermédiaires et en affichant une meilleure transparence, les consommateurs peuvent savoir d'où viennent les produits achetés et à quoi sert leur argent.
+
+%/accordion%
+
+%accordion%Qu'est-ce qu'un groupement d'achat et comment puis-je en créer un ou en rejoindre un ?%accordion%
+
+Un groupement d'achat est un collectif de consommateurs, réalisant leur commande en groupe au travers d'une boutique, puis redistribuent les commandes au sein des membres du groupe. Cela peut prendre forme dans le jardin d'une personne ou dans un espace communal. Les groupements d'achats sont généralement à but non lucratif et gérés par leurs propres membres.  
+En commandant par lot, et en internalisant certaines taches comme l'emballage et la disitribution, les membres sont assurés d'obtenir les produits à un prix plus bas qu'en vente directe individuelle. Créer un groupement d'achat peut être un bon moyen de souder un voisinage tout en donnant accès à de bons produits.
+
+Si une boutique livre un groupement d'achat, n'hésitez pas à les contacter directement pour connaitre leur conditions d'inscription.
+
+A l'inverse si vous êtes dans un processus de création d'un groupement d'achat, contactez les boutiques afin de savoir si elles peuvent vous livrer.
 
 %/accordion%
 
