@@ -44,7 +44,7 @@ Vous pouvez désormais [voir vos commandes](/view-orders.md), [observer des rapp
 
 ---
 
-## Les fonctionnalités avancées intéressantes pour les producteurs en vente directe avec boutique
+## Fonctionnalités avancées
 
 * [Intégrer](/embedded-shopfronts.md) votre boutique dans VOTRE site internet
 * [Fixer les prix de produits "irréguiliers" comme la viande](/pricing-irregular-indivisible-meat-items.md)

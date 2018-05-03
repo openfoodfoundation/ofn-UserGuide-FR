@@ -21,19 +21,19 @@ Les paramétrages de chaque boutique correspondront donc au profil du [producteu
 
 Avant de créer les profils additionnels, vous aurez besoin de nous contacter pour éviter que les mails ne partent tous en SPAM.
 
-**Le producteur revendeur créer les profils et les produits de tous les producteurs impliqués         
+**Le producteur revendeur créer les profils et les produits de tous les producteurs impliqués           
 **  
 1\) Une fois que la boutique du producteur revendeur est créée, il peut désormais créer un profil pour un autre producteur et ajouter ses produits. La modification des paramètres du profil est décrite [ici](/create-or-connect-with-your-supplying-producers.md).
 
 2\) Note also that the order cycle interface will be different when you stock items from others. The 'hub' version of the order cycle interface is explained [here](/order-cycles.md).
 
-**Supplying producers set up their profiles and add in their product range              
+**Supplying producers set up their profiles and add in their product range                
 **  
 Supplying producers can create a producer profile, according to the [producer profile setup manual](/producer-profile-only.md). At step 2 they should select to have a ‘producer profile’. They won’t need their own shopfront as they’ll be selling through the coordinating producer’s shopfront. Next they should follow steps 3-5. Finally they should grant the coordinating supplier permission to stock their products, instructions for doing this can be found [here](/enterprise-to-enterprise-permissions-e2es.md).
 
 ---
 
-## Advanced features that are helpful for Multi-Producer shops.
+## Fonctionnalités avancées
 
 [Enterprise Fees](/enterprise-fees.md)  
 Multi-Farm Shops may wish to use this tool to allocate fees and charges to parties who provide a service \(such as packing or delivery\) that the other parties benefit from.

@@ -38,10 +38,10 @@ Si  **vous souhaitez qu'une boutique vende vos produits :**
 
 ---
 
-## Fonctionnalités avancées.
+## Fonctionnalités avancées
 
 * [Rendre votre profil consultable par catégorie de produit ](/making-a-producer-profile-searchable-by-product-category.md)
 
-**Vous souhaitez ouvrir une boutique en ligne ?     
+**Vous souhaitez ouvrir une boutique en ligne ?       
 **En quelques clics, vous pouvez ouvrir votre propre boutique en ligne. Pour ce point, consultez le [guide à ce lien](/producer-set-up-guide.md). Vous avez déjà réalisé l'étape 1, il vous suffit de vous rendre directement à l'étape deux et changer vos types de packages.
 
