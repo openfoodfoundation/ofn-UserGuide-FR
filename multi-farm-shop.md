@@ -21,13 +21,13 @@ Les paramétrages de chaque boutique correspondront donc au profil du [producteu
 
 Avant de créer les profils additionnels, vous aurez besoin de nous contacter pour éviter que les mails ne partent tous en SPAM.
 
-**Le producteur revendeur créer les profils et les produits de tous les producteurs impliqués               
+**Le producteur revendeur créer les profils et les produits de tous les producteurs impliqués                 
 **  
 1\) Une fois que la boutique du producteur revendeur est créée, il peut désormais créer un profil pour un autre producteur et ajouter ses produits. La modification des paramètres du profil est décrite [ici](/create-or-connect-with-your-supplying-producers.md).
 
 2\) Attention l'interface de cycle de vente sera différente si vous stocker des produits de la part d'autres producteurs. La version "hub alimentaire" du cycle de vente est expliquée [ici](/order-cycles.md).
 
-**Les producteurs impliqués créent eux-même leur profil et produits                    
+**Les producteurs impliqués créent eux-même leur profil et produits                      
 **  
 Pour cela, il suffit de suivre les instructions à [cette page](/producer-profile-only.md). En effet, ils n'auront pas besoin de boutiques, dans la mesure où leurs vente se réaliseront exclusivement via la boutique du producteur revendeur. Il est cependant important qu'ils donnent accès au producteur revendeur, à leurs produits. Cette étape est décrite [ici](/enterprise-to-enterprise-permissions-e2es.md).
 
@@ -38,11 +38,11 @@ Pour cela, il suffit de suivre les instructions à [cette page](/producer-profil
 [Les frais](/enterprise-fees.md)  
 Les boutiques avec des sources variées peuvent être intéressées par une répartition des charges entre les différente parties qui proposent un service \(ex : la livraison ou l'emballage\), dont profite les autres parties.
 
-Multiple managers. 
+Multiple managers.
 
 Il est possible d'avoir plusieurs managers qui auront les accès d'administration de la boutique \(connexion, modification, lecture\). Les managers peuvent être ajoutés directement depuis le profil du producteur revendeur.
 
-[Les prix "irréguliers" \(pièce de viandes indivisible par exemple\).](/pricing-irregular-indivisible-meat-items.md) 
+[Les prix "irréguliers" \(pièce de viandes indivisible par exemple\).](/pricing-irregular-indivisible-meat-items.md)
 
 Cette page présente les stratégies pour fixer les prix des produits comme les poulets ou les potirons, vendu au kilo mais dont le poids varie.
 
@@ -52,5 +52,5 @@ Cette page présente les stratégies pour fixer les prix des produits comme les 
 
 [Réaliser une tarification personnalisée en fonction des clients.](/charging-different-prices-to-different-customers.md) Il est possible configurer une boutique afin d'appliquer une politique de prix différente en fonction de vos groupes de clients.
 
-[Réaliser des commandes manuelles ](/create-orders.md)pour les clients préférant utiliser les sms ou le téléphone.for customers who prefer to submit orders by text or over the phone.
+[Réaliser des commandes manuelles ](/create-orders.md)pour les clients préférant utiliser les sms ou le téléphone.
 
