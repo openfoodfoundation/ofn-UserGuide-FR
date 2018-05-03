@@ -21,6 +21,8 @@ Nous avons rédigé notre guide par [type de profil utilisateur](/model-specific
 * **Aux AMAPs** : Une AMAP est une Association pour le Maintien de l'Agriculture Paysanne. Vous pouvez consulter [la définition officielle ici](http://www.reseau-amap.org/amap.php). OFF ne gère pour l'instant par les abonnements en ligne, en revanche la fonctionnalité est actuellement en développement ! En attendant, les AMAPs peuvent utiliser OFF comme un [collectif de producteur avec une boutique](/multi-farm-pre-orders.md).
 * **Aux consommateurs** : En tant que consommateurs, pour trouvez les producteurs près de chez vous consultez [la carte](https://www.openfoodfrance.org/map) ou naviguez directement dans [nos boutiques en ligne](https://www.openfoodfrance.org/shops#/) !
 
+N.B. : Sachez qu'il est également possible d'ouvrir une boutique privée. Pour ce faire, rendez-vous sur [la page suivante](/private-shopfront.md).
+
 ## Rechercher
 
 N'hésitez pas à utiliser la fonctionnalité de recherche en haut à droite \("Search"\) pour rechercher des points spécifiques.
