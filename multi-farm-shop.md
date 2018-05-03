@@ -2,32 +2,32 @@
 
 ## Qu'est-ce qu'un producteur revendeur avec une boutique ?
 
-A multi-prodoucer shop is a shop which is run by a producer and stocks produce from other producers. In a way the shop is a 'hub' because it's aggregating produce from multiple sources, unlike a regular single producer shop.
+Un producteur revendeur est un producteur vendant ses produits, mais également les produits d'autres producteurs. Quelque part, il est proche de la notion de "hub alimentaire", dans la mesure où il agrège des produits de différentes sources, à l'inverse d'un producteur en vente directe.
 
-## What does it do?
+## Les atouts de ce profil
 
-**Offer more variety to your customers by stocking produce from others**  
-Producers selling direct can delight their customers by supplying a diversity of produce from other producers. Not only does this give customers access to a broader range of goodies, it can also grow your business. By collaborating with other producers you can also share the load of marketing, admin and distribution.
+**Offrir une diversité de produits plus grande**  
+En proposant des produits de diverses sources, vous augmentez la diversité des produits en vente dans votre boutique \(et par extension les ventes\). En collaborant avec d'autres producteurs, vous pouvez également mutualiser les frais et démarches marketing, administratives et l'organisation de la distribution.
 
-**Collaborate with ease**  
-OFN is designed to make it easy to network with others. Each producer can login and update their stock availability and prices as well as view orders and reports. And just because you are collaborating with others doesn't mean you can't also run your own individual shop.
+**Collaborer facilement**  
+OFF est créé pour faciliter le travail avec d'autres entreprises. Chaque producteur peut se connecter et mettre à jour leur stock et les prix liés à chacun de leur produit, mais aussi visualiser les commandes et les rapports de données. Par ailleurs, ce n'est pas parce que vous collaborer avec d'autres que vous ne pouvez pas en parallèle, avoir votre propre boutique !
 
-## Steps for setting up
+## Les étapes d'inscription
 
-**Background**  
-Multi-farm shops will usually be administered by a central producer who may have operated their own individual Producer Shop on the OFN previously, and then decided to expand their offering by linking up with other producers. They can do this by creation producer profiles for the additional producers and then adding their products into their shopfront. The level of involvement that the other supplying producers have can vary from simply supplying produce, to taking a more active role in administering the shopfront by maintaining their products and profile.
+**Préambule**  
+Les boutiques géré par un producteur revendeur seront administrées générallement par un producteur qui pouvait avoir sa propre boutique sur OFF précédemment, et avoir décidé par la suite d'étendre son activité à la vente d'autres produits que les siens. Cette opération est possible en créant un profil pour chacun des producteurs partenaires et en ajoutant leurs produits dans chacune de leurs boutiques. Les producteurs partenaires peuvent le faire eux-même directement ou bien choisir de ne pas se servir de l'outil et déléguer l'utilisation au producteur revendeur.
 
-The central  managing producer of a multi-farm shop can setup the shop according to the [producer shop setup manual](/producer-set-up-guide.md).  At step 2, choose the third option, ‘Hub Shop’. This shop will be the Multi-Farm Shopfront. After the coordinating producer has worked through the set-up manual for just their profile and products, they can create profiles for their additional suppliers, and to add their products into the system.
+Les paramétrages de chaque boutique correspondront donc au profil du [producteur en vente directe avec une boutique](/producer-set-up-guide.md). A la deuxième étape, choisissez la deuxième option "[Collectif de producteurs](/multi-farm-pre-orders.md)".
 
-Before creating the additional profiles, you’ll need to email us to request permission to create more than one profile \(this is a spam prevention measure\). The coordinating producer may setup the profile and products for everyone, or the other producers may wish to do this themselves. The two options are described below
+Avant de créer les profils additionnels, vous aurez besoin de nous contacter pour éviter que les mails ne partent tous en SPAM.
 
-**Coordinating producer sets up profiles and products for supplying producers        
+**Le producteur revendeur créer les profils et les produits de tous les producteurs impliqués         
 **  
-1\) After the coordinating producer has setup their own shopfront, it is then simple to create a profile for another producer, add their products and then start selling these items in their online shop. Instructions for setting up profiles for others is covered [here](/create-or-connect-with-your-supplying-producers.md).
+1\) Une fois que la boutique du producteur revendeur est créée, il peut désormais créer un profil pour un autre producteur et ajouter ses produits. La modification des paramètres du profil est décrite [ici](/create-or-connect-with-your-supplying-producers.md).
 
 2\) Note also that the order cycle interface will be different when you stock items from others. The 'hub' version of the order cycle interface is explained [here](/order-cycles.md).
 
-**Supplying producers set up their profiles and add in their product range        
+**Supplying producers set up their profiles and add in their product range              
 **  
 Supplying producers can create a producer profile, according to the [producer profile setup manual](/producer-profile-only.md). At step 2 they should select to have a ‘producer profile’. They won’t need their own shopfront as they’ll be selling through the coordinating producer’s shopfront. Next they should follow steps 3-5. Finally they should grant the coordinating supplier permission to stock their products, instructions for doing this can be found [here](/enterprise-to-enterprise-permissions-e2es.md).
 
