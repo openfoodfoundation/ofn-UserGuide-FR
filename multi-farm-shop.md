@@ -21,32 +21,36 @@ Les paramétrages de chaque boutique correspondront donc au profil du [producteu
 
 Avant de créer les profils additionnels, vous aurez besoin de nous contacter pour éviter que les mails ne partent tous en SPAM.
 
-**Le producteur revendeur créer les profils et les produits de tous les producteurs impliqués             
+**Le producteur revendeur créer les profils et les produits de tous les producteurs impliqués               
 **  
 1\) Une fois que la boutique du producteur revendeur est créée, il peut désormais créer un profil pour un autre producteur et ajouter ses produits. La modification des paramètres du profil est décrite [ici](/create-or-connect-with-your-supplying-producers.md).
 
 2\) Attention l'interface de cycle de vente sera différente si vous stocker des produits de la part d'autres producteurs. La version "hub alimentaire" du cycle de vente est expliquée [ici](/order-cycles.md).
 
-**Les producteurs impliqués créent eux-même leur profil et produits                  
+**Les producteurs impliqués créent eux-même leur profil et produits                    
 **  
-Supplying producers can create a producer profile, according to the [producer profile setup manual](/producer-profile-only.md). At step 2 they should select to have a ‘producer profile’. They won’t need their own shopfront as they’ll be selling through the coordinating producer’s shopfront. Next they should follow steps 3-5. Finally they should grant the coordinating supplier permission to stock their products, instructions for doing this can be found [here](/enterprise-to-enterprise-permissions-e2es.md).
+Pour cela, il suffit de suivre les instructions à [cette page](/producer-profile-only.md). En effet, ils n'auront pas besoin de boutiques, dans la mesure où leurs vente se réaliseront exclusivement via la boutique du producteur revendeur. Il est cependant important qu'ils donnent accès au producteur revendeur, à leurs produits. Cette étape est décrite [ici](/enterprise-to-enterprise-permissions-e2es.md).
 
 ---
 
 ## Fonctionnalités avancées
 
-[Enterprise Fees](/enterprise-fees.md)  
-Multi-Farm Shops may wish to use this tool to allocate fees and charges to parties who provide a service \(such as packing or delivery\) that the other parties benefit from.
+[Les frais](/enterprise-fees.md)  
+Les boutiques avec des sources variées peuvent être intéressées par une répartition des charges entre les différente parties qui proposent un service \(ex : la livraison ou l'emballage\), dont profite les autres parties.
 
-Multiple managers. A Multi-farm shop might wish to have multiple managers who are able to login and edit the shop. This can be done by adding managers to the central producer’s profile.
+Multiple managers. 
 
-[Pricing irregular, indivisible meat items.](/pricing-irregular-indivisible-meat-items.md) This page offers some strategies for pricing items like chickens or pumpkins, which are charged by the kg but which have an irregular weight.
+Il est possible d'avoir plusieurs managers qui auront les accès d'administration de la boutique \(connexion, modification, lecture\). Les managers peuvent être ajoutés directement depuis le profil du producteur revendeur.
 
-[Apply tags](/customer-accounts-and-tagging.md) to your customers and customise their shopping experience with tag rules. This can make it possible to restrict certain products and certain shipping or payment methods to particular customers, which becomes especially helpful if you have retail and wholesale customers.
+[Les prix "irréguliers" \(pièce de viandes indivisible par exemple\).](/pricing-irregular-indivisible-meat-items.md) 
 
-[Make your shopfront private.](/private-shopfront.md) If you prefer to check the suitability of customers before they can order through your shop, you can make your shopfront require login.
+Cette page présente les stratégies pour fixer les prix des produits comme les poulets ou les potirons, vendu au kilo mais dont le poids varie.
 
-[Charge different prices to different customers.](/charging-different-prices-to-different-customers.md) There are a number of ways to configure a shop so that you charge different prices to different customers, such as your rural customers and your metropolitan customers.
+[Apliquer des tags](/customer-accounts-and-tagging.md) à vos clients et personaliser leur interaction avec le site durant leur shopping. Il est par exemple possible de ne pas afficher certains produits ou certaines méthodes de paiements à certains consommateurs, ce qui peut être utile si vous avez en client des distributeurs ou des acheteurs en gros.
 
-[Place orders manually ](/create-orders.md)for customers who prefer to submit orders by text or over the phone.
+[Rendre votre boutique privée.](/private-shopfront.md) Si vous souhaitez vérifier le fonctionnement de votre boutique avec un nombre de clients restreints, vous pouvez également rendre votre boutique privée en la protégeant par un mot de passe.
+
+[Réaliser une tarification personnalisée en fonction des clients.](/charging-different-prices-to-different-customers.md) Il est possible configurer une boutique afin d'appliquer une politique de prix différente en fonction de vos groupes de clients.
+
+[Réaliser des commandes manuelles ](/create-orders.md)pour les clients préférant utiliser les sms ou le téléphone.for customers who prefer to submit orders by text or over the phone.
 
