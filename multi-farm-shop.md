@@ -1,6 +1,6 @@
-# Multi-Producer Shop – OFN Setup Proc
+# Le producteur revendeur avec une boutique
 
-## \# Qu'est ce qu'un producteur avec un boutique
+## Qu'est-ce qu'un producteur revendeur avec une boutique ?
 
 A multi-prodoucer shop is a shop which is run by a producer and stocks produce from other producers. In a way the shop is a 'hub' because it's aggregating produce from multiple sources, unlike a regular single producer shop.
 
@@ -21,15 +21,17 @@ The central  managing producer of a multi-farm shop can setup the shop according
 
 Before creating the additional profiles, you’ll need to email us to request permission to create more than one profile \(this is a spam prevention measure\). The coordinating producer may setup the profile and products for everyone, or the other producers may wish to do this themselves. The two options are described below
 
-**Coordinating producer sets up profiles and products for supplying producers  
+**Coordinating producer sets up profiles and products for supplying producers        
 **  
 1\) After the coordinating producer has setup their own shopfront, it is then simple to create a profile for another producer, add their products and then start selling these items in their online shop. Instructions for setting up profiles for others is covered [here](/create-or-connect-with-your-supplying-producers.md).
 
 2\) Note also that the order cycle interface will be different when you stock items from others. The 'hub' version of the order cycle interface is explained [here](/order-cycles.md).
 
-**Supplying producers set up their profiles and add in their product range  
+**Supplying producers set up their profiles and add in their product range        
 **  
 Supplying producers can create a producer profile, according to the [producer profile setup manual](/producer-profile-only.md). At step 2 they should select to have a ‘producer profile’. They won’t need their own shopfront as they’ll be selling through the coordinating producer’s shopfront. Next they should follow steps 3-5. Finally they should grant the coordinating supplier permission to stock their products, instructions for doing this can be found [here](/enterprise-to-enterprise-permissions-e2es.md).
+
+---
 
 ## Advanced features that are helpful for Multi-Producer shops.
 
