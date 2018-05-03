@@ -15,15 +15,15 @@ Nous avons rédigé des [manuels d'utilisation](/model-specific-setup-instructio
   * [Aixtra bio](https://www.facebook.com/aixtrabio/?ref=page_internal)
 * **Aux producteurs revendeurs** : cette catégorie concerne les producteurs réalisant de la vente directe de leurs produits, mais également de produits issus d'autres producteurs. Si votre profil correspond à cette description et que vous souhaitez disposer d'une boutique en ligne, rendez-vous sur la page [Le producteur revendeur avec une boutique en ligne](/multi-farm-shop.md "Le producteur revendeur avec une boutique").  Au contraire, si vous souhaitez simplement être référencé sur OFF rendez-vous sur la rubrique [Le producteur sans boutique en ligne](/producer-profile-only.md). 
 * **Aux producteurs en vente directe** : sont ici concernés tous les producteurs vendant en direct leurs produits et leurs produits uniquement. Si votre profil correspond à cette description et que vous souhaitez avoir une boutique en ligne, consultez la rubrique [Le producteur en vente directe avec une boutique en ligne.](/producer-set-up-guide.md) Au contraire, si vous souhaitez simplement être référencé sur OFF rendez-vous sur la rubrique [Le producteur sans boutique en ligne](/producer-profile-only.md).
-* **Aux importateurs  / exportateurs en circuit-court** : sont ici concernés les importateurs gérant à la fois des hubs sans et avec boutique, ainsi que des producteurs en direct. Un exemple d'importateur utilisant OFF :
+* **Aux importateurs  / exportateurs en circuit-court** : sont ici concernés les importateurs gérant à la fois des hubs sans et avec boutique, ainsi que des producteurs en direct, mais aussi des AMAPs. Un exemple d'importateur utilisant OFF :
   * [SUTEAU BIOSOL](https://www.infoempresa.com/fr-fr/es/entreprise/suteau-biosol-sl)
-* **Aux marchés** :
-* **Aux AMAPs** :
-* **Aux consommateurs** : 
+* **Aux marchés** : vous organisez un marché physique en France ? Vous pouvez utiliser OFF pour représenter virtuellement ce marché en ligne, afin que vos futurs clients puissent pré-commander leurs articles en ligne ou simplement avoir un site. Consultez pour cela les pages [Le marché virtuel sans boutique](/farmers-market.md) et [Le marché virtuel avec boutique.](/farmers-market-shops.md)
+* **Aux AMAPs** : Une AMAP est une Association pour le Maintien de l'Agriculture Paysanne. Vous pouvez consulter [la définition officielle ici](http://www.reseau-amap.org/amap.php). OFF ne gère pour l'instant par les abonnements en ligne, en revanche la fonctionnalité est actuellement en développement ! En attendant, les AMAPs peuvent utiliser OFF comme un [collectif de producteur avec une boutique](/multi-farm-pre-orders.md).
+* **Aux consommateurs** : En tant que consommateurs, pour trouvez les producteurs près de chez vous consultez [la carte](https://www.openfoodfrance.org/map) ou naviguez directement dans [nos boutiques en ligne](https://www.openfoodfrance.org/shops#/) !
 
 ## Rechercher
 
-N'hésitez pas à utiliser la fonctionnalité de recherche en haut à gauche \("Type to search"\) pour rechercher des points spécifiques.
+N'hésitez pas à utiliser la fonctionnalité de recherche en haut à droite \("Search"\) pour rechercher des points spécifiques.
 
 ## FAQs
 
