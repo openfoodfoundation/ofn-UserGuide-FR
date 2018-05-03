@@ -21,13 +21,13 @@ Les paramétrages de chaque boutique correspondront donc au profil du [producteu
 
 Avant de créer les profils additionnels, vous aurez besoin de nous contacter pour éviter que les mails ne partent tous en SPAM.
 
-**Le producteur revendeur créer les profils et les produits de tous les producteurs impliqués           
+**Le producteur revendeur créer les profils et les produits de tous les producteurs impliqués             
 **  
 1\) Une fois que la boutique du producteur revendeur est créée, il peut désormais créer un profil pour un autre producteur et ajouter ses produits. La modification des paramètres du profil est décrite [ici](/create-or-connect-with-your-supplying-producers.md).
 
-2\) Note also that the order cycle interface will be different when you stock items from others. The 'hub' version of the order cycle interface is explained [here](/order-cycles.md).
+2\) Attention l'interface de cycle de vente sera différente si vous stocker des produits de la part d'autres producteurs. La version "hub alimentaire" du cycle de vente est expliquée [ici](/order-cycles.md).
 
-**Supplying producers set up their profiles and add in their product range                
+**Les producteurs impliqués créent eux-même leur profil et produits                  
 **  
 Supplying producers can create a producer profile, according to the [producer profile setup manual](/producer-profile-only.md). At step 2 they should select to have a ‘producer profile’. They won’t need their own shopfront as they’ll be selling through the coordinating producer’s shopfront. Next they should follow steps 3-5. Finally they should grant the coordinating supplier permission to stock their products, instructions for doing this can be found [here](/enterprise-to-enterprise-permissions-e2es.md).
 
