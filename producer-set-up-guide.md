@@ -20,35 +20,35 @@ Open Food France \(OFF\) est un réseau : vous pouvez vous connecter à d'autres
 **Vous rendre visible**  
 La première étape avant de créer votre boutique en ligne, c'est la création de votre profil. En ayant un profil sur OFF, vous devez visible pour votre communauté locale. Les consommateurs peuvent vous contacter, et il en va de même pour toutes les autres entreprises présentes dans le réseau et souhaitant collaborer avec vous ou distribuer vos produits.
 
-## Steps for setting up a Producer Shop
+## Les étapes pour créer une boutique en ligne
 
-1\) [Register your profile](/create-an-account.md) on Open Food Network. This setup tool will ask for basic information about your enterprise to create your profile. You'll be prompted to confirm your email address.
+1\) [Créez votre profil](/create-an-account.md) sur Open Food France \(OFF\). Pour cette étape, il est nécessaire d'avoir vos coordonnées et un accès à votre boite mail à proximité afin de valider votre adresse.
 
-2\) Select the 'producer shop' [package type](/hub-profile-types.md).
+2\) Sélectionnez le producteur en vente directe avec une boutique dans les [types de package](/hub-profile-types.md).
 
-3\) If you want to edit your profile, or add further detail you can modify your [Enterprise Settings](/your-profile.md). Here you can also set your properties, chose whether your shop is open to the public or private and write a shopfront message.
+3\) Si vous souhaitez modifier votre profil, ou ajouter des détails vous pouvez modifier vos [Paramètres](/your-profile.md). A cet endroit, vous pouvez également choisir vos préférences, notamment si votre boutique est privée ou publique, mais aussi écrire un texte de bienvenue.
 
-4\) Define and setup your [shipping methods](/shipping-methods.md).
+4\) Définissez et paramétrez vos [méthodes de livraison](/shipping-methods.md).
 
-5\) Define and [setup your payment methods](/payment-methods.md).
+5\) Définissez et paramétrez vos [méthodes de paiement](/payment-methods.md).
 
-6\) [Add your product range](/products.md).
+6\) [Ajoutez vos produits](/products.md).
 
-#### **Open your shop!**
+#### Ouvrez votre boutique !
 
-7\) [Open your shop by opening an order cycle](/order-cycles-adv.md). When you create an Order Cycle  you set the time when you want your shop to open as well as when it will close. This process will then repeat itself. We call this an order cycle. Each time an order cycle is created, you can select which products to stock in the store.
+7\) [Ouvrez votre boutique en ouvrant un nouveau cycle de vente](/order-cycles-adv.md). En créant le cycle de vente, vous allez pouvoir définir à quel moment votre boutique est ouverte et à quel moment elle ferme. Ce processus va ensutie ce répéter. C'est ce que nous appelons un cycle de vente. A chaque fois qu'un cycle de vente est créé, vous avez la possibilité de choisir les produits en stock.
 
-#### **Great! You're open and ready to sell!**
+#### Hourra ! Vous êtes prêts à vendre !
 
-You can now [view your orders](/view-orders.md), [get detailed reports](/reports.md) and explore the advanced features to tailor your shop to your needs.
+Vous pouvez désormais [voir vos commandes](/view-orders.md), [observer des rapports détaillés](/reports.md) et explorer des fonctionnalités avancées afin de réaliser votre boutique sur mesure.
 
 ---
 
-## Advanced features that are helpful for producers with shops.
+## Les fonctionnalités avancées intéressantes pour les producteurs en vente directe avec boutique
 
-* [Embedding your shop](/embedded-shopfronts.md) into your own website.
-* [Pricing irregular items such as meat](/pricing-irregular-indivisible-meat-items.md)
-* [Opening more than one order cycle](/opening-more-than-one-order-cycle.md).
+* [Intégrer](/embedded-shopfronts.md) votre boutique dans VOTRE site internet
+* [Fixer les prix de produits "irréguiliers" comme la viande](/pricing-irregular-indivisible-meat-items.md)
+* [Ouvrir plusieurs cycles de ventre simultanés](/opening-more-than-one-order-cycle.md).
 
 
 
