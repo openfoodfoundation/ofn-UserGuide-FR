@@ -1,24 +1,24 @@
-# Producer Shop
+# Le producteur en vente directe avec une boutique
 
-## What is a producer shop?
+## Qu'est-ce qu'un producteur en vente directe avec une boutique ?
 
-* A producer shop lets you sell your produce through your own online shop
-* When you have a shop, you also have a profile, which gives you a place to tell your story.
-* You'll be visible on the OFN map and the producer directory.
+* Ce profil vous permet de vous créer votre propre boutique en ligne afin de vendre vos produits
+* Lorsque vous créez votre boutique, vous avez égaement un profil en ligne, ce qui vous permet de raconter votre histoire
+* Avec ce profil, vous serez automatiquement visibles sur la carte OFF et sur le listing des producteurs
 
-## What does it do?
+## Les atouts de ce profil
 
-**Sell your food your way**  
-A producer shop includes all the functions you need to sell your produce direct to customers online. You can add your products to your shop, and sell them how you like. You can chose the ordering routine. You choose how the food is distributed. You choose how customer pay.
+**Vendre vos produits à votre manière**  
+Une boutique en ligne inclue toutes les fonctionnalités vous permettant de vendre vos produits en ligne, en direct à vos clients. Vous pouvez ajouter des produits à votre boutique, et les vendre au format à votre guise. Vous choisissez le processus de commande, le processus de livraison et les méthodes de paiement. Vous êtes le maître à bord !
 
-**Streamline your admin tasks**  
-As well as a customer friendly checkout experience, your shop has all the behind the scenes administration tools to save you time, such as tracking orders, payments and inventory.
+**Administration**  
+Pour faciliter votre gestion au jour-le-jour, l'interface d'administration vous permet de suivre les commandes et d'accéder à un historique des commandes et des paiements.
 
-**Collaborate with others**  
-The OFN is a network, so you are able to connect with other shops. This way you can stock your products in your own independent store, as well as supplying other shops on OFN.
+**Collaborer avec d'autres membres**  
+Open Food France \(OFF\) est un réseau : vous pouvez vous connecter à d'autres boutiques. Ainsi vous stocker vos produits dans votre propre boutique en ligne, mais vous pouvez également fournir les autres boutiques d'OFF.
 
-**Makes you visible**  
-The first step to creating your online shop is to create your profile. When you have a profile on the Open Food Network, you become visible in your local food movement. You become contactable to customers who want to access your products. And you become reachable to other enterprises who may want to collaborate or distribute with you.
+**Vous rendre visible**  
+La première étape avant de créer votre boutique en ligne, c'est la création de votre profil. En ayant un profil sur OFF, vous devez visible pour votre communauté locale. Les consommateurs peuvent vous contacter, et il en va de même pour toutes les autres entreprises présentes dans le réseau et souhaitant collaborer avec vous ou distribuer vos produits.
 
 ## Steps for setting up a Producer Shop
 

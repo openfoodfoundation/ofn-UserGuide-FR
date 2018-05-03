@@ -5,7 +5,7 @@
   * [Le producteur sans boutique](producer-profile-only.md)
   * [Le producteur en vente directe avec une boutique](producer-set-up-guide.md)
   * [Le producteur revendeur avec une boutique](multi-farm-shop.md)
-  * [Le collectif de producteur avec une boutique](multi-farm-pre-orders.md)
+  * [Le collectif de producteurs avec une boutique](multi-farm-pre-orders.md)
   * [Le hub non producteur sans boutique en ligne](hub-profile-only.md)
   * [Le hub non producteur avec boutique en ligne](hubs-set-up-guide.md)
   * [Le marché virtuel sans boutique](farmers-market.md)
