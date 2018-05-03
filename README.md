@@ -4,7 +4,7 @@ Ce guide a pour objet de vous accompagner dans l'utilisation de la plateforme Op
 
 ## Un guide personnalisé par profil utilisateur
 
-Nous avons rédigé des [manuels d'utilisation](/model-specific-setup-instructions.md) par type de profil utilisateur. En effet, en fonction de votre profil d'utilisation, les étapes d'installation différent. Pensez à sélectionner le bon ! Vous ne savez pas à quel profil vous correspondez ? Consultez le paragraphe suivant.
+Nous avons rédigé notre guide par [type de profil utilisateur](/model-specific-setup-instructions.md). En effet, en fonction de votre profil d'utilisation, les étapes d'installation différent. Pensez à sélectionner le bon ! Vous ne savez pas à quel profil vous correspondez ? Consultez le paragraphe suivant.
 
 ## A qui s'adresse Open Food France ?
 
