@@ -2,42 +2,42 @@
 
 ## A quoi correspond ce profil ?
 
-Hub shops can take many different forms, but at their essence, they are an online shop which stocks products from multiple source-identified supplying producers. With a hub shop customers can see profiles of the producers who grew/raised/baked their food.
+Les hubs peuvent prendre différentes formes, mais avant tout, il s'agit de boutique en ligne présentant des produits de différents producteurs. Les consommateurs ont accès à chaque profil des producteurs fournissant le hub.
 
 ## Les atouts
 
-**A shopping experience customers will enjoy**  
-With a hub shop customers can see profiles of the producers who grew/raised/baked their food, giving them a virtual farmer's market experience.
+**Intéressant pour le consommateur**  
+Le consommateur peut accéder à chacun des profils des producteurs livrant des produits au hub. La gestion du hub est transparente pour lui et il a accès à une grande diversité de produits au sein d'une même boutique.
 
-**Streamline your admin tasks**  
-Unlike taking orders with emails, texts or phone messages, taking orders online is simple and time saving. Use OFN's reports to understand your stock levels, your sales, your orders and your packing sheets, all at a glance.
+**Administration**  
+Pour faciliter votre gestion au jour-le-jour, l'interface d'administration vous permet de suivre les commandes et d'accéder à un historique des commandes et des paiements.
 
-**Take orders periodically**  
-You can choose when your shop opens and closes, and run your shop in cycles.
+**Gestion des commandes périodiques**  
+Vous décidez des périodes d'ouvertures de votre boutique et vous gérez vos cycle de vente.
 
-**Involve your suppliers**  
-Your suppliers can login directly to OFN to update their product availability and prices, minimising some administration tasks for you.
+**Implique vos fournisseurs**  
+Vos fournisseurs peuvent se connecter directement à OFF et mettre à jour leurs stocks et leurs prix, vous permettant de gagner du temps.
 
-**Be flexible**  
-Our software is designed to be flexible and to accommodate business models of all different shapes and forms. You can use our flexibility to experiment with new ways of doing things. If you want to experiment supplying to hospitality customers, you can setup 'hospitality only' shops. Want to experiment with a new delivery location, add a drop-off point. Want to experiment with adding a second delivery date, you can do that.
+**Vous rend flexible**  
+L'avantage d'une plateforme en ligne, c'est que vous pouvez tester à tout moment de nouvelles fonctionnalités, ou encore changer en dernière minute les paramétrages, en ajoutant une nouvelle date de livraison par exemple.
 
 ## Les étapes de création du profil
 
-1\) [Register your profile](/create-an-account.md) on Open Food Network. This setup tool will ask for basic information about your enterprise to create your profile. You'll be prompted to confirm your email address.
+1\) [Créez votre profil](/create-an-account.md) sur Open Food France \(OFF\). Pour cette étape, il est nécessaire d'avoir vos coordonnées et un accès à votre boite mail à proximité afin de valider votre adresse.
 
-2\) Select the 'hub shop' [package type](/hub-profile-types.md).
+2\) Sélectionnez le 'hub non producteur avec boutique en ligne' dans les [types de package](/hub-profile-types.md).
 
-3\) If you want to edit your profile, or add further detail you can modify your [Enterprise Settings](/your-profile.md). Here you can also chose whether your shop is open to the public or private and write a shopfront message.
+3\) Si vous souhaitez modifier votre profil, ou ajouter plus de détails vous pouvez modifier vos [Paramètres](/your-profile.md). A cet endroit, vous pouvez également choisir vos préférences, notamment si votre boutique est privée ou publique, mais aussi écrire un texte de bienvenue.
 
-4\) Define and setup your [shipping methods](/shipping-methods.md).
+4\) Définissez et paramétrez vos [méthodes de livraison](/shipping-methods.md).
 
-5\) Define and [setup your payment methods](/payment-methods.md).
+5\) Définissez et paramétrez vos [méthodes de paiement](/payment-methods.md).
 
-6\) Define any [enterprise fees](/enterprise-fees.md) you want to apply in your shop.
+6\) Définissez les [frais](/enterprise-fees.md) que vous souhaitez appliquer à votre boutique.
 
-7\) [Create profiles for, or connect with your supplying producers](/create-or-connect-with-your-supplying-producers.md). You need to do this before you can add your product range.
+7\) [Créer ou connecter vos producteurs](/create-or-connect-with-your-supplying-producers.md). Vous devez réaliser cette étape avant de pouvoir ajouter vos produits.
 
-8\) Manage your products
+8\) Gérer vos produits
 
 The following instructions for managing products are broken down according to what you setup in step 7 above, either a\) created a profile for your supplying producer; or b\) connected with a pre-existing supplying producer profile.
 
@@ -49,12 +49,12 @@ If your supplying producer already had a profile, you may or may not need to add
 
 If your supplying producer has a profile, but hasn’t added their product range, you’ll need to first get their permission to manage their products and stock them in your shop. Then, you can [add their proudcts](/products.md).
 
-**Once you've setup your shipping and payment methods, and added your products, you can open your shopfront      
+**Once you've setup your shipping and payment methods, and added your products, you can open your shopfront                  
 **
 
 8\) [Open your shop by opening an order cycle](/order-cycles-adv.md).
 
-**Once you've received orders in your shop, you can see orders and use the reports.        
+**Once you've received orders in your shop, you can see orders and use the reports.                    
 **  
 9\) [View and edit orders](/view-orders.md).
 
@@ -64,9 +64,9 @@ If your supplying producer has a profile, but hasn’t added their product range
 
 ## Fonctionnalités avancées
 
-* [Embedding your shop](/embedded-shopfronts.md) into your own website.
-* [Pricing irregular items such as meat](/pricing-irregular-indivisible-meat-items.md)
-* [Opening more than one order cycle](/opening-more-than-one-order-cycle.md).
+* [Intégrer](/embedded-shopfronts.md) votre boutique dans VOTRE site internet
+* [Fixer les prix de produits "irréguliers" comme la viande](/pricing-irregular-indivisible-meat-items.md)
+* [Ouvrir plusieurs cycles de ventre simultanés](/opening-more-than-one-order-cycle.md).
 
 
 

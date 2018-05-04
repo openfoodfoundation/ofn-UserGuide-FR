@@ -47,7 +47,7 @@ Vous pouvez désormais [voir vos commandes](/view-orders.md), [observer des rapp
 ## Fonctionnalités avancées
 
 * [Intégrer](/embedded-shopfronts.md) votre boutique dans VOTRE site internet
-* [Fixer les prix de produits "irréguiliers" comme la viande](/pricing-irregular-indivisible-meat-items.md)
+* [Fixer les prix de produits "irréguliers" comme la viande](/pricing-irregular-indivisible-meat-items.md)
 * [Ouvrir plusieurs cycles de ventre simultanés](/opening-more-than-one-order-cycle.md).
 
 

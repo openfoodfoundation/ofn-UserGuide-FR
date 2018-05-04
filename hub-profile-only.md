@@ -13,9 +13,9 @@ Lors que vous disposez d'un profil sur Open Food France \(OFF\), vous devenez vi
 
 ## Les étapes de création du profil
 
-1\)[Créez votre profil](/create-an-account.md) sur Open Food France \(OFF\). Pour cette étape, il est nécessaire d'avoir vos coordonnées et un accès à votre boite mail à proximité afin de valider votre adresse.
+1\) [Créez votre profil](/create-an-account.md) sur Open Food France \(OFF\). Pour cette étape, il est nécessaire d'avoir vos coordonnées et un accès à votre boite mail à proximité afin de valider votre adresse.
 
-2\) Sélectionnez le 'hub non producteur' dans les [type de package](/hub-profile-types.md).
+2\) Sélectionnez le 'hub non producteur sans boutique en ligne' dans les [type de package](/hub-profile-types.md).
 
 #### Votr**re profil est désormais créé !**
 
@@ -29,6 +29,6 @@ Lors que vous disposez d'un profil sur Open Food France \(OFF\), vous devenez vi
 
 ## Fonctionnalités avancées
 
-**Vous souhaitez ouvrir une boutique en ligne ?    
+**Vous souhaitez ouvrir une boutique en ligne ?        
 **En** **quelques étapes supplémentaires, vous avez la possibilité d'ajouter la fonction boutique en ligne à votre profil. Rendez-vous sur la page [Le hub non producteur avec boutique en ligne](/hubs-set-up-guide.md). Vous avez déjà réalisé l'étape 1 en créant votre profil, vous pouvez donc directement démarrer à l'étape 2 et changer votre type de package.
 
