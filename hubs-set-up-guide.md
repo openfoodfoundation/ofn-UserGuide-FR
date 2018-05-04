@@ -39,26 +39,25 @@ L'avantage d'une plateforme en ligne, c'est que vous pouvez tester à tout momen
 
 8\) Gérer vos produits
 
-The following instructions for managing products are broken down according to what you setup in step 7 above, either a\) created a profile for your supplying producer; or b\) connected with a pre-existing supplying producer profile.
+Les instructions suivantes sont divisées en fonction des choix que vous avez réalisé à l'étape 7 : soit a\) vous avez créé des profils pour les producteurs avec qui vous travaillez \(car ils n'avaient pas encore de profil OFF\) ; ou b\) vous avez connecté votre profil avec des profils de producteurs existants.
 
-8a\) I created a profile for my supplying producer  
-If in the previous step you created a profile for your supplier \(because they were not on the OFN\), you’ll need to also [add their products](/products.md) to that profile, before you can stock them in your store.
+8a\) Vous avez créé des profils pour les producteurs avec lesquels je travaille  
+Dans ce cas, vous aurez aussi besoin [d'ajouter leurs produits](/products.md) à leurs profils, avant que vous puissiez gérer les stocks.
 
-8b\) I connected with a pre-existing supplying producer profile.  
-If your supplying producer already had a profile, you may or may not need to add their product range. If that producer has already added their products, you don’t need to add them again, instead you just need to get their permission to stock their products in your shop \(see previous step 7\). They’ll then be visible to your when you go to stock your shop \(in order cycles\).
+8b\) Vous avez connecté votre profil à des profils de producteurs existants  
+Chaque producteurs devra vous donner accès à ses stocks.
 
-If your supplying producer has a profile, but hasn’t added their product range, you’ll need to first get their permission to manage their products and stock them in your shop. Then, you can [add their proudcts](/products.md).
+Si votre fournisseur a un profil, mais n'a pas ajouté de produits, vous devrez tout d'abord avoir la permission de gérer leur stock. Ensuite, vous pourrez [ajouter des produits](/products.md).
 
-**Once you've setup your shipping and payment methods, and added your products, you can open your shopfront                  
-**
+**Une fois toutes ces étapes effectuées, vous pouvez ouvrir votre boutique en suivant cette dernière étape :             **
 
-8\) [Open your shop by opening an order cycle](/order-cycles-adv.md).
+9\) [Ouvrez votre boutique en créant un nouveau cycle de vente](/order-cycles-adv.md).
 
-**Once you've received orders in your shop, you can see orders and use the reports.                    
+**Une fois que les premières commandes auront été effectuées, vous pouvez consulter l'historique des commandes et accéder aux rapport.                      
 **  
-9\) [View and edit orders](/view-orders.md).
+10\) [Visualiser et modifier les commandes](/view-orders.md).
 
-10\) [View reports](/reports.md). You may use the reports to generate packing sheets, invoices and or mailing lists.
+11\) [Accéder aux rapports](/reports.md). Les rapports vous permettent également de générer des factures ou des relances emails.
 
 ---
 
