@@ -1,10 +1,11 @@
-# Hub Shop
+# Le hub non producteur avec boutique en ligne
 
-## What is a hub shop?
+## A quoi correspond ce profil ?
 
-Hub shops can take many different forms, but at their essence, they are an online shop which stocks products from multiple source-identified supplying producers. With a hub shop customers can see profiles of the producers who grew/raised/baked their food. 
+Hub shops can take many different forms, but at their essence, they are an online shop which stocks products from multiple source-identified supplying producers. With a hub shop customers can see profiles of the producers who grew/raised/baked their food.
 
-## What does it do?
+## Les atouts
+
 **A shopping experience customers will enjoy**  
 With a hub shop customers can see profiles of the producers who grew/raised/baked their food, giving them a virtual farmer's market experience.
 
@@ -14,13 +15,13 @@ Unlike taking orders with emails, texts or phone messages, taking orders online 
 **Take orders periodically**  
 You can choose when your shop opens and closes, and run your shop in cycles.
 
-**Involve your suppliers**
+**Involve your suppliers**  
 Your suppliers can login directly to OFN to update their product availability and prices, minimising some administration tasks for you.
 
-**Be flexible**
+**Be flexible**  
 Our software is designed to be flexible and to accommodate business models of all different shapes and forms. You can use our flexibility to experiment with new ways of doing things. If you want to experiment supplying to hospitality customers, you can setup 'hospitality only' shops. Want to experiment with a new delivery location, add a drop-off point. Want to experiment with adding a second delivery date, you can do that.
 
-## Steps for setting up a Hub Shop
+## Les étapes de création du profil
 
 1\) [Register your profile](/create-an-account.md) on Open Food Network. This setup tool will ask for basic information about your enterprise to create your profile. You'll be prompted to confirm your email address.
 
@@ -48,12 +49,12 @@ If your supplying producer already had a profile, you may or may not need to add
 
 If your supplying producer has a profile, but hasn’t added their product range, you’ll need to first get their permission to manage their products and stock them in your shop. Then, you can [add their proudcts](/products.md).
 
-**Once you've setup your shipping and payment methods, and added your products, you can open your shopfront
+**Once you've setup your shipping and payment methods, and added your products, you can open your shopfront      
 **
 
 8\) [Open your shop by opening an order cycle](/order-cycles-adv.md).
 
-**Once you've received orders in your shop, you can see orders and use the reports.  
+**Once you've received orders in your shop, you can see orders and use the reports.        
 **  
 9\) [View and edit orders](/view-orders.md).
 
@@ -61,10 +62,11 @@ If your supplying producer has a profile, but hasn’t added their product range
 
 ---
 
-## Advanced features that are helpful for hubs with shops.
-
+## Fonctionnalités avancées
 
 * [Embedding your shop](/embedded-shopfronts.md) into your own website.
 * [Pricing irregular items such as meat](/pricing-irregular-indivisible-meat-items.md)
 * [Opening more than one order cycle](/opening-more-than-one-order-cycle.md).
+
+
 

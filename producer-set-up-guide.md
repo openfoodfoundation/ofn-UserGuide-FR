@@ -1,12 +1,12 @@
 # Le producteur en vente directe avec une boutique
 
-## Qu'est-ce qu'un producteur en vente directe avec une boutique ?
+## A quoi correspond ce profil ?
 
 * Ce profil vous permet de vous créer votre propre boutique en ligne afin de vendre vos produits
 * Lorsque vous créez votre boutique, vous avez égaement un profil en ligne, ce qui vous permet de raconter votre histoire
 * Avec ce profil, vous serez automatiquement visibles sur la carte OFF et sur le listing des producteurs
 
-## Les atouts de ce profil
+## Les atouts
 
 **Vendre vos produits à votre manière**  
 Une boutique en ligne inclue toutes les fonctionnalités vous permettant de vendre vos produits en ligne, en direct à vos clients. Vous pouvez ajouter des produits à votre boutique, et les vendre au format à votre guise. Vous choisissez le processus de commande, le processus de livraison et les méthodes de paiement. Vous êtes le maître à bord !
@@ -20,7 +20,7 @@ Open Food France \(OFF\) est un réseau : vous pouvez vous connecter à d'autres
 **Vous rendre visible**  
 La première étape avant de créer votre boutique en ligne, c'est la création de votre profil. En ayant un profil sur OFF, vous devez visible pour votre communauté locale. Les consommateurs peuvent vous contacter, et il en va de même pour toutes les autres entreprises présentes dans le réseau et souhaitant collaborer avec vous ou distribuer vos produits.
 
-## Les étapes pour créer une boutique en ligne
+## Les étapes de création du profil
 
 1\) [Créez votre profil](/create-an-account.md) sur Open Food France \(OFF\). Pour cette étape, il est nécessaire d'avoir vos coordonnées et un accès à votre boite mail à proximité afin de valider votre adresse.
 
