@@ -53,7 +53,7 @@ Si votre fournisseur a un profil, mais n'a pas ajouté de produits, vous devrez 
 
 9\) [Ouvrez votre boutique en créant un nouveau cycle de vente](/order-cycles-adv.md).
 
-**Une fois que les premières commandes auront été effectuées, vous pouvez consulter l'historique des commandes et accéder aux rapport.                      
+**Une fois que les premières commandes auront été effectuées, vous pouvez consulter l'historique des commandes et accéder aux rapport.                        
 **  
 10\) [Visualiser et modifier les commandes](/view-orders.md).
 
