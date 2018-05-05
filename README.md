@@ -22,8 +22,10 @@ Nous avons rédigé notre guide par [type de profil utilisateur](/model-specific
 * **Aux collectivités locales **: les collectivités peuvent utiliser Open Food France pour mettre en valeur les producteurs de leur territoire via la fonction de création de groupe, que la collectivité peut intégrer sur son propre site internet. Cela peut aussi permettre aux restaurateurs privés d'être mis en lien avec les producteurs locaux. C'est le choix du Grand Besançon :
 
 ```
-{% video %}https://player.vimeo.com/video/237540629{% endvideo %}
+https://player.vimeo.com/video/237540629
 ```
+
+
 
 * **Aux consommateurs** : En tant que consommateurs, pour trouvez les producteurs près de chez vous consultez [la carte](https://www.openfoodfrance.org/map) ou naviguez directement dans [nos boutiques en ligne](https://www.openfoodfrance.org/shops#/) !
 
