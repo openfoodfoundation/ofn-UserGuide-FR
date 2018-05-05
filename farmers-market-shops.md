@@ -2,42 +2,31 @@
 
 ## A quoi correspond ce profil ?
 
-Farmers markets have huge opportunity to not only act as a space for physical sales, but also as a node, or an aggregation point to reach customers who are ordering online. This can help boost producer sales, and give them access to markets beyond the market.
+Ce profil permet aux marchés physiques d'avoir une représentation en ligne, leur permettant d'offrir des commandes en ligne à leurs consommateurs.
 
 ## Les atouts
 
-Some of the ways farmer's markets can reach beyond the physical market space:
+* Les producteurs peuvent proposer des pré-commandes / pré-ventes de leurs produits. Ces produits seraient récupéré ensuite au marché le jour venu
+* Les producteurs peuvent profiter de leur venue au marché pour amener d'autres produits pré-vendus en ligne
+* Les producteurs peuvent collaborer entre eux pour les emballages et la distribution
 
-* Stallholders can offer online pre-ordering/pre-sales for products, for collection at the market
-* Stallholders can use their trip into town/the city as an opportunity to distribute online orders to customers.
-* Stallholders may wish to collaborate and open an collective shop, and use the market as an aggregation point for packing orders. They may also collaborate on delivery.
-* The market may wish to coordinate an online shop, stocking products from all the stallholders, for customers who do not attend the market - for example hospitality, institutional or other customer who prefer home delivery.
+### Option 1 - Les producteurs disposent de boutiques indépendantes
 
-### Stallholder run independent online shops
+Pour mettre en place une boutique individuelle par producteur, les producteurs peuvent suivre les étapes [décrites à cette adresse](/producer-set-up-guide.md).
 
-Individual stallholders can open an online shopfront to receive orders. They may use their shop to take pre-sales which customers collect from the market. Another option is to take pre-sales for delivery to customers after the market -to capitalise on the trip into the city.
+### Option 2 - Les producteurs gérent une boutique commune
 
-Stallholders wishing to setup a shop like this should refer to the [Producer Shop manual](/producer-set-up-guide.md).
+Pour gérer une boutique commune à plusieurs producteur, il est nécessaire de suivre les étapes [à ce chapitre](/multi-farm-shop.md).
 
-### Stallholders run collective online shops
+### Option 3 - Les organisateurs du marché gèrent la boutique
 
-A group of stallholders can open a shopfront which stocks products from multiple producers. Here customers can place orders for items across multiple stallholders rather than needing to place orders with each stallholder separately. The participating stallholders will devise a means of coordinating the packing and delivery of these orders. It might be that each stallholder bags and labels their component of the orders, ready to pack into boxes on market day. Or perhaps they will alternate in the task of walking between stallholders at the end of the market at picking up the required items. Orders may be delivered by the stallholders after the market, back in their home locale, or around the market to cafes or retail customers. Or alternatively, a storage and collection agreement may be made with a nearby cafe or shop.
-
-Stallholders wishing to setup a shop like this should refer to the [Multi-Producer Shop manual](/multi-farm-shop.md).
-
-### Market run collective online shop
-
-The OFN’s high degree of flexibility makes it possible for Farmer's Markets to easily setup and pilot a great variety of collaborative sales arrangements. One possible configuration is covered below, however if you have questions regarding any other models don’t hesitate to get in touch.
-
-A representative of the farmers’ market can take responsibility for coordinating an online shop, which stocks items from multiple stallholders. Each week they’ll be tasked with checking availability of stock, opening the shop, packing the orders on market day and arranging delivery. This model is great for customers who cannot attend the market, such as local workplaces, cafes and restaurants. This model can benefit from some market facilities such as a cool room or delivery van. The coordinator will also take responsibility for managing payments from customers and for paying the stallholders their share. Enterprise fees can be used to allocate a certain mark-up to the coordinator for their services.
-
-To setup this model, refer to the [Hub Shop Setup Manual](/hubs-set-up-guide.md), or get in touch with us for help.
+Pour réaliser ce profil, [suivez ces étapes](/hubs-set-up-guide.md), ou contactez-nous pour que nous puissions vous accompagner.
 
 ---
 
 ### Fonctionnalités avancées
 
-[Private shopfronts](/private-shopfront.md). If you're trading to hospitality customers you may wish to have a private shop, only visible to your known customers. This prevents retail customers from seeing wholesale pricing.
+[Boutiques privées](/private-shopfront.md). Cette fonctionnalité permet d'ouvrir une boutique uniquement aux personnes disposant du mot de passe pour y accéder.
 
-Have you thought about setting up a [Farmer's Market group page](/farmers-market.md)?
+Avez-vous pensé à créer un groupe pour votre marché ? C'est [ici que cela se passe](/farmers-market.md).
 
