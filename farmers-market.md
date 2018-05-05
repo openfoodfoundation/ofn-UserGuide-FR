@@ -12,7 +12,7 @@ Ci-dessous, un exemple de la page du marché de [Melbourne](/melbourne-farmers-m
 
 ## Les atouts
 
-**Un espace pour raconter votre parcours      
+**Un espace pour raconter votre parcours        
 **Vous pouvez mettre en valeur les profils des membres de votre marché. Ajouter leurs parcours, leur localisation et leurs coordonnées. Cela permet en suite au consommateur d'accéder à une place interactive pour en savoir plus sur les producteurs et connaitre d'où vient les produits qu'ils achètent.
 
 ## Les étapes de création du profil
@@ -23,7 +23,7 @@ Créer un marché virtuel se réalise en deux étapes :
 
 ## Etape 1 : Créer une page groupe
 
-Cette page ne peux pas être créé par vous seul, veuillez nous contacter pour que nous vous accompagnons dans le processus. 
+Cette page ne peux pas être créé par vous seul, veuillez nous contacter pour que nous vous accompagnons dans le processus.
 
 Une fois la page créée, vous aurez la possibilité de la personnaliser avec votre contenu, votre présentation, votre logo ainsi que vos photos. Pour plus de détail sur la manière de réaliser ses étapes, [cliquez ](/group-pages.md)ici.
 
@@ -33,24 +33,22 @@ Une fois que votre page est créée et complétée, l'étape suivante est de cr�
 
 ### Option 1 – Créez vous-même des profils pour vos membres
 
-The farmers’ market manager may choose to set up profiles for their stallholders on their behalf. This option is appealing as you’ll get your members setup quickly and have something to show them to help them visualise the new directory.
+L'avantage de cette option, reste que vous pouvez remplir le groupe plus rapidement qu'en attendant la création de chaque profil individuelle.
 
-Here is the [link](/create-or-connect-with-your-supplying-producers.md) to the relevant section of the hub user manual which describes how to create multiple profiles for producers.
+Vous trouverez le détail des étapes pour la création [de pluiseurs profils producteur à cette adresse.](/create-or-connect-with-your-supplying-producers.md)
 
-If you chose this option, it’s a good idea to set these profiles to ‘invisible’ until you’re ready to launch the new group page. When markets launch they’ll often send out an email to members. Part of this process is to give members the options of taking ownership of their profiles, so that they can keep them up to date. This email is a good chance to explain the intention of the group and to invite participation.
+Nous vous conseillons de créer ces profils en "invisibles". En effet, lorsque le marché virtuel est ouvert, un email est envoyés aux membres du groupe afin de leur permettre de gérer leur profil et démarrer l'utilisation du groupe.
 
-To transfer ownership of a profile to the stallholder, edit that profile and type the stallholder’s email in the ‘notification’ field, within the ‘Users’ tab. This will trigger an email to that address, and when confirmed, that user will become the ‘manager’ of that profile, will full ability to login and modify it. More details about transferring ownership can be found [here](/transferring-ownership-of-a-profile.md).
+Lorsque vous indiquez une adresse email sur un profil producteur, un email de confirmation de l'adresse sera envoyé à cet utilisateur. Pour plus de détails sur cette étape, consultez [la page suivante](/transferring-ownership-of-a-profile.md).
 
 ### Option 2 – Invitez vos membres à créer eux-même leur profil
 
-Alternatively, you can ask your stallholders to each setup their own profile. They can do this by following the steps in the [producer profile setup manual](/producer-set-up-guide.md). When their profile is setup, they’ll need to let you know so you can add them to your group page, via the group page admin.
-
-_Note: Asking members to place their preferences into a google form is a good way to efficiently capture their responses \(e.g. if they want to take ownership of a profile, or if they want to be added to your group\)._
+Pour ce faire, ils devront réaliser [les étapes décrites ici](/producer-set-up-guide.md). Une fois les profils créés, ils devront vous prévenir afin que vous puissiez les ajouter via l'administration du groupe.
 
 ---
 
 ## Fonctionnalités avancées
 
-**Embed your group page in your own website**  
-Instruction are available for [how to embed your group page into your website](/embed-a-group-page.md).
+**Intéger la page du groupe à VOTRE site internet**  
+Le tutoriel est disponible [à cette adresse](/embed-a-group-page.md).
 
