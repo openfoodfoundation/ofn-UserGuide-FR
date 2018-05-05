@@ -1,10 +1,10 @@
-# Farmer's Market Shops
+# Le marché virtuel avec boutique
 
-## What is a Farmer's Market Shop?
+## A quoi correspond ce profil ?
 
 Farmers markets have huge opportunity to not only act as a space for physical sales, but also as a node, or an aggregation point to reach customers who are ordering online. This can help boost producer sales, and give them access to markets beyond the market.
 
-## How does it work?
+## Les atouts
 
 Some of the ways farmer's markets can reach beyond the physical market space:
 
@@ -35,7 +35,7 @@ To setup this model, refer to the [Hub Shop Setup Manual](/hubs-set-up-guide.md)
 
 ---
 
-### Advanced features that may be helpful to farmer's markets with shops
+### Fonctionnalités avancées
 
 [Private shopfronts](/private-shopfront.md). If you're trading to hospitality customers you may wish to have a private shop, only visible to your known customers. This prevents retail customers from seeing wholesale pricing.
 

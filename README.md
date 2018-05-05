@@ -19,6 +19,10 @@ Nous avons rédigé notre guide par [type de profil utilisateur](/model-specific
   * [SUTEAU BIOSOL](https://www.infoempresa.com/fr-fr/es/entreprise/suteau-biosol-sl)
 * **Aux marchés** : vous organisez un marché physique en France ? Vous pouvez utiliser OFF pour représenter virtuellement ce marché en ligne, afin que vos futurs clients puissent pré-commander leurs articles en ligne ou simplement avoir un site. Consultez pour cela les pages [Le marché virtuel sans boutique](/farmers-market.md) et [Le marché virtuel avec boutique.](/farmers-market-shops.md)
 * **Aux AMAPs** : Une AMAP est une Association pour le Maintien de l'Agriculture Paysanne. Vous pouvez consulter [la définition officielle ici](http://www.reseau-amap.org/amap.php). OFF ne gère pour l'instant par les abonnements en ligne, en revanche la fonctionnalité est actuellement en développement ! En attendant, les AMAPs peuvent utiliser OFF comme un [collectif de producteur avec une boutique](/multi-farm-pre-orders.md).
+* **Aux collectivités locales **: les collectivités peuvent utiliser Open Food France pour mettre en valeur les producteurs de leur territoire via la fonction de création de groupe, que la collectivité peut intégrer sur son propre site internet. Cela peut aussi permettre aux restaurateurs privés d'être mis en lien avec les producteurs locaux. C'est le choix du Grand Besançon :
+
+&lt;iframe src="https://player.vimeo.com/video/237540629" width="640" height="360" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
 * **Aux consommateurs** : En tant que consommateurs, pour trouvez les producteurs près de chez vous consultez [la carte](https://www.openfoodfrance.org/map) ou naviguez directement dans [nos boutiques en ligne](https://www.openfoodfrance.org/shops#/) !
 
 N.B. : Sachez qu'il est également possible d'ouvrir une boutique privée. Pour ce faire, rendez-vous sur [la page suivante](/private-shopfront.md).
