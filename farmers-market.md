@@ -6,28 +6,30 @@
 * C'est une carte interactive, avec un profil pour chaque producteur
 * Le site peut être intégré à votre propre site internet
 
+Ci-dessous, un exemple de la page du marché de [Melbourne](/melbourne-farmers-markets.md).
+
+![](https://openfoodnetwork.org/wp-content/uploads/2016/08/MFM-Directory.png "MFM Directory")
+
 ## Les atouts
 
-**Un espace pour raconter votre parcours    
+**Un espace pour raconter votre parcours      
 **Vous pouvez mettre en valeur les profils des membres de votre marché. Ajouter leurs parcours, leur localisation et leurs coordonnées. Cela permet en suite au consommateur d'accéder à une place interactive pour en savoir plus sur les producteurs et connaitre d'où vient les produits qu'ils achètent.
 
 ## Les étapes de création du profil
 
-Setting up a Farmer's Market Group Page on the OFN is a two part process:  
-1. Create a group page- this acts as a directory of all producers who participate in the market\(s\).  
-2. Add your stallholder’s profiles to the group page- You may need to create profiles for stallholders, or they can do this themselves.
+Créer un marché virtuel se réalise en deux étapes :  
+1.Créer une page groupe  
+2. Ajouter les profils des producteurs sur le groupe - vous pouvez créer ces profils vous-même, ou laisser la main aux producteurs
 
 ## Etape 1 : Créer une page groupe
 
-If you manage or are involved in a farmers market and would like to create an OFN group page for it, the first thing to do is to contact us and we’ll setup the page for you. Your market group page will be a personalised directory of enterprises who participate in your markets. For an example checkout the [Melbourne Farmer’s Markets group page](/melbourne-farmers-markets.md) below.
+Cette page ne peux pas être créé par vous seul, veuillez nous contacter pour que nous vous accompagnons dans le processus. 
 
-![](https://openfoodnetwork.org/wp-content/uploads/2016/08/MFM-Directory.png "MFM Directory")
-
-Once we’ve created a group page for you, you can customise it with your own content, including an about us blurb, logo and photos. For more details about managing content on your group page [click here](/group-pages.md).
+Une fois la page créée, vous aurez la possibilité de la personnaliser avec votre contenu, votre présentation, votre logo ainsi que vos photos. Pour plus de détail sur la manière de réaliser ses étapes, [cliquez ](/group-pages.md)ici.
 
 ## Etape 2 : Ajouter les profils des producteurs au groupe
 
-Once your group page is setup the next step is to add profiles of your member enterprises to the group, this includes the market\(s\) itself and your stallholders. You can create a profile for your market\(s\) by following steps 1-4 in the [Hub setup manual](/hubs-set-up-guide.md) and then adding the profiles to the group. You can also add any stallholder profiles that are already on the OFN, just search for these in the group admin page. There are two options for setting up profiles for your members who don’t already have a profiles on the OFN.
+Une fois que votre page est créée et complétée, l'étape suivante est de créer un profil pour votre marché en utilisant les étapes 1 à 4 [à cette adresse](/hubs-set-up-guide.md). Ensuite, il est nécessaire de relier les producteurs au groupe. Vous pouvez relier des producteurs utilisant déjà Open Food France \(OFF\) ou créer les profils de zéro. Dans ce cas, deux options sont possibles :
 
 ### Option 1 – Créez vous-même des profils pour vos membres
 
