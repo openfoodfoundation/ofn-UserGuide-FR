@@ -31,7 +31,7 @@ Once producers receive their order totals list from the coordinator, they start 
 
 After the collection day, the cycle repeats again. The first step for producers is to login to their OFN profiles and to update the availability and pricing of their products for the next month’s orders. Once they’ve had time to do this, the coordinator can open the shop and start receiving orders again.
 
-## Steps for setting up a Multi-Producer Pre-Orders
+## Les étapes de création du profil
 
 Setting up this model requires firstly setting up a Hub Shop for the collective shopfront. Secondly, profiles need to be created for all participating producers. These steps, as well as configuration options are described below.
 
@@ -113,7 +113,7 @@ A way to streamline this process is to duplicate the previous Order Cycle and th
 
 The collective should define the refund policy. To reduce administration time, the hub may chose not to allow refunds. Or if they do allow refunds, you need to clarify which party is responsible for this. E.g. before the collective has paid producer’s for their orders, it would be the collective’s responsibility to administer refunds. Refunds requested after funds have been transferred to producers, or after the collection date, should go through producers for example.
 
-## Advanced Features
+## Fonctionnalités avancées
 
 Once you have completed your basic setup, check out the advanced features below which are particularly relevant to Multi-Farm shops:
 
