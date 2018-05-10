@@ -1,52 +1,42 @@
-# Types de package
+# Sélection des types de package
 
-Open Food France \(OFF\) offre 5 types de packages, qui vont différer en fonction de votre profil d'entreprise \(producteur ou hub\) et si vous souhaitez ou non ouvrir une boutique en ligne. Lors de votre première connexion à l'outil, on vous demandera de sélectionner un package. Votre sélection vous permettra d'obtenir des fonctionnalités spécifiques à votre activitée. Les cinq packages sont décris ci-dessous en deux grands paragraphes : les packages à destination des producteurs et ensuite les packages à destination des hubs.
+Open Food France \(OFF\) offre 5 types de packages, qui vont différer en fonction de votre profil d'entreprise \(producteur ou non\) et si vous souhaitez ou non ouvrir une boutique en ligne. Lors de votre première connexion à l'outil, on vous demandera de sélectionner un package. Votre sélection vous permettra d'obtenir des fonctionnalités spécifiques à votre activitée. Les cinq packages sont décris ci-dessous en deux grands paragraphes : les packages à destination des producteurs et ensuite les packages à destination des hubs.
 
 ## Pour les producteurs
 
 Les packages
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Three-producer-types.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
-_\* Note: The above is an example only, fees vary between OFN instances/countries._
+1. **Création d'un profil simple** :** **
 
-1. **Producer profile – connect through OFN: **
+   Pour plus d'informations sur ce profil rendez-vous sur la page [Le producteur sans boutique.](../les-differents-profils-utilisateurs/le-producteur-sans-boutique.md)
 
-   This option allows you to create a profile on the OFN. Your profile is a way for you to share your story with others and makes you visible and contactable to customers and other enterprises who may wish to trade with you. A producer with a profile can also add products, which may be stocked in OFN shopfronts that are coordinated by others.
+2. **Vous souhaitez vendre uniquement vos produits : **
 
-2. **Producer Shop- sell your own produce: **
+   Pour plus d'informations sur ce profil rendez-vous sur la page [Le producteur revendeur avec une boutique](../les-differents-profils-utilisateurs/le-producteur-revendeur-avec-une-boutique.md).
 
-   This option allows producers to create their own OFN shopfront through which to sell their produce. Note that producers can conduct sales through their own shopfront and/or act as a supplier to another shopfront.
+3. **Vous souhaitez vendre vos produits et ceux d'autres fournisseurs :**
 
-3. **Producer Hub- sell produce from self and others:  **
+   Pour plus d'informations sur ce profil rendez-vous sur la page [Le collectif de producteurs avec une boutique](../les-differents-profils-utilisateurs/le-collectif-de-producteurs-avec-une-boutique.md).
 
-   This option is for producers who wish to sell their own produce, as well and products created by other producers.
+## Pour les non-producteurs \(Les hubs\)
 
-%/accordion%
+![](../.gitbook/assets/image%20%283%29.png)
 
-## For Non-Producers \(Hubs\)
+1. **Création un profil simple :**
 
-%accordion%Hub packages%accordion%
+   Pour plus d'informations sur ce profil rendez-vous sur la page [Le hub sans boutique](../les-differents-profils-utilisateurs/le-hub-non-producteur-sans-boutique-en-ligne.md).
 
-![Two hub type options](https://openfoodnetwork.org/wp-content/uploads/2015/05/Two-hub-types.png)
+2. **Vous souhaitez créer une boutique en ligne :**
 
-_\* Note: The above is an example only, fees vary between OFN instances/countries._
+   Pour plus d'informations sur ce profil rendez-vous sur la page [Le hub avec une boutique](../les-differents-profils-utilisateurs/le-hub-non-producteur-avec-boutique-en-ligne.md).
 
-1. **Profile Only:**
+SI vous souhaitez modifier des informations sur votre profil rendez-vous sur la page [Votre profil](../fonctionnalites-avancees/votre-profil/).
 
-    This option allows you to create a profile on the OFN. Your profile is a way for you to share your story with others and makes you visible and contactable to customers and other enterprises who may wish to trade with you.
+### Modifier son package
 
-2. **Hub Shop**
+Vous pouvez toujours changer de package par la suite. Vous avez deux options : soit vous utilisez le bouton ‘**Modifier le package** sur le [Tableau de Bord](tableau-de-bord.md). Or via le menu "Entreprises" en modifiant les colonnes dédiées comme sur la capture ci-dessous : 
 
-   : This option provides you with a complete online store for your hub, in addition to the profile.
-
-%/accordion%
-
-If you only want a profile on the OFN, once you've created your account, confirmed your email, and selected a profile-only package, your profile will be live on OFN. If you want to change or add any details to your profile, continue to [Enterprise Settings](../fonctionnalites-avancees/votre-profil/), if not, you're all done.
-
-### Changing Package
-
-You can change your package at any time in the future. This can be done by clicking the ‘**Change package**‘ button on [the dashboard](tableau-de-bord.md). Or you can change your producer/non producer status and package by selecting **Enterprise **on the blue horizontal banner, and then editing your enterprise’s settings \(see below\).
-
-![Change package](https://openfoodnetwork.org/wp-content/uploads/2015/05/Change-package.png)
+![](../.gitbook/assets/image%20%284%29.png)
 

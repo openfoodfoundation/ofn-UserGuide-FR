@@ -12,7 +12,7 @@
   * [Le marché virtuel avec boutique](les-differents-profils-utilisateurs/le-marche-virtuel-avec-boutique.md)
 * [Fonctionnalités standards](fonctionnalites-standards/README.md)
   * [Inscription et création de profil](fonctionnalites-standards/inscription-et-creation-de-profil.md)
-  * [Types de package](fonctionnalites-standards/types-de-package.md)
+  * [Sélection des types de package](fonctionnalites-standards/types-de-package.md)
   * [Paramètres](fonctionnalites-standards/parametres.md)
   * [Créez ou connectez vos producteurs](fonctionnalites-standards/creez-ou-connectez-vos-producteurs.md)
   * [Produits](fonctionnalites-standards/produits.md)
