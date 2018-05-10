@@ -65,3 +65,5 @@ Si votre fournisseur a un profil, mais n'a pas ajouté de produits, vous devrez 
 * [Fixer les prix de produits "irréguliers" comme la viande](../fonctionnalites-avancees/produits/pricing-irregular-items-kg.md)
 * [Ouvrir plusieurs cycles de ventre simultanés](../fonctionnalites-avancees/cycles-de-vente/opening-more-than-one-order-cycle.md).
 
+
+

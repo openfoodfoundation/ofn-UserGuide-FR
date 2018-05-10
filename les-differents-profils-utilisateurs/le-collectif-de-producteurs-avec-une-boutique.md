@@ -33,95 +33,68 @@ After the collection day, the cycle repeats again. The first step for producers 
 
 ## Les étapes de création du profil
 
-Setting up this model requires firstly setting up a Hub Shop for the collective shopfront. Secondly, profiles need to be created for all participating producers. These steps, as well as configuration options are described below.
+Ces étapes sont très similaire avec la création d'un hub avec une boutique en ligne.
 
-Setup of the collective shop is the same as setting up a hub shop.
+1\) [Créez votre profil](../fonctionnalites-standards/inscription-et-creation-de-profil.md) sur Open Food France \(OFF\). Pour cette étape, il est nécessaire d'avoir vos coordonnées et un accès à votre boite mail à proximité afin de valider votre adresse.
 
-1\) [Register a profile](../fonctionnalites-standards/inscription-et-creation-de-profil.md) for your collective shop on Open Food Network \(e.g. Green Valley Farmers Shop\). This setup tool will ask for basic information about your enterprise to create your profile. You'll be prompted to confirm the email address.
+2\) Sélectionnez le 'hub non producteur avec boutique en ligne' dans les [types de package](../fonctionnalites-standards/types-de-package.md).
 
-2\) Select the 'hub shop' [package type](../fonctionnalites-standards/types-de-package.md).
+3\) Si vous souhaitez modifier votre profil, ou ajouter plus de détails vous pouvez modifier vos [Paramètres](../fonctionnalites-standards/parametres.md). A cet endroit, vous pouvez également choisir vos préférences, notamment si votre boutique est privée ou publique, mais aussi écrire un texte de bienvenue.
 
-3\) If you want to edit your profile, or add further detail you can modify your [Enterprise Settings](../fonctionnalites-standards/parametres.md). Here you can also chose whether your shop is open to the public or private, and write a shopfront message.
+4\) Définissez et paramétrez vos [méthodes de livraison](../fonctionnalites-standards/types-de-livraisons.md).
 
-4\) Define and setup your [shipping methods](../fonctionnalites-standards/types-de-livraisons.md).
+5\) Définissez et paramétrez vos [méthodes de paiement](../fonctionnalites-standards/methodes-de-paiements.md).
 
-5\) Define and setup your [payment methods](../fonctionnalites-standards/methodes-de-paiements.md).
+6\) Définissez les [frais](../fonctionnalites-standards/frais-et-taxes.md) que vous souhaitez appliquer à votre boutique.
 
-6\) Define any [enterprise fees ](../fonctionnalites-standards/frais-et-taxes.md)you want to apply in your shop. For example if you have a central coordinator, you may wish to take a small fee to cover their time.
+7\) [Créer ou connecter vos producteurs](../fonctionnalites-standards/creez-ou-connectez-vos-producteurs.md). Vous devez réaliser cette étape avant de pouvoir ajouter vos produits.
 
-**7\) Producer profiles and products. **  
-Before you can add in the shop's products, each participating producer needs to have a profile which the products can be tied to. There are different ways to setup the producer profiles, depending on how much control the central coordinator wants to maintain, and how much time they have to setup the profiles.
+8\) Gérer vos produits
 
-**a\) High coordinator involvement option    
-**If you have a central coordinator taking the role of setting up the shop, they can [create profiles on behalf of the producers](../fonctionnalites-standards/creez-ou-connectez-vos-producteurs.md). This is more time consuming for the coordinator, but it gives them control in making sure the profiles are setup correctly and in a visually appealing way. Before doing this the coordinator should let producers know, and get their profile information from them. This option may also be necessary for producers who are not tech savvy and would struggle to be involved otherwise.
+Les instructions suivantes sont divisées en fonction des choix que vous avez réalisé à l'étape 7 : soit a\) vous avez créé des profils pour les producteurs avec qui vous travaillez \(car ils n'avaient pas encore de profil OFF\) ; ou b\) vous avez connecté votre profil avec des profils de producteurs existants.
 
-If your producers already have profiles, you need to [connect with them](../fonctionnalites-standards/creez-ou-connectez-vos-producteurs.md). The producer can grant different levels of permission to the shop, you should let them know if you want access to stock their products in your shop, or if you also want to be able to edit their profile, and their products, or add their products to inventory.
+8a\) Vous avez créé des profils pour les producteurs avec lesquels je travaille  
+Dans ce cas, vous aurez aussi besoin [d'ajouter leurs produits](../fonctionnalites-standards/produits.md) à leurs profils, avant que vous puissiez gérer les stocks.
 
-When the central coordinator creates profiles for producers they can also add in their product range on their behalf. They will first need to get product lists from each producer, with the required fields \(name, price, category, properties etc\). See [instructions for setting up products](../fonctionnalites-standards/produits.md). If you've connected to an existing profile, you should also have permission to edit their products.
+8b\) Vous avez connecté votre profil à des profils de producteurs existants  
+Chaque producteurs devra vous donner accès à ses stocks.
 
-**b\) Low coordinator involvement option**  
-If you want your producers to take responsibility for creating their profiles, you can instruct them to create their own profile and add in their products. They can follow the [Producer \(Profile Only\) manual,](le-producteur-sans-boutique.md) completing all 5 steps.
+Si votre fournisseur a un profil, mais n'a pas ajouté de produits, vous devrez tout d'abord avoir la permission de gérer leur stock. Ensuite, vous pourrez [ajouter des produits](../fonctionnalites-standards/produits.md).
 
-If you're connected with existing producer profiles. Remind these producers to update their products.
+9\) [Ouvrez votre boutique en créant un nouveau cycle de vente](../fonctionnalites-avancees/cycles-de-vente/).
 
-Once the producers have setup their profiles, you'll need to [connect with them](../fonctionnalites-standards/creez-ou-connectez-vos-producteurs.md).
+**Une fois que les premières commandes auront été effectuées, vous pouvez consulter l'historique des commandes et accéder aux rapport.    
+**  
+10\) [Visualiser et modifier les commandes](../fonctionnalites-standards/visualisation-des-commandes.md).
 
-9\) [Open your shop by opening an order cycle.](../fonctionnalites-standards/cycle-de-vente-pour-les-hub.md) Once your supplying producer profiles are setup, with their product ranges and once the shipping and payment methods are setup you can open your shopfront by creating an order cycle.
+11\) [Accéder aux rapports](https://github.com/OFNUserguideFr/OFNUserGuide-France/tree/1d234e8c405da5bfe626c5ecf5f2eb351ab64b8a/reports.md). Les rapports vous permettent également de générer des factures ou des relances emails.
 
-10\) [View and edit orders](../fonctionnalites-standards/visualisation-des-commandes.md).
+**Quels sont les rapports les plus utilisés ?**
 
-11\) View reports. [This page](https://github.com/OFNUserguideFr/OFNUserGuide-France/tree/7bfd1af87f6cc5befe0e73e9ba613253093b13f3/get-reports.md) offers a broad description of OFN's reports.
+De manière générale, un coordinateur est désigné au sein du collectif : il sera responsable de bien communiquer les quantités commandées \(poids, clients...\).
 
-**Which reports are useful to multifarm shops?    
-**Generally, at the close of an order cycle the central coordinator will need to be responsible for letting each producer know how much stock has been ordered by them, and by which customer. Then each producer can pack the stock ready for delivery.
+Les rapports permettent d'observer pour chaque cycle de vente, les clients, les quantités commandées et les producteurs. Ils peuvent être filtré et leurs données peuvent être téléchargées au format CSV.
 
-The order cycle customer total report lists each customer's order, with each item they ordered. The report should be filtered by producer and downloaded as a CSV. This will tell the producer which items were ordered by which customer.
-
-This report can also be used to calculate the total value of goods ordered from that supplier. If your shop takes payment at checkout \(with Paypal or Stripe\), then the central coordinator can use this report to calculate how much money needs to be paid to each supplier.
-
-## What are the ongoing processes to run this kind of model?
-
-### Updating products each cycle
-
-Before each order cycle, the product availability and prices for each producer need to be updated. If the coordinator owns the producer profiles, they’ll need to contact each producer, get a list of any changes to product prices and availability, and update this in the OFN. If the coordinator has taken the ‘low involvement’ route, producers will need to take responsibility for updating their product information themselves.
-
-Below are instructions for how producers can update products before an order cycle:
-
-Each cycle there are 3 things to update before the shop opens:
-
-1\) Mark any products that are unavailable with a zero in the ‘on hand’ field.
-
-2\) For products that will be available in the coming week, do one of the following:
-
-i\) Either enter the amount that you have available in the ‘on hand’ field next to the product.
-
-ii\) or, if you have an inexhaustible amount of a product available, select the ‘on demand’ tick box that corresponds with that product.
-
-3\) Update the prices
-
-See here for details about updating products.
-
-Once all producer have done this, the coordinator creates an OC and selects all products for all producers. This will put all available products into the shop at the correct prices, with the correct stock levels.
-
-### Creating an Order Cycle
-
-It’s the coordinator’s role to make sure the order cycle is setup correctly. This involves setting the opening and closing dates, and selecting which producers are involved for that order cycle.
-
-A way to streamline this process is to duplicate the previous Order Cycle and then just make smaller amendments.
-
-### Refunds
-
-The collective should define the refund policy. To reduce administration time, the hub may chose not to allow refunds. Or if they do allow refunds, you need to clarify which party is responsible for this. E.g. before the collective has paid producer’s for their orders, it would be the collective’s responsibility to administer refunds. Refunds requested after funds have been transferred to producers, or after the collection date, should go through producers for example.
+Les prix et les montants à allouer à chaque producteurs peuvent également être calculés via les rapports.
 
 ## Fonctionnalités avancées
 
-Once you have completed your basic setup, check out the advanced features below which are particularly relevant to Multi-Farm shops:
+* [Les frais](../fonctionnalites-standards/frais-et-taxes.md)  
+  Les boutiques avec des sources variées peuvent être intéressées par une répartition des charges entre les différente parties qui proposent un service \(ex : la livraison ou l'emballage\), dont profite les autres parties.
 
-* [Enterprise Fees](../fonctionnalites-standards/frais-et-taxes.md) – Multi-Farm Shops may wish to use this tool to allocate fees and charges to parties who provide a service \(such as packing or delivery\) that the other parties benefit from.
-* Multiple managers – A Multi-farm shop might wish to have multiple managers who are able to login and edit the shop. This can be done by adding managers to the central producer’s profile. See ['users' in the Enterprise Settings](../fonctionnalites-standards/parametres.md).
-* [Pricing irregular, indivisible meat items](../fonctionnalites-avancees/produits/pricing-irregular-items-kg.md). This page offers some strategies for pricing items like chickens or pumpkins, which are charged by the kg but which have an irregular weight.
-* [Apply tags](../fonctionnalites-avancees/mise-en-place-dune-boutique/customized-shopping-experience.md) to your customers and customise their shopping experience with tag rules. This can make it possible to restrict certain products and certain shipping or payment methods to particular customers, which becomes especially helpful if you have retail and wholesale customers.
-* [Make your shopfront private](../fonctionnalites-avancees/mise-en-place-dune-boutique/private-shopfront.md) . If you prefer to check the suitability of customers before they can order through your shop, you can make your shopfront require login.
-* [Charge different prices to different customers](../fonctionnalites-avancees/mise-en-place-dune-boutique/customer-specific-pricing.md) . There are a number of ways to configure a shop so that you charge different prices to different customers, such as your rural customers and your metropolitan customers.
-* [Place orders manually](../fonctionnalites-avancees/cycles-de-vente/manual-orders.md) for customers who prefer to submit orders by text or over the phone.
+  Manager multiples
+
+  Il est possible d'avoir plusieurs managers qui auront les accès d'administration de la boutique \(connexion, modification, lecture\). Les managers peuvent être ajoutés directement depuis le profil du producteur revendeur.
+
+  [Les prix "irréguliers" \(pièce de viandes indivisible par exemple\).](../fonctionnalites-avancees/produits/pricing-irregular-items-kg.md)
+
+  Cette page présente les stratégies pour fixer les prix des produits comme les poulets ou les potirons, vendu au kilo mais dont le poids varie.
+
+  [Apliquer des tags](../fonctionnalites-avancees/mise-en-place-dune-boutique/customized-shopping-experience.md) à vos clients et personaliser leur interaction avec le site durant leur shopping. Il est par exemple possible de ne pas afficher certains produits ou certaines méthodes de paiements à certains consommateurs, ce qui peut être utile si vous avez en client des distributeurs ou des acheteurs en gros.
+
+  [Rendre votre boutique privée.](../fonctionnalites-avancees/mise-en-place-dune-boutique/private-shopfront.md) Si vous souhaitez vérifier le fonctionnement de votre boutique avec un nombre de clients restreints, vous pouvez également rendre votre boutique privée en la protégeant par un mot de passe.
+
+  [Réaliser une tarification personnalisée en fonction des clients.](../fonctionnalites-avancees/mise-en-place-dune-boutique/customer-specific-pricing.md) Il est possible configurer une boutique afin d'appliquer une politique de prix différente en fonction de vos groupes de clients.
+
+  [Réaliser des commandes manuelles ](../fonctionnalites-avancees/commandes/create-an-order.md)pour les clients préférant utiliser les sms ou le téléphone.
 
