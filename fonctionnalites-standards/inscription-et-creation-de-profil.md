@@ -1,6 +1,6 @@
 # Inscription et création de profil
 
-1. Rendez-vous sur [https://www.openfoodfrance.org/register](https://www.openfoodfrance.org/register). Vous arrivez sur l'écran ci-dessous : 
+1. Rendez-vous sur [https://www.openfoodfrance.org/register](https://www.openfoodfrance.org/register). 
 2. Renseignez votre adresse email et choisissez un mot de passe
 3. Vous recevrez ensuite un email avec un lien vous permettant de confirmer votre adresse email. Cliquez sur ce lien qui vous dirigera vers la page de connexion.
 4. Connectez-vous.
@@ -11,11 +11,15 @@
 
 ![](../.gitbook/assets/image.png)
 
+
+
+![](../.gitbook/assets/image%20%281%29.png)
+
 **Votre profil est désormais créé, bravo !**
 
 Pour vous connecter à l'interface d'administration, connectez-vous à la plateforme puis cliquez sur la petite roue dentée en haut à droite : 
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 Lors de votre première connexion à l'interface d'administration, on vous demandera de choisir vos types de packages. Pour en savoir plus, consultez [cette page](types-de-package.md).
 

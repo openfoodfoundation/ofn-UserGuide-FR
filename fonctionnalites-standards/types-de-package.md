@@ -4,7 +4,7 @@ Open Food France \(OFF\) offre 5 types de packages, qui vont différer en foncti
 
 ## Pour les producteurs
 
-%accordion%Producer packages%accordion%
+Les packages
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Three-producer-types.png)
 
