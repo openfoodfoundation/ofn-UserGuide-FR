@@ -3,11 +3,11 @@
 1. Rendez-vous sur [https://www.openfoodfrance.org/register](https://www.openfoodfrance.org/register). Vous arrivez sur l'écran ci-dessous : 
 2. Renseignez votre adresse email et choisissez un mot de passe
 3. Vous recevrez ensuite un email avec un lien vous permettant de confirmer votre adresse email. Cliquez sur ce lien qui vous dirigera vers la page de connexion.
-4. Connectez-vous. _Click the ‘Agree to Terms of Service’ box and click ‘Let’s Get Started!’_
+4. Connectez-vous.
 5. Renseignez le nom de votre entreprise et vos coordonnées
-6. Choose if you’re ‘a producer’ \(e.g. farmer, baker, etc\) or ‘not a producer’ \(We call non-producers hubs, which includes: a seller and/or distributor of food: coop, food hub, wholesaler etc.\).
-7. Click the ‘create profile’ button. You'll receive a confirmation email when the profile is created. If you close the registration window now, you can continue to add information to your profile later.
-8. Fill in your profile enterprise description, images, website/social media and business details.
+6. Sélectionnez le type de profil vous correspondant, pour en savoir plus sur les différents types de profil, lisez [l'introduction de ce guide](https://ofnuserguidefr.gitbook.io/guide-utilisateur-open-food-france).
+7. Cliquez sur "créer". Vous allez ensuite recevoir un email vous confirment la création de votre profil. Vous pouvez vous arrêter là et compléter les informations manquantes un autre jour ou continuer à l'étape 8.
+8. Complétez la description de votre entreprise, ajoutez des images, des liens web ainsi que vos coordonnées.
 
 ![](../.gitbook/assets/image.png)
 
