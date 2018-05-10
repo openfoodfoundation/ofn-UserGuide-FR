@@ -1,8 +1,8 @@
 # Types de package
 
-OFN offers 5 packages, which differ according to the type of enterprise \(producer or hub\) and whether they want to have an online shop. When you first create your profile and login, you’ll be prompted to select a package. Your selection here dictates the functionality that your profile will have i.e. whether you'll just have a profile, or also a shop. Different packages may also have different fee structures, depending on how your local instance charges. The different packages are described below for Producers and Non-Producers \(hubs\).
+Open Food France \(OFF\) offre 5 types de packages, qui vont différer en fonction de votre profil d'entreprise \(producteur ou hub\) et si vous souhaitez ou non ouvrir une boutique en ligne. Lors de votre première connexion à l'outil, on vous demandera de sélectionner un package. Votre sélection vous permettra d'obtenir des fonctionnalités spécifiques à votre activitée. Les cinq packages sont décris ci-dessous en deux grands paragraphes : les packages à destination des producteurs et ensuite les packages à destination des hubs.
 
-## For Producers
+## Pour les producteurs
 
 %accordion%Producer packages%accordion%
 
