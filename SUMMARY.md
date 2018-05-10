@@ -13,7 +13,7 @@
 * [Fonctionnalités standards](fonctionnalites-standards/README.md)
   * [Inscription et création de profil](fonctionnalites-standards/inscription-et-creation-de-profil.md)
   * [Sélection des types de package](fonctionnalites-standards/types-de-package.md)
-  * [Paramètres](fonctionnalites-standards/parametres.md)
+  * [Paramètres du profil](fonctionnalites-standards/parametres.md)
   * [Créez ou connectez vos producteurs](fonctionnalites-standards/creez-ou-connectez-vos-producteurs.md)
   * [Produits](fonctionnalites-standards/produits.md)
   * [Méthodes de paiements](fonctionnalites-standards/methodes-de-paiements.md)

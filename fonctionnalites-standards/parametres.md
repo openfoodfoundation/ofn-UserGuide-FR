@@ -1,19 +1,23 @@
-# Paramètres
+---
+description: Utilisez ce menu pour gérer les informations de votre profil
+---
 
-Enterprise Setting is where you can manage details relating to your profile and/or shopfront.
+# Paramètres du profil
 
 ## Accéder aux paramètres
 
-1. Click on 'Enterprise' in the blue horizontal menu
-2. Click on 'Manage' next to your enterprise
+1. Une fois connecté, cliquez sur "Entreprises"
+2. Cliquez ensuite sur le bouton bleu "Gérer"
 
-> Reminder: when editing click the Uupdate **within each section** to save your changes. It’s at the bottom of the page.
+![](../.gitbook/assets/image%20%282%29.png)
 
-### Primary Details
+> Rappel : pour sauvegarder vos modifications, il vous faut cliquer sur "sauvegarder" en bas de page.
 
-**Name: **This is the name of your enterprise. It will be the title of your profile \(and store\).
+### Informations de base
 
-**Primary Producer: **Select the producer box if you are a producer. If your organisation is involved in the local food movement in another capacity, don't select this box \(e.g. food hub, coop, farmer's market, advocacy group\).
+**Nom : **Il s'agit du nom de votre entreprise. Ce sera le titre de votre profil \( et de votre boutique le cas échéant\).
+
+**Producteur ? : **Select the producer box if you are a producer. If your organisation is involved in the local food movement in another capacity, don't select this box \(e.g. food hub, coop, farmer's market, advocacy group\).
 
 \*_Note: only enterprises marked as producers can add products to OFN. Hubs only need to select this option when they sell mixed boxes which they pack, that include items from multiple producers._
 
