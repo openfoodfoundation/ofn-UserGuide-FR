@@ -18,24 +18,19 @@ En créant un profil pour le producteur, vous devenez "manager" de son profil. V
 
 ### Informations importantes avant de créer les profils :
 
-Before creating a profile for your supplying producers you should contact them and let them know that you are creating a profile for them on the OFN. They may wish to be involved in the process and even take some responsibility for managing the profile and their products etc. But most commonly producers will prefer that hubs own and manage their profiles for them.
+Avant de créer les profils, vous devez contacter les producteur et les prévenir que vous créez les profils pour eux. Egalement, demandez-leur quelles sont les informations qu'ils souhaitent partager publiquement ou non, ainsi que la permission d'utiliser leurs images et les liens vers leurs réseaux sociaux. Une fois que vous avez toutes ces informations, la création d'un profil ne devrait pas vous prendre plus de 10 minutes.
 
-Be sure to ask the producer what information they would like shared on their profile. You can often take text and images from their existing websites or social media sites, however you should always ask permission before using any of their content. Once you have their information in front of you, a profile should take you no more than 10 minutes to create.
+_Avant de pouvoir créer plusieurs profils différent, nous devons activer une option sur votre profil \(il s'agit d'une prévention anti-spam\). Pensez à nous contacter pour que nous réalisions l'opération !_
 
-_Before you can create a producer profile you’ll need to email us. This is a spam prevention method, but once we know you aren’t a robot, we’ll give you permission to make extra enterprise profiles_  
-_UK: hello@openfoodnetwork.org.uk_  
-_Canada: tschumilas@rogers.com_  
-_Austraila and other: hello@openfoodnetwork.org_
+### Créer un profil producteur :
 
-### Creating a producer profile:
+Une fois connecté à l'interface d'administration, rendez-vous dans le menu "entreprises" et cliquez sur "nouvelle entreprise" :
 
-You can create a new profile for a producer by clicking on **Enterprises **in the horizontal blue banner, and then clicking **+ New Enterprise**. Remember ‘enterprise’ is a general term used for any producer or hub profile on the OFN.
+![](../.gitbook/assets/image%20%2812%29.png)
 
-![New Enterprise button](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-Enterprise.png)
+Cette action vous amenera sur une page similaire à[ l'édition de votre profil.](parametres.md#acceder-aux-parametres) Quelques remarques cependant :
 
-This will take you to the same form that we saw in the ‘Your Profile’ section of this guide. A few things to note:
-
-**Name:** Enter the name of the producer. If you get an error message saying that this name has already been taken, it means that there is already a profile for this producer. Therefore you can jump to option 2 below \([Supplying producer has a pre-existing OFN profile](creez-ou-connectez-vos-producteurs.md)\).
+**Nom :** Enter the name of the producer. If you get an error message saying that this name has already been taken, it means that there is already a profile for this producer. Therefore you can jump to option 2 below \([Supplying producer has a pre-existing OFN profile](creez-ou-connectez-vos-producteurs.md)\).
 
 **Primary Producer:**Select this box, as you are adding a supplying producer.
 
