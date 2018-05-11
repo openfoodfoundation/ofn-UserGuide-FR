@@ -80,19 +80,19 @@ Les [Méthodes de livraison](types-de-livraisons.md), [les méthodes de paiement
 
 _\* non visible pour les profils simples_
 
-Veuillez vous rendre sur la page [Inventory](../fonctionnalites-avancees/produits/inventory-tool.md) page of this guide before changing the settings.
+Veuillez vous rendre sur la page [Inventaire](../fonctionnalites-avancees/produits/inventory-tool.md) avant de modifier les paramètres ici.
 
 ### Règles de tag
 
 _\* non visible pour les profils simples_
 
-You can control the setting for customer tags by creating tag rules. For more information about this see [customer accounts and tagging](../fonctionnalites-avancees/mise-en-place-dune-boutique/customized-shopping-experience.md).
+Ici sont gérés les tags que vous attribuez à vos clients. Pour plus d'information rendez-vous sur la page [personnalisation du parcours consommateur](../fonctionnalites-avancees/mise-en-place-dune-boutique/customized-shopping-experience.md).
 
 ### Préférences boutique
 
 _\* non visible pour les profils simples_
 
-**Shopfront Message**: This message is optional. It will be displayed at the top of your online store, above the product listings. It’s an opportunity to provide basic information to the customer about how your store works. For example, you may explain how your order cycles are structured, or any membership requirements. It could also be a friendly greeting, or a chance to promote specials. An example is below:
+**Message d'accueil boutique ouverte **: This message is optional. It will be displayed at the top of your online store, above the product listings. It’s an opportunity to provide basic information to the customer about how your store works. For example, you may explain how your order cycles are structured, or any membership requirements. It could also be a friendly greeting, or a chance to promote specials. An example is below:
 
 ![Shopfront Message](https://openfoodnetwork.org/wp-content/uploads/2015/05/Shopfront-Message.png)
 
