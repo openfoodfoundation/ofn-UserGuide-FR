@@ -70,17 +70,17 @@ Un exemple de profil :
 
 Vous pouvez ajouter les labels qui vous correspondent \(Bio, Label Rouge...\) à cet endroit. Ils seront affichés par la suite sur tous vos produits.
 
-### Méthodes de livraison, de paiement et marges
+### Méthodes de livraison, de paiement et marges/commissions
 
 _\* non visible pour les profils simples_
 
-The [Shipping](types-de-livraisons.md) and [Payment Methods](https://github.com/ofnuserguidefr/guide-utilisateur-open-food-france/tree/f72c4e0a78bb6dc0c5b39249e706b0dbac84df5f/payment-methods-2.md) and [Enterprise Fees](frais-et-taxes.md) are covered in greater detail in later chapters in this user manual.
+Les [Méthodes de livraison](types-de-livraisons.md), [les méthodes de paiement](https://github.com/ofnuserguidefr/guide-utilisateur-open-food-france/tree/f72c4e0a78bb6dc0c5b39249e706b0dbac84df5f/payment-methods-2.md) ainsi que [les marges et commissions](frais-et-taxes.md) sont mieux détaillées dans chacun de ces liens respectifs.
 
 ### Catalogue boutique
 
 _\* non visible pour les profils simples_
 
-Simple users can use the recommended setting. Advanced users who need greater flexibility with product management should consult the [Inventory](../fonctionnalites-avancees/produits/inventory-tool.md) page of this guide before changing the settings.
+Veuillez vous rendre sur la page [Inventory](../fonctionnalites-avancees/produits/inventory-tool.md) page of this guide before changing the settings.
 
 ### Règles de tag
 

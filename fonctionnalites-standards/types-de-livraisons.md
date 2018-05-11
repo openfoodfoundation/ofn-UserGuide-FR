@@ -1,4 +1,4 @@
-# Types de livraisons
+# Méthodes de livraisons
 
 You must create a shipping method before you can open your shop.
 
