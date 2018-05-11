@@ -14,9 +14,9 @@ Comment savoir si un producteur a un profil sur OFF ? Rendez-vous sur : [https:/
 
 ## 1\) Le producteur n'a pas de profil OFF existant
 
-If a supplying producer does not have a profile on the OFN, you can create one on their behalf. You’ll be the ‘owner’ of this profile and be able to add the producer’s products and then stock them in your shop. The new producer enterprise will be visible on your dashboard when you login to your existing account. Should the producer ever wish to take ownership of their profile, [ownership can be easily transferred]().
+En créant un profil pour le producteur, vous devenez "manager" de son profil. Vous aurez ainsi la possibilité de modifier ses produits ainsi que son stock. Vous pourrez voir les profils sur votre tableau de bord. Si un producteur vous demande accès à son profil, vous pouvez le lui attribuer [ownershide cette manière]().
 
-### Things to consider before creating a producer profile:
+### Informations importantes avant de créer les profils :
 
 Before creating a profile for your supplying producers you should contact them and let them know that you are creating a profile for them on the OFN. They may wish to be involved in the process and even take some responsibility for managing the profile and their products etc. But most commonly producers will prefer that hubs own and manage their profiles for them.
 
