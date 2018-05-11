@@ -17,17 +17,17 @@ description: Utilisez ce menu pour gérer les informations de votre profil
 
 **Nom : **Il s'agit du nom de votre entreprise. Ce sera le titre de votre profil \( et de votre boutique le cas échéant\).
 
-**Producteur ? : **Select the producer box if you are a producer. If your organisation is involved in the local food movement in another capacity, don't select this box \(e.g. food hub, coop, farmer's market, advocacy group\).
+**Producteur ? : **Cochez cette case uniquement si vous être un producteur.
 
-\*_Note: only enterprises marked as producers can add products to OFN. Hubs only need to select this option when they sell mixed boxes which they pack, that include items from multiple producers._
+\*_Remarque : seuls les producteurs peuvent ajouter des produits sur la plateforme. Les hubs doivent sélectionner cette option lorsqu'ils vendent des paniers avec des produits de différents fournisseurs. _
 
-**Visible in Search: **If your profile is ready to go public, select visible, and it will show in the OFN's directory and map. If you’re still making adjustments, select not visible, until you are ready.
+**Apparait sur la plateforme ?** **: **Si votre profil est prêt, chochez "visible" et il sera visible sur la plateforme ainsi que sur la carte. Vous pouvez le laisser invisible tant que vous modifiez encore ses paramètres \(contenu, images...\).
 
-**Permalink: **You can customise part of the web address which will host to your shop.
+**Nom pour URL** **: **Vous pouvez personnaliser l'adresse web menant jusqu'à votre profil.
 
-**Link to Shop Front: **This is the web address of your shop on the OFN \(if you've chosen a package with shopfront\). You can customise the URL above.
+**Lien URL de la boutique : **Il s'agit du lien vers votre boutique \(si vous avez choisi d'en avoir une\). Ce lien est personnalisable comme vu au paragraphe précédent.
 
-### Address
+### Adresse
 
 This information is used to map your enterprise the OFN map. Your exact address won't show if you only have a profile, however if you have a shopfront, your address will show in text form in your shop's contact details tab.
 

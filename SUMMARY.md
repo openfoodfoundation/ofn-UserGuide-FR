@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Guide utilisateur Open Food France](README.md)
-* [Les différents profils utilisateurs](les-differents-profils-utilisateurs/README.md)
+* Les différents profils utilisateurs
   * [Le producteur sans boutique](les-differents-profils-utilisateurs/le-producteur-sans-boutique.md)
   * [Le producteur en vente directe avec une boutique](les-differents-profils-utilisateurs/le-producteur-en-vente-directe-avec-une-boutique.md)
   * [Le producteur revendeur avec une boutique](les-differents-profils-utilisateurs/le-producteur-revendeur-avec-une-boutique.md)
