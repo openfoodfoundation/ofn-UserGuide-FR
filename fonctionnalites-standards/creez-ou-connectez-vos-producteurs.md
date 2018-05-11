@@ -30,7 +30,7 @@ Une fois connecté à l'interface d'administration, rendez-vous dans le menu "en
 
 Cette action vous amenera sur une page similaire à[ l'édition de votre profil.](parametres.md#acceder-aux-parametres) Quelques remarques cependant :
 
-**Nom :** Renseignez le nom du producteur. Si vous voyez un message d'erreur vous indiquant que le nom existe déjà, cela signifie qu'il existe déjà un profil pour ce producteur. Dans ce cas passez directement  à [l''option 2s a pre-existing OFN profile](creez-ou-connectez-vos-producteurs.md).
+**Nom :** Renseignez le nom du producteur. Si vous voyez un message d'erreur vous indiquant que le nom existe déjà, cela signifie qu'il existe déjà un profil pour ce producteur. Dans ce cas passez directement  à [l''option 2](creez-ou-connectez-vos-producteurs.md).
 
 **Producteur ? : Cochez bien la case !**
 
