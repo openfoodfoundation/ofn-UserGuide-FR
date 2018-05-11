@@ -30,25 +30,17 @@ Une fois connecté à l'interface d'administration, rendez-vous dans le menu "en
 
 Cette action vous amenera sur une page similaire à[ l'édition de votre profil.](parametres.md#acceder-aux-parametres) Quelques remarques cependant :
 
-**Nom :** Enter the name of the producer. If you get an error message saying that this name has already been taken, it means that there is already a profile for this producer. Therefore you can jump to option 2 below \([Supplying producer has a pre-existing OFN profile](creez-ou-connectez-vos-producteurs.md)\).
+**Nom :** Renseignez le nom du producteur. Si vous voyez un message d'erreur vous indiquant que le nom existe déjà, cela signifie qu'il existe déjà un profil pour ce producteur. Dans ce cas passez directement  à [l''option 2s a pre-existing OFN profile](creez-ou-connectez-vos-producteurs.md).
 
-**Primary Producer:**Select this box, as you are adding a supplying producer.
+**Producteur ? : Cochez bien la case !**
 
-**Visible in Search:**You should discuss with the producer whether or not they wish to be visible on the OFN. If they wish to be invisible, their name and profile will still be shown next to their products in your shop, but they will not be searchable on the map or front-page lists.
-
-**Email and Phone:**This email and phone number will be visible on the profile. If this producer does not wish to be contacted by the public, then place your hub’s contact details here.
-
-**About Us:**Remember the OFN is all about putting transparency into the food system and customers are increasingly interested in where their food has come from. Therefore, it pays to add plenty of detail about your producers and what makes them unique.
-
-**Images:**We strongly recommend that all profiles have both logo and promo images. These images make the online experience for customers more enjoyable and engaging, and also lend credibility to the enterprises.
+**Email et téléphone : **Ces informations sont publiques. Si le producteur ne souhaite pas les indiquer, ajoutez les votre.
 
 ## 2\) Le producteur a déjà un profil sur OFF {#supplyingproducer}
 
-If a supplying producer already has an OFN profile, you will need to get their permission to add products to their profile \(if they haven’t already\) and to stock them in your shop. You will be able to find their contact details on their OFN profile. Keep in mind that the producer profile could be managed by another hub, but this is not a problem- the OFN can accommodate two hubs stocking the same producer’s products in their separate shops.
+Dans ce cas, vous devez lui demander sa permission pour ajouter ses produits à votre profils et les rendre visible sur votre boutique. Pour les contacter, vous trouverez leurs coordonnées sur leur profil. N'oubliez pas que l'utilisateur manager du profil peut aussi être un autre hub ;\) Mais deux hubs peuvent vendre les produits d'un même producteur, il n'y a donc pas de problème.
 
-Within the OFN, [Enterprise to Enterprise Permissions \(E2E\)](../fonctionnalites-avancees/collaborer-avec-dautres-entreprises/e2e-permissions.md) are used to control the nature of trading agreements between producers and hubs. Producers can grant hubs different kinds of E2E permissions, in different combinations, to specify exactly which elements of their account the hub can interact with. At the simplest level a producer can grant a hub permission to stock their products in the hub’s shop. They may also be happy to allow the hub to create and modify their products, or edit their profile.
+Sur OFF, [la gestion des permissions \(E2E\)](../fonctionnalites-avancees/collaborer-avec-dautres-entreprises/e2e-permissions.md) est utilisé pour contrôler la nature des échanges entre les producteurs et les hubs. Les producteurs peuvent donner différente permissions aux hubs, en les combinant de manière unique. Au plus simple, le producteur donne la permission au hub de vendre ses produits, voir de les modifier et de modifier leur profil.
 
-[This page](../fonctionnalites-avancees/collaborer-avec-dautres-entreprises/e2e-permissions.md) covers all of the details of the different E2E permissions available. Discuss with the producer which permissions you require. Instruction for how the producer can then then grant the agreed upon E2E permissions can be found [here](../fonctionnalites-avancees/collaborer-avec-dautres-entreprises/e2e-permissions.md).
-
-Have a suggestion for how we could improve this feature? Send us an email or join the conversation on our community forum.
+[Cette page](../fonctionnalites-avancees/collaborer-avec-dautres-entreprises/e2e-permissions.md) donne tous les détails sur les permissions existantes. Pour le producteur, les inscructions sont par [ici](../fonctionnalites-avancees/collaborer-avec-dautres-entreprises/e2e-permissions.md).
 
