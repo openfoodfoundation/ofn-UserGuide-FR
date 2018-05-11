@@ -1,42 +1,28 @@
 # Tableau de Bord
 
-The ‘Dashboard’ is the behind the scenes control center of your account. From the dashboard you can manage your profile, and all elements of your online shop, if you have a shopfront.
+Le tableau de bord sert à piloter l'ensemble des paramètres de votre plateforme. Vous pouvez y gérer les informations de votre profil, ou de votre boutique le cas échéant.
 
-Access your dashboard from the homepage by first logging in 
+Pour y accéder il est nécessaire d'être connecté et d'avoir cliqué sur la petite roue dentée en haut à droite, puis sur administration : 
 
-![Log in](https://openfoodnetwork.org/wp-content/uploads/2015/05/Log-In.png)
 
-, and then clicking on the cog
 
-![cog icon](https://openfoodnetwork.org/wp-content/uploads/2015/05/Cog.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
- in the top right hand corner, and selecting ‘Administration’ from the dropdown menu.
+Retrouvez ci-dessous les captures du tableau de bord pour chaque profil d'utilisation.
 
-From the dashboard you can edit the ‘[type](https://github.com/ofnuserguidefr/guide-utilisateur-open-food-france/tree/f72c4e0a78bb6dc0c5b39249e706b0dbac84df5f/producer-profile-types.md)’ of Profile you want, by clicking on **Change Package.**
-
-The screenshots below show the dashboard view for different types of users.
-
-%accordion%Producer - Profile only%accordion%
+### Profil producteur simple
 
 ![Dashboard \(Profile Only\)](https://openfoodnetwork.org/wp-content/uploads/2015/05/Dashboard-Profile-Only.png)
 
-%/accordion%
+### Profil producteur avec boutique
 
-%accordion%Producer - Profile and Shop%accordion%
+![](../.gitbook/assets/image%20%2812%29.png)
 
-![Dashboard \(Shop\)](https://openfoodnetwork.org/wp-content/uploads/2015/05/Dashboard-Shop.png)
-
-%/accordion%
-
-%accordion%Hub- Profile only%accordion%
+### Profil hub simple
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Hub-dashboard-profile-only.png)
 
-%/accordion%
+### Profil hub avec boutique
 
-%accordion%Hub- Profile and Shop%accordion%
-
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Hub-dashboard-shopfront.png)
-
-%/accordion%
+![](../.gitbook/assets/image%20%287%29.png)
 
