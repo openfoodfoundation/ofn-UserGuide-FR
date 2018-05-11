@@ -104,17 +104,17 @@ _\* non visible pour les profils simples_
 
 **Trier les cycles de vente par** : Si votre boutique aura [plus d'un cycle de vente ouvert en même temps](../fonctionnalites-avancees/cycles-de-vente/opening-more-than-one-order-cycle.md) vous pouvez sélectionner l'ordre d'apparition des cycles sur la boutique en ligne : soit par date de fermeture, soit par date d'ouverture.
 
-**Boutique visible par tous** **? **: If you select ‘public’, any shopper will be able to see your shopfront. If you select ‘visible to registered customers only’, shoppers who come to your shop will be prompted to login and only those users who are on your customers list will be given access to your shop.
+**Boutique visible par tous** **? **: Si vous sélectionnez "visible par tous", n'importe quel internaute pourra voir votre boutique. Si vous selectionnez "visible uniquement par les acheteurs logués’, vos clients seront ceux que vous aurez pré-invités avec le mot de passe pour accéder à votre boutique.
 
-**Guest Orders?**: If you select ‘allow guest checkout’ shoppers won’t need to login to the OFN to shop with you. If you want shoppers to login before they can place their order, select ‘require login to order’. Note the Guest Orders setting is not applicable if you have chosen ‘visible to registered customers only’ in the setting above.
+**Commandes des invités **: Si vous sélectionnez "autoriser les commandes en mode invité" les internautes pourront commander vos produits sans être connectés à la plateforme. Si vous souhaitez qu'ils soient connectés sélectionnez "demander que l'acheteur se loggue pour pouvoir commander". Ce menu n'est pas applicable si vous avez mis en place une boutique avec mot de passe \(paragraphe précédent\).
 
 ### Managers
 
-**Owner: **This is the primary user responsible for this enterprise.
+**Manager principal : **L'email de l'utilisateur principal de la plateforme chez vous.
 
-**Notifications:** This is the email address where OFN system correspondence will be directed, i.e. order confirmations etc. If this email differs from your login email, you will need to confirm the email address. Upon confirmation this email will be added as a manager \(see below\).
+**Notifications : **L'email auquel toutes les correspondances seront redirigés \(confirmation de commandes,...\). Si cet email est différent de l'email vous permettant de vous connecter, vous devrez valider l'adresse grace à l'email reçu une fois l'adresse renseignée dans le champ. Une fois l'adresse email confirmée, cette adresse email aura les droits de manager également \(voir paragraphe suivant\).
 
-**Manager: **Other OFN users who have been granted permission to manage this account. You can search for existing emails who have registered for an OFN account.
+**Manager : **Ajoutez d'autre utilisateurs en tant que managers. Il est nécessaire qu'ils aient tout d'abord créé un compte sur la plateforme.
 
-_\* Note: The following fields are only visible to users who’ve opted to have an online shop. This includes producer run shops, and hub run shops._
+_\* Remarque : Ces champs sont disponibles uniquement aux utilisateurs avec boutique en ligne._
 
