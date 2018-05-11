@@ -1,18 +1,18 @@
 # Créez ou connectez vos producteurs
 
-> _This page is only relevant to users who are not producers, or producers who want to sell products that come from other producers in their shop._
+> _Cette page ne concerne que soit les non-producteurs, soit les producteurs souhaitant vendre des produits d'autres fournisseurs._
 
-For such users, this step is a necessary precursor to adding your product range to your shop.
+Pour ces utilisateurs, cette étape est préliminaire à l'ajout de produits dans votre boutique.
 
-All products on the OFN must ‘belong’ to an OFN producer profile. This is an important feature on the OFN, as it enables customers to trace the origin of products. An example of how this displays in the shopfront is shown below.
+Tous les producteurs vendant des produits sur Open Food France \(OFF\) doivent détenir un profil sur la plateforme. Cette fonctionnalité est important car elle permet aux internaute de connaitre l'origine de leurs produits. L'affichage est réalisé de la manière suivante \(juste en-dessous du nom du produit\) :
 
-![Source Identified](https://openfoodnetwork.org/wp-content/uploads/2015/05/Source-Identified.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
-So as a hub, what do you need to do before adding your products? Well, there are two possibilities, depending on whether or not your supplying producer already has an OFN profile.
+En tant que hub, vous avez deux options : soit vous créez les profils de tous les producteurs avec qui vous travaillez, soit vous vous connectez à des profils producteur déjà existant sur la plateforme.
 
-How do you know if you supplying producer has an OFN profile? Go to www.openfoodnetwork.org.au/producers and search for them.
+Comment savoir si un producteur a un profil sur OFF ? Rendez-vous sur : [https://www.openfoodfrance.org/producers\#/](https://www.openfoodfrance.org/producers#/) et recherchez-les. 
 
-## 1\) Supplying producer does not have an OFN profile.
+## 1\) Le producteur n'a pas de profil OFF existant
 
 If a supplying producer does not have a profile on the OFN, you can create one on their behalf. You’ll be the ‘owner’ of this profile and be able to add the producer’s products and then stock them in your shop. The new producer enterprise will be visible on your dashboard when you login to your existing account. Should the producer ever wish to take ownership of their profile, [ownership can be easily transferred]().
 
@@ -47,7 +47,7 @@ This will take you to the same form that we saw in the ‘Your Profile’ sectio
 
 **Images:**We strongly recommend that all profiles have both logo and promo images. These images make the online experience for customers more enjoyable and engaging, and also lend credibility to the enterprises.
 
-## 2\) Supplying producer has a pre-existing OFN profile {#supplyingproducer}
+## 2\) Le producteur a déjà un profil sur OFF {#supplyingproducer}
 
 If a supplying producer already has an OFN profile, you will need to get their permission to add products to their profile \(if they haven’t already\) and to stock them in your shop. You will be able to find their contact details on their OFN profile. Keep in mind that the producer profile could be managed by another hub, but this is not a problem- the OFN can accommodate two hubs stocking the same producer’s products in their separate shops.
 
