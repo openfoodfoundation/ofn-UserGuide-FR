@@ -64,7 +64,7 @@ L'adresse nous permet de vous géolocaliser sur une carte. Si vous disposez d'un
 
 Un exemple de profil :
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 ### Propriétés / Labels \(visible seulement par les producteurs\)
 
@@ -92,21 +92,21 @@ Ici sont gérés les tags que vous attribuez à vos clients. Pour plus d'informa
 
 _\* non visible pour les profils simples_
 
-**Message d'accueil boutique ouverte **: This message is optional. It will be displayed at the top of your online store, above the product listings. It’s an opportunity to provide basic information to the customer about how your store works. For example, you may explain how your order cycles are structured, or any membership requirements. It could also be a friendly greeting, or a chance to promote specials. An example is below:
+**Message d'accueil boutique ouverte **: Ce message est facultatif. Il sera afficé sur votre boutique juste au-dessus des produits \(cf. exemple ci-dessous\). C'est l'endroit idéal pour des informations importantes comme des commandes spéciales ou des informations particulières sur vos cycles de vente. 
 
-![Shopfront Message](https://openfoodnetwork.org/wp-content/uploads/2015/05/Shopfront-Message.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
-**Shopfront Closed Message**: This message will be displayed when your shopfront is closed \(no active order cycle\). It’s a chance to tell customers about how your ordering works, and when the shop will next be open and accepting orders.
+**Message d'accueil boutique fermée **: Ce message s'affiche lorsque votre boutique est fermée. L'occasion d'indiquer la date de la réouverture !
 
-![store closed](https://openfoodnetwork.org/wp-content/uploads/2015/05/store-closed.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
-**Publicly visible shopfront?**: If you select ‘public’, any shopper will be able to see your shopfront. If you select ‘visible to registered customers only’, shoppers who come to your shop will be prompted to login and only those users who are on your customers list will be given access to your shop.
+**Ordre d'affichage des catégories :** Les produits sont rangés par ordre alphabétique dans votre boutique, au sein de leur catégorie. Vous pouvez changer l'ordre des catégories par celui qui vous convient le mieux.
+
+**Trier les cycles de vente par** : Si votre boutique aura [plus d'un cycle de vente ouvert en même temps](../fonctionnalites-avancees/cycles-de-vente/opening-more-than-one-order-cycle.md) vous pouvez sélectionner l'ordre d'apparition des cycles sur la boutique en ligne : soit par date de fermeture, soit par date d'ouverture.
+
+**Boutique visible par tous** **? **: If you select ‘public’, any shopper will be able to see your shopfront. If you select ‘visible to registered customers only’, shoppers who come to your shop will be prompted to login and only those users who are on your customers list will be given access to your shop.
 
 **Guest Orders?**: If you select ‘allow guest checkout’ shoppers won’t need to login to the OFN to shop with you. If you want shoppers to login before they can place their order, select ‘require login to order’. Note the Guest Orders setting is not applicable if you have chosen ‘visible to registered customers only’ in the setting above.
-
-**Shopfront Category Ordering**: The products within your store are arranged alphabetically, within their product category. You can order the product categories as you’d like them to appear, from top to bottom in your store. E.g. you may wish to have your Meat & Fish products to appear at the top, with your less important Pickles & Preseves appearing further down the shopfront.
-
-**Sort order cycles on shopfront by: **If your shopfront will have [more than one order cycle open at the same time](../fonctionnalites-avancees/cycles-de-vente/opening-more-than-one-order-cycle.md) you can select which order they appear in the shopfront. You may sorted them by closing date \(closing soonest first\) or by opening date \(opening soonest first\).
 
 ### Managers
 
