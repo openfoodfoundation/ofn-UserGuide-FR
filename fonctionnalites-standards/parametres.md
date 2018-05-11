@@ -29,77 +29,68 @@ description: Utilisez ce menu pour gérer les informations de votre profil
 
 ### Adresse
 
-This information is used to map your enterprise the OFN map. Your exact address won't show if you only have a profile, however if you have a shopfront, your address will show in text form in your shop's contact details tab.
+L'adresse nous permet de vous géolocaliser sur une carte. Si vous disposez d'un profil simple, votre adresse complète ne s'affichera pas. En revanche, si vous disposez d'une boutique, votre adresse sera visible dans le menu "contact" de la boutique.
 
 ### Contact
 
-**Contact Name: **We ask for a contact name for the OFN’s records. This name will not be displayed on your profile, but will be included in order confirmation emails if you're running a shop.
+**Nom : **Ce nom ne s'affichera pas sur votre profil, mais dans les emails de confirmation de commande uniquement si vous disposez d'une boutique.
 
-**Email and Phone and Website: **These contact points will be listed on your OFN profile and shopfront, as a means for others to make contact with you.
+**Email, téléphone et site internet : **Ces informations seront visibles sur votre profil afin que les internautes puissent vous contacter.
 
-### Social
+### Réseaux sociaux
 
-**Facebook address, Instagram, LinkedIn, Twitter: **Links to these pages will be created on your profile and shopfront.
+**Facebook address, Instagram, LinkedIn, Twitter : **Ce menu vous permet d'ajouter à votre profil les liens vers vos pages sur ces réseaux sociaux.
 
-### About
+### A propos
 
-**Short description: **This will be displayed when your profile is viewed in the list. It should be under 1-2 sentences which briefly describe what you do.
+**Description \(en bref\) : **Une ou deux phrase présentant votre entreprise, ce que vous faites. Cette description s'affichera sur votre profil lorsqu'il est affiché via une petite vignette.
 
-**About Us: **This is a longer description of your enterprise. It will be shown when your profile is viewed in full. It should be half to one page long.
+**A propos : **Ici vous avez la palce pour une description plus longue \(une page environ\). Elle s'affichera lors d'une présentation complète de votre profil.
 
-### Business Details
+### Juridique
 
-**ABN:** this will not be displayed publicly. It is required for shop users who want to print invoices.
+**Siret** **:** Cette information ne sera pas publique. Elle est important pour les détenteurs d'une boutique, lorsqu'ils veulent émettre des factures depuis la plateforme.
 
-**ACN:** this will not be displayed publicly.
+**N° de TVA intracommunautaire :** Cette information ne sera pas publique.
 
-**Charge GST?**– If you wish to charge GST for your products select ‘yes’.
+**Soumis à la TVA ? **– Si vous êtes soumis à la TVA, sélectionnez "oui".
 
 ### Images
 
-**Logo image: **This will be visible when your profile is viewed in brief, as a pop up window. It will also show on your profile. This image must be square, or it will be cropped/warped.
+**Logo : **Le logo sera viisble lorsque votre profil est affiché en mode réduit, mais également en version complète. L'image d'origine doit être carrée, sinon elle peut se faire couper lors du téléchargement.
 
-**Promo image: **This image will run horizontally along the top of your profile page. It should be 1200 x 260 pixels in size.
+**Promo image : **Votre bannière doit mesurer 1200 x 260, toute image non conforme sera rognée.  
+ La bannière est affichée en haut de la page de votre entreprise et dans sa version condensée \(pop-up\).
 
-An example profile is shown below.
+Un exemple de profil :
 
-![](../.gitbook/assets/demo-profile.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
-### Properties \(visible to producers only\)
+### Propriétés / Labels \(visible seulement par les producteurs\)
 
-You can apply properties \(such as free range or certified organic\) to your enterprise. These properties will then be automatically applied to all of your products. For an in depth discussion of properties click [here](../fonctionnalites-avancees/produits/product-properties.md).
+Vous pouvez ajouter les labels qui vous correspondent \(Bio, Label Rouge...\) à cet endroit. Ils seront affichés par la suite sur tous vos produits.
 
-### Users
+### Méthodes de livraison, de paiement et marges
 
-**Owner: **This is the primary user responsible for this enterprise.
-
-**Notifications:** This is the email address where OFN system correspondence will be directed, i.e. order confirmations etc. If this email differs from your login email, you will need to confirm the email address. Upon confirmation this email will be added as a manager \(see below\).
-
-**Manager: **Other OFN users who have been granted permission to manage this account. You can search for existing emails who have registered for an OFN account.
-
-_\* Note: The following fields are only visible to users who’ve opted to have an online shop. This includes producer run shops, and hub run shops._
-
-### Inventory Settings
-
-_\* not visible to profile-only users_
-
-Simple users can use the recommended setting. Advanced users who need greater flexibility with product management should consult the [Inventory](../fonctionnalites-avancees/produits/inventory-tool.md) page of this guide before changing the settings.
-
-### Shipping Methods, Payment Methods and Enterprise Fees
-
-_\* not visible to profile-only users_
+_\* non visible pour les profils simples_
 
 The [Shipping](types-de-livraisons.md) and [Payment Methods](https://github.com/ofnuserguidefr/guide-utilisateur-open-food-france/tree/f72c4e0a78bb6dc0c5b39249e706b0dbac84df5f/payment-methods-2.md) and [Enterprise Fees](frais-et-taxes.md) are covered in greater detail in later chapters in this user manual.
 
-### Tag Rules
+### Catalogue boutique
 
-_\* not visible to profile-only users_
+_\* non visible pour les profils simples_
+
+Simple users can use the recommended setting. Advanced users who need greater flexibility with product management should consult the [Inventory](../fonctionnalites-avancees/produits/inventory-tool.md) page of this guide before changing the settings.
+
+### Règles de tag
+
+_\* non visible pour les profils simples_
 
 You can control the setting for customer tags by creating tag rules. For more information about this see [customer accounts and tagging](../fonctionnalites-avancees/mise-en-place-dune-boutique/customized-shopping-experience.md).
 
-### Shop Preferences
+### Préférences boutique
 
-_\* not visible to profile-only users_
+_\* non visible pour les profils simples_
 
 **Shopfront Message**: This message is optional. It will be displayed at the top of your online store, above the product listings. It’s an opportunity to provide basic information to the customer about how your store works. For example, you may explain how your order cycles are structured, or any membership requirements. It could also be a friendly greeting, or a chance to promote specials. An example is below:
 
@@ -116,4 +107,14 @@ _\* not visible to profile-only users_
 **Shopfront Category Ordering**: The products within your store are arranged alphabetically, within their product category. You can order the product categories as you’d like them to appear, from top to bottom in your store. E.g. you may wish to have your Meat & Fish products to appear at the top, with your less important Pickles & Preseves appearing further down the shopfront.
 
 **Sort order cycles on shopfront by: **If your shopfront will have [more than one order cycle open at the same time](../fonctionnalites-avancees/cycles-de-vente/opening-more-than-one-order-cycle.md) you can select which order they appear in the shopfront. You may sorted them by closing date \(closing soonest first\) or by opening date \(opening soonest first\).
+
+### Managers
+
+**Owner: **This is the primary user responsible for this enterprise.
+
+**Notifications:** This is the email address where OFN system correspondence will be directed, i.e. order confirmations etc. If this email differs from your login email, you will need to confirm the email address. Upon confirmation this email will be added as a manager \(see below\).
+
+**Manager: **Other OFN users who have been granted permission to manage this account. You can search for existing emails who have registered for an OFN account.
+
+_\* Note: The following fields are only visible to users who’ve opted to have an online shop. This includes producer run shops, and hub run shops._
 
