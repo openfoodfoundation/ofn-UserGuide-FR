@@ -6,15 +6,15 @@ Pour y accéder il est nécessaire d'être connecté et d'avoir cliqué sur la p
 
 
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 Retrouvez ci-dessous les captures du tableau de bord pour chaque profil d'utilisation.
 
 ### Profil producteur avec boutique
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
 ### Profil hub avec boutique
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 

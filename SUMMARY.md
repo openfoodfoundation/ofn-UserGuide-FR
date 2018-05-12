@@ -21,7 +21,7 @@
   * [Cycle de vente pour les hub](fonctionnalites-standards/cycle-de-vente-pour-les-hub.md)
   * [Cycle de vente pour les fournisseurs](fonctionnalites-standards/cycle-de-vente-pour-les-fournisseurs.md)
   * [Visualisation des commandes](fonctionnalites-standards/visualisation-des-commandes.md)
-  * [Frais et taxes](fonctionnalites-standards/frais-et-taxes.md)
+  * [Marges et commissions](fonctionnalites-standards/frais-et-taxes.md)
   * [Tableau de Bord](fonctionnalites-standards/tableau-de-bord.md)
 * [Fonctionnalités avancées](fonctionnalites-avancees/README.md)
   * [Produits](fonctionnalites-avancees/produits/README.md)

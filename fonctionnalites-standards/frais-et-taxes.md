@@ -1,55 +1,60 @@
-# Frais et taxes
+# Marges et commissions
 
-Enterprise fees are most relevant to producers and hubs who are working together in sales and distribution activities. It allows costs associate with admin, packing, transport, sales and fundrasing to be allocated to different parties. For single producers, selling only their own produce, these costs are incorporated into the price of goods and shipping, so applying enterprise fees is usually not neccessary.
+Cette fonctionnalité est utile pour les producteurs et les hubs travaillant ensemble : cela permet d'allouer les coûts associés à l'administration, l'emballage, le transport et la vente à chacune des parties prenantes. Pour les producteurs vendant leurs propres produits en direct, ces coûts sont déjà présents dans le prix du produit, ainsi appliquer des marges ou des commissions ne semble pas nécessaire.
 
-When an enterprise fee is applied, it will be added to the total price of the product, and customers will be able to view what percentage of the price is attributable to enterprise fees. They can do this in the store by clicking on the pie graph icon, next to each product. See below for an example.
+Lorsqu'une marge est appliquée, le consommateur est capable de voir la constitution du prix sur la boutique en cliquant sur le camembert. Exemple ci-dessous :
 
-![Enterprsie fee in shopfront](https://openfoodnetwork.org/wp-content/uploads/2015/05/Enterprsie-fee-in-shopfront.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
-## Accessing Enterprise Fees
+## Accéder au menu marge et commissions
 
-Click **Enterprises **in the blue horizontal menu, and then click **Manage **next to your enterprise. Then, click Enterprise Fees in the menu on the left hand side.
+Sur l'interface d'administration, rendez-vous sur le menu **Enterprises**, puis cliquez sur **Gérer **et enfin sur "marges et commissions" dans le menu de gauche.
 
-![Access demo farm](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-demo-farm.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
-## Adding Enterprise Fees
+## Ajouter des marges et commissions
 
-![Enterprise Fees Screenshot](https://openfoodnetwork.org/wp-content/uploads/2015/05/Enterprise-Fees-Screenshot.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
-**Enterprise:** In the first column, select the enterprise who will receive this fee.
+**Entreprise :** Dans la première colonne, sélectionnez l'entreprise qui recevra la marge.
 
-**Fee Type: **Select the service that this fee applied to.
+**Type de marge** **: **Sélectionnez le service lié à la marge \(transport, emballage...\)
 
-**Name:**Choose a name for this fee.
+**Nom : **Choisissez un nom pour la marge.
 
-**Tax Category:**Select the appropriate tax rate.
+**TVA applicable : **Sélectionnez la TVA applicable. Si aucune TVA n'est appliquée, indiquez "TVA 0%".
 
-**Calculator:**The fee can be calculated in a number of ways. Select the calculator which best applies.
+**Calculateur : **La marge peut être calculée de différentes manières. Sélectionnez le calcul qui s'applique le mieux.
 
-Click Update, to create the enterprise fee. Once the fee has been created you can specify how the fee will be calcuated in the Calculator Values column.
+Pour finaliser, cliquez sur "Mettre à jour". Une fois que la marge a été créée, vous pouvez indiquer comment la marge sera calculée dans la colonne "Montant pour calculs".
 
-### Fee Calculators
+![](../.gitbook/assets/image%20%2811%29.png)
 
-![Fee calculators](https://openfoodnetwork.org/wp-content/uploads/2015/05/Fee-calculators.png)
+### Le calculateur
 
-**Weight \(per kg\) **– this fee is applied to products on a per kg basis. The fee will only be applied to products which are priced at a per kg rate, not products listed as items \(e.g. A product listed as ‘1 bunch of parsley’ will not receive this fee\)
+![](../.gitbook/assets/image%20%2816%29.png)
 
-**Flat Percent **– This fee is charged as a percentage of the total amount charged in the order.
+**Pourcentage net **– This fee is charged as a percentage of the total amount charged in the order.
 
-**Flat Rate \(per order\) **– This fee is applied as standard fee to all orders, regardless of the size of the order.
+**Poids \(au kg\) **– cette marge s'applique aux produits vendus par kg. Elle ne s'appliquera donc pas aux produits vendus à la pièce.
 
-**Flexible Rate** – This calculator is typically used for promotional discounts where you charge a reduced fee as the customer makes more purchases of that item.
+**Flat Rate \(per order\) **– Cette marge s'applique de manière standard à toutes les commandes, quelque soit leur taille ou leur unité.
 
-* ‘First Item Cost’: The fee charged for the first item in the order.
-* ‘Additional Item Cost’: The fee charged for items beyond the first item.
-* ‘Max Items’: The maximum number of items on which the fee will be applied. Items purchased beyond this amount will be not be charged the fee.
+**Taux flexible** – Ce calcul est utilisé pour les remises promotionnelles \(quand vous appliquez une marge réduite lorsque le consommateur achète en gros\).
 
-For example: If the first cost is $2, Additional Item Cost is $1 and the maximum items is three. If a customer orders 5 of the item, they will be charged $2 for the first item, $1 for the second and third, and no fee for the fourht and fifth.
+* ‘Coût du premier item’ : La marge appliquée au premier produit
+* ‘Coût d'item additionnel’ : La marge appliquée aux produits suivants
+* ‘Nombre maximum d'objets’ : Le nombre maximum d'objets sur lesquels la marge va s'appliquer. Les objets après ce nombre n'auront pas de marge associée.
 
-**Flat Rate \(per item\)** – This fee is a constant fee, applied to products listed as ‘items’. \(it will not be applied to products listed as per kg, or per L\)
+![](../.gitbook/assets/image%20%284%29.png)
 
-**Price Sack **– This fee is used to charge a discount on fees for orders which exceed a certain dollar amount.
+Exemple :  Si la marge du premier est de 2€, celle de l'objet supplémentaire 1 € et le nombre maximum d'objet est de 3. Si un client en commande 5, il paiera 2 € pour le premier, 1€ pour le second et aucune commissions pour les objets 3 et 4.
 
-* ‘Minimum Amount’: If the order’s total is below this amount, they will be charged the ‘Normal Amount’.
-* ‘Discount Amount’: Orders which are equal to or greater than the minimum amount will be charged the ‘Discount Amount’.
+**Taux net \(par item\)** – Cette marge est constante et s'applique uniquement aux produits vendus à la pièce \(et non ceux vendus au poids\).
+
+**Price Sack **– Cette marge est utilisée pour appliquer une marge réduite à partir du moment où la commande atteind un certain montant.
+
+* ‘Montant minimal’ : Si la commande est en-dessous de ce montant, le consommateur devra payer le ‘Montant normal'.
+* ‘Montant de la réduction’ : Si la commande est égale ou supérieure au montant minimal, le consommateur devra payer le ‘Montant de la réduction’.
+* 'Currency' : La monnaie utilisée \(généralement "EUR"\).
 
