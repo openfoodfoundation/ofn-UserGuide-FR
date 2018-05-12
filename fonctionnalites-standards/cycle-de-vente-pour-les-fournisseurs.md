@@ -1,22 +1,26 @@
 # Cycle de vente pour les fournisseurs
 
-_\*Not a producer? Go to _[_Order Cycles for hubs_](cycle-de-vente-pour-les-hub.md)_. _
+_\*Vous ne produisez pas ? Rendez-vous sur _[_Cycle de vente pour les hubs_](cycle-de-vente-pour-les-hub.md)_. _
 
-Many producers, who are selling small quantities of products, may find it useful to have an order cycle that is perpetually open, and to fulfill orders individually, as they are placed. Other producers, who sell large quantities of products, to multiple customers, find it useful to establish periodic order cycles, which are collectively fulfilled at the end of a period. For instance, a farmer may have an order cycle which is open \(accepting orders\) for two weeks. At the end of this order cycle, all of the orders are packed, sorted and distributed at the same time. Once this batch of orders has been fulfilled, a new order cycle is opened. Structuring order cycles in this way can make the tasks of packing and delivering orders more efficient.
+Beaucoup de fournisseurs, qui vendent leurs produits en petites quantités, préfèrent avoir un cycle de vnete ouvert en continu et répondre aux commandes au fil de l'eau. D'autres, bien souvent ceux qui vendent des produits en grande quantité à un nombre important de consommateurs vont préférer réaliser des cycle de vente plus périodiques. Par exemple, les ventes seront ouvertes pendant deux semaines \(un cycle de vente de deux semaines\) : à la fin de ces deux semaines, toutes les commandes seront emballées et distribuées en même temps. Une fois que ce lot de commandes a été géré, un nouveau cycle de vente redémarre. Cela permet d'optimiser l'emballage et le transport.
 
-## 1. Access Order Cycles
+## 1. Accéder aux cycles de vente
 
-Access Order Cycles from the horizontal menu at the top of the page.
+Connecté sur l'interface d'administration, sélectionnez le dernier menu sur votre droite :
 
-## 2. Create a New Order Cycle
+![](../.gitbook/assets/image%20%2824%29.png)
 
-* Note you cannot create an order cycle until you have set up [shipping ](types-de-livraisons.md)and [payment methods](methodes-de-paiements.md).
+## 2. Créer un nouveau cycle de vente
 
-IMAGE ** Name: **Choose a name for this order cycle. This will only be visible to you, so it can be named anything which is meaningful for you. We recommend that you follow a consistent naming protocol e.g FoodHub\_Week27\_2014.
+* **Attention !** Vous ne pouvez pas créer de cycle de vente tant que vous n'avez pas indiqué de [méthode de livraisons ](types-de-livraisons.md)ni de[ méthodes de paiements](methodes-de-paiements.md).
 
-**Orders Open:** This is the date at which your OFN store will be open, and start to accept orders.
+![](../.gitbook/assets/image%20%287%29.png)
 
-**Orders Close:** This is the date when your OFN store will close, and stop accepting orders. If you intend to have an order cycle which is continuously open, select a close date which is well into the future.
+**Nom : **Choississez un nom pou le cycle. Il sera visible uniquement pour vous, donc indiquez quelque chose qui vous permettra de le retrouver facilement ensuite. Par exemple vous pouvez choisir un protocole du type _Commandesemaine26\_2018._
+
+**Commandes à partir de :** La date à laquelle votre boutique commencera à accepter des commandes.
+
+**Orders Close :** La date à laquelle la boutique arrêtera d'accepter des commandes. Si vous souhaitez laisser votre boutique ouverte en continue, indiquer une date dans un futur très lointain.
 
 **Ready for \(ie Date/Time\):** This box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfills orders on an individual basis rather then in bulk, you should enter something like ‘Two days after order is received’. You can also put information about your delivery methods in your ‘shopfront message’. The example below shows how ‘Friday 9th’ is displayed in a store.
 
@@ -34,21 +38,19 @@ IMAGE
 
 **Fees:** There is the option of adding a coordinator fee. Here you can apply an enterprise fee that has been created for your enterprise. This function is most relevant to producers and hubs who are working in partnership. It allows an administration fee to be distributed to the party who is responsible for coordinating orders. Most often, this is not relevant to single producers selling their own products.
 
-## 3. Open the shopfront
+## 3. Ouvrez votre boutique
 
-Click Create to save this order cycle.
+Cliquez sur "créer" pour sauvegarder votre cycle de vente.
 
-\*Note When you create an order cycle, and the opening and closing dates fall either side of the present, a shopfront will become live on the homepage. If you are not ready to have your store open, temporarily put the opening and closing dates in the past \(this can be edited when you are ready to open\).
+\*Remarque : lorsque vous créez un cycle de vente, si une des deux dates indiquées se situe dans le moment présent, la boutique sera automatiquement ouverte sur la plateforme. Si vous n'êtes pas prêt à ouvrir tout de suite, indiquez des dates dans le passé, que vous pourrez changer ensuite. 
 
-For periodic, repetitive order cycles, you can copy an existing order cycle and change the dates, to make the process quicker. See below.
+Si votre cycle de vente se répête de manière périodique et régulière, vous pouvez duppliquer un cycle de vente passé afin d'aller plus vite \(bouton orange sur la capture, attention il n'est pas orange sur la plateforme\) :
 
-IMAGE
+![](../.gitbook/assets/image%20%289%29.png)
 
-Order cycles will display as green when they are active, yellow when schedules for a future date, and grey when they have closed. When an order cycle close over one month ago, it will no longer display on this list. To view all of your past order cycles click ‘show more’ at the top of the list.
+Les cycles de vente sont présentés en vert lorsqu'ils sont actifs, jaune lorsqu'ils sont indiqués pour une date dans le futur et gris lorsqu'ils sont fermés. Un mois après la fermeture d'un cycle de vente, il n'apparaitra plus dans cette liste, il faudra cliquer sur "voir plus" pour voir tous vos cycles de vente.
 
-**Advanced Settings **These settings are relevant for multi distributor order cycles. See [Inventory ](../fonctionnalites-avancees/produits/inventory-tool.md)for details of these settings.
+### Fonctionnalités avancées
 
-### Related advanced features:
-
-* [Creating ‘display only’ order cycles](../fonctionnalites-avancees/cycles-de-vente/display-only-order-cycles.md)
+* [Créez des cycles de vente en affichage seul](../fonctionnalites-avancees/cycles-de-vente/display-only-order-cycles.md)
 

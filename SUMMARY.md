@@ -18,7 +18,7 @@
   * [Produits](fonctionnalites-standards/produits.md)
   * [Méthodes de paiements](fonctionnalites-standards/methodes-de-paiements.md)
   * [Méthodes de livraisons](fonctionnalites-standards/types-de-livraisons.md)
-  * [Cycle de vente pour les hub](fonctionnalites-standards/cycle-de-vente-pour-les-hub.md)
+  * [Cycle de vente pour les hubs](fonctionnalites-standards/cycle-de-vente-pour-les-hub.md)
   * [Cycle de vente pour les fournisseurs](fonctionnalites-standards/cycle-de-vente-pour-les-fournisseurs.md)
   * [Visualisation des commandes](fonctionnalites-standards/visualisation-des-commandes.md)
   * [Marges et commissions](fonctionnalites-standards/frais-et-taxes.md)

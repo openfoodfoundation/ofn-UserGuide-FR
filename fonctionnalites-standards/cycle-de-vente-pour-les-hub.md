@@ -1,6 +1,6 @@
-# Cycle de vente pour les hub
+# Cycle de vente pour les hubs
 
-## Order Cycles for Hubs
+## Cycle de vente pour les hubs
 
 _\*Not a Hub, but a producer? See _[_Order Cycles for producers_](cycle-de-vente-pour-les-fournisseurs.md)_._
 
