@@ -25,7 +25,7 @@
   * [Tableau de Bord](fonctionnalites-standards/tableau-de-bord.md)
 * [Fonctionnalités avancées](fonctionnalites-avancees/README.md)
   * [Produits](fonctionnalites-avancees/produits/README.md)
-    * [Product variants](fonctionnalites-avancees/produits/product-variants.md)
+    * [Les variantes](fonctionnalites-avancees/produits/product-variants.md)
     * [Pricing irregular items \(kg\)](fonctionnalites-avancees/produits/pricing-irregular-items-kg.md)
     * [Product properties](fonctionnalites-avancees/produits/product-properties.md)
     * [Inventory tool](fonctionnalites-avancees/produits/inventory-tool.md)

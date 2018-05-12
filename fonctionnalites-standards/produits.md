@@ -4,11 +4,11 @@
 
 Une fois connecté sur l'interface d'adminsitration, cliquez sur le menu **Produits**, puis sur le bouton **Nouveau Produit**.
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 Vous serez redirigé vers la page suivante :
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 ** Fournisseurs**
 
@@ -48,36 +48,18 @@ Sélectionnez les fournisseurs à l'origine du produit.
 
 N'oubliez pas de bien cliquer sur le bouton "créer" une fois tous les champs obligatoires renseignées \(ceux indiqués par une astérisque rouge\).
 
+Lorsque vous créez un produit, vous êtes redirigé sur la page "catalogue boutique" où vous retrouvez tous vos produits :
+
+![](../.gitbook/assets/image%20%282%29.png)
+
 ### Créer un produit similaire
 
-If you are listing two products which are very similar, but only vary on price, or size, or flavour, it is best to create a ‘variant’ for that product, rather than creating multiple, separate products.
+Si vous créez deux produits similaires dont seule le prix ou la taille ou les ingrédients varient, le mieux est de créer une "variante" du produit plutôt qu'un deuxième produit entier. Pour créer une variante, veuillez suivre le processus indiqué [ici](../fonctionnalites-avancees/produits/product-variants.md).
 
-For example, if you sell lemons for 60c each, or 5 for $2.50, you can create two variants for your ‘lemons’ product, one for each price/quantity combination. Or you might sell two flavours of lamb sausages, rosemary, or chili. Each flavour should be a ‘variant’ of the general product. Creating product variants is discussed in greater depth [here](../fonctionnalites-avancees/produits/product-variants.md).
+## Fonctionnalités avancées {#fonctionnalites-avancees}
 
-Once you have completed a product, click **create**, or if you’d like to add more, click **create and add another**.
-
-When you click **create**, you will be taken to your **Bulk Edit Product **page, where you will see a summary of all of your products.
-
-![Bulk Edit Products](https://openfoodnetwork.org/wp-content/uploads/2015/05/Bulk-Edit-Products1.png)
-
-Examples
-
-Some examples of how to list different types of products, and how these listing will present in your online store are provided below.
-
-> Note: For products usually sold by the kg, it’s best to list the product for sale in increments, of 100g or higher, depending on the product. This makes it easier to list and prepare the order.
-
-![Green Beans example](https://openfoodnetwork.org/wp-content/uploads/2015/05/Green-Beans1.png)
-
-![Corn Cobs example](https://openfoodnetwork.org/wp-content/uploads/2015/05/Corn-Cobs1.png)
-
-![Carton of Eggs example](https://openfoodnetwork.org/wp-content/uploads/2015/05/Carton-of-Eggs1.png)
-
-#### 
-
-#### Related advanced features:
-
-* [Product variants](../fonctionnalites-avancees/produits/product-variants.md)
-* [Pricing irregular, indivisible meat items](../fonctionnalites-avancees/produits/pricing-irregular-items-kg.md)
-* [Product properties \(i.e. certified organic, free range, etc\)](../fonctionnalites-avancees/produits/product-properties.md)
-* [Group buy](../fonctionnalites-avancees/produits/group-buy-for-bulk-ordering.md) for items stocked in bulk sizes.
+* [Les variantes produits](../fonctionnalites-avancees/produits/product-variants.md)
+* [Indiquer un prix pour un produit "irrégulier" ou indivisible comme la viande](../fonctionnalites-avancees/produits/pricing-irregular-items-kg.md)
+* [Les propriétés du produit \(ex. bio, élevé en plein air, etc\)](../fonctionnalites-avancees/produits/product-properties.md)
+* [Les achats groupés](../fonctionnalites-avancees/produits/group-buy-for-bulk-ordering.md) pour les produits stockés en lots
 
