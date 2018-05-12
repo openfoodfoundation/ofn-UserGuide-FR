@@ -18,35 +18,37 @@ Sélectionnez les fournisseurs à l'origine du produit.
 
 **Nom du produit : ** C'est le nom qui sera affiché sur la boutique.
 
-**Unités de mesure : **Indiquez via quelle unité le produit sera vendu \(L, kg, boite, bouquet...\)
+**Unités de mesure : **Indiquez via quelle unité le produit sera vendu \(L, kg, pièces...\)
 
 **Nombre d'unités :** Par exemple si c'est 100g, il faudrai indiquer ici 100.
 
-**Display As:** This field automatically shows you how the units and value fields will display, once you have filled the units and value fields. \(i.e. units = kg, value = 2, Display as = 2kg\)
+**Unité affichée** **:** Ce champ affiche automatiquement de quelle manière les champs unité de mesure et nombre d'unités vont être affichés, une fois les deux champs complétés \(exemple, si vous avez indiqué kg, puis 2, le champ affichera 2kg\).
 
-> Note: If you have selected ‘**items**’ as your unit, the **display as** field will change to ‘**item name’**. Fill this in with the type of item it is. \(i.e. jar, bottle, or bunch\)
+> Remarque : Si votre unité est en pièces \(boite, bouquet...\) ce champ se changera en "**unit name**". Complétez ce champ avec le nom de la pièce \(boite, bouquet, pot...\).
 
-**Product category:** Select the most appropriate category for this product.
+**Catégorie de produit** **:** Sélectionnez la catégorie la plus appropriée pour le produit.
 
-**Price:** Enter the price for the value noted above.
+**Prix :** Indiquez le prix pour l'unité de mesure précédemment renseignée.
 
-> Note, this is the base price charged by the producer. Mark-ups and fees are added in Enterprise Fees, Shipping Fees and Payment Methods.
+> Remarque : il s'agit du prix de base du producteur. Les marges et les commissions sont indiquée dans le menu marges et commissions.
 
-**On hand:** State how much/many of this product you have available and ready for sale.
+**En stock** **:** Indiquez le stock de produit que vous avez prêt à la vente.
 
-> Use this field if you want to track your stock /inventory levels. As customers place orders, the stock level will reduce, and when the on hand amount reaches zero, the product will no longer be visible in your shop. If you don’t want to track inventory in this way, click 'on demand'.
+> Utilisez ce champ si vous voulez suivre votre stock. Lorsque les consomateurs réaliseront des commandes, le niveau du stock se réduira automatiquement et lorsqu'il atteindra 0 le produit ne sera plus visible dans votre boutique. Si vous ne souhaitez pas gérer votre inventaire de cette manière, cliquez sur "à volonté" \(paragraphe suivant\).
 
-**On demand:** If you select this box, it will indicate that this product is always available. This stops the software from tracking inventory levels for products, and instead it will always show that the product is in stock.
+**A volonté** **:**  Si vous cochez cette case, la boutique indiquera que le produit est toujours disponible. La plateforme ne vérifie donc plus les stocks, et considère que le produit est toujours en stock.
 
-**Product description:** Tell your customers a little bit about this product.
+**Photo :** Téléchargez une photo du produit.
 
-**Photo:** Upload a photo of this product.
+> Nous recomandons d'utiliser des photos de bonne qualité. Cela rend le produit plus enviable pour le consommateur.
 
-> We strongly recommend to use clear, accurate and beautiful images of your products. It will make the product more appealing to customers.
+**TVA applicable :** Sélectionnez la TVA applicable dans la liste déroulante. Si elle n'est pas applicable, sélectionnez 0%.
 
-**Tax category:** If you would like the price of this product to include GST, select **GST **from the drop-down menu. The producer enterprise must be set to charge GST in the profile settings to do this. If you leave this field blank, or select **none**, or not set the enterprise as being GST registered, the price will not include GST.
+**Description du produit :** Ce champ vous permet de décrire le produit vendu, pour donner plus d'information à l'acheteur final.
 
-### Listing similar products
+N'oubliez pas de bien cliquer sur le bouton "créer" une fois tous les champs obligatoires renseignées \(ceux indiqués par une astérisque rouge\).
+
+### Créer un produit similaire
 
 If you are listing two products which are very similar, but only vary on price, or size, or flavour, it is best to create a ‘variant’ for that product, rather than creating multiple, separate products.
 
@@ -69,6 +71,8 @@ Some examples of how to list different types of products, and how these listing 
 ![Corn Cobs example](https://openfoodnetwork.org/wp-content/uploads/2015/05/Corn-Cobs1.png)
 
 ![Carton of Eggs example](https://openfoodnetwork.org/wp-content/uploads/2015/05/Carton-of-Eggs1.png)
+
+#### 
 
 #### Related advanced features:
 
