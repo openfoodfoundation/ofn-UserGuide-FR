@@ -1,26 +1,26 @@
 # Produits
 
-## Adding products
+## Ajouter des produits
 
-Click on **Products **on the horizontal blue menu, and then click **+ New Product**.
+Une fois connecté sur l'interface d'adminsitration, cliquez sur le menu **Produits**, puis sur le bouton **Nouveau Produit**.
 
-![Add new product](https://openfoodnetwork.org/wp-content/uploads/2015/05/Add-new-product.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
-This will take you to the New Product page.
+Vous serez redirigé vers la page suivante :
 
-![New product page](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-Product2.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
- **Supplier **
+** Fournisseurs**
 
-Select the enterprise who produces and supplies the product.
+Sélectionnez les fournisseurs à l'origine du produit.
 
-> If you are a producer, this will be you. If you're a hub, remember you’ll only be able to add products to producer profiles which you have created, or if you have been granted permission to manage the products of a producer profile.
+> Si vous êtes producteur, i lfaut vous sélectionner vous-même. Si vous êtes un hub, n'oubliez pas que vous pouvez uniquement ajouter des produits pour les producteurs pour lesquels vous avez créé un profil ou qui vont ont donné les droits d'accès à leur catalogue.
 
-**Product name: ** dd a title. This is how the product will be displayed in the store.
+**Nom du produit : ** C'est le nom qui sera affiché sur la boutique.
 
-**Units: **Choose what unit the product is sold in? \(g, kg, L… or itme \(bunch, bag, packet\)\)
+**Unités de mesure : **Indiquez via quelle unité le produit sera vendu \(L, kg, boite, bouquet...\)
 
-**Value:** Choose in what value the product is sold in \( ie 100g, 2L, 1 bunch\)
+**Nombre d'unités :** Par exemple si c'est 100g, il faudrai indiquer ici 100.
 
 **Display As:** This field automatically shows you how the units and value fields will display, once you have filled the units and value fields. \(i.e. units = kg, value = 2, Display as = 2kg\)
 
