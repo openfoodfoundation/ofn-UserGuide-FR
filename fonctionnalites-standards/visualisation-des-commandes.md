@@ -44,39 +44,37 @@ Remarque _: Vous ne pouvez pas indiquer une commande à "envoyée" si le statut 
 
 Sur la colonne de droite, vous pouvez consulter les boutons suivants :
 
-Click on the tick icon to indicate that payment has been received \(
+Le bouton lié au paiement :
 
 ![paid](https://openfoodnetwork.org/wp-content/uploads/2015/05/Tick.png)
 
-\).  
-Click on the road icon to indicate that the order has been shipped \(
+  
+Le bouton lié à la livraison :
 
 ![Shipped button](https://openfoodnetwork.org/wp-content/uploads/2015/05/Shipped.png)
 
-\).  
-Click on the edit icon \(
+  
+Le bouton de modification générale \(voir paragraphe suivant\) : 
 
 ![Edit order button](https://openfoodnetwork.org/wp-content/uploads/2015/05/Edit-order.png)
 
-\) to edit an order and view more detailed information about it \(discussed below\).
+Pour modifier le statut de livraison ou de paiement, cliquez simplement sur le bouton associé.
 
-![Tracking and editing orders](https://openfoodnetwork.org/wp-content/uploads/2015/05/tracking-orders.png)
+### **Modifier une commande**
 
-**Editing an order**
+En cliquant sur le bouton modifier vous êtes amener à consulter la page suivante :
 
-After clicking the edit button on the right hand side of an order \(see image above\) you’ll be taken to a detailed view of the order \(below\). Functionalities within this page will be discussed below.
+![](../.gitbook/assets/image%20%2828%29.png)
 
-![View Order](https://openfoodnetwork.org/wp-content/uploads/2015/05/View-Order.png)
+#### **Ajouter et supprimer des produits d'une commande**
 
-**Adding and removing products from an order**
+Vous pouvez ajouter un produit en sélectionnant la bonne variante. Pour le supprimer, il suffit de cliquer sur le petit icône poubelle à côté de la ligne du produit. Vous pouvez aussi modifier les quantités commandées. N'oubliez pas de bien cliquer sur le bouton "**update and recalculate fees" **pour sauvegarder vos modifications.
 
-You can select a product to add to the order. To remove a product click the rubbish bin icon on the right hand side of a product. You can also change the quantity ordered. Remember to click the **update and recalculate fees **button to save changes.
-
-![Order actions](https://openfoodnetwork.org/wp-content/uploads/2015/05/Order-actions.png)
-
-**Resend confirmation email**
+**Renvoyer l'email de confirmation**
 
 If you make changes to a customer’s order, you might wish to resend an updated order confirmation email to the customer.
+
+![Order actions](https://openfoodnetwork.org/wp-content/uploads/2015/05/Order-actions.png)
 
 **Print Invoice**
 

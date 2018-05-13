@@ -12,7 +12,7 @@ Retrouvez ci-dessous les captures du tableau de bord pour chaque profil d'utilis
 
 ### Profil producteur avec boutique
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
 ### Profil hub avec boutique
 
