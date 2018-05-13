@@ -161,7 +161,7 @@ Nous allons prendre l'exemple d'une caisse de viande de 10 kg :
 2. Recherchez le produit désiré
 3. Rendez les colonnes "Poids/Volume" et "Price" visiblent
 4. Modifiez les valeurs de poids \(le prix changera automatiquement\)
-5. CLiquez sur sauvegarder.
+5. Cliquez sur "mettre à jour".
 
 ![](../.gitbook/assets/image%20%2834%29.png)
 
