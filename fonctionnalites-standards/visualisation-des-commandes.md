@@ -66,7 +66,7 @@ Pour modifier le statut de livraison ou de paiement, cliquez simplement sur le b
 
 En cliquant sur le bouton modifier vous êtes amener à consulter la page suivante :
 
-![](../.gitbook/assets/image%20%2835%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 _Remarque_ _: Vous pouvez également modifier le statut de paiement et de livraison via cette page. Consultez les paragraphes suivants pour les autres fonctionnalités._
 
@@ -149,32 +149,21 @@ Vous pouvez alors ajuster la quantité, dans la colonne quantité. Le total affi
 
 #### **La case à cocher "ressource partagée"**
 
-#### Cette case à cocher permet d'appliquer les modifications à toutes les variantes des produits. En la laissant décochée vous pouvez modifier variante par varante.
+Cette case à cocher permet d'appliquer les modifications à toutes les variantes des produits. En la laissant décochée vous pouvez modifier variante par variante.
 
-#### Example 2: Updating the final weight of products.
+#### Exemple 2: Modifier le poids des produits.
 
-When selling indivisible products such as legs of lamb, or whole pumpkins, you may not know the final weight and price of the product until after the customer has placed their order. You can use Bulk Order Management to update the item’s exact weight once you have the product in front of you.
+C'est particulièrement vrai lorsque vous vendez de la viande ou certains légumes : vous ne savez pas à l'avance le poids final qui sera vendu avant la commande.
 
-Check out Pricing irregular, indivisible meat items for more information about pricing products such as this.
+Nous allons prendre l'exemple d'une caisse de viande de 10 kg :
 
-We’ll use an example of a leg of lamb to illustrate. In this case the producer charges all customers for a 2kg leg of lamb, and then adjusts their orders after slaughter, when he knows the exact weight of the product assigned to each customer. To make such adjustments the producer would do the following:
+1. Filtrez par date ou cycle de vente
+2. Recherchez le produit désiré
+3. Rendez les colonnes "Poids/Volume" et "Price" visiblent
+4. Modifiez les valeurs de poids \(le prix changera automatiquement\)
+5. CLiquez sur sauvegarder.
 
-1. Filter for the order cycle or date range of interest.
-2. Search for the leg of lamb product to view all customer orders for the product.
-3. Make the
+![](../.gitbook/assets/image%20%2834%29.png)
 
-   **Weight/Volume**
 
-   and
-
-   **Price**
-
-   columns visible.
-
-4. Enter the actual weight of the leg of lamb that each customer will receive in the weight/volume column. The price will automatically recalculate based on this weight.
-5. Click update.
-
-![Bulk Order Management example](https://openfoodnetwork.org/wp-content/uploads/2015/05/Meat-BOMM.png)
-
-_Have a suggestion for how we could improve this feature? Send us an email or join the conversation on our community forum._
 
