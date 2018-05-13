@@ -1,4 +1,4 @@
-# Manual orders
+# Création de commandes
 
 Sometimes you may wish to manually put an order into the system. This may be on behalf of a customer, or so that your reports will capture an order from a different sales stream. You can create an order by going to **Orders **and clicking on the**+ New Order **button.
 

@@ -4,45 +4,45 @@ Le menu commandes est divisé en deux sous menu sur Open Food France \(OFF\) : l
 
 ## Listes des commandes
 
-The listing order page shows a list view of all orders placed through your shop\(s\). From here you can access details of individual orders, edit orders and track the status of their payment and shipping. For details of how to create a new order see [here](../fonctionnalites-avancees/cycles-de-vente/manual-orders.md).
+Cette page liste toutes les commandes passées sur la plateforme pour votre compte. A partir de cette page, vous pouvez accéder aux détails de chaque commandes, modifier les commandes et suivre leur statut \(du paiement à l'envoi\). Pour consulter la manière de créer une nouvelle commande, cliquez [ici](../fonctionnalites-avancees/cycles-de-vente/manual-orders.md).
 
-The page has filters which allow you to select which orders you want to view. You can filter by date, status or the email and name of the customer.
+Les filtres présent sur la page peuvent vous aider à accéder plus rapidement à la commande désirée. Vous pouvez filtrer par date, statut ou via l'email ou le nom du client
 
-![Listing orders page](https://openfoodnetwork.org/wp-content/uploads/2015/05/Listing-Orders1.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
-**Distributor:**This is the enterprise whose shop the order was placed through
+**Distributeur: **L'entreprise à qui appartient la boutique sur laquelle la commande a été passée.
 
-**Completed at:**This is the date that the order was placed.
+**Sélection de dates** **: **Vous permet de filtrer les commandes par date de création
 
-**Number:**This is an arbitrarily assigned order number. An exclamation mark symbol will show if the customer included a note with their order at checkout. Hover you mouse above the exclamation mark to view the note.
+**Numéro de facture :  **Dans le listing, si un petit panneau apparait avec un point d'exclamation à côté de ce numéro, cela signifie qu'un client a inclut un message avec sa commande. Passez votre souris sur le logo pour afficher la note.
 
-**State:**
+**Région :**
 
-* Complete- the customer has finished checkout
-* Cancelled- if admin edits the order and chooses to ‘cancel it’
-* Cart- The customer is in the process of shopping, but hasn’t checked out
+* Valider - le client a terminé son parcours d'achat
+* Annuler - cela signifie que l'administrateur a choisi de l'annuler
+* Panier - le client a démarré son parcours d'achat mais ne l'a pas finalisé
 
-**Payment State:**
+**Statut du paiement** **:**
 
-* Balance Due- if it’s cash, or bank transfer or eftpos, then the order will be ‘balance due’ by default, until admin indicates that payment has been received.
-* Paid- If paying by paypal or pin payment then this will automatically update to ‘paid’ after payment. If payment has been manually indicated as having occurred, state will also be ‘paid’.
-* Credit Owed- If someone has paid for their order, but then you edit their order, and remove an item, the cost of that item becomes ‘credit owed’.
+* Solde dû - pour tout type de paiement à l'exception de paypal, ce statut s'affiche tant que l'administrateur n'a pas confirmé la bonne réception du paiement
+* Payé - Ce statut apparait suite à une commande via paypal ou une action de l'administrateur
+* Credit Owed - Si quelqu'un a payé pour sa commande mais que vous modifiez la commande en supprimant un des produits, une dette reste présente.
 
-**Shipment state:**
+**Statut de livraison :**
 
-* Pending- When the payment state is ‘balance due’ the shipping state will be pending, meaning that until payment is received, shipping should not commence.
-* Ready- When payment has been received \(paid, or credit owed status\) the shipping state becomes ‘ready’.
-* Shipped- When the product has been edited and the ‘ship’ button clicked, the status becomes shipped.
+* En attente - Lorsque le statut du paiement est "solde dû", le statut de livraison sera en attente \(tant que le paiement n'est pas reçu, la livraison ne peut pas démarrer\)
+* Prêt - Lorsque le paiement est reçu, ce statut s'affiche. 
+* Envoyé - Lorsque le produit a été modifié et que son statut à été passé à "envoyé", le statut envoyé s'affiche sur la commande. 
 
-_Note: You cannot set an order to ‘shipped’ unless that order’s Payment State is ‘Paid’._
+Remarque _: Vous ne pouvez pas indiquer une commande à "envoyée" si le statut de paiement n'est PAS "Payé"._
 
-**Customer email:**The customer’s contact email. A full list of customer emails can be extracted in the ‘mailing list’[report](https://github.com/ofnuserguidefr/guide-utilisateur-open-food-france/tree/f72c4e0a78bb6dc0c5b39249e706b0dbac84df5f/reports.md).
+**Email acheteur** **: **L'email du client. Une liste complète des emails clients peut être téléchargée dans les [rapports](https://github.com/ofnuserguidefr/guide-utilisateur-open-food-france/tree/f72c4e0a78bb6dc0c5b39249e706b0dbac84df5f/reports.md).
 
-**Total:**The total value of the customer’s order
+**Total : **La valeur totale de la commande.
 
-**Changing the payment and shipping state of an order**
+### **Modifier le statut de paiement ou de livraison d'une commande**
 
-On the right hand side of the listing view you can update the payment/shipping state of an order.
+Sur la colonne de droite, vous pouvez consulter les boutons suivants :
 
 Click on the tick icon to indicate that payment has been received \(
 

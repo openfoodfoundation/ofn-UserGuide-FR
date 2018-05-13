@@ -45,7 +45,7 @@
   * [Cycles de vente](fonctionnalites-avancees/cycles-de-vente/README.md)
     * [Display only Order Cycles](fonctionnalites-avancees/cycles-de-vente/display-only-order-cycles.md)
     * [Opening more than one order cycle](fonctionnalites-avancees/cycles-de-vente/opening-more-than-one-order-cycle.md)
-    * [Manual orders](fonctionnalites-avancees/cycles-de-vente/manual-orders.md)
+    * [Création de commandes](fonctionnalites-avancees/cycles-de-vente/manual-orders.md)
   * [Groupes](fonctionnalites-avancees/groupes/README.md)
     * [Create Group Page](fonctionnalites-avancees/groupes/create-group-page.md)
     * [Embed a Group Page](fonctionnalites-avancees/groupes/embed-a-group-page.md)

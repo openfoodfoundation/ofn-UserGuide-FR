@@ -8,7 +8,7 @@ Beaucoup de fournisseurs, qui vendent leurs produits en petites quantités, pré
 
 Connecté sur l'interface d'administration, sélectionnez le dernier menu sur votre droite :
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
 ## 2. Créer un nouveau cycle de vente
 
@@ -46,7 +46,7 @@ Cliquez sur "créer" pour sauvegarder votre cycle de vente.
 
 Si votre cycle de vente se répête de manière périodique et régulière, vous pouvez duppliquer un cycle de vente passé afin d'aller plus vite \(bouton orange sur la capture, attention il n'est pas orange sur la plateforme\) :
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 Les cycles de vente sont présentés en vert lorsqu'ils sont actifs, jaune lorsqu'ils sont indiqués pour une date dans le futur et gris lorsqu'ils sont fermés. Un mois après la fermeture d'un cycle de vente, il n'apparaitra plus dans cette liste, il faudra cliquer sur "voir plus" pour voir tous vos cycles de vente.
 
