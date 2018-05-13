@@ -1,8 +1,8 @@
 # Visualisation des commandes
 
-You can interact with orders via two pages within the OFN, the Lisitng Orders page, and the Bulk Order Managment page. The features of these two pages will be discussed below.
+Le menu commandes est divisé en deux sous menu sur Open Food France \(OFF\) : la page "commandes" et la page "gestion des commandes par lot". Cette partie du guide traite des deux pages.
 
-## Listing orders
+## Listes des commandes
 
 The listing order page shows a list view of all orders placed through your shop\(s\). From here you can access details of individual orders, edit orders and track the status of their payment and shipping. For details of how to create a new order see [here](../fonctionnalites-avancees/cycles-de-vente/manual-orders.md).
 
@@ -134,7 +134,7 @@ Here your customers will be able to see the past orders and payments as well as 
 
 ![Customer Account](https://openfoodnetwork.org/wp-content/uploads/2015/05/Orders.png)
 
-## Bulk order management
+## Gestion des commandes par lot
 
 While the listing view shows you orders, and details about who the customer is and when the order was placed etc, the bulk order management page shows you all items that were purchased in your orders. In bulk order management you can view all items ordered and make changes to the quantities of products ordered, or to delete certain products from orders. This functionality is useful for adjusting orders when there are stock shortages and you need to allocate a limited amount of stock.
 
