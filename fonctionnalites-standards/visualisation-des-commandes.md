@@ -66,7 +66,7 @@ Pour modifier le statut de livraison ou de paiement, cliquez simplement sur le b
 
 En cliquant sur le bouton modifier vous êtes amener à consulter la page suivante :
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 _Remarque_ _: Vous pouvez également modifier le statut de paiement et de livraison via cette page. Consultez les paragraphes suivants pour les autres fonctionnalités._
 
@@ -96,29 +96,15 @@ Cliquez sur le bouton "annuler" depuis la page de modification d'une commande.
 
 **Détails clients**
 
-Clicking on customer details \(
+Cliquez sur "détails clients" dans la liste en bas à droite pour accéder à toutes les coordonnées :
 
-![customer details](https://openfoodnetwork.org/wp-content/uploads/2015/05/Customer-details.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
-\) in the right hand menu will take you to a complete view of the customer’s details.
+**Ajouter ou supprimer un montant à la commande**
 
-**Add or subtract from the order balance**
+Cliquez sur "ajustements" \(cf capture ci-dessus\). Sur cette page vous pouvez ajouter ou supprimer des commissions. Pour ajouter, cliquez sur "nouvel ajustement".
 
-Clicking on adjustments \(
 
-![Adjustments](https://openfoodnetwork.org/wp-content/uploads/2015/05/Adjustments.png)
-
-\). From here you can remove fees that are already on an order, or add/subtract from the order total by clicking on + New Adjustment. You also have the capacity to select the tax setting of the adjustment. Remember, for a fee to include tax, the enterprise must be set to charge tax in its profile settings.
-
-**Customer’s View**
-
-Your customers can view a list of their orders when they login to the OFN, and click on their account \(see below\).
-
-![Customer account login](https://openfoodnetwork.org/wp-content/uploads/2015/05/Account-login.png)
-
-Here your customers will be able to see the past orders and payments as well as a running balance at your shop. This should be kept up to date so customers can view an accurate balance.
-
-![Customer Account](https://openfoodnetwork.org/wp-content/uploads/2015/05/Orders.png)
 
 ## Gestion des commandes par lot
 
