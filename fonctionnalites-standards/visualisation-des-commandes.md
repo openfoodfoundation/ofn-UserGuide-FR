@@ -36,7 +36,7 @@ Les filtres présent sur la page peuvent vous aider à accéder plus rapidement 
 
 _Remarque_ _: Vous ne pouvez pas indiquer une commande à "envoyée" si le statut de paiement n'est PAS "Payé"._
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
 **Email acheteur** **: **L'email du client. Une liste complète des emails clients peut être téléchargée dans les [rapports](https://github.com/ofnuserguidefr/guide-utilisateur-open-food-france/tree/f72c4e0a78bb6dc0c5b39249e706b0dbac84df5f/reports.md).
 
@@ -66,7 +66,7 @@ Pour modifier le statut de livraison ou de paiement, cliquez simplement sur le b
 
 En cliquant sur le bouton modifier vous êtes amener à consulter la page suivante :
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
 _Remarque_ _: Vous pouvez également modifier le statut de paiement et de livraison via cette page. Consultez les paragraphes suivants pour les autres fonctionnalités._
 
@@ -98,72 +98,58 @@ Cliquez sur le bouton "annuler" depuis la page de modification d'une commande.
 
 Cliquez sur "détails clients" dans la liste en bas à droite pour accéder à toutes les coordonnées :
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
 **Ajouter ou supprimer un montant à la commande**
 
 Cliquez sur "ajustements" \(cf capture ci-dessus\). Sur cette page vous pouvez ajouter ou supprimer des commissions. Pour ajouter, cliquez sur "nouvel ajustement".
 
-
-
 ## Gestion des commandes par lot
 
-While the listing view shows you orders, and details about who the customer is and when the order was placed etc, the bulk order management page shows you all items that were purchased in your orders. In bulk order management you can view all items ordered and make changes to the quantities of products ordered, or to delete certain products from orders. This functionality is useful for adjusting orders when there are stock shortages and you need to allocate a limited amount of stock.
+La liste des commandes présente les commandes alors que cette page liste les produits commandés. Cela permet de modifier en masse plusieurs commandes qui contiennent le même produit \(changement de quantité, produit en rupture, etc\). La page se présente la manière suivante :
 
-Access Bulk Oder Management by clicking **Orders **in the blue horizontal menu, and **Bulk Order Management **in the horizontal green menu.
+![](../.gitbook/assets/image%20%2825%29.png)
 
-![Accessing bulk order management](https://openfoodnetwork.org/wp-content/uploads/2015/05/Bulk-Order-Management.png)
+**Date de début et de fin** **:** Vous pouvez filtrer l'affichage des produts en fonction des dates de commandes.
 
-Within Bulk Order Management, you can apply filters, so that only the orders that you are interested in will display.
+**Producteur :** Vous pouvez filtrer sur un producteur en particulier.
 
-![Filtering within bulk order management](https://openfoodnetwork.org/wp-content/uploads/2015/05/Filter-Bulk-order-man.png)
+**Boutique** **: **Vous pouvez filtrer sur une boutique en particulier \(comme sur la capture ci-dessus\).
 
-**Start Date and End Date:** You can filter to display all orders that were placed within a given window of time.
+**Cycle de vente** **:** Vous pouvez filtrer sur un cycle de vente en particulier.
 
-**Producer:** You can filter for a given producer. This can narrow down the display, if you’re only interested in one product, supplied by one proudcer.
+**Quick Search :** Sans aller jusqu'à l'utilisation des filtres, vous pouvez aussi tout simplement taper un mot-clé dans ce champ \(cela peut être un nom, un produt, une boutique, un numéro de commande..\).
 
-**Hub: **You can filter according to the hub at which the order was placed.
+**Actions : **En cochant les cases à côté de chaque produit, vous pouvez appliquer des modifications en masse en passant par le bouton action \(ex : vous souhaitez supprimer toutes les commandes liées à un produit\).
 
-**Order Cycle:** Perhaps the most useful filter, the order cycle filter, will display only those orders which were placed within a selected order cycle.
+**Colonnes :** Vous pouvez gérer vous-même l'affichage des colonnes et des champs que vous voyez ou non.
 
-**Quick Search:** Before or after applying filters, you can narrow your search down even further by searching for a key word. This could be a name, product, hub, producer, date, order number…
+![](../.gitbook/assets/image%20%2820%29.png)
 
-**Actions: **You can select the checkboxes of multiple orders, to perform a function to all of them, such as delete.
+Notez que vous pouvez également trier chaque colonne en cliquant sur son titre. Un clic pour un ordre de A à Z, un second pour l'ordre inverse.
 
-**Columns:** You can select which fields you do or do not want to be displayed \(see below\)
+\*Remarque : La colonne prix indique le prix TTC. Les marges et commission sont recalculées à chaque modification de la commande. 
 
-![Bulk Order Management Columns](https://openfoodnetwork.org/wp-content/uploads/2015/05/Bulk-Order-Man-Columns.png)
+### Quelques exemples de la gestion de commandes par lot :
 
-You can also sort the rows according to the contents of a column. For example, if you click on the Order Date column title, the table will be arranged in chronological order, according to the value in this field. Clicking the Name column heading will arrange the table in alphabetical order of the customer’s name.
+#### Exemple 1: Vous avez un problème de stokage de vos fromages de chèvres, il n'est donc pas possible d'en vendre
 
-\*Note: The price column lists prices exclusive of fees, but will include GST if the product is set as GST inclusive. Fees will re-calculate if you edit orders.
+Vous avez donc besoin d'identifier les clients ayant commandé du fromage de chèvre et modifier leurs commandes.
 
-### Examples of using Bulk Order Management:
+Les étapes seront les suivantes :
 
-#### Example 1: You have a stock shortage, and must reduce customer order quantities for a certain product.
+1. Vous filtrez la page gestion des commandes par lot en fonctionde la date ou du cycle de vente en cours
+2. Tapez "chèvre" en mot-clé et toutes les commandes avec du fromage de chèvre apparaitront.
+3. CLiquez sur "fromage de chèvre" dans la colonne "produit : unité"
+4. Un message apparaitra en haut de page avec la quantité totale commandée :
 
-In your current order cycle, customers placed orders for 20kg of tomatoes. Unfortunately there was a storm, and you were only able to harvest 10kg. You need to identify all customers who ordered tomatoes, and half their orders for tomatoes.
+![](../.gitbook/assets/image%20%2818%29.png)
 
-This can be done in bulk order management, as follows:
+Vous pouvez alors ajuster la quantité, dans la colonne quantité. Le total affiché au-dessus se modiefiera automatiquement en conséquence. A ce moment, il est intéressant d'envoyer une alerte email aux clients : **la plateforme ne génère pas automatiquement une alerte lors de la modification d'une commande**.
 
-1. You would filter according to the date range, or order cycle.
-2. Search for ‘tomatoes’. All orders for tomatoes within the date range/order cycle you selected will now display.
-3. Click on the product ‘Tomatoes’ in the Product:Unit column.
-4. A box will appear at the top of the page, showing the total quantity ordered \(across the date range/order cycle you’ve selected\).
+#### **La case à cocher "ressource partagée"**
 
-![Bulk Order Management](https://openfoodnetwork.org/wp-content/uploads/2015/05/BOM-1.png)
-
-You can then adjust the quantity of each unique order in the Quantity column. The Total Quantitiy Ordered in the box at the top will update automatically as you adjust orders, in this case going down, as you reduce each order for the tomatoes.
-
-You could also then see the emails of these customers, and send them an alert._An alert is not automatically generated when adjustments are made in bulk order management._
-
-![Bulk Order Management](https://openfoodnetwork.org/wp-content/uploads/2015/05/BOM-2.png)
-
-**The ‘Shared Resource’ checkbox**
-
-In the screenshot above you will see a checkbox called ‘shared resource’ in the top right hand corner of the blue, producer order totals box. When you select this checkbox, the total displayed will be inlcusive of all product variants that fall under the master product. By not checking it, you can see the total for a single product variant. In the example below, you can see that when the shared resource box is selected, the total includes orders for both my 1kg apple variant and my 3kg apple variant. So I know that in total, I need 5kg of apples. If I just want to know how many 3kg bags to pack, I can uncheck the shared resource box, and click on the 3kg variant in the Product:Unit column.
-
-![Shared Resource checked](https://openfoodnetwork.org/wp-content/uploads/2015/05/Shared-Resource.png)
+#### Cette case à cocher permet d'appliquer les modifications à toutes les variantes des produits. En la laissant décochée vous pouvez modifier variante par varante.
 
 #### Example 2: Updating the final weight of products.
 
