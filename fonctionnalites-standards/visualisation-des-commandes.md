@@ -8,7 +8,7 @@ Cette page liste toutes les commandes passées sur la plateforme pour votre comp
 
 Les filtres présent sur la page peuvent vous aider à accéder plus rapidement à la commande désirée. Vous pouvez filtrer par date, statut ou via l'email ou le nom du client
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 **Distributeur: **L'entreprise à qui appartient la boutique sur laquelle la commande a été passée.
 
@@ -34,7 +34,9 @@ Les filtres présent sur la page peuvent vous aider à accéder plus rapidement 
 * Prêt - Lorsque le paiement est reçu, ce statut s'affiche. 
 * Envoyé - Lorsque le produit a été modifié et que son statut à été passé à "envoyé", le statut envoyé s'affiche sur la commande. 
 
-Remarque _: Vous ne pouvez pas indiquer une commande à "envoyée" si le statut de paiement n'est PAS "Payé"._
+_Remarque_ _: Vous ne pouvez pas indiquer une commande à "envoyée" si le statut de paiement n'est PAS "Payé"._
+
+![](../.gitbook/assets/image%20%2822%29.png)
 
 **Email acheteur** **: **L'email du client. Une liste complète des emails clients peut être téléchargée dans les [rapports](https://github.com/ofnuserguidefr/guide-utilisateur-open-food-france/tree/f72c4e0a78bb6dc0c5b39249e706b0dbac84df5f/reports.md).
 
@@ -64,7 +66,9 @@ Pour modifier le statut de livraison ou de paiement, cliquez simplement sur le b
 
 En cliquant sur le bouton modifier vous êtes amener à consulter la page suivante :
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
+
+_Remarque_ _: Vous pouvez également modifier le statut de paiement et de livraison via cette page. Consultez les paragraphes suivants pour les autres fonctionnalités._
 
 #### **Ajouter et supprimer des produits d'une commande**
 
@@ -72,41 +76,25 @@ Vous pouvez ajouter un produit en sélectionnant la bonne variante. Pour le supp
 
 **Renvoyer l'email de confirmation**
 
-If you make changes to a customer’s order, you might wish to resend an updated order confirmation email to the customer.
+Si vous avez modifié des informations sur une commande, c'est une bonne pratique de renvoyer un email de confirmation ensuite
 
-![Order actions](https://openfoodnetwork.org/wp-content/uploads/2015/05/Order-actions.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
-**Print Invoice**
+**Imprimer la facture**
 
-Clicking this will give you the option to print an invoice as a PDF or by sending to a printer.
+En cliquant sur cette ligne, la plateforme va générer un PDF, qui vous suffira d'imprimer.
 
-**Send invoice**
+**Envoyer la facture**
 
-To send an invoice to the customer, click the ‘send invoice’ button. This will email the customer with an attached PDF file. Invoice layout shown below.
+Pour envoyer la facture, il suffit de cliquer sur "envoyer la facture" \(menu actions\). Cela enverra un email au client avec la facture correspondante. Exemple de facture générée :
 
-**Cancel an order**
+![](../.gitbook/assets/image%20%2817%29.png)
 
-Click the cancel button to cancel an order.
+**Annuler une commande**
 
-![Invoice example](https://openfoodnetwork.org/wp-content/uploads/2015/05/Invoice-example.png)
+Cliquez sur le bouton "annuler" depuis la page de modification d'une commande.
 
-**Mark an order as paid**
-
-To mark an order as paid, click the tick icon on the listing order page. Or click on ‘Payments’ in the menu on the right and then click the tick icon \(
-
-![paid](https://openfoodnetwork.org/wp-content/uploads/2015/05/Tick.png)
-
-\).
-
-**Mark an order as shipped**
-
-After payment has been received the Ship button will be visible at the top of the page \(
-
-![Ship](https://openfoodnetwork.org/wp-content/uploads/2015/05/Ship.png)
-
-\). Click this to record that shipment has occurred.
-
-**View customer details**
+**Détails clients**
 
 Clicking on customer details \(
 
