@@ -4,7 +4,7 @@ Cette fonctionnalité est utile pour les producteurs et les hubs travaillant ens
 
 Lorsqu'une marge est appliquée, le consommateur est capable de voir la constitution du prix sur la boutique en cliquant sur le camembert. Exemple ci-dessous :
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 ## Accéder au menu marge et commissions
 
@@ -14,7 +14,7 @@ Sur l'interface d'administration, rendez-vous sur le menu **Enterprises**, puis 
 
 ## Ajouter des marges et commissions
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 **Entreprise :** Dans la première colonne, sélectionnez l'entreprise qui recevra la marge.
 
@@ -28,11 +28,11 @@ Sur l'interface d'administration, rendez-vous sur le menu **Enterprises**, puis 
 
 Pour finaliser, cliquez sur "Mettre à jour". Une fois que la marge a été créée, vous pouvez indiquer comment la marge sera calculée dans la colonne "Montant pour calculs".
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 ### Le calculateur
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
 **Pourcentage net **– This fee is charged as a percentage of the total amount charged in the order.
 
@@ -57,4 +57,6 @@ Exemple :  Si la marge du premier est de 2€, celle de l'objet supplémentaire 
 * ‘Montant minimal’ : Si la commande est en-dessous de ce montant, le consommateur devra payer le ‘Montant normal'.
 * ‘Montant de la réduction’ : Si la commande est égale ou supérieure au montant minimal, le consommateur devra payer le ‘Montant de la réduction’.
 * 'Currency' : La monnaie utilisée \(généralement "EUR"\).
+
+
 

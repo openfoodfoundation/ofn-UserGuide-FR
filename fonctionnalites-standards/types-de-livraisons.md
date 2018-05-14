@@ -1,61 +1,60 @@
 # Méthodes de livraisons
 
-You must create a shipping method before you can open your shop.
+La définition des méthodes de livraison est obligatoire avant l'ouverture d'une boutique !
 
-## Setting up a shipping method
+## Définir une méthode de livraison
 
-**1\)** Go to the shipping methods page.
+**1\)** **Allez sur la page méthode de livraison**
 
-%accordion%Accessing shipping methods%accordion%
+En tant qu'administrateur, allez sur le menu bleu **Entreprises **puis cliquez sur **gérer **et enfin sur **méthode de livraison **dans le menu vertical de gauche :
 
-Click **Enterprises **in the blue horizontal menu, and then click **Manage **next to your enterprise. Then, click Shipping Methods in the menu on the left hand side.
+![](../.gitbook/assets/image%20%2829%29.png)
 
-![Access demo farm](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-demo-farm.png)
+**2\)** Cliquez sur **créer une nouvelle méthode de livraison. **Vous serez redirigé sur cette page :
 
-%/accordion%
+![](../.gitbook/assets/image%20%285%29.png)
 
-**2\)** Click the **create new shipping method** button.
+**3\)** Cochez la case correspondant à votre entreprise dans l'encart à droite intitulé "Hubs". Cela permettra à la méthode de bien s'appliquer à votre entreprise. 
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-Shipping-Method.png)
+**4\) Nom :** Choisissez un nom pour la méthode. Ce nom sera affiché au client durant son processus d'achat et sur les emails de confirmation de commande. Exemple :
 
-**3\)** Tick your enterprise in the box on the right hand side of the page titled Hubs. This indicates that the shipping method you are about to create will apply to your enterprise.
+![](../.gitbook/assets/image%20%286%29.png)
 
-**4\) Name:** Choose a name for this shipping method. \(i.e. Delivery, pick-up from farmer’s market, or postal service\). It will be displayed at check out and on order confirmation emails.
+**5\) Description :** Ici vous pouvez ajouter des détails supplémentaires. Ces détails seront visibles pour les clients en gris à côté du nom \(cf. capture ci-dessus\).
 
-**5\) Description:** Here you can provide further details about the shipping method. This will be visible to the customer when they checkout. For instance, the screenshot below shows that when this customer selects ‘collection from farm’, the grey box on the right hand side shows the description ‘We are happy for you to collect direct from the farm…’
+**6\) Zone : **Sélectionnez la zone appropriée \(généralement EU\_VAT\).
 
-![Shipping view at checkout](https://openfoodnetwork.org/wp-content/uploads/2015/05/Shipping-view-at-checkout.png)
+**7\) Categorie : **Est-ce une livraison ou un retrait ?
 
-**6\) Zone: **Select the appropriate zone.
+**8\) Calculateur : **Sélectionnez comment les frais de livraisons vont s'appliquer sur la boutique. Notez que ces frais peuvent être équivalent à zéro. 
 
-**7\) Category: **Is this method a delivery or pick-up?
+En cliquant sur **Créer**, la méthode de livraison sera créée et vous aurez de nouveaux champs pour définir les frais de livraison. Ces champs dépendent de la sélection effectuée dans le calculateur. Ainsi, si par la suite vous changer la sélection de calculateur, il faut d'abord sauvegarder vos modification \(mettre à jour\) et ensuite les champs associés apparaissent. Pour la définition de ces champs, continuez la lecture de cette page.
 
-**8\) Calculator: **Select the way that shipping fees will be applied to this shipping method. Note that a shipping fee can be zero.
+### Le calculateur
 
-By clicking **Create, **the shipping method will be created, and you will then be provided with new fields, to add details of the shipping method charges. The fields presented will depend upon which shipping fee calculator you have selected. As indicated, if you are changing the calculator type, you must save first before you can edit the calculator settings.
+![](../.gitbook/assets/image%20%2825%29.png)
 
-### Fee Calculators
+**Pourcentage net **– This fee is charged as a percentage of the total amount charged in the order.
 
-**Weight \(per kg\) **– this fee is applied to products on a per kg basis. The fee will only be applied to products which are priced at a per kg rate, not products listed as items \(e.g. A product listed as ‘1 bunch of parsley’ will not receive this fee\)
+**Poids \(au kg\) **– cette marge s'applique aux produits vendus par kg. Elle ne s'appliquera donc pas aux produits vendus à la pièce.
 
-**Flat Percent **– This fee is charged as a percentage of the total amount charged in the order.
+**Flat Rate \(per order\) **– Cette marge s'applique de manière standard à toutes les commandes, quelque soit leur taille ou leur unité.
 
-**Flat Rate \(per order\) **– This fee is applied as standard fee to all orders, regardless of the size of the order.
+**Taux flexible** – Ce calcul est utilisé pour les remises promotionnelles \(quand vous appliquez une marge réduite lorsque le consommateur achète en gros\).
 
-**Flexible Rate** – This calculator is typically used for promotional discounts where you charge a reduced fee as the customer makes more purchases of that item.
+* ‘Coût du premier item’ : La marge appliquée au premier produit
+* ‘Coût d'item additionnel’ : La marge appliquée aux produits suivants
+* ‘Nombre maximum d'objets’ : Le nombre maximum d'objets sur lesquels la marge va s'appliquer. Les objets après ce nombre n'auront pas de marge associée.
 
-* ‘First Item Cost’: The fee charged for the first item in the order.
-* ‘Additional Item Cost’: The fee charged for items beyond the first item.
-* ‘Max Items’: The maximum number of items on which the fee will be applied. Items purchased beyond this amount will be not be charged the fee.
+![](../.gitbook/assets/image%20%284%29.png)
 
-For example: If the first cost is $2, Additional Item Cost is $1 and the maximum items is three. If a customer orders 5 of the item, they will be charged $2 for the first item, $1 for the second and third, and no fee for the fourht and fifth.
+Exemple :  Si la marge du premier est de 2€, celle de l'objet supplémentaire 1 € et le nombre maximum d'objet est de 3. Si un client en commande 5, il paiera 2 € pour le premier, 1€ pour le second et aucune commissions pour les objets 3 et 4.
 
-**Flat Rate \(per item\)** – This fee is a constant fee, applied to products listed as ‘items’. \(it will not be applied to products listed as per kg, or per L\)
+**Taux net \(par item\)** – Cette marge est constante et s'applique uniquement aux produits vendus à la pièce \(et non ceux vendus au poids\).
 
-**Price Sack **– This fee is used to charge a discount on fees for orders which exceed a certain dollar amount.
+**Price Sack **– Cette marge est utilisée pour appliquer une marge réduite à partir du moment où la commande atteind un certain montant.
 
-* ‘Minimum Amount’: If the order’s total is below this amount, they will be charged the ‘Normal Amount’.
-* ‘Discount Amount’: Orders which are equal to or greater than the minimum amount will be charged the ‘Discount Amount’.
-
-Shipping method charges are important in situations where the producer or hub contract another party to perform shipping. However, shipping method charges can be zero. For producers selling direct to customers, the price of shipping may be incorporated into the price of the goods. However, while you may not need to charge customers who collect their orders, for delivery it is reasonable to charge extra.
+* ‘Montant minimal’ : Si la commande est en-dessous de ce montant, le consommateur devra payer le ‘Montant normal'.
+* ‘Montant de la réduction’ : Si la commande est égale ou supérieure au montant minimal, le consommateur devra payer le ‘Montant de la réduction’.
+* 'Currency' : La monnaie utilisée \(généralement "EUR"\).
 

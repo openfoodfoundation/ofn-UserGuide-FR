@@ -96,5 +96,5 @@ Les prix et les montants à allouer à chaque producteurs peuvent également êt
 
   [Réaliser une tarification personnalisée en fonction des clients.](../fonctionnalites-avancees/mise-en-place-dune-boutique/customer-specific-pricing.md) Il est possible configurer une boutique afin d'appliquer une politique de prix différente en fonction de vos groupes de clients.
 
-  [Réaliser des commandes manuelles ](../fonctionnalites-avancees/commandes/create-an-order.md)pour les clients préférant utiliser les sms ou le téléphone.
+  [Réaliser des commandes manuelles ]()pour les clients préférant utiliser les sms ou le téléphone.
 

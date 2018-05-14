@@ -10,5 +10,5 @@
 
 * Create orders manually for your customers.
 
-  [Read more](manual-orders.md)
+  [Read more](../commandes/manual-orders.md)
 

@@ -79,7 +79,7 @@ The [Basic Features](../fonctionnalites-standards/) chapter steps through the fu
 
 * Create orders manually for your customers.
 
-  [Read more](cycles-de-vente/manual-orders.md)
+  [Read more](commandes/manual-orders.md)
 
 ### Groups
 
@@ -101,5 +101,5 @@ The [Basic Features](../fonctionnalites-standards/) chapter steps through the fu
 
 ## Orders
 
-* Create an order manually for your customer from the back end. [Read more](commandes/create-an-order.md)
+* Create an order manually for your customer from the back end. [Read more]()
 
