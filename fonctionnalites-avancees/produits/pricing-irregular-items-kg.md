@@ -1,4 +1,4 @@
-# Fixer un prix pour les produits irrégulier au kg
+# Fixer un prix pour les produits irréguliers au kg
 
 Un produit dit "irrégulier" est un produit dont on ne connait pas le poids final à l'avance \(c'est le cas des pièces de viandes par exemple ou des produits vendus en vrac, dont le prix varie en fonction du poids\). Cette section du guide traite donc la gestion des prix pour ce type de produit.
 
