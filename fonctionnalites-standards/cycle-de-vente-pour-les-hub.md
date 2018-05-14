@@ -2,33 +2,29 @@
 
 ## Cycle de vente pour les hubs
 
-_\*Not a Hub, but a producer? See _[_Order Cycles for producers_](cycle-de-vente-pour-les-fournisseurs.md)_._
+_\*Vous êtes un producteur ? Rendez-vous sur _[_Cycle de vente pour les fournisseurs_](cycle-de-vente-pour-les-fournisseurs.md)_._
 
-You open you shop by creating an Order Cycle. When you make an order cycle you select when you shop is open \(from and until\), which products will go into the shop, and any fees that you'll apply.
+En ouvrant un cyclde de vente, vous définissez les périodes d'ouverture de votre boutique, les produits présents ainsi que les marges et commissions associées.
 
-**Why Order Cycles? **Some hubs may wish to have an online store which is perpetually open, and to fulfill orders on a one by one basis, as they are received. However, many hubs operate on a periodic ordering system, which allows them to process orders in bulk, making their packing and distribution activities more efficient. Let’s use an example to illustrate a common periodic ordering cycle structure.
+**Pourquoi gérer par cycle de vente ? **Certaines entreprises préfèrent avoir une ouverture en continu et répondre ainsi aux commandes au fil de l'eau. D'autres fonctionnent par périodes. Par exemple, les ventes seront ouvertes pendant deux semaines \(un cycle de vente de deux semaines\) : à la fin de ces deux semaines, toutes les commandes seront emballées et distribuées en même temps. Une fois que ce lot de commandes a été géré, un nouveau cycle de vente redémarre. Cela permet d'optimiser l'emballage et le transport.
 
-For instance, each Monday morning a hub might assess the availability of their stock for the week. Based on this information they will create an order cycle by Monday afternoon and open their store. Customers can then place orders in their store, until the order cycle closes on Wednesday at midnight. On Thursday all of the orders can be packed by the hub and prepared for delivery on Friday. The following week the cycle will begin again, and with the creation of a new order cycle. By structuring order cycles in this way, and dealing with orders in bulk, hubs can make their ordering, sorting, packing and transport activities much more efficient than if they process orders individually as they are placed.
+### 1. Accéder aux cycles de ventes
 
-### 1. Access Order Cycles
+Connecté en administrateur, vous pouvez vous rendre sur le menu Cycle de vente ou depuis votre tableau de bord, cliquer sur le bouton suivant :
 
-You can create an order cycle, and view previous order cycles by clicking on **Manage Order Cycles **on your dashboard.
+![](../.gitbook/assets/image%20%2843%29.png)
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Order-Cycle.png)
+Puis cliquez sur "Nouveau cycle de vente" :
 
-Or from the horizontal menu at the top of the page.
+![](../.gitbook/assets/image%20%287%29.png)
 
-![Access order cycle](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-order-cycle.png)
+### 2. Créer un nouveau cycle de vente
 
-### 2. Create a New Order Cycle
+* **Attention !** Vous ne pouvez pas créer de cycle de vente tant que vous n'avez pas indiqué de [méthode de livraisons ](types-de-livraisons.md)ni de[ méthodes de paiements](methodes-de-paiements.md).
 
-Below is the first stage in creating an order cycle.
+La première chose à faire est de sélectionner un coordinateur pour votre cycle de vente. Cette entreprise aura toutes les permissions pour modifier et gérer le cycle de vente. Les autres entreprises impliquées dans le cycle de vente \(les fournisseurs ou les autres hubs\) auront des accès restreints. Pour plus d'informations sur les gestions des droits entre entreprises, cliquez [ici](../fonctionnalites-avancees/collaborer-avec-dautres-entreprises/e2e-powers-in-multi-enterprise-ocs.md).
 
-\*Remember, you cannot create an order cycle until you have set up [shipment](types-de-livraisons.md) and [payment](https://github.com/ofnuserguidefr/guide-utilisateur-open-food-france/tree/f72c4e0a78bb6dc0c5b39249e706b0dbac84df5f/payment-methods-2.md) methods.
-
-![Set order cycle coordinator](https://openfoodnetwork.org/wp-content/uploads/2015/05/Set-coordinator.png)
-
-Select the coordinator of the order cycle. The enterprise which coordinates an order cycle has full powers and permissions to edit and manage an order cycle. Other enterprises involved in the order cycle \(such as suppliers or distributors\) have restricted abilities to edit an order cycle \(for more information click here\). After the coordinator is selected, the subsequent order cycle will be restricted according to who has granted this coordinator permission to add them to an order cycle \(P-OC\).For more information about Enterprise to Enterprise permissions go here.
+![](../.gitbook/assets/image%20%2822%29.png)
 
 **Name:**Give your order cycle a name which is meaningful to you. We recommend that you follow a consistent naming protocol e.g FoodHub\_Week27\_2014. We also recommend that you include the name of your hub in the order cycle name, so that OFN support can identify your order cycles if you need assistance.
 

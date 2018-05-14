@@ -6,7 +6,7 @@ Pour ces utilisateurs, cette étape est préliminaire à l'ajout de produits dan
 
 Tous les producteurs vendant des produits sur Open Food France \(OFF\) doivent détenir un profil sur la plateforme. Cette fonctionnalité est important car elle permet aux internaute de connaitre l'origine de leurs produits. L'affichage est réalisé de la manière suivante \(juste en-dessous du nom du produit\) :
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 En tant que hub, vous avez deux options : soit vous créez les profils de tous les producteurs avec qui vous travaillez, soit vous vous connectez à des profils producteur déjà existant sur la plateforme.
 
@@ -26,7 +26,7 @@ _Avant de pouvoir créer plusieurs profils différent, nous devons activer une o
 
 Une fois connecté à l'interface d'administration, rendez-vous dans le menu "entreprises" et cliquez sur "nouvelle entreprise" :
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 Cette action vous amenera sur une page similaire à[ l'édition de votre profil.](parametres.md#acceder-aux-parametres) Quelques remarques cependant :
 
