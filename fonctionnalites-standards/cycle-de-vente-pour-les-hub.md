@@ -26,94 +26,58 @@ La première chose à faire est de sélectionner un coordinateur pour votre cycl
 
 ![](../.gitbook/assets/image%20%2822%29.png)
 
-**Name:**Give your order cycle a name which is meaningful to you. We recommend that you follow a consistent naming protocol e.g FoodHub\_Week27\_2014. We also recommend that you include the name of your hub in the order cycle name, so that OFN support can identify your order cycles if you need assistance.
+**Nom : **Choississez un nom pou le cycle. Il sera visible uniquement pour vous, donc indiquez quelque chose qui vous permettra de le retrouver facilement ensuite. Par exemple vous pouvez choisir un protocole du type _Commandesemaine26\_2018._
 
-**Orders Open:** This is the date at when your OFN store will be open, visible and start to accept orders from customers.
+**Commandes à partir de :** La date à laquelle votre boutique commencera à accepter des commandes.
 
-**Order Close: **This is the date when your OFN store will close and stop accepting orders. If you intend to have an order cycle which is continuously open, select a close date which is well into the future.
+**Orders Close :** La date à laquelle la boutique arrêtera d'accepter des commandes. Si vous souhaitez laisser votre boutique ouverte en continue, indiquer une date dans un futur très lointain.
 
-**Add Coordinator Fee:**As a hub, the coordinator is most likely you. Here you can apply your Enterprise Fee which acts as the markup. The fee will be calculated according to the calculator selected in [Enterprise Fees](frais-et-taxes.md). You can only apply an enterprise fee which has previously been created.
+**Ajouter commission coordinateur : **En tant que Hub, le coordinateur est certainement vous. La marge sera calculée en fonction du calculateur sélectionné précédemment, voir guide [Marges et commissions](frais-et-taxes.md).
 
-![New order cycle fields](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-order-cycle-3.png)
+### 3. Produits entrants
 
-#### Incoming: select producer and produce
+Ici vous pouvez sélectionner les producteurs et les produits qui seront accessibles durant le cycle de vente. Les producteurs visibles dans la liste déroulante sont uniquement les producteurs vous [ayant donné accès à leur catalogue](../fonctionnalites-avancees/collaborer-avec-dautres-entreprises/). Cliquez bien sur "ajouter un fournisseur" pour voir les produits associés à ce fournisseur. Cohez les produits que vous souahitez ajouter \(vous pouvez aussi les sélectionner tous\). **Attention** : les produits qui on une valeur "à volonté" à 0 s'afficheront également. Faites bien attention au stock disponible en les ajoutant. 
 
-The incoming section is where you can select the producers, and their produce, which will be available in this order cycle. In the dropdown menu you will see all producers who have granted you permission to add their produce to your order cycle \(See _Relationships with Producers_ section for details\). After selecting a supplier and clicking **Add Supplier** all of the products associated with that supplier will be visible. Check those products you wish to add to the store, or click **select all. **Note: Products which have an ‘on hand’ value of zero \(no stock available\) will still be visible, so be careful to check that you have adequate on hand inventory for the products selected.
+Les **détails de livraison produits Details **sont facultatifs. 
 
-![Incoming](https://openfoodnetwork.org/wp-content/uploads/2015/05/Incomiing.png)
+Le bouton pour ajouter une marge ou commission vous permet de l'ajouter par fournisseur. Sélectionnez le nom de l'entreprise, puis le nom de la marge comme dans l'exemple ci-dessous. 
 
-The **Receival Details **fields are optional. If you wish to use the **Notify Produers**button, to send orders to your supplying producers, you should write your stock receival instructions here. \(more info in the Notify Producers section at the bottom of this page\).
-
-The **Add Fee **button is where you can apply an enterprise fee, belonging to that supplier. Select the name of the enterprise in the first dropdown box, then click the name of the enterprise fee in the second dropdown box. In the example below, an enterprise fee named OrderAdmin is applied to the Producer of Fruit.
-
-This fee will be applied to all of the Producer of Fruit’s products which are purchased. The fee is calculated according to the fee calculator which was selected when the [Enterprise Fee](frais-et-taxes.md) was created.
+Cette marge s'appliquera à tous les produits du fournisseur.La marge sera calculée en fonction du calculateur sélectionné précédemment, voir guide [Marges et commissions](frais-et-taxes.md).
 
 ![Apply enterprise fee to incoming supplier](https://openfoodnetwork.org/wp-content/uploads/2015/05/Enterprise-Fee.png)
 
-#### 4. Outgoing: select distributor
+### 4. Produits sortants
 
-The distributor\(s\) selected in the outgoing section, will have a shopfront created from this order cycle. In simple hub models, there is only one distributor, the hub. So select the hub in the distributor column, and then select all products that should be visible in the online store during this order cycle. More complex hubs might have buying groups, in which case each is selected as a distributor, and will consequently have their own shopfront created. You then have the capacity to select specific products to be available in each buying group’s shop.
+Le distributeur sélectionné dans cette catégorie aura une boutique ouverte avec ce cycle de vente. Dans un modèle simple, il n'y a qu'un seul distributeur, le hub. IL suffit de le sélectionner puis de sélectionner tous les produits associés. Dans un modèle plus complexe avec plusieurs hubs, vous avez ainsi la possibilité de sélectionner des produits différent pour chaque hub. 
 
-![Outgoing Section](https://openfoodnetwork.org/wp-content/uploads/2015/05/Outoging-New.png)
+Les **tags **vous permettent de taguer le cycle de vente \(voir [Gestion des tags et comptes clients](../fonctionnalites-avancees/mise-en-place-dune-boutique/customized-shopping-experience.md)\).
 
-The **tags **column is where you can tag your order cycle \(see [Customer Accounts and Tagging](../fonctionnalites-avancees/mise-en-place-dune-boutique/customized-shopping-experience.md)\).The**‘ready for \(ie Date/Time\)’**box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfills orders on an individual basis rather then in bulk, you should enter something like ‘Two days after order is received’. The example below shows how ‘Friday 9th’ is displayed in a store.
+**Le message lié aux instructions de réception de la commande **sera inclut dans l'email de confirmation de commande envoyé au client, jsute en-dessous de la méthode de livraison. Ils seront les seuls à obtenir cette information donc vous pouvez y inclure des informations comme des adresses ou numéros de téléphone.
 
-![ready for field](https://openfoodnetwork.org/wp-content/uploads/2015/05/Ready-for.png)
+**Ajouter une marge** **: **A nouveau une marge peut être associée au hub.
 
-The note is also shown at check out, when the customer selects their shipping method \(see below\) and is included in the order confirmation email.
+### 5. Ouvrir la boutique
 
-![Ready for info in email](https://openfoodnetwork.org/wp-content/uploads/2015/05/shipping-info.png)
+Cliquez sur "créer" pour créer le cycle de vente.
 
-The **Pick-Up Instructions **message will be included in the customer’s order confirmation email, below the message that corresponds to their chosen shipping method \(see below\). This note is designed to only be visible to customers, so you can include more sensetive information like addresses, or phone numbers etc. See below for an example of the order confirmation email.
+\*Remarque : lorsque vous créez un cycle de vente, si une des deux dates indiquées se situe dans le moment présent, la boutique sera automatiquement ouverte sur la plateforme. Si vous n'êtes pas prêt à ouvrir tout de suite, indiquez des dates dans le passé, que vous pourrez changer ensuite. 
 
-![collection details message](https://openfoodnetwork.org/wp-content/uploads/2015/05/Collection-details.png)
+Si votre cycle de vente se répête de manière périodique et régulière, vous pouvez duppliquer un cycle de vente passé afin d'aller plus vite \(bouton orange sur la capture, attention il n'est pas orange sur la plateforme\) :
 
-**Add Fee: **Again, a previously created enterprise fee can be assigned to this distributor.
+![](../.gitbook/assets/image%20%2814%29.png)
 
-#### 5. Open the shopfront
+Les cycles de vente sont présentés en vert lorsqu'ils sont actifs, jaune lorsqu'ils sont indiqués pour une date dans le futur et gris lorsqu'ils sont fermés. Un mois après la fermeture d'un cycle de vente, il n'apparaitra plus dans cette liste, il faudra cliquer sur "voir plus" pour voir tous vos cycles de vente.
 
-Click Create to save this order cycle.
+## **Notifier les producteurs**
 
-![](http://openfoodfoundation.org/sites/default/files/create.png)
+En utilisant ce bouton, tous les producteurs liés à ce cycle de vente seront notifiés d'un email contenant une liste des produits commandés pour ce cycle de vente.
 
-.
+## **Fonctionnalités avancées**
 
-**\*\* When you create an order cycle, and the opening and closing dates fall either side of the present, a shopfront will become live on the homepage. If you are not ready to have your store open, temporarily put the opening and closing dates in the past \(this can be edited when you are ready to open\).**
+Ces fonctionnalités sont à destination descycles de vente avec plusieurs hubs. Rendez-vous sur la page [Catalogue](../fonctionnalites-avancees/produits/inventory-tool.md) pour plus de détails.
 
-For periodic, repetitive order cycles, you can copy an existing order cycle and change the dates, to make the process quicker. See below.
+* [Créer des cycles de vente en affichage seul](../fonctionnalites-avancees/cycles-de-vente/display-only-order-cycles.md)
+* [Gestions des droits pour les cycles de vente à plusieurs entreprises](../fonctionnalites-avancees/collaborer-avec-dautres-entreprises/e2e-powers-in-multi-enterprise-ocs.md)
 
-![duplicate an order cycle](https://openfoodnetwork.org/wp-content/uploads/2015/05/copy-order-cycle.png)
 
-Order cycles will display as green when they are active, yellow when schedules for a future date, and grey when they have closed. When an order cycle close over one month ago, it will no longer display on this list. To view all of your past order cycles click ‘show more’ at the top of the list.
-
-**‘Notify Producers’ Button**
-
-Some hubs use this tool as a way to notify their suppliers of which items have been ordered, in what quantities and also to give them receival instructions. Clicking this button will send the following email to the contact email of the producer’s profile. It is sent to all producers included in this order cycle and will sum all of the orders placed in that order cycle.
-
-Dear**&lt;Producer’s Name&gt;**,
-
-We now have all the consumer orders for next food drop.
-
-Stock pickup/delivery instructions: **&lt;Receival instructions&gt;**.
-
-## Orders summary
-
-Here is a summary of the orders for your products:
-
-**&lt;Total products orders in this order cycle \(example below\)&gt;**  
-– Producer of Meat – Leg of Lamb \(Frozen\) \(1.5kg\) \(QTY: 1\) @ $22.50 = $22.50  
-– Producer of Meat – Sausages \(100g\) \(QTY: 3\) @ $3.00 = $9.00
-
-Thanks and best wishes,
-
-**&lt;Hub Name, address, phone number, email&gt;**
-
-**Advanced Settings**
-
-These settings are relevant for multi distributor order cycles. See [Inventory](../fonctionnalites-avancees/produits/inventory-tool.md) for details of these settings.
-
-**Related advanced features:**
-
-* [Creating ‘display only’ order cycles](../fonctionnalites-avancees/cycles-de-vente/display-only-order-cycles.md)
-* [Permissions in multi-enterprise order cycles](../fonctionnalites-avancees/collaborer-avec-dautres-entreprises/e2e-powers-in-multi-enterprise-ocs.md)
 

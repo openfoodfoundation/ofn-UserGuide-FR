@@ -1,4 +1,4 @@
-# Customized Shopping Experience
+# Gestion des tags et comptes clients
 
 Any customers who have placed an order in your shop will be listed on the **Customer Page**. Each unique email address used, will be listed as a unique customer. You can also add customer emails to your list by typing the email in the Add New Customer field. Once customers are in your customers page, you will be able to apply tags to them \(see below\).
 
@@ -134,4 +134,6 @@ This rule lets you make certain order cycles visible to certain customers only. 
 * **Visible:**
 
   If by default your order cycles are invisible, you can make them visible to particular customer by setting a ‘order cycles tagged\_are visible’ tag rule.  Customer without tags or with different tags will not see this order cycle.
+
+
 

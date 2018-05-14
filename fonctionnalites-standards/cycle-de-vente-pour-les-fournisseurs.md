@@ -22,21 +22,11 @@ Connecté sur l'interface d'administration, sélectionnez le dernier menu sur vo
 
 **Orders Close :** La date à laquelle la boutique arrêtera d'accepter des commandes. Si vous souhaitez laisser votre boutique ouverte en continue, indiquer une date dans un futur très lointain.
 
-**Ready for \(ie Date/Time\):** This box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfills orders on an individual basis rather then in bulk, you should enter something like ‘Two days after order is received’. You can also put information about your delivery methods in your ‘shopfront message’. The example below shows how ‘Friday 9th’ is displayed in a store.
+**Le message lié aux instructions de réception de la commande **sera inclut dans l'email de confirmation de commande envoyé au client, jsute en-dessous de la méthode de livraison. Ils seront les seuls à obtenir cette information donc vous pouvez y inclure des informations comme des adresses ou numéros de téléphone.
 
-IMAGE
+**Produits : **Afin que les produits soient visibles sur la boutique en ligne, il est nécesssaire de les ajouter ici. Attention, si vous ajouter des produits après la date de démarrage du cycle de vente, pensez-bin à les ajouter ici aussi pour qu'ils apparaissent en ligne !
 
-The note is also shown at check out, when the customer selects their shipping method \(see below\) and is included in the order confirmation email.
-
-IMAGE
-
-**Customer Instructions \(Pick-Up Instructions\):** This message will be included in the customer’s order confirmation email, below the message that corresponds to their chosen shipping method \(see below\). This note is designed to only be visible to customers, so you can include more sensitive information like addresses, or phone numbers etc. See below for an example of the order confirmation email.
-
-IMAGE
-
-**Products:** You must select the products which will be visible in your online store during this order cycle. Remember, if you add new products after an order cycle is underway, you will need to select them here.
-
-**Fees:** There is the option of adding a coordinator fee. Here you can apply an enterprise fee that has been created for your enterprise. This function is most relevant to producers and hubs who are working in partnership. It allows an administration fee to be distributed to the party who is responsible for coordinating orders. Most often, this is not relevant to single producers selling their own products.
+**Commission** **:** Vous pouvez ajouter une marge que vous avez défini préalablement. La marge sera calculée en fonction du calculateur sélectionné précédemment, voir guide [Marges et commissions](frais-et-taxes.md). Cette fonctionnalité est particulièrement intéressante pour les producteurs et les hubs travaillant en partenariat, peut-être moins pour les producteurs travaillant en vente directe.
 
 ## 3. Ouvrez votre boutique
 
@@ -52,5 +42,7 @@ Les cycles de vente sont présentés en vert lorsqu'ils sont actifs, jaune lorsq
 
 ### Fonctionnalités avancées
 
-* [Créez des cycles de vente en affichage seul](../fonctionnalites-avancees/cycles-de-vente/display-only-order-cycles.md)
+* [Créer des cycles de vente en affichage seul](../fonctionnalites-avancees/cycles-de-vente/display-only-order-cycles.md)
+
+
 
