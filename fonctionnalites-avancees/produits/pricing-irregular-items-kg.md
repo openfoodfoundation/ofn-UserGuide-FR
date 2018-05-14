@@ -1,46 +1,44 @@
-# Pricing irregular items \(kg\)
+# Fixer un prix pour les produits irrégulier au kg
 
-When listing meat products with a standard size and price \(eg 6 pack of sausages, $9\), or products that are divisible \(eg mince meat\) adding product prices is straightforward. However, when it comes to adding products that are irregular in size and can’t be divided, like chickens or legs of lamb, pricing become a little more complex. There are a couple of ways that producers can work around these challenges.
+Un produit dit "irrégulier" est un produit dont on ne connait pas le poids final à l'avance \(c'est le cas des pièces de viandes par exemple ou des produits vendus en vrac, dont le prix varie en fonction du poids\). Cette section du guide traite donc la gestion des prix pour ce type de produit.
 
-Let’s take an example. A producer sells legs of lamb. They usually weight between 1.5-2.5kg, and he charges $15/kg for them. Because each leg is unique he cannot list the product as a simple Leg of Lamb, with a set price. Some options are discussed below.
+## Fixer un prix moyen et gérer la différence ensuite
 
-## Charge for the average weight and reimburse
+Vous pouvez faire payer un prix moyen à l'acheteur et ensuite rembourser la différence ou la facture
 
-You can charge the average price of the product, and then reimburse or charge the customer extra, if the actual weight deviates from this. So in this example, he would charge $30/leg, based on an average of 2kg. When the actual leg is weighed and packed, he may calculate a 500g deviation, requiring him to reimburse $7.50.
+Lorsque vous connaissez le vrai poids des produits, connectez-vous au menu "Gestion des commandes par lot" et ajoutez la colonne Poids/volume au tableau de la page. Vous pouvez ainsi modifier le poids indiqué pour chaque acheteur. Le prix se recalculera automatiquement en fonction de la quantité. 
 
-When you know the real weight of your products, you can update orders in Bulk Order Management. Search for the Leg of Lamb so that you view all orders containing this product. Make the ‘weight/volume’ column visible. The values in this column can be edited to reflect the real weights of the legs of lamb allocated to each customer. The example below shows that when Claire’s order is adjusted to a 1.5kg leg of lamb, the price automatically recalculates. Click update to save this change.
+![](../../.gitbook/assets/image%20%2834%29.png)
 
-![bulk order management change to weight/volume](https://openfoodnetwork.org/wp-content/uploads/2015/05/Change-to-order-weightvolume.png)
+N'oubliez pas de renvoyer une confirmation de commande à Claire pour lui indiquer le bon prix.
 
-Now, when you view Claire’s order, the correct total will display, and all reports will reflect this change. You may wish to resend the order confirmation to the customer as well.
+Pour gérer les remboursements ou les tarifications supplémentaires, rendez-vous dans le chapitre [suivant](pricing-irregular-items-kg.md#reimbursing-or-collecting-additional-payment-on-the-ofn).
 
-## List the product in weight ranges
+## Affichez des fourchettes de prix
 
-This is a similar approach to above, but instead of listing the average you can list weight ranges, to increase the likelihood that the customer gets a product of the size they prefer. For instance, you can give the customer a choice between a smaller leg \(1.5-2kg\) and a larger leg \(2-2.5kg\). These can be created as 2 variants. The price for each size can be calculated based on the average, the upper or the lower end of the weight range. If you price based on the upper limit, you’ll more likely need to reimburse the customer. If you price based on the lower, you’ll more likely need to request additional payment. You can create as many weight increments as you like, and can cater to.
+Même logique que dans le précédent paragraphe, simplement au lieu d'afficher un prix moyen initialement, indiquez une fourchette de prix. Cette solution à l'avantage de bien préciser à l'acheteur que le prix final est succeptible d'être modifié. Les variantes peuvent également être l'opportunité de créer des fourchettes différentes. 
 
-## Listing unique, individual iteams \(e.g. frozen products\)
+## Créer une variante par poids possible \(cas des produits congelés\)
 
-If you have the unique items on hand, you can list each individual item, with its accurate weight and price. For instance, the example below shows pre-weighed and packed frozen legs of lamb listed as unique variants, with an on hand value of 1. The image below shows how the product variants are entered, and how they will display in the shopfront.
+Si vous connaissez à l'avance tous les formats possible, vous pouvez utiliser les variantes pour afficher directement les prix précis. Exemple :
 
-![Pricing a leg of lamb in shopfront](https://openfoodnetwork.org/wp-content/uploads/2015/05/Leg-of-lamb-example.png)
+![](../../.gitbook/assets/image%20%2830%29.png)
 
-## Irregular supply
+## Offre irrégulière
 
-It can be difficult for meat producers to predict the exact products they will have until after processing. For example, a poultry producer may expect to have 12 medium chickens, but after a fox attack, only 6 remain, and 6 smaller ones. Therefore the producer needs to be able to adjust orders, to alert customers to the shortage, and the corresponding change in their order. The product may be removed from their order, or substituted with something similar.
+Il peut être difficile pour les producteurs de viande de prévoir à l'avance le conditionnement prévu pour ses produits. Les commandes peuvent ainsi être modifiées \(ajout, modification ou suppression de produits\). pour en savoir plus consultez la rubrique [Commandes](../../fonctionnalites-standards/visualisation-des-commandes.md).
 
-Orders can be adjusted in Orders Listing.Alert the customer to any changes in their order.
+## Remboursement ou refacturation : comment ça marche ?
 
-## Reimbursing or collecting additional payment on the OFN
+Ce cas est très simple à gérer lorsque la méthode de paiement est le liquide à la réception de la commande.
 
-Reimbursing or collecting additional payment is the most straightforward when the Payment Method is cash on collection or delivery.
+Une alternative reste de faire payer directement en ligne 80% de la commande à l'acheteur et les 20% restant uniquement lorsque vous confirmez la commande. Ces 20% restant pouvant varier en fonction du montant final de la commande. En revanche, la plateforme n'est pas encore automatisée pour ce point. IL faut donc indiquer cette stratégie dans les descriptions à disposition dans la [méthode de paiement](../../fonctionnalites-standards/methodes-de-paiements.md) et être préparé au fait que les acheteurs manqueront peut-être de le lire.
 
-An alternative to reimbursing, is to request that customers only pay 80% at checkout, and the other 20% once the order is confirmed. This 20% may change according to the final prices. The OFN doesn’t have an automated tool for this. Instead you’ll need to place these instructions in the Payment Method description, which will display to the customer at checkout and in their order confirmation email. However, be prepared to have customers miss these instructions.
+Nous travaillons à la mise en place automatisée de cette partie, qui permettra également l'émission de bons de réductions à la palce de remboursement monétaires.
 
-In the future, the OFN is planning to develop customer accounts, which can track refunds and allow stores to generate ‘store credits’
+## Informer l'acheteur sur sa politique de prix
 
-## Alerting customers to your pricing policy
+Pour indiquer à l'acheteur final votre politique de prix et notamment le cas des produits en vrac ou de la viande, rendez-vous [ici](../../fonctionnalites-standards/parametres.md#preferences-boutique).
 
-Each OFN store has the option of placing a message at the top of their shopfront. This is an opportune place to let customers know that prices can vary after the order is placed. Instructions to do this are [here](../../fonctionnalites-standards/parametres.md), under Shop Preferences.
-
-The Payment Method description box is another place to send a message to the customer, such as ‘the final price may vary by a maximum of 10% due to product variability, we will contact you for variations greater than this’. Instructions for creating this message are [here](https://github.com/ofnuserguidefr/guide-utilisateur-open-food-france/tree/f72c4e0a78bb6dc0c5b39249e706b0dbac84df5f/payment-methods-2.md).
+La description de la méthode de paiement est un bon endroit pour réaliser un rappel du type "le prix final peut varier de 10% en fonction des arrivages, nous vous contacterons si la variation du prix peut être plus importantes". Le tutoriel pour placer ce message se trouve [ici](https://github.com/ofnuserguidefr/guide-utilisateur-open-food-france/tree/f72c4e0a78bb6dc0c5b39249e706b0dbac84df5f/payment-methods-2.md).
 

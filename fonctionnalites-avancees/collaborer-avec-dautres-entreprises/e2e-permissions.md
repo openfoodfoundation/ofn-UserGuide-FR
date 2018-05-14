@@ -1,4 +1,4 @@
-# E2E Permissions
+# Permissions inter-entreprises
 
 ## Enterprise to Enterprise permissions \(E2Es\)
 

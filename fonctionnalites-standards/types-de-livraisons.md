@@ -8,7 +8,7 @@ La définition des méthodes de livraison est obligatoire avant l'ouverture d'un
 
 En tant qu'administrateur, allez sur le menu bleu **Entreprises **puis cliquez sur **gérer **et enfin sur **méthode de livraison **dans le menu vertical de gauche :
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
 **2\)** Cliquez sur **créer une nouvelle méthode de livraison. **Vous serez redirigé sur cette page :
 
