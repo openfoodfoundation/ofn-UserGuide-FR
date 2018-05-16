@@ -8,23 +8,23 @@ Lorsqu'une marge est appliquée, le consommateur est capable de voir la constitu
 
 ## Accéder au menu marge et commissions
 
-Sur l'interface d'administration, rendez-vous sur le menu **Enterprises**, puis cliquez sur **Gérer **et enfin sur "marges et commissions" dans le menu de gauche.
+Sur l'interface d'administration, rendez-vous sur le menu **Enterprises**, puis cliquez sur **Gérer** et enfin sur "marges et commissions" dans le menu de gauche.
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
 ## Ajouter des marges et commissions
 
-![](../.gitbook/assets/image%20%2838%29.png)
+![](../.gitbook/assets/image%20%2839%29.png)
 
 **Entreprise :** Dans la première colonne, sélectionnez l'entreprise qui recevra la marge.
 
-**Type de marge** **: **Sélectionnez le service lié à la marge \(transport, emballage...\)
+**Type de marge** **:** Sélectionnez le service lié à la marge \(transport, emballage...\)
 
-**Nom : **Choisissez un nom pour la marge.
+**Nom :** Choisissez un nom pour la marge.
 
-**TVA applicable : **Sélectionnez la TVA applicable. Si aucune TVA n'est appliquée, indiquez "TVA 0%".
+**TVA applicable :** Sélectionnez la TVA applicable. Si aucune TVA n'est appliquée, indiquez "TVA 0%".
 
-**Calculateur : **La marge peut être calculée de différentes manières. Sélectionnez le calcul qui s'applique le mieux.
+**Calculateur :** La marge peut être calculée de différentes manières. Sélectionnez le calcul qui s'applique le mieux.
 
 Pour finaliser, cliquez sur "Mettre à jour". Une fois que la marge a été créée, vous pouvez indiquer comment la marge sera calculée dans la colonne "Montant pour calculs".
 
@@ -32,13 +32,13 @@ Pour finaliser, cliquez sur "Mettre à jour". Une fois que la marge a été cré
 
 ### Le calculateur
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
-**Pourcentage net **– This fee is charged as a percentage of the total amount charged in the order.
+**Pourcentage net** – This fee is charged as a percentage of the total amount charged in the order.
 
-**Poids \(au kg\) **– cette marge s'applique aux produits vendus par kg. Elle ne s'appliquera donc pas aux produits vendus à la pièce.
+**Poids \(au kg\)** – cette marge s'applique aux produits vendus par kg. Elle ne s'appliquera donc pas aux produits vendus à la pièce.
 
-**Flat Rate \(per order\) **– Cette marge s'applique de manière standard à toutes les commandes, quelque soit leur taille ou leur unité.
+**Flat Rate \(per order\)** – Cette marge s'applique de manière standard à toutes les commandes, quelque soit leur taille ou leur unité.
 
 **Taux flexible** – Ce calcul est utilisé pour les remises promotionnelles \(quand vous appliquez une marge réduite lorsque le consommateur achète en gros\).
 
@@ -52,7 +52,7 @@ Exemple :  Si la marge du premier est de 2€, celle de l'objet supplémentaire 
 
 **Taux net \(par item\)** – Cette marge est constante et s'applique uniquement aux produits vendus à la pièce \(et non ceux vendus au poids\).
 
-**Price Sack **– Cette marge est utilisée pour appliquer une marge réduite à partir du moment où la commande atteind un certain montant.
+**Price Sack** – Cette marge est utilisée pour appliquer une marge réduite à partir du moment où la commande atteind un certain montant.
 
 * ‘Montant minimal’ : Si la commande est en-dessous de ce montant, le consommateur devra payer le ‘Montant normal'.
 * ‘Montant de la réduction’ : Si la commande est égale ou supérieure au montant minimal, le consommateur devra payer le ‘Montant de la réduction’.

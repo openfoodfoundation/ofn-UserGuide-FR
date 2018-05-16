@@ -49,12 +49,12 @@ Chaque producteurs devra vous donner accès à ses stocks.
 
 Si votre fournisseur a un profil, mais n'a pas ajouté de produits, vous devrez tout d'abord avoir la permission de gérer leur stock. Ensuite, vous pourrez [ajouter des produits](../fonctionnalites-standards/produits.md).
 
-**Une fois toutes ces étapes effectuées, vous pouvez ouvrir votre boutique en suivant cette dernière étape : **
+**Une fois toutes ces étapes effectuées, vous pouvez ouvrir votre boutique en suivant cette dernière étape :** 
 
 9\) [Ouvrez votre boutique en créant un nouveau cycle de vente](../fonctionnalites-avancees/cycles-de-vente/).
 
-**Une fois que les premières commandes auront été effectuées, vous pouvez consulter l'historique des commandes et accéder aux rapport.    
-**  
+**Une fois que les premières commandes auront été effectuées, vous pouvez consulter l'historique des commandes et accéder aux rapport.**    
+  
 10\) [Visualiser et modifier les commandes](../fonctionnalites-standards/visualisation-des-commandes.md).
 
 11\) [Accéder aux rapports](https://github.com/OFNUserguideFr/OFNUserGuide-France/tree/1d234e8c405da5bfe626c5ecf5f2eb351ab64b8a/reports.md). Les rapports vous permettent également de générer des factures ou des relances emails.

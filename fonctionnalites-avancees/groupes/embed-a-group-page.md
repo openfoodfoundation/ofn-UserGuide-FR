@@ -6,7 +6,7 @@ This feature lets you embed a group page into a website external to OFN. This le
 
 ### Platform
 
-This feature is relatively new, and we’re still testing it out, but it should work on any kind of website, **as long as you can add custom html **to the page where you want the group page. Whether your website is suported by WordPress, Squarespace, Wix or another platform, it should be able to be setup to embed your group page.
+This feature is relatively new, and we’re still testing it out, but it should work on any kind of website, **as long as you can add custom html** to the page where you want the group page. Whether your website is suported by WordPress, Squarespace, Wix or another platform, it should be able to be setup to embed your group page.
 
 Below are some platform specific resources:
 
@@ -44,7 +44,7 @@ Depending on the styling of your website you may need to add some CSS tweaks. Th
 
 ### **Example**
 
-We have setup an [example of an embedded group page](https://openfoodnetwork.org/user-guide/advanced-features/demo-embedded-group/)**, **using Flavour Crusader for you to look at and play with. It’s been embedded into OFN’s global website openfoodnetwork.org, which is a wordpress site.
+We have setup an [example of an embedded group page](https://openfoodnetwork.org/user-guide/advanced-features/demo-embedded-group/)**,** using Flavour Crusader for you to look at and play with. It’s been embedded into OFN’s global website openfoodnetwork.org, which is a wordpress site.
 
 ## Instructions for Visitors
 

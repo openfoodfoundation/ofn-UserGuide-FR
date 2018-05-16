@@ -1,28 +1,28 @@
 # Create Group Page
 
-**What is a group page? **Group pages are a way for groups to have their own personalised directory on the OFN. Group pages are suited to regional producer groups, certification bodies, farmer’s markets and large multi-hub groups.
+**What is a group page?** Group pages are a way for groups to have their own personalised directory on the OFN. Group pages are suited to regional producer groups, certification bodies, farmer’s markets and large multi-hub groups.
 
-**What does a group page look like? **You can see some [Group Pages on Open Food Network Australia](https://openfoodnetwork.org.au/groups).
+**What does a group page look like?** You can see some [Group Pages on Open Food Network Australia](https://openfoodnetwork.org.au/groups).
 
-**How can I create a group page? **To create a group and become an administrator of a group, you’ll need to contact your local OFN first so we can set this up.
+**How can I create a group page?** To create a group and become an administrator of a group, you’ll need to contact your local OFN first so we can set this up.
 
 ## Managing a Group Page
 
-Once you’ve been designated the administrator of a group, you’ll be able to view and edit your group by clicking on **Groups **in the horizontal blue menu. Then click on the **edit **icon next to your group.
+Once you’ve been designated the administrator of a group, you’ll be able to view and edit your group by clicking on **Groups** in the horizontal blue menu. Then click on the **edit** icon next to your group.
 
 ![Edit a group](https://openfoodnetwork.org/wp-content/uploads/2015/10/Edit-group.png)
 
 ### **Primary Details**
 
-**Name: **Select a name for your group
+**Name:** Select a name for your group
 
-**Description: **This is just a short descriptoin of your hub, which will be visible on the front of your group page.
+**Description:** This is just a short descriptoin of your hub, which will be visible on the front of your group page.
 
-**On Front Page: **Select the tick box if your group is ready to be visible on the OFN. Do not check this box if you don’t want your group page to be visible yet.
+**On Front Page:** Select the tick box if your group is ready to be visible on the OFN. Do not check this box if you don’t want your group page to be visible yet.
 
-**Enterprises: **Select the enterprises who you want to be members of your group. You can search through all of the enterprises currently on the OFN and make them a member of your group. Please make sure you have permission to add enterprises to your group before doing so. Note, if you have already added an enterprise to your group, they will no longer show in the search box.
+**Enterprises:** Select the enterprises who you want to be members of your group. You can search through all of the enterprises currently on the OFN and make them a member of your group. Please make sure you have permission to add enterprises to your group before doing so. Note, if you have already added an enterprise to your group, they will no longer show in the search box.
 
-**Permalink: **This is the final component of your group page’s URL, after www.openfoodnetwork.org.au/groups/
+**Permalink:** This is the final component of your group page’s URL, after www.openfoodnetwork.org.au/groups/
 
 ### Users
 

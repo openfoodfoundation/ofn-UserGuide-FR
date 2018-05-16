@@ -1,52 +1,40 @@
-# Product properties
+# Propriétés / labels
 
-You can apply product properties to your products, as a way of letting your customers know more about how your products are produced and what their characteristics are. Current product properties that can be applied include:
+Vous pouvez ajouter des labels à vos produits afin de renseigner l'acheteur final sur les méthodes de production ainsi que les lables obtenus pour le produits. Actuellement les propriétés suivantes peuvent être ajoutées :
 
-* Regional
-* Grass Fed
-* Minimum Spray
-* Native Veg Regen
-* Preservative Free
-* Locally Grown
-* Low Food Miles
-* Naturally Ripened
-* No Preservatives
-* Organic- Certified
-* Organic- Not Certified
-* Free Range
-* Biodynamic- Certified
+* AB
+* EU bio
+* Demeter
+* Raisonné
+* Elevé sous la mère
+* Bio cohérence
+* Nature & Progrès
+* Paysans de nature
+* Autre bio
 
-_\*If you wish to apply a product property which is not listed here, get in touch and we will consider creating a new on, if there is widespread demand._
+_\*Si vous souhaitez ajouter un label non présent, n'hésitez pas à nous écrire : nous pourrons l'ajouter en particulier s'il y a une forte demande._
 
-There are two ways to assign properties to your products:
+Il y a deux manières d'assigner un label à produit :
 
-1\) You can assign a property to an enterprise, so that all products belonging to that enterprise will carry this propoerty \(unless it’s manually removed, which is covered in the **“Inherited Properties” **section below\).
+1\) Vous pouvez l'assigner à une entreprise, ainsi tous les produits de l'entreprise auront les labels et propriétés sélectionnées.
 
-2\) You can assign properties to particular products, on an individual basis.
+2\) Vous pouvez l'assigner à un ou plusieurs produits en particulier.
 
-## 1\) Assigning a property to an enterprise
+## 1\) Assigner un label à une entreprise
 
-When you assign a property to an enterprise, all products belonging to that enterprise will, by default, carry that product property. For instance, if all of your products are ‘Minimum Spray’, you can assign this property to your enterprise, to save you from needing to manually apply this property to every product. If a property only applies to a few of your products, it’s better to apply it to the product, instead of the enterprise \(instructions below\).
+Cette méthode permet d'assigner le label à tous les produits de l'entreprise. SI vous souhaitez ajouter le label qu'à certains produits, rendez-vous plutôt à l'étape 2.
 
-You can acess enterprise properties in one of two ways: In the**Enterprise**tab, you can select ‘Properties’ next to the corresponding enterprise \(below\).
+Sur l'interface d'administration, rendez-vous sur le menu "**Entreprises**" puis cliquez sur "**gérer**" et accédez à "**Propriétés/Labels**" dans le menu vertical de gauche :
 
-![access properties](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-properties.png)
+![](../../.gitbook/assets/image%20%2822%29.png)
 
-Or you can click**Properties**in the enterprise profile management section \(below\).
+**Nom du label** **:** A sélectionner dans la liste déroulante. C'est le nom qui s'affichera à l'acheteur final.
 
-![Access properties from profile edit](https://openfoodnetwork.org/wp-content/uploads/2015/05/access-properties-2.png)
+**Description** **:** Vous pouvez ajouter une petite description pour donner plus d'informations sur votre label. Cela peut être un numéro de certificat pour un label par exemple.
 
-Next, there are 2 fields when applying an enterprise property:
+Vous pouvez ajouter autant de propriétés / labels que vous souhaitez. N'oubliez pas de cliquer sur "**mettre à jour**" en bas de page une fois que vous avez terminé.
 
-**Property:**You can select a pre-defined product property from the dropdown list. This is the name of the property that your products will be tagged with, and which customers will be able to filter for in your shop.
-
-**Value:**You can write a description of how this product property applies to your enterprise in this field. For example, if you have selected the property ‘Organic- Certified’ in the property field, you could write the certification number in the value field. Or if you have selected the property ‘Free Range’ you could write a more detailed description of how your animals are raised in the value field.
-
-_\* You can apply multiple properties to your enterprise_
-
-![Enterprise properties fields](https://openfoodnetwork.org/wp-content/uploads/2015/05/ent-properties.png)
-
-## 2\) Assigning a property to a product
+## 2\) Assigner un label à un produit
 
 To assign a property to a single product, rather than an enterprise’s entire product range, click on**Products**in the horizontal blue banner, and then edit an existing product \(you cannot apply a product property when you are first creating a product\).
 

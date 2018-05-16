@@ -23,9 +23,9 @@ To designate the group buy feature to a product, go to Products in the horizonta
 
 ![Edit almonds for group buy](https://openfoodnetwork.org/wp-content/uploads/2015/06/Edit-almonds.png)
 
-Then select **Yes **under **Group Buy **\(see below\).
+Then select **Yes** under **Group Buy** \(see below\).
 
-The **Group Buy Unit Size **is the amount that the group’s collective order needs to reach. In this case we need a total order of 5kg or more, so I’ll write 5000. Note: The Group Buy Unit Size is in g \(for products sold by weight\) and L \(for products sold by volume\).
+The **Group Buy Unit Size** is the amount that the group’s collective order needs to reach. In this case we need a total order of 5kg or more, so I’ll write 5000. Note: The Group Buy Unit Size is in g \(for products sold by weight\) and L \(for products sold by volume\).
 
 ![Group Buy Unit Size](https://openfoodnetwork.org/wp-content/uploads/2015/06/Group-Buy-Unit-Size.png)
 
@@ -58,7 +58,7 @@ In bulk order management you can view and edit customer orders for Bulk Buy prod
 
 What does Current Fulfilled Orders and Max Fulfilled Order tell me?
 
-**Current Fulfilled Orders **divides your total quantity ordered by the group buy unit size. If this figure is greater than 1, it tells you that the existing customer order satisfy or exceed your required group buy unit size. If this figure is less than 1, existing customer orders don’t meet that threshold. As you raise the quantity of customer orders, this figure will raise.
+**Current Fulfilled Orders** divides your total quantity ordered by the group buy unit size. If this figure is greater than 1, it tells you that the existing customer order satisfy or exceed your required group buy unit size. If this figure is less than 1, existing customer orders don’t meet that threshold. As you raise the quantity of customer orders, this figure will raise.
 
 **Max Fulfilled Order** takes the sum or all of the customer’s MAX order quantities and divides this by the Group Buy Unit Size. If the number is over 1, then you know that the total of your MAX orders exceeds the required group buy quantity. If it’s below zero, it means that even the MAX order quantities won’t reach the threshold.
 

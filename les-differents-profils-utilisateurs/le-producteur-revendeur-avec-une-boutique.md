@@ -21,14 +21,14 @@ Les paramétrages de chaque boutique correspondront donc au profil du [producteu
 
 Avant de créer les profils additionnels, vous aurez besoin de nous contacter pour éviter que les mails ne partent tous en SPAM.
 
-**Le producteur revendeur créer les profils et les produits de tous les producteurs impliqués    
-**  
+**Le producteur revendeur créer les profils et les produits de tous les producteurs impliqués**    
+  
 1\) Une fois que la boutique du producteur revendeur est créée, il peut désormais créer un profil pour un autre producteur et ajouter ses produits. La modification des paramètres du profil est décrite [ici](../fonctionnalites-standards/creez-ou-connectez-vos-producteurs.md).
 
 2\) Attention l'interface de cycle de vente sera différente si vous stocker des produits de la part d'autres producteurs. La version "hub alimentaire" du cycle de vente est expliquée [ici](../fonctionnalites-standards/cycle-de-vente-pour-les-hub.md).
 
-**Les producteurs impliqués créent eux-même leur profil et produits    
-**  
+**Les producteurs impliqués créent eux-même leur profil et produits**    
+  
 Pour cela, il suffit de suivre les instructions à [cette page](le-producteur-sans-boutique.md). En effet, ils n'auront pas besoin de boutiques, dans la mesure où leurs vente se réaliseront exclusivement via la boutique du producteur revendeur. Il est cependant important qu'ils donnent accès au producteur revendeur, à leurs produits. Cette étape est décrite [ici](../fonctionnalites-avancees/collaborer-avec-dautres-entreprises/e2e-permissions.md).
 
 ## Fonctionnalités avancées

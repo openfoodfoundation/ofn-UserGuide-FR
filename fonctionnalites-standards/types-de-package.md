@@ -6,13 +6,13 @@ Open Food France \(OFF\) offre 5 types de packages, qui vont différer en foncti
 
 Les packages
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
-1. **Création d'un profil simple** :** **
+1. **Création d'un profil simple** : ****
 
    Pour plus d'informations sur ce profil rendez-vous sur la page [Le producteur sans boutique.](../les-differents-profils-utilisateurs/le-producteur-sans-boutique.md)
 
-2. **Vous souhaitez vendre uniquement vos produits : **
+2. **Vous souhaitez vendre uniquement vos produits :** 
 
    Pour plus d'informations sur ce profil rendez-vous sur la page [Le producteur revendeur avec une boutique](../les-differents-profils-utilisateurs/le-producteur-revendeur-avec-une-boutique.md).
 

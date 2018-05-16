@@ -8,11 +8,11 @@ Producers with online shops on the OFN have products in the system, which get pi
 
 Here’s how to do this…
 
-Click **Products **in the horizontal blue menu, and then click**+ New Product **to add your dummy products.
+Click **Products** in the horizontal blue menu, and then click**+ New Product** to add your dummy products.
 
 ![Access new product page](https://openfoodnetwork.org/wp-content/uploads/2015/08/Access-new-product.png)
 
-Because you don’t have an OFN shopfront, this product won’t be visible anywhere. Therefore you can call it whatever you like, and set the price and units to anything. The important thing is that you select the correct **Product Category **that you wish to be found under. Below is an example of a dummy meat product. This producer’s profile will now show if a customer searches for producers of meat.
+Because you don’t have an OFN shopfront, this product won’t be visible anywhere. Therefore you can call it whatever you like, and set the price and units to anything. The important thing is that you select the correct **Product Category** that you wish to be found under. Below is an example of a dummy meat product. This producer’s profile will now show if a customer searches for producers of meat.
 
 ![Dummy meat product settings](https://openfoodnetwork.org/wp-content/uploads/2015/08/Dummy-meat-product.png)
 

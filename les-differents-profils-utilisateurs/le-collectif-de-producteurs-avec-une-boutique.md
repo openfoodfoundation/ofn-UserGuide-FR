@@ -6,16 +6,16 @@ On parle ici d'un collectif de producteurs qui se rassemblent pour travailler en
 
 ## Les atouts
 
-**Une boutique unique, avec des produits de différents producteurs    
-**Vos clients ont donc la possibilité de voir des produits de producteurs différents, ce qui leur donne accès à plus de diversité dans le type de produits proposés.
+**Une boutique unique, avec des produits de différents producteurs**    
+Vos clients ont donc la possibilité de voir des produits de producteurs différents, ce qui leur donne accès à plus de diversité dans le type de produits proposés.
 
-**Administration centrale minimale    
-**Pour faciliter votre gestion au jour-le-jour, l'interface d'administration vous permet de suivre les commandes et d'accéder à un historique des commandes et des paiements.
+**Administration centrale minimale**    
+Pour faciliter votre gestion au jour-le-jour, l'interface d'administration vous permet de suivre les commandes et d'accéder à un historique des commandes et des paiements.
 
 Par ailleurs chaque producteurs peut accéder et modifier ses informations directement. Cela facilite la gestion et permet un gain de temps.
 
-**Améliore la communication entre les parties prenantes   
-**Il est possible d'utiliser les fonctions de rapports pour permettre aux producteurs de connaitre ce qui a été commandé et calculer les chiffres d'affaires globaux et individuels.
+**Améliore la communication entre les parties prenantes**   
+Il est possible d'utiliser les fonctions de rapports pour permettre aux producteurs de connaitre ce qui a été commandé et calculer les chiffres d'affaires globaux et individuels.
 
 ### An example of this model in action
 
@@ -63,8 +63,8 @@ Si votre fournisseur a un profil, mais n'a pas ajouté de produits, vous devrez 
 
 9\) [Ouvrez votre boutique en créant un nouveau cycle de vente](../fonctionnalites-avancees/cycles-de-vente/).
 
-**Une fois que les premières commandes auront été effectuées, vous pouvez consulter l'historique des commandes et accéder aux rapport.    
-**  
+**Une fois que les premières commandes auront été effectuées, vous pouvez consulter l'historique des commandes et accéder aux rapport.**    
+  
 10\) [Visualiser et modifier les commandes](../fonctionnalites-standards/visualisation-des-commandes.md).
 
 11\) [Accéder aux rapports](https://github.com/OFNUserguideFr/OFNUserGuide-France/tree/1d234e8c405da5bfe626c5ecf5f2eb351ab64b8a/reports.md). Les rapports vous permettent également de générer des factures ou des relances emails.

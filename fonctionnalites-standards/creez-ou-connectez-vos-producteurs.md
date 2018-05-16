@@ -26,7 +26,7 @@ _Avant de pouvoir créer plusieurs profils différent, nous devons activer une o
 
 Une fois connecté à l'interface d'administration, rendez-vous dans le menu "entreprises" et cliquez sur "nouvelle entreprise" :
 
-![](../.gitbook/assets/image%20%2841%29.png)
+![](../.gitbook/assets/image%20%2842%29.png)
 
 Cette action vous amenera sur une page similaire à[ l'édition de votre profil.](parametres.md#acceder-aux-parametres) Quelques remarques cependant :
 
@@ -34,7 +34,7 @@ Cette action vous amenera sur une page similaire à[ l'édition de votre profil.
 
 **Producteur ? : Cochez bien la case !**
 
-**Email et téléphone : **Ces informations sont publiques. Si le producteur ne souhaite pas les indiquer, ajoutez les votre.
+**Email et téléphone :** Ces informations sont publiques. Si le producteur ne souhaite pas les indiquer, ajoutez les votre.
 
 ## 2\) Le producteur a déjà un profil sur OFF {#supplyingproducer}
 

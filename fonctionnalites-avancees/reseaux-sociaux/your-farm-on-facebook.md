@@ -4,11 +4,11 @@ This page explains the process of creating a page for a farm on Facebook. If you
 
 To create a page for your farm \(or business\) on Facebook, you’ll first need a personal account on Facebook. If you already have one, login and proceed to the next step. If you don’t, go to [www.facebook.com](http://www.facebook.com/) and create an account. You’ll need to provide a name, an email or phone number and a date of birth. Your farm’s page will be separate to this personal account, you just need this account to administer your farm’s page.
 
-Once you have an account and you are logged in, click on **Home **in the top menu and then click **create page **in the left hand vertical menu.
+Once you have an account and you are logged in, click on **Home** in the top menu and then click **create page** in the left hand vertical menu.
 
 ![create page](https://openfoodnetwork.org/wp-content/uploads/2015/09/create-page.png)
 
-Next, select the **local business or place **option, and fill out your details \(see below\). The ‘business or place name’ field will be the name of your farm’s new Facebook page.
+Next, select the **local business or place** option, and fill out your details \(see below\). The ‘business or place name’ field will be the name of your farm’s new Facebook page.
 
 ![Local business or place](https://openfoodnetwork.org/wp-content/uploads/2015/09/Local-business-or-placeee.png)
 
@@ -40,7 +40,7 @@ Here you can tell Facebook about the kinds of people you want visiting your page
 
 ## Create a call-to-action button
 
-Click c**reate call to action**, at the top of your page. This button can be used to direct people to your online shop. Select the **shop now **button type, and provide the URL to your shop’s website \(this can be an OFN site, or an external online shop\).
+Click c**reate call to action**, at the top of your page. This button can be used to direct people to your online shop. Select the **shop now** button type, and provide the URL to your shop’s website \(this can be an OFN site, or an external online shop\).
 
 ![Create a call-to-action button](https://openfoodnetwork.org/wp-content/uploads/2015/09/Create-a-call-to-action-button.png)
 
@@ -56,5 +56,5 @@ You can edit any of the information you provided during the creation of your pag
 
 ![Edit and contact details](https://openfoodnetwork.org/wp-content/uploads/2015/09/Edit-and-contact-details.png)
 
-**Great! Your farm’s page is all set up, and now you’re ready to start using Facebook to connect with customers and others in your industry. To learn about using Facebook, check out our **[**Facebook Tips**](facebook-tips.md) **page.**
+**Great! Your farm’s page is all set up, and now you’re ready to start using Facebook to connect with customers and others in your industry. To learn about using Facebook, check out our** [**Facebook Tips**](facebook-tips.md) **page.**
 

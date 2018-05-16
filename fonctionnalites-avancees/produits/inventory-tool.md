@@ -8,7 +8,7 @@ The inventory page gives enterprises increased control and flexibility with thei
 
 The inventory pages are used for three primary functions:
 
-1. **Overriding product details. **
+1. **Overriding product details.** 
 
    The
 
@@ -24,7 +24,7 @@ The inventory pages are used for three primary functions:
 
     In the inventory list enterprises can hide products that they may not want to see, making the task of filtering which products go into the shopfront quicker when dealing with large amounts of products. There is also the option to have new products added by producers hidden by default, until they have been approved by you.
 
-3. **Resting stock ‘on hand’ levels. **
+3. **Resting stock ‘on hand’ levels.** 
 
    Enterprises who have stock that is regularly  restocked to a certain quantity can define this recurring on hand stock level for each product, and reset levels quickly en mass.
 
@@ -47,23 +47,23 @@ You can select whether new products added by your suppliers need to be added to 
 
 ## Accessing Inventory
 
-Click on **Products **in the horizontal blue menu and then **Inventory **in the green menu. You will be prompted to select the shopfront that your Inventory will apply to \(if you operate more than one shopfront\). Remember, each shopfront has it’s own Inventory page, and settings in the Inventory page will only be applied to one shopfront. If you have more than one shopfront, you can set different inventory details for each.
+Click on **Products** in the horizontal blue menu and then **Inventory** in the green menu. You will be prompted to select the shopfront that your Inventory will apply to \(if you operate more than one shopfront\). Remember, each shopfront has it’s own Inventory page, and settings in the Inventory page will only be applied to one shopfront. If you have more than one shopfront, you can set different inventory details for each.
 
 ![Accessing Inventory](https://openfoodnetwork.org/wp-content/uploads/2015/06/Accessing-Inventory-1.png)
 
-When you first visit the Inventory page, you will see an alert that you have ‘new products available to add to your inventory’. Until you add your products to your Inventory list, they’ll remain in the **New Products **list.
+When you first visit the Inventory page, you will see an alert that you have ‘new products available to add to your inventory’. Until you add your products to your Inventory list, they’ll remain in the **New Products** list.
 
 ![New products alert](https://openfoodnetwork.org/wp-content/uploads/2015/06/New-products-alert.png)
 
-Clicking on**Review Now**will take you to your**New Products **list.
+Clicking on**Review Now**will take you to your**New Products** list.
 
 ## New Products
 
 ![New Products](https://openfoodnetwork.org/wp-content/uploads/2015/06/New-Products.png)
 
-New products can be either **Added** to your inventory list or **Hidden**. If there is a product in the list for which you would like to override details, or apply a recurring stock level to, you’ll need to **add **it to your inventory list. If there is a product which you never want to sell in your shop, or at least don’t want to stock in the near future, you can choose to **hide **it \(see **Hidden Products **section below\).
+New products can be either **Added** to your inventory list or **Hidden**. If there is a product in the list for which you would like to override details, or apply a recurring stock level to, you’ll need to **add** it to your inventory list. If there is a product which you never want to sell in your shop, or at least don’t want to stock in the near future, you can choose to **hide** it \(see **Hidden Products** section below\).
 
-Remember, if your **Inventory Settings **are set so that ‘new products must be added to my inventory before they can be put in my shopfront’, any products you leave in the New Product list will effectively be hidden. If your Inventory setting is ‘new products can be put in my shopfront’ then products in your New Products list will still show in your order cycle.
+Remember, if your **Inventory Settings** are set so that ‘new products must be added to my inventory before they can be put in my shopfront’, any products you leave in the New Product list will effectively be hidden. If your Inventory setting is ‘new products can be put in my shopfront’ then products in your New Products list will still show in your order cycle.
 
 ## Inventory Products
 
@@ -75,9 +75,9 @@ Your inventory products list is where you can override product details, set up s
 
 ### Overriding product details
 
-You can change product details in the Inventory Page. Any changes you make will over-ride the master product details, and your shopfront and reports will reflect these over-ridden values you have set. You can override the **SKU**,**Price**,**On Hand **value, and on hand/**on demand **setting. You can’t over-ride the product’s name, units, description or photograph.
+You can change product details in the Inventory Page. Any changes you make will over-ride the master product details, and your shopfront and reports will reflect these over-ridden values you have set. You can override the **SKU**,**Price**,**On Hand** value, and on hand/**on demand** setting. You can’t over-ride the product’s name, units, description or photograph.
 
-* **SKU **
+* **SKU** 
 
   – if you wish to use an alternative SKU for a product, you can over-ride the producer’s SKU here by typing in an alternative.
 
@@ -95,17 +95,17 @@ You can change product details in the Inventory Page. Any changes you make will 
 
 ### Stock Level Reset
 
-The **enable stock level reset **column allows you to reset the On Hand amount to a **default amount, **for example at the start of each new order cycle. The **default amount **can be entered in this column next to the check box. The checkbox allows you to select those that you want to reset at any give time. If there is a value in this field and the checkbox is selected, when you hit Inventory &gt; Actions &gt; Reset Stock Levels to Defaults, all the checked products’ on hand values will return to the designated level. As an example this tool is helpful for producers who know that each month they will slaughter 2 animals, and thus have known quantities of product available for each order cycle.
+The **enable stock level reset** column allows you to reset the On Hand amount to a **default amount,** for example at the start of each new order cycle. The **default amount** can be entered in this column next to the check box. The checkbox allows you to select those that you want to reset at any give time. If there is a value in this field and the checkbox is selected, when you hit Inventory &gt; Actions &gt; Reset Stock Levels to Defaults, all the checked products’ on hand values will return to the designated level. As an example this tool is helpful for producers who know that each month they will slaughter 2 animals, and thus have known quantities of product available for each order cycle.
 
 ### Inherit
 
-If you have not applied any overrides to a product’s details, the **Inherit **check box will automatically be selected. This tells you that the product’s details will be drawn from the Master product list- these values are shown in grey. When you make an overrides, the check box will un-select, indicating that some product details will be taken from your **Inventory **list, rather than inherited from the **Product **list. If at any point you want to remove your overrides, you can re-select **Inherit **and that product will revert to its master settings.
+If you have not applied any overrides to a product’s details, the **Inherit** check box will automatically be selected. This tells you that the product’s details will be drawn from the Master product list- these values are shown in grey. When you make an overrides, the check box will un-select, indicating that some product details will be taken from your **Inventory** list, rather than inherited from the **Product** list. If at any point you want to remove your overrides, you can re-select **Inherit** and that product will revert to its master settings.
 
 ![Inherited](https://openfoodnetwork.org/wp-content/uploads/2015/06/Inherited.png)
 
 ### Hide
 
-As in the **New Products **list, you can also **hide **products from your **Inventory List**. Clicking on the hide button will shift the product to your **Hidden Products **list. This has the effect of making it disappear from your order cycle set up and thus disabling the option of adding it to your shop.
+As in the **New Products** list, you can also **hide** products from your **Inventory List**. Clicking on the hide button will shift the product to your **Hidden Products** list. This has the effect of making it disappear from your order cycle set up and thus disabling the option of adding it to your shop.
 
 Remember to save changes 
 
@@ -115,7 +115,7 @@ Remember to save changes
 
 ![Hidden products](https://openfoodnetwork.org/wp-content/uploads/2015/06/Hidden-products.png)
 
-This list shows any products you have chosen to hide \(this can be done from either the Inventory Product or New Products lists\). A hidden product will longer show up in your order cycle set-up interface, which can make it less cluttered for those with many products. Here you can choose to **+Add **them back to your Inventory Products list. This will make it possible to add them to Order Cycles again and to apply any inventory functions to them.
+This list shows any products you have chosen to hide \(this can be done from either the Inventory Product or New Products lists\). A hidden product will longer show up in your order cycle set-up interface, which can make it less cluttered for those with many products. Here you can choose to **+Add** them back to your Inventory Products list. This will make it possible to add them to Order Cycles again and to apply any inventory functions to them.
 
 ## Inventory and Order Cycles
 

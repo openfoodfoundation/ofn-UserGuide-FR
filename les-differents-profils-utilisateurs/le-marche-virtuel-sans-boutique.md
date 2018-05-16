@@ -12,8 +12,8 @@ Ci-dessous, un exemple de la page du marché de [Melbourne](https://github.com/O
 
 ## Les atouts
 
-**Un espace pour raconter votre parcours    
-**Vous pouvez mettre en valeur les profils des membres de votre marché. Ajouter leurs parcours, leur localisation et leurs coordonnées. Cela permet en suite au consommateur d'accéder à une place interactive pour en savoir plus sur les producteurs et connaitre d'où vient les produits qu'ils achètent.
+**Un espace pour raconter votre parcours**    
+Vous pouvez mettre en valeur les profils des membres de votre marché. Ajouter leurs parcours, leur localisation et leurs coordonnées. Cela permet en suite au consommateur d'accéder à une place interactive pour en savoir plus sur les producteurs et connaitre d'où vient les produits qu'ils achètent.
 
 ## Les étapes de création du profil
 

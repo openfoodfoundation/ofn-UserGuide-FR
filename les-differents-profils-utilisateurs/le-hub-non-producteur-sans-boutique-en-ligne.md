@@ -27,6 +27,6 @@ Lors que vous disposez d'un profil sur Open Food France \(OFF\), vous devenez vi
 
 ## Fonctionnalités avancées
 
-**Vous souhaitez ouvrir une boutique en ligne ?    
-**En** **quelques étapes supplémentaires, vous avez la possibilité d'ajouter la fonction boutique en ligne à votre profil. Rendez-vous sur la page [Le hub non producteur avec boutique en ligne](le-hub-non-producteur-avec-boutique-en-ligne.md). Vous avez déjà réalisé l'étape 1 en créant votre profil, vous pouvez donc directement démarrer à l'étape 2 et changer votre type de package.
+**Vous souhaitez ouvrir une boutique en ligne ?**    
+En ****quelques étapes supplémentaires, vous avez la possibilité d'ajouter la fonction boutique en ligne à votre profil. Rendez-vous sur la page [Le hub non producteur avec boutique en ligne](le-hub-non-producteur-avec-boutique-en-ligne.md). Vous avez déjà réalisé l'étape 1 en créant votre profil, vous pouvez donc directement démarrer à l'étape 2 et changer votre type de package.
 

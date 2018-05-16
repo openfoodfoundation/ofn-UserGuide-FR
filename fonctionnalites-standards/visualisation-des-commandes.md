@@ -10,11 +10,11 @@ Les filtres présent sur la page peuvent vous aider à accéder plus rapidement 
 
 ![](../.gitbook/assets/image%20%2814%29.png)
 
-**Distributeur: **L'entreprise à qui appartient la boutique sur laquelle la commande a été passée.
+**Distributeur:** L'entreprise à qui appartient la boutique sur laquelle la commande a été passée.
 
-**Sélection de dates** **: **Vous permet de filtrer les commandes par date de création
+**Sélection de dates** **:** Vous permet de filtrer les commandes par date de création
 
-**Numéro de facture :  **Dans le listing, si un petit panneau apparait avec un point d'exclamation à côté de ce numéro, cela signifie qu'un client a inclut un message avec sa commande. Passez votre souris sur le logo pour afficher la note.
+**Numéro de facture :**  Dans le listing, si un petit panneau apparait avec un point d'exclamation à côté de ce numéro, cela signifie qu'un client a inclut un message avec sa commande. Passez votre souris sur le logo pour afficher la note.
 
 **Région :**
 
@@ -36,11 +36,11 @@ Les filtres présent sur la page peuvent vous aider à accéder plus rapidement 
 
 _Remarque_ _: Vous ne pouvez pas indiquer une commande à "envoyée" si le statut de paiement n'est PAS "Payé"._
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
-**Email acheteur** **: **L'email du client. Une liste complète des emails clients peut être téléchargée dans les [rapports](https://github.com/ofnuserguidefr/guide-utilisateur-open-food-france/tree/f72c4e0a78bb6dc0c5b39249e706b0dbac84df5f/reports.md).
+**Email acheteur** **:** L'email du client. Une liste complète des emails clients peut être téléchargée dans les [rapports](https://github.com/ofnuserguidefr/guide-utilisateur-open-food-france/tree/f72c4e0a78bb6dc0c5b39249e706b0dbac84df5f/reports.md).
 
-**Total : **La valeur totale de la commande.
+**Total :** La valeur totale de la commande.
 
 ### **Modifier le statut de paiement ou de livraison d'une commande**
 
@@ -66,13 +66,13 @@ Pour modifier le statut de livraison ou de paiement, cliquez simplement sur le b
 
 En cliquant sur le bouton modifier vous êtes amener à consulter la page suivante :
 
-![](../.gitbook/assets/image%20%2846%29.png)
+![](../.gitbook/assets/image%20%2847%29.png)
 
 _Remarque_ _: Vous pouvez également modifier le statut de paiement et de livraison via cette page. Consultez les paragraphes suivants pour les autres fonctionnalités._
 
 #### **Ajouter et supprimer des produits d'une commande**
 
-Vous pouvez ajouter un produit en sélectionnant la bonne variante. Pour le supprimer, il suffit de cliquer sur le petit icône poubelle à côté de la ligne du produit. Vous pouvez aussi modifier les quantités commandées. N'oubliez pas de bien cliquer sur le bouton "**update and recalculate fees" **pour sauvegarder vos modifications.
+Vous pouvez ajouter un produit en sélectionnant la bonne variante. Pour le supprimer, il suffit de cliquer sur le petit icône poubelle à côté de la ligne du produit. Vous pouvez aussi modifier les quantités commandées. N'oubliez pas de bien cliquer sur le bouton "**update and recalculate fees"** pour sauvegarder vos modifications.
 
 **Renvoyer l'email de confirmation**
 
@@ -98,7 +98,7 @@ Cliquez sur le bouton "annuler" depuis la page de modification d'une commande.
 
 Cliquez sur "détails clients" dans la liste en bas à droite pour accéder à toutes les coordonnées :
 
-![](../.gitbook/assets/image%20%2837%29.png)
+![](../.gitbook/assets/image%20%2838%29.png)
 
 **Ajouter ou supprimer un montant à la commande**
 
@@ -108,23 +108,23 @@ Cliquez sur "ajustements" \(cf capture ci-dessus\). Sur cette page vous pouvez a
 
 La liste des commandes présente les commandes alors que cette page liste les produits commandés. Cela permet de modifier en masse plusieurs commandes qui contiennent le même produit \(changement de quantité, produit en rupture, etc\). La page se présente la manière suivante :
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 **Date de début et de fin** **:** Vous pouvez filtrer l'affichage des produts en fonction des dates de commandes.
 
 **Producteur :** Vous pouvez filtrer sur un producteur en particulier.
 
-**Boutique** **: **Vous pouvez filtrer sur une boutique en particulier \(comme sur la capture ci-dessus\).
+**Boutique** **:** Vous pouvez filtrer sur une boutique en particulier \(comme sur la capture ci-dessus\).
 
 **Cycle de vente** **:** Vous pouvez filtrer sur un cycle de vente en particulier.
 
 **Quick Search :** Sans aller jusqu'à l'utilisation des filtres, vous pouvez aussi tout simplement taper un mot-clé dans ce champ \(cela peut être un nom, un produt, une boutique, un numéro de commande..\).
 
-**Actions : **En cochant les cases à côté de chaque produit, vous pouvez appliquer des modifications en masse en passant par le bouton action \(ex : vous souhaitez supprimer toutes les commandes liées à un produit\).
+**Actions :** En cochant les cases à côté de chaque produit, vous pouvez appliquer des modifications en masse en passant par le bouton action \(ex : vous souhaitez supprimer toutes les commandes liées à un produit\).
 
 **Colonnes :** Vous pouvez gérer vous-même l'affichage des colonnes et des champs que vous voyez ou non.
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 Notez que vous pouvez également trier chaque colonne en cliquant sur son titre. Un clic pour un ordre de A à Z, un second pour l'ordre inverse.
 
@@ -143,7 +143,7 @@ Les étapes seront les suivantes :
 3. CLiquez sur "fromage de chèvre" dans la colonne "produit : unité"
 4. Un message apparaitra en haut de page avec la quantité totale commandée :
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2823%29.png)
 
 Vous pouvez alors ajuster la quantité, dans la colonne quantité. Le total affiché au-dessus se modiefiera automatiquement en conséquence. A ce moment, il est intéressant d'envoyer une alerte email aux clients : **la plateforme ne génère pas automatiquement une alerte lors de la modification d'une commande**.
 
@@ -163,7 +163,7 @@ Nous allons prendre l'exemple d'une caisse de viande de 10 kg :
 4. Modifiez les valeurs de poids \(le prix changera automatiquement\)
 5. Cliquez sur "mettre à jour".
 
-![](../.gitbook/assets/image%20%2844%29.png)
+![](../.gitbook/assets/image%20%2845%29.png)
 
 
 

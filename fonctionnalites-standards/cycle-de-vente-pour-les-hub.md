@@ -2,17 +2,17 @@
 
 ## Cycle de vente pour les hubs
 
-_\*Vous êtes un producteur ? Rendez-vous sur _[_Cycle de vente pour les fournisseurs_](cycle-de-vente-pour-les-fournisseurs.md)_._
+_\*Vous êtes un producteur ? Rendez-vous sur_ [_Cycle de vente pour les fournisseurs_](cycle-de-vente-pour-les-fournisseurs.md)_._
 
 En ouvrant un cyclde de vente, vous définissez les périodes d'ouverture de votre boutique, les produits présents ainsi que les marges et commissions associées.
 
-**Pourquoi gérer par cycle de vente ? **Certaines entreprises préfèrent avoir une ouverture en continu et répondre ainsi aux commandes au fil de l'eau. D'autres fonctionnent par périodes. Par exemple, les ventes seront ouvertes pendant deux semaines \(un cycle de vente de deux semaines\) : à la fin de ces deux semaines, toutes les commandes seront emballées et distribuées en même temps. Une fois que ce lot de commandes a été géré, un nouveau cycle de vente redémarre. Cela permet d'optimiser l'emballage et le transport.
+**Pourquoi gérer par cycle de vente ?** Certaines entreprises préfèrent avoir une ouverture en continu et répondre ainsi aux commandes au fil de l'eau. D'autres fonctionnent par périodes. Par exemple, les ventes seront ouvertes pendant deux semaines \(un cycle de vente de deux semaines\) : à la fin de ces deux semaines, toutes les commandes seront emballées et distribuées en même temps. Une fois que ce lot de commandes a été géré, un nouveau cycle de vente redémarre. Cela permet d'optimiser l'emballage et le transport.
 
 ### 1. Accéder aux cycles de ventes
 
 Connecté en administrateur, vous pouvez vous rendre sur le menu Cycle de vente ou depuis votre tableau de bord, cliquer sur le bouton suivant :
 
-![](../.gitbook/assets/image%20%2848%29.png)
+![](../.gitbook/assets/image%20%2849%29.png)
 
 Puis cliquez sur "Nouveau cycle de vente" :
 
@@ -24,21 +24,21 @@ Puis cliquez sur "Nouveau cycle de vente" :
 
 La première chose à faire est de sélectionner un coordinateur pour votre cycle de vente. Cette entreprise aura toutes les permissions pour modifier et gérer le cycle de vente. Les autres entreprises impliquées dans le cycle de vente \(les fournisseurs ou les autres hubs\) auront des accès restreints. Pour plus d'informations sur les gestions des droits entre entreprises, cliquez [ici](../fonctionnalites-avancees/collaborer-avec-dautres-entreprises/e2e-powers-in-multi-enterprise-ocs.md).
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
-**Nom : **Choississez un nom pou le cycle. Il sera visible uniquement pour vous, donc indiquez quelque chose qui vous permettra de le retrouver facilement ensuite. Par exemple vous pouvez choisir un protocole du type _Commandesemaine26\_2018._
+**Nom :** Choississez un nom pou le cycle. Il sera visible uniquement pour vous, donc indiquez quelque chose qui vous permettra de le retrouver facilement ensuite. Par exemple vous pouvez choisir un protocole du type _Commandesemaine26\_2018._
 
 **Commandes à partir de :** La date à laquelle votre boutique commencera à accepter des commandes.
 
 **Orders Close :** La date à laquelle la boutique arrêtera d'accepter des commandes. Si vous souhaitez laisser votre boutique ouverte en continue, indiquer une date dans un futur très lointain.
 
-**Ajouter commission coordinateur : **En tant que Hub, le coordinateur est certainement vous. La marge sera calculée en fonction du calculateur sélectionné précédemment, voir guide [Marges et commissions](frais-et-taxes.md).
+**Ajouter commission coordinateur :** En tant que Hub, le coordinateur est certainement vous. La marge sera calculée en fonction du calculateur sélectionné précédemment, voir guide [Marges et commissions](frais-et-taxes.md).
 
 ### 3. Produits entrants
 
 Ici vous pouvez sélectionner les producteurs et les produits qui seront accessibles durant le cycle de vente. Les producteurs visibles dans la liste déroulante sont uniquement les producteurs vous [ayant donné accès à leur catalogue](../fonctionnalites-avancees/collaborer-avec-dautres-entreprises/). Cliquez bien sur "ajouter un fournisseur" pour voir les produits associés à ce fournisseur. Cohez les produits que vous souahitez ajouter \(vous pouvez aussi les sélectionner tous\). **Attention** : les produits qui on une valeur "à volonté" à 0 s'afficheront également. Faites bien attention au stock disponible en les ajoutant. 
 
-Les **détails de livraison produits Details **sont facultatifs. 
+Les **détails de livraison produits Details** sont facultatifs. 
 
 Le bouton pour ajouter une marge ou commission vous permet de l'ajouter par fournisseur. Sélectionnez le nom de l'entreprise, puis le nom de la marge comme dans l'exemple ci-dessous. 
 
@@ -50,11 +50,11 @@ Cette marge s'appliquera à tous les produits du fournisseur.La marge sera calcu
 
 Le distributeur sélectionné dans cette catégorie aura une boutique ouverte avec ce cycle de vente. Dans un modèle simple, il n'y a qu'un seul distributeur, le hub. IL suffit de le sélectionner puis de sélectionner tous les produits associés. Dans un modèle plus complexe avec plusieurs hubs, vous avez ainsi la possibilité de sélectionner des produits différent pour chaque hub. 
 
-Les **tags **vous permettent de taguer le cycle de vente \(voir [Gestion des tags et comptes clients](../fonctionnalites-avancees/mise-en-place-dune-boutique/customized-shopping-experience.md)\).
+Les **tags** vous permettent de taguer le cycle de vente \(voir [Gestion des tags et comptes clients](../fonctionnalites-avancees/mise-en-place-dune-boutique/customized-shopping-experience.md)\).
 
-**Le message lié aux instructions de réception de la commande **sera inclut dans l'email de confirmation de commande envoyé au client, jsute en-dessous de la méthode de livraison. Ils seront les seuls à obtenir cette information donc vous pouvez y inclure des informations comme des adresses ou numéros de téléphone.
+**Le message lié aux instructions de réception de la commande** sera inclut dans l'email de confirmation de commande envoyé au client, jsute en-dessous de la méthode de livraison. Ils seront les seuls à obtenir cette information donc vous pouvez y inclure des informations comme des adresses ou numéros de téléphone.
 
-**Ajouter une marge** **: **A nouveau une marge peut être associée au hub.
+**Ajouter une marge** **:** A nouveau une marge peut être associée au hub.
 
 ### 5. Ouvrir la boutique
 

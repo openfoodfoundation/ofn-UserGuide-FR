@@ -4,21 +4,21 @@
 
 Une fois connecté sur l'interface d'adminsitration, cliquez sur le menu **Produits**, puis sur le bouton **Nouveau Produit**.
 
-![](../.gitbook/assets/image%20%2845%29.png)
+![](../.gitbook/assets/image%20%2846%29.png)
 
 Vous serez redirigé vers la page suivante :
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2834%29.png)
 
-** Fournisseurs**
+ **Fournisseurs**
 
 Sélectionnez les fournisseurs à l'origine du produit.
 
 > Si vous êtes producteur, i lfaut vous sélectionner vous-même. Si vous êtes un hub, n'oubliez pas que vous pouvez uniquement ajouter des produits pour les producteurs pour lesquels vous avez créé un profil ou qui vont ont donné les droits d'accès à leur catalogue.
 
-**Nom du produit : ** C'est le nom qui sera affiché sur la boutique.
+**Nom du produit :**  C'est le nom qui sera affiché sur la boutique.
 
-**Unités de mesure : **Indiquez via quelle unité le produit sera vendu \(L, kg, pièces...\)
+**Unités de mesure :** Indiquez via quelle unité le produit sera vendu \(L, kg, pièces...\)
 
 **Nombre d'unités :** Par exemple si c'est 100g, il faudrai indiquer ici 100.
 

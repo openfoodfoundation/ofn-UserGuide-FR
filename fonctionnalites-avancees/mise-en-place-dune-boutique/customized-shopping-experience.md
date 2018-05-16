@@ -34,13 +34,13 @@ Using the tagging feature involves two main steps:
 
 ### Tagging Customers
 
-Any customer’s who have placed an order in your shop will be listed on the C**ustomers **page \([https://www.openfoodnetwork.org.au/admin/customers](https://www.openfoodnetwork.org.au/admin/customers)\). Each unique email address used, will be listed as a unique customer.
+Any customer’s who have placed an order in your shop will be listed on the C**ustomers** page \([https://www.openfoodnetwork.org.au/admin/customers](https://www.openfoodnetwork.org.au/admin/customers)\). Each unique email address used, will be listed as a unique customer.
 
 You can create a tag for groups of customers, such as your members or your wholesale customers, for whom you will set up tag rules \(which carry a discount, or special shipping methods\). To create a tag, type the tag in the **tag** column next to a customer and hit the enter button when you’re done. You should do this for all customers in the group \(this could just be one, or many customers\). You can add multiple tags to a single customer also. Remember to type the tag with identical characters each time \(tags are case sensitive\).
 
 ![Customer tags](https://openfoodnetwork.org/wp-content/uploads/2015/10/Customer-taggs.png)
 
-Once you have applied tags to your customers, you can then apply **Tag Rules **to control certain setting for customers in certain tag groups \(see Tag Rules below\).
+Once you have applied tags to your customers, you can then apply **Tag Rules** to control certain setting for customers in certain tag groups \(see Tag Rules below\).
 
 Any tags that you attach will also show up in your ‘Order cycle customer totals’ report, next to this customer’s order. If you take these reports to excel you can then filter your reports according to these tags, making it easy to sort your orders based on certain information.
 
@@ -95,7 +95,7 @@ The example below shows that my wholesale variants are invisible by default. A r
 
 #### **Show/Hide shipping methods**
 
-This rule lets you make particular shipping methods specifically available or unavailable to certain customers. For this rule to operate you need to have tagged the customer and the shipping method with the same tag. To tag a shipping method, go to **edit shipping method **and apply the relevant tag. E.g. the shipping method below has been tagged ‘wholesale’.
+This rule lets you make particular shipping methods specifically available or unavailable to certain customers. For this rule to operate you need to have tagged the customer and the shipping method with the same tag. To tag a shipping method, go to **edit shipping method** and apply the relevant tag. E.g. the shipping method below has been tagged ‘wholesale’.
 
 ![Tagging a shipping method](https://openfoodnetwork.org/wp-content/uploads/2015/10/Tagging-a-shipping-method.png)
 
@@ -109,7 +109,7 @@ This rule lets you make particular shipping methods specifically available or un
 
 #### **Show/Hide payment methods**
 
-This rule lets you make particular payment methods specifically available or unavailable to particular customers. For this rule to operate you first need to have tagged the customer and the payment method with the same tag. To tag a shipping method, go to **edit payment method **and apply the relevant tag. E.g. the payment method below has been tagged ‘wholesale’.
+This rule lets you make particular payment methods specifically available or unavailable to particular customers. For this rule to operate you first need to have tagged the customer and the payment method with the same tag. To tag a shipping method, go to **edit payment method** and apply the relevant tag. E.g. the payment method below has been tagged ‘wholesale’.
 
 ![Tagged payment method](https://openfoodnetwork.org/wp-content/uploads/2015/10/Tagged-payment.png)
 

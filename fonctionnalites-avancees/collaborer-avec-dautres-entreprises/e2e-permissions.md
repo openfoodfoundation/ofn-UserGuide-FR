@@ -33,7 +33,7 @@ There are four different kinds of E2E permissions. Applying these E2Es in differ
 
 ### Granting and Managing E2Es {#grantingandmanagingE2Es}
 
-To grant, view and delete your E2E permissions, click on **Enterprises**in the blue horizontal menu, and then **Enterprise Relationships **in the green horizontal menu \(below\). Here you can view any E2E permissions that you have established previously, grant new ones or delete them.
+To grant, view and delete your E2E permissions, click on **Enterprises**in the blue horizontal menu, and then **Enterprise Relationships** in the green horizontal menu \(below\). Here you can view any E2E permissions that you have established previously, grant new ones or delete them.
 
 If you need another enterprise to grant you and E2E permission, you must contact them \(via email or phone\) and request for them to grant you permission through their account. There is no way of requesting permission from within the OFN, and you cannot grant E2Es from an enterprise if you are not the owner/manager.
 
