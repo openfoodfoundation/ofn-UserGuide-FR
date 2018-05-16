@@ -1,41 +1,35 @@
-# Group Buy - for bulk ordering
+# Option d'achat par lot
 
-The Group Buy function is designed for enterprises who purchase some of their incoming stock in bulk quantities. For such enterprises, the decision of whether to order a certain product is dependent on whether customers have collectively ordered enough to justify a bulk purchase. This may be due to volume discounts, or delivery fees. The group buy function makes it easier for the hub to achieve bulk buying efficiencies.
+Cette fonctionnalité est à destination des entreprises qui achètent une partie de leur stock par lot. Cette décision dépend souvent de la quantité demandée par l'acheteur final \(est-elle suffisante pour justifier l'achat par lot ?\). Ce choix peut être justifié par des réductions de prix en fonction du volume ou des frais de livraisons \(plus faibles avec des quantités plus grandes\).
 
-When a product is allocated to group buy it will display differently in the shopfront \(see below\).
+Lorsqu'un produit est lié à une fonctionnalité d'achat par lot, la colonne quantité sera affichée différemment dans la boutique. Exemple ci-dessous avec deux produits, seul le premier est lité à la fonctionnalité d'achat par lot :
 
-![Group buy in shopfront](https://openfoodnetwork.org/wp-content/uploads/2015/06/Group-Buy.png)
+![](../../.gitbook/assets/image%20%2837%29.png)
 
-Customer are asked to indicate:
+Les acheteurs doivent indiquer :
 
-* Their minimum quantity- this is the amount of the product they ideally want.
-* Their maximum quantity- this is the maximum amount they would be willing to buy.
+* La quantité minimum qu'ils souhaitent idéalement pour ce produit
+* La quantité maximum qu'ils sont prêts à acheter
 
-Essentially this is a way for the customer to say ‘you have my permission to increase my order up to this point, if it means that as a group, we can achieve the bulk order quantity’.
+En gros, cela signifie que l'acheteur final indique le montant maximum qu'il est prêt à acheter afin de bénéficier de réduction lié à l'achat par lot.
 
-In Bulk Order Management you can view the total minimum and maximum order quantities for the product, from all of your customers. Then you can either raise customer orders, within their acceptable range, to achieve the bulk quantity, or if the maximum order quantity falls short, you can delete all orders for this product.
+Dans le menu de [gestion des commandes par lot](../../fonctionnalites-standards/visualisation-des-commandes.md), vous pouvez observer les quantités minimales et maximales par produits, pour tous les acheteurs. Vous pouvez ainsi décider d'augmenter les commandes jusqu'au seuil maximal ou toutes les supprimer si le minimum de commandes n'est pas atteint.
 
-## Applying group buy to a product
+## Activer l'option d'achat par lot
 
-Let’s use an example of almonds to illustrate, whereby a total order quantity of at least 5kg is required.
+SUr l'interface d'administration, aller dans le menu Produits, modifiez un produits existants puis rendez-vous sur le sous-menu vertical "option d'achat par lot" :
 
-To designate the group buy feature to a product, go to Products in the horizontal blue menu, and then click edit next to the corresponding product \(see below\).
+![](../../.gitbook/assets/image%20%2843%29.png)
 
-![Edit almonds for group buy](https://openfoodnetwork.org/wp-content/uploads/2015/06/Edit-almonds.png)
+Sélectionnez "oui". La quantité totale du lot est le montant minimal que la commande collective doit atteindre **en GRAMMES pour les produits vendus au poids et en LITRES pour les produits vendus au volume.**
 
-Then select **Yes** under **Group Buy** \(see below\).
+## Ajuster les commandes
 
-The **Group Buy Unit Size** is the amount that the group’s collective order needs to reach. In this case we need a total order of 5kg or more, so I’ll write 5000. Note: The Group Buy Unit Size is in g \(for products sold by weight\) and L \(for products sold by volume\).
+Dans le menu commandes &gt; gestion des commandes par lot :
 
-![Group Buy Unit Size](https://openfoodnetwork.org/wp-content/uploads/2015/06/Group-Buy-Unit-Size.png)
-
-## Adjusting orders in Bulk Order Management
-
-In bulk order management you can view and edit customer orders for Bulk Buy products. In this case, I want to see if my customers have ordered at least 5kg of almonds. If they haven’t, I also want to see if I can raise their orders, according to their designated max quantities, to reach this 5kg threshold.
-
-1. Firstly I would select the order cycle or date range of interest.
-2. Then I would search for the product ‘almonds’.
-3. Make sure the ‘Max’ column is displayed so I can see each customers maximum order quantity.
+1. Sélectionnez le cycle de vente ou les bonnes dates
+2. Recherchez votre produit \(dans notre exemple la caisse de viande\)
+3. Veillez à bien afficher la colonne **Maximum** pour connaitre le consentement maximal à payer des acheteurs finaux
 4. Next, click on Almonds in the Product:Unit column, to display the orders total box. Here I can see the cumulative minimum and maximum orders. In this case, the
 
    **total quantity ordered**
@@ -52,7 +46,7 @@ In bulk order management you can view and edit customer orders for Bulk Buy prod
 
    , until the 5kg threshold is reached. Note: any changes to quantity will will be automatically captured in the price column.
 
-6. Click update to save changes to customer orders.
+6. Sauvegardez vos modifications
 
 ![Bulk order management and group buy](https://openfoodnetwork.org/wp-content/uploads/2015/06/BOM-almonds.png)
 

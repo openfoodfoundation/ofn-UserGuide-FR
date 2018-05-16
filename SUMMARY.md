@@ -29,7 +29,7 @@
     * [Fixer un prix pour les produits irréguliers au kg](fonctionnalites-avancees/produits/pricing-irregular-items-kg.md)
     * [Propriétés / labels](fonctionnalites-avancees/produits/product-properties.md)
     * [Catalogue boutique](fonctionnalites-avancees/produits/inventory-tool.md)
-    * [Group Buy - for bulk ordering](fonctionnalites-avancees/produits/group-buy-for-bulk-ordering.md)
+    * [Option d'achat par lot](fonctionnalites-avancees/produits/group-buy-for-bulk-ordering.md)
   * Commandes
     * [Création de commandes](fonctionnalites-avancees/commandes/manual-orders.md)
   * [Votre profil](fonctionnalites-avancees/votre-profil/README.md)
