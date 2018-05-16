@@ -22,11 +22,11 @@ Il y a deux manières d'assigner un label à produit :
 
 ## 1\) Assigner un label à une entreprise
 
-Cette méthode permet d'assigner le label à tous les produits de l'entreprise. SI vous souhaitez ajouter le label qu'à certains produits, rendez-vous plutôt à l'étape 2.
+Cette méthode permet d'assigner le label à tous les produits de l'entreprise. SI vous souhaitez ajouter le label qu'à certains produits, rendez-vous plutôt à l'étape 2. Si seul deux ou trois produits de votre catalogues ne sont pas concernés par le label, utilisez cette fonctionnalité et rendez-vous sur le paragraphe [Case à cocher Inherit properties](product-properties.md#case-a-cocher-inherit-properties).
 
 Sur l'interface d'administration, rendez-vous sur le menu "**Entreprises**" puis cliquez sur "**gérer**" et accédez à "**Propriétés/Labels**" dans le menu vertical de gauche :
 
-![](../../.gitbook/assets/image%20%2822%29.png)
+![](../../.gitbook/assets/image%20%2823%29.png)
 
 **Nom du label** **:** A sélectionner dans la liste déroulante. C'est le nom qui s'affichera à l'acheteur final.
 
@@ -58,31 +58,23 @@ You can apply multiple product properties by clicking “**+ Add Product Propert
 
 Remember to click**update**when you are finished.
 
-## Inherited Properties
+## Case à cocher "Inherit Properties"
 
-As discussed above, when an enterprise is assigned a property, all products belonging to that enterprise will ‘inherit’ this property. However, an enterprise may not wish for all of their products to inherit this property. Thus, it is possible to remove this property from products.
+Comme vu ci-dessus, lorsqu'une entreprise a des propriétés, tous ces produits auront la propriété de l'entreprise par défaut. En revanche vous pouvez enlever cet héritage automatique.
 
-When editing a product’s properties \(accessed here 
+En effet, lorsque vous modifiez un produit \(voir paragraphe précédent\) vous pouvez observer une case cochée par défaut **“Inherit properties from \(Nom de l'entreprise\)\(Unless Overridden Above\)”.** En décochant cette case, vous supprimez tout l'héritage de propriétés de l'entreprise sur ce produit.
 
-![](http://openfoodfoundation.org/sites/default/files/Product%20properties%20click_1.png)
+**Attention** : si vous avez laissé la case cochée et que vous ajoutez une propriété au produit, qui existe déjà au niveau de l'entreprise, la description de la propriétés ajoutée au niveau du produit sera privilégiée à la description présente au niveau entreprise. Cela peut être intéressant pour modifier uniquement une description d'un label pour un seul produit.
 
-\) you will see a checkbox titled**“Inherit properties from \(Enterprise Name\)\(Unless Overridden Above\)”.**By default, when an enterprise has a property, it this box will be checked for all products belonging to the enterprise. Unchecking this box will remove any enterprise properties that have been inherited.
+## Visualisation des propriétés sur la boutique en ligne
 
-The ‘unless overridden above’ component of the checkbox means that if you have a product with the same property, both inherited and applied, the applied property ‘value’ field will override the inherited one. For example, a producer primarily stocks beef products, in addition to some cartons of eggs. They have applied the free range property to their enterprise, with a value \(description\) of ‘Stocking density of 4 cattle to an acre’. Their ‘carton of egg’ product is also ‘free range’ however the value needs to be ‘our chickens live in a mobile egg van, at a density 50 chickens to an acre’. The carton of egg property can have the ‘Inherit properties..’ checkbox ticked, but will also need a ‘free range’ property created, with the correct value field.
+En cliquant sur le profil d'un producteur, les labels entreprises s'affichent sur sa page :
 
-You can add properties to a product in addition to those inherited from the enterprise \(by keeping the checkbox ticked and adding a property above\). Or you can remove the inherited property and add additional ones. This allows products to carry a combination of individual properties and enterprise properties.
+![](../../.gitbook/assets/image%20%2840%29.png)
 
-## How product properties are displayed in the shop
+Les acheteurs peuvent également filtrer les produits d'une boutique en fontion des labels :.
 
-In the shopfront, customers can see product properties by clicking on the product information popout window.
+![](../../.gitbook/assets/image%20%2817%29.png)
 
-![Corn cob properties in shop](https://openfoodnetwork.org/wp-content/uploads/2015/05/corn-cob-properties.png)
 
-Properties which apply to the product are shown as an icon, next to the product category.
-
-![Corn cob pop up window](https://openfoodnetwork.org/wp-content/uploads/2015/05/Corn-cob-pop-out-window.png)
-
-Customers can also search according to product properties within a shop. This tool is placed in the top right hand corner of the store and allows customer to search for products according to their properties.
-
-![Filter by property in shop](https://openfoodnetwork.org/wp-content/uploads/2015/05/filter-by-property.png)
 
