@@ -14,7 +14,7 @@ Les 3 avantages principaux de la page :
 
    La page catalogue permet de masquer des produits, soit volontairement soit par défaut de considérer qu'ils ne sont pas visible tant que le hub ne les a pas approuvé.
 
-3. **Gérer les stocks "à volonté" pour chaque produit et en masse.** 
+3. **Gérer les stocks disponibles à la vente pour chaque produit et en masse.** 
 
    C'est idéal pour tous les produits dont le stock se renouvelle rapidement et régulièrement.
 
@@ -80,25 +80,25 @@ Vous pouvez modifier les caractéristiques produits sur cette page. Toutes les m
 
   – Vous pouvez sélectionner si le produit est vendu à la demande ou suivant un stock défini
 
-### Stock Level Reset
+### Réinitialiser les niveaux de stock par défaut
 
-The **enable stock level reset** column allows you to reset the On Hand amount to a **default amount,** for example at the start of each new order cycle. The **default amount** can be entered in this column next to the check box. The checkbox allows you to select those that you want to reset at any give time. If there is a value in this field and the checkbox is selected, when you hit Inventory &gt; Actions &gt; Reset Stock Levels to Defaults, all the checked products’ on hand values will return to the designated level. As an example this tool is helpful for producers who know that each month they will slaughter 2 animals, and thus have known quantities of product available for each order cycle.
+Cette colonne permet de revenir à un stock par défaut, par exemple au début de chaque nouveau cycle de vente. Le stock par défaut est à indiquer dans la colonne avoisinante à cette case à cocher. En cochant la case, vous indiquer que ces produits en particulier devront revenir à un stock par défaut au moment de votre choix. Pour actionner le stock par défaut, il suffit de vous rendre sur le bouton **Action** et cliquer sur **Réinitialiser les niveaux de stock par défaut.** Seul les produits avec une case cochés seront affectés par cette action.
 
-### Inherit
+C'est utile par exemple pour les producteurs qui savent que chaque mois ils auront deux nouvelle quantités disponible par exemple.
 
-If you have not applied any overrides to a product’s details, the **Inherit** check box will automatically be selected. This tells you that the product’s details will be drawn from the Master product list- these values are shown in grey. When you make an overrides, the check box will un-select, indicating that some product details will be taken from your **Inventory** list, rather than inherited from the **Product** list. If at any point you want to remove your overrides, you can re-select **Inherit** and that product will revert to its master settings.
+### **Héritage**
 
-![Inherited](https://openfoodnetwork.org/wp-content/uploads/2015/06/Inherited.png)
+SI vous n'avez rien modifié la case à cocher "hériter?" est sélectionnée par défaut. Cela signifie que les informations entrées par le producteur et visible en gris seront reprises et publiées sur la boutique. En modifiant tous les champs ou juste certains, cette case à cocher se dé-sélectionnera automatiquement.
 
-### Hide
+Pour revenir aux informations producteurs, vous pouvez à tout moment re-sélectionner cette case.
 
-As in the **New Products** list, you can also **hide** products from your **Inventory List**. Clicking on the hide button will shift the product to your **Hidden Products** list. This has the effect of making it disappear from your order cycle set up and thus disabling the option of adding it to your shop.
+### Masquer des produits
 
-Remember to save changes 
+En cliquant sur le bouton masquer, les produits en question disparaitront de la liste des nouveaux produits au profit de la liste des produits masqués. Ils ne seront plus visibles dans votre cycle de vente et vous ne pourrez pas les ajouter à votre catalogue \(mais il est toujours possible de les faire apparaitre plus tard, voir paragraphe suivant\).
 
-![Save changes](https://openfoodnetwork.org/wp-content/uploads/2015/06/Save-changes.png)
+N'oubliez pas de sauvegarder vos modifications.
 
-## Hidden Products
+## Les Produits Masqués
 
 ![Hidden products](https://openfoodnetwork.org/wp-content/uploads/2015/06/Hidden-products.png)
 
