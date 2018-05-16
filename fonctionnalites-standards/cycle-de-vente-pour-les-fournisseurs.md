@@ -8,7 +8,7 @@ Beaucoup de fournisseurs, qui vendent leurs produits en petites quantités, pré
 
 Connecté sur l'interface d'administration, sélectionnez le dernier menu sur votre droite :
 
-![](../.gitbook/assets/image%20%2848%29.png)
+![](../.gitbook/assets/image%20%2849%29.png)
 
 ## 2. Créer un nouveau cycle de vente
 

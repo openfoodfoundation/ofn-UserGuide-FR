@@ -16,7 +16,7 @@ Toujours sur votre interface d'administration, rendez-vous sur la page produits 
 
 Il faudra cliquer une seconde fois sur ce petit plus. En effet, la première fois, il créer la première variante avec les informations du produit original, la deuxième fois permettra de créer la seconde variante. Vous serez ensuite sur l'écran suivant :
 
-![](../../.gitbook/assets/image%20%2844%29.png)
+![](../../.gitbook/assets/image%20%2845%29.png)
 
 La première ligne correspond au titre du regroupement des variantes. On peut le laisser tel quel.
 

@@ -22,15 +22,13 @@ Les 3 avantages principaux de la page :
 
 Les entreprises doivent obtenir les bonnes [permissions inter-entreprises](../collaborer-avec-dautres-entreprises/e2e-permissions.md) de la part de leurs fournisseurs avant de pouvoir voir les catalogues produits des fournisseurs sur cette page.
 
-## Les paramètres de votre catalogue
+## 1\) Les paramètres de votre catalogue
 
-Before using the inventory tool, it’s important to understand your inventory setting, as these will impact on how the inventory lists effects product management.
+Pour y accéder, rendez-vous sur **Entreprises**, puis "**gérer**" et enfin "**Catalogue boutique**" dans le menu vertical de gauche :
 
-To view your inventory settings, go to **Manage Enterprise**, and select **Inventory Settings**.
+![](../../.gitbook/assets/image%20%2836%29.png)
 
-You can select whether new products added by your suppliers need to be added to your inventory before they can be stocked. If you don’t plan to use the inventory tool, select to have any new products able to be added to your shopfront \(recommended\). This way if you create new products for your suppliers, or if your supplier adds products, they’ll immediately be available to be added to your shop. If you are using the inventory page, you may wish to have ‘new’ products withheld from your order cycles until you have chosen to stock them. If this setting applies to you, select the second option below.
-
-![Inventory Settings](https://openfoodnetwork.org/wp-content/uploads/2015/06/Inventory-Settings.png)
+Vous avez deux options : soit vous choisissez l'option selon laquelle les nouveaux produits ajoutés par vos fournisseurs doivent être préalablement ajoutés à votre catalogue \(de cette manière vous pourrez choisir de les ajouter ou non à vos cycles de vente en cours\), soit - si vous ne pensez pas utiliser le catalogue - sélectionnez l'option recommandée. Les produits ajoutés par les fournisseurs seront ainsi ajoutés directement à votre boutique en ligne.
 
 ## Accessing Inventory
 
