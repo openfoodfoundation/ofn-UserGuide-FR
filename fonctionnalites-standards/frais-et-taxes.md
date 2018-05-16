@@ -4,7 +4,7 @@ Cette fonctionnalité est utile pour les producteurs et les hubs travaillant ens
 
 Lorsqu'une marge est appliquée, le consommateur est capable de voir la constitution du prix sur la boutique en cliquant sur le camembert. Exemple ci-dessous :
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 ## Accéder au menu marge et commissions
 
@@ -14,7 +14,7 @@ Sur l'interface d'administration, rendez-vous sur le menu **Enterprises**, puis 
 
 ## Ajouter des marges et commissions
 
-![](../.gitbook/assets/image%20%2844%29.png)
+![](../.gitbook/assets/image%20%2850%29.png)
 
 **Entreprise :** Dans la première colonne, sélectionnez l'entreprise qui recevra la marge.
 
@@ -28,11 +28,11 @@ Sur l'interface d'administration, rendez-vous sur le menu **Enterprises**, puis 
 
 Pour finaliser, cliquez sur "Mettre à jour". Une fois que la marge a été créée, vous pouvez indiquer comment la marge sera calculée dans la colonne "Montant pour calculs".
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2823%29.png)
 
 ### Le calculateur
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 **Pourcentage net** – This fee is charged as a percentage of the total amount charged in the order.
 

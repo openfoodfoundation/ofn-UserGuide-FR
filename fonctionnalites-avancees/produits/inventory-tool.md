@@ -26,57 +26,59 @@ Les entreprises doivent obtenir les bonnes [permissions inter-entreprises](../co
 
 Pour y accéder, rendez-vous sur **Entreprises**, puis "**gérer**" et enfin "**Catalogue boutique**" dans le menu vertical de gauche :
 
-![](../../.gitbook/assets/image%20%2836%29.png)
+![](../../.gitbook/assets/image%20%2841%29.png)
 
 Vous avez deux options : soit vous choisissez l'option selon laquelle les nouveaux produits ajoutés par vos fournisseurs doivent être préalablement ajoutés à votre catalogue \(de cette manière vous pourrez choisir de les ajouter ou non à vos cycles de vente en cours\), soit - si vous ne pensez pas utiliser le catalogue - sélectionnez l'option recommandée. Les produits ajoutés par les fournisseurs seront ainsi ajoutés directement à votre boutique en ligne.
 
-## Accessing Inventory
+## 2\) Accéder au catalogue boutique
 
-Click on **Products** in the horizontal blue menu and then **Inventory** in the green menu. You will be prompted to select the shopfront that your Inventory will apply to \(if you operate more than one shopfront\). Remember, each shopfront has it’s own Inventory page, and settings in the Inventory page will only be applied to one shopfront. If you have more than one shopfront, you can set different inventory details for each.
+Cliquez sur le menu **Produits** dans l'interface d'administration, puis sur **Catalogue** **boutique** dans le sous menu vert. SI vous gérer plusieurs boutiques, il vous sera demandé d'en sélectionner une car chaque catalogue est géré indépendemment.
 
-![Accessing Inventory](https://openfoodnetwork.org/wp-content/uploads/2015/06/Accessing-Inventory-1.png)
+![](../../.gitbook/assets/image%20%2824%29.png)
 
-When you first visit the Inventory page, you will see an alert that you have ‘new products available to add to your inventory’. Until you add your products to your Inventory list, they’ll remain in the **New Products** list.
+Lors de votre première visite, un message vous alertera sur le fait que vous avez de nouveaux produits disponible à l'ajout dans votre catalogue. Tant que ce ne sera pas fait, il resteront dans la catégorie "**Nouveau produits**".
 
-![New products alert](https://openfoodnetwork.org/wp-content/uploads/2015/06/New-products-alert.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
-Clicking on**Review Now**will take you to your**New Products** list.
+En cliquant sur "**vérifier maintenant**" vous serez redirigé vers la liste des **nouveaux produits**.
 
-## New Products
+## Nouveaux produits
 
-![New Products](https://openfoodnetwork.org/wp-content/uploads/2015/06/New-Products.png)
+![](../../.gitbook/assets/image%20%2816%29.png)
 
-New products can be either **Added** to your inventory list or **Hidden**. If there is a product in the list for which you would like to override details, or apply a recurring stock level to, you’ll need to **add** it to your inventory list. If there is a product which you never want to sell in your shop, or at least don’t want to stock in the near future, you can choose to **hide** it \(see **Hidden Products** section below\).
+Les nouveaux produis peuvent être soit **ajoutés** à votre catalogue, soit **masqués**. Si vous souhaitez écraser les caractéristiques d'un produit de la liste ou indiquer le niveau du stock, vous devrez l'ajouter à votre catalogue. S'il s'agit d'un produit que vous ne voudrez jamais vendre dans votre boutique ou en tout cas pas à court terme, vous pouvez choisir de le masquer.
 
-Remember, if your **Inventory Settings** are set so that ‘new products must be added to my inventory before they can be put in my shopfront’, any products you leave in the New Product list will effectively be hidden. If your Inventory setting is ‘new products can be put in my shopfront’ then products in your New Products list will still show in your order cycle.
+Pour rappel, si l'option choisie dans les [paramètres](inventory-tool.md#1-les-parametres-de-votre-catalogue) est l'option selon laquelle les produits doivent être ajoutés à votre catalogue pour apparaitre sur le boutique en ligne, tous les produits que vous laissés dans la liste "nouveaux produits" seront par défaut masqués, c'est-à-dire absent de la boutique en ligne. Dans l'autre cas ils apparaitront automatiquement dans le cycle de vente en cours. 
 
-## Inventory Products
+Poursuivez la lecture pour comprendre le traitement manuel du masquage et de l'ajout.
 
-![Viewing Inventory Settings](https://openfoodnetwork.org/wp-content/uploads/2015/06/Viewing-Inventory-Settings.png)
+## Produits du Catalogue Boutique
 
-Your inventory products list is where you can override product details, set up stock level resetting, and hide products. When you select to view all columns, all of the functionalities of the Inventory List become visible.
+![](../../.gitbook/assets/image%20%2849%29.png)
 
-![Inheriting product](https://openfoodnetwork.org/wp-content/uploads/2015/06/Columns-1.png)
+Via le bouton colonnes, si vous affichez toutes les colonnes, toutes les fonctionnalités du catalogue s'afficheront à vous.
 
-### Overriding product details
+![](../../.gitbook/assets/image%20%2838%29.png)
 
-You can change product details in the Inventory Page. Any changes you make will over-ride the master product details, and your shopfront and reports will reflect these over-ridden values you have set. You can override the **SKU**,**Price**,**On Hand** value, and on hand/**on demand** setting. You can’t over-ride the product’s name, units, description or photograph.
+### Ecraser des caractéristiques produits
 
-* **SKU** 
+Vous pouvez modifier les caractéristiques produits sur cette page. Toutes les modifications que vous ferez ici seront visibles sur votre boutique. Vous pouvez modifier les champs suivants \(mais pas les autres, c'est-à-dire le nom du produits, les conditionnements, ou encore la description ou l'image\) :
 
-  – if you wish to use an alternative SKU for a product, you can over-ride the producer’s SKU here by typing in an alternative.
+* **Référence produit**
 
-* **Price**
+  – vous pouvez ici indiquer une autre référence produit que celle du producteur
 
-  – You can set a different price to show in your shop. Keep in mind the units of the product will remain the same.
+* **Prix**
 
-* **On hand**
+  – Le prix est modifiable mais n'oubliez pas que les quantités unitaires associées ne le sont pas
 
-  – You can set a different on hand value. Your shopfront will stockout when this On Hand value reaches zero.
+* **En stock**
 
-* **On demand**
+  – Vos produits ne seront plus visibles une fois que cette valeur atteint zéro \(tous les quantités indiquées ont été vendues\)
 
-  – You can select whether to have a product set to ‘on hand’ or ‘on demand’.
+* **A volonté**
+
+  – Vous pouvez sélectionner si le produit est vendu à la demande ou suivant un stock défini
 
 ### Stock Level Reset
 

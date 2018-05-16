@@ -151,24 +151,6 @@ Customer can also save a credit card in their Account, or delete saved ones.
 
 When the customer next shops with an OFN shop offering Stripe as a payment method, they’ll be able to select from their saved credit cards.
 
-%/accordion%
-
-### Pin Payments
-
-%accordion%Pin Payments%accordion%
-
-For Pin Payments you only require your API key. You need to set up an account with Pin Payments first, and can get a discount by signing up as an OFN member \([https://pin.net.au/partners/open-food-network/signup](https://pin.net.au/partners/open-food-network/signup)\)
-
-**API Key:**Enter your “Live Secret API Key’ here – you can find this in your PinPayments account \(see below\). First from your account, select API Keys. Then once you have generated an API key, copy the ‘Live Secret API Key’ and paste it into the API key field in OFN.
-
-![API Keys](https://openfoodnetwork.org/wp-content/uploads/2015/05/API-Keys.png)
-
-![API Key](https://openfoodnetwork.org/wp-content/uploads/2015/05/API-2.png)
-
-**Server:**Type ‘live’ – this is case sensitive.
-
-%/accordion%
-
 ## Fees on Payment Methods
 
 ![Calculator](https://openfoodnetwork.org/wp-content/uploads/2015/05/Calculator.png)

@@ -30,7 +30,7 @@
     * [Propriétés / labels](fonctionnalites-avancees/produits/product-properties.md)
     * [Catalogue boutique](fonctionnalites-avancees/produits/inventory-tool.md)
     * [Group Buy - for bulk ordering](fonctionnalites-avancees/produits/group-buy-for-bulk-ordering.md)
-  * [Commandes](fonctionnalites-avancees/commandes/README.md)
+  * Commandes
     * [Création de commandes](fonctionnalites-avancees/commandes/manual-orders.md)
   * [Votre profil](fonctionnalites-avancees/votre-profil/README.md)
     * [Making a producer profile searchable by product category](fonctionnalites-avancees/votre-profil/making-a-producer-profile-searchable-by-product-category.md)
