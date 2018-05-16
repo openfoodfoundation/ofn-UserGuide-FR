@@ -8,7 +8,7 @@ Cette page liste toutes les commandes passées sur la plateforme pour votre comp
 
 Les filtres présent sur la page peuvent vous aider à accéder plus rapidement à la commande désirée. Vous pouvez filtrer par date, statut ou via l'email ou le nom du client
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 **Distributeur:** L'entreprise à qui appartient la boutique sur laquelle la commande a été passée.
 
@@ -36,7 +36,7 @@ Les filtres présent sur la page peuvent vous aider à accéder plus rapidement 
 
 _Remarque_ _: Vous ne pouvez pas indiquer une commande à "envoyée" si le statut de paiement n'est PAS "Payé"._
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
 **Email acheteur** **:** L'email du client. Une liste complète des emails clients peut être téléchargée dans les [rapports](https://github.com/ofnuserguidefr/guide-utilisateur-open-food-france/tree/f72c4e0a78bb6dc0c5b39249e706b0dbac84df5f/reports.md).
 
@@ -66,7 +66,7 @@ Pour modifier le statut de livraison ou de paiement, cliquez simplement sur le b
 
 En cliquant sur le bouton modifier vous êtes amener à consulter la page suivante :
 
-![](../.gitbook/assets/image%20%2849%29.png)
+![](../.gitbook/assets/image%20%2852%29.png)
 
 _Remarque_ _: Vous pouvez également modifier le statut de paiement et de livraison via cette page. Consultez les paragraphes suivants pour les autres fonctionnalités._
 
@@ -78,7 +78,7 @@ Vous pouvez ajouter un produit en sélectionnant la bonne variante. Pour le supp
 
 Si vous avez modifié des informations sur une commande, c'est une bonne pratique de renvoyer un email de confirmation ensuite
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 **Imprimer la facture**
 
@@ -88,7 +88,7 @@ En cliquant sur cette ligne, la plateforme va générer un PDF, qui vous suffira
 
 Pour envoyer la facture, il suffit de cliquer sur "envoyer la facture" \(menu actions\). Cela enverra un email au client avec la facture correspondante. Exemple de facture générée :
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2823%29.png)
 
 **Annuler une commande**
 
@@ -98,7 +98,7 @@ Cliquez sur le bouton "annuler" depuis la page de modification d'une commande.
 
 Cliquez sur "détails clients" dans la liste en bas à droite pour accéder à toutes les coordonnées :
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../.gitbook/assets/image%20%2841%29.png)
 
 **Ajouter ou supprimer un montant à la commande**
 
@@ -108,7 +108,7 @@ Cliquez sur "ajustements" \(cf capture ci-dessus\). Sur cette page vous pouvez a
 
 La liste des commandes présente les commandes alors que cette page liste les produits commandés. Cela permet de modifier en masse plusieurs commandes qui contiennent le même produit \(changement de quantité, produit en rupture, etc\). La page se présente la manière suivante :
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 **Date de début et de fin** **:** Vous pouvez filtrer l'affichage des produts en fonction des dates de commandes.
 
@@ -124,7 +124,7 @@ La liste des commandes présente les commandes alors que cette page liste les pr
 
 **Colonnes :** Vous pouvez gérer vous-même l'affichage des colonnes et des champs que vous voyez ou non.
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
 Notez que vous pouvez également trier chaque colonne en cliquant sur son titre. Un clic pour un ordre de A à Z, un second pour l'ordre inverse.
 
@@ -143,7 +143,7 @@ Les étapes seront les suivantes :
 3. CLiquez sur "fromage de chèvre" dans la colonne "produit : unité"
 4. Un message apparaitra en haut de page avec la quantité totale commandée :
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
 Vous pouvez alors ajuster la quantité, dans la colonne quantité. Le total affiché au-dessus se modiefiera automatiquement en conséquence. A ce moment, il est intéressant d'envoyer une alerte email aux clients : **la plateforme ne génère pas automatiquement une alerte lors de la modification d'une commande**.
 
@@ -163,7 +163,7 @@ Nous allons prendre l'exemple d'une caisse de viande de 10 kg :
 4. Modifiez les valeurs de poids \(le prix changera automatiquement\)
 5. Cliquez sur "mettre à jour".
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/image%20%2850%29.png)
 
 
 

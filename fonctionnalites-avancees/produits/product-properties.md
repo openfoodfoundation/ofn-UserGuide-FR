@@ -26,7 +26,7 @@ Cette méthode permet d'assigner le label à tous les produits de l'entreprise. 
 
 Sur l'interface d'administration, rendez-vous sur le menu "**Entreprises**" puis cliquez sur "**gérer**" et accédez à "**Propriétés/Labels**" dans le menu vertical de gauche :
 
-![](../../.gitbook/assets/image%20%2823%29.png)
+![](../../.gitbook/assets/image%20%2824%29.png)
 
 **Nom du label** **:** A sélectionner dans la liste déroulante. C'est le nom qui s'affichera à l'acheteur final.
 
@@ -36,27 +36,19 @@ Vous pouvez ajouter autant de propriétés / labels que vous souhaitez. N'oublie
 
 ## 2\) Assigner un label à un produit
 
-To assign a property to a single product, rather than an enterprise’s entire product range, click on**Products**in the horizontal blue banner, and then edit an existing product \(you cannot apply a product property when you are first creating a product\).
+Sur l'interface d'administration, rendez-vous sur le menu "Produits" et modifiez un produit existant \(il n'est pas possible d'ajouter des labels à la création produit\) :
 
-![Assigning a property to a product](https://openfoodnetwork.org/wp-content/uploads/2015/05/Property-to-product.png)
+![](../../.gitbook/assets/image%20%282%29.png)
 
-Once you are editing the product, click on 
+Une fois sur cette page cliquez sur "**Propriété du produit**" sur le menu vertical de droite :
 
-![](http://openfoodfoundation.org/sites/default/files/Product%20properties%20click.png)
+![](../../.gitbook/assets/image%20%2845%29.png)
 
-on the right hand side.
+**Nom du label** **:** A sélectionner dans la liste déroulante. C'est le nom qui s'affichera à l'acheteur final.
 
-There are 2 fields when applying a product property:
+**Description** **:** Vous pouvez ajouter une petite description pour donner plus d'informations sur votre label. Cela peut être un numéro de certificat pour un label par exemple.
 
-**Property:**You can select a pre-defined product property from the dropdown list. This is the name of the property that your product will be tagged with, and which customers will be able to filter for in your shop.
-
-**Description:**You can write a description of how this product property applies to this product. For example, if you have selected the property ‘Organic- Certified’ in the property field, you could write the certification number in the value field. Or if you have selected the property ‘Free Range’ you could write a more detailed description of how your animals are raised in the description field.
-
-You can apply multiple product properties by clicking “**+ Add Product Properties**“
-
-![Add product property](https://openfoodnetwork.org/wp-content/uploads/2015/05/add-product-property.png)
-
-Remember to click**update**when you are finished.
+Vous pouvez ajouter autant de propriétés / labels que vous souhaitez en cliquant sur le bouton "**Ajouter des propriétés au produit**". N'oubliez pas de cliquer sur "**mettre à jour**" en bas de page une fois que vous avez terminé.
 
 ## Case à cocher "Inherit Properties"
 
@@ -70,11 +62,11 @@ En effet, lorsque vous modifiez un produit \(voir paragraphe précédent\) vous 
 
 En cliquant sur le profil d'un producteur, les labels entreprises s'affichent sur sa page :
 
-![](../../.gitbook/assets/image%20%2840%29.png)
+![](../../.gitbook/assets/image%20%2842%29.png)
 
 Les acheteurs peuvent également filtrer les produits d'une boutique en fontion des labels :.
 
-![](../../.gitbook/assets/image%20%2817%29.png)
+![](../../.gitbook/assets/image%20%2818%29.png)
 
 
 
