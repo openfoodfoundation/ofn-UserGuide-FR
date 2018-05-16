@@ -12,20 +12,17 @@ Les 3 avantages principaux de la page :
 
 2. **Masquer des produits.**
 
-    La page catalogue permet de masquer des produits, soit volontairement soit par défaut de considérer qu'ils ne sont pas visible tant que le hub ne les a pas approuvé.
+   La page catalogue permet de masquer des produits, soit volontairement soit par défaut de considérer qu'ils ne sont pas visible tant que le hub ne les a pas approuvé.
 
-3. **Resting stock ‘on hand’ levels.** 
+3. **Gérer les stocks "à volonté" pour chaque produit et en masse.** 
 
-   Enterprises who have stock that is regularly  restocked to a certain quantity can define this recurring on hand stock level for each product, and reset levels quickly en mass.
+   C'est idéal pour tous les produits dont le stock se renouvelle rapidement et régulièrement.
 
-### Permissions Requirements
+### Permissions nécessaires
 
-Enterprises must get the appropriate [E2E permission](../collaborer-avec-dautres-entreprises/e2e-permissions.md) from the supplying producer before they can view an producer’s products in Inventory.
+Les entreprises doivent obtenir les bonnes [permissions inter-entreprises](../collaborer-avec-dautres-entreprises/e2e-permissions.md) de la part de leurs fournisseurs avant de pouvoir voir les catalogues produits des fournisseurs sur cette page.
 
-* A hub must have E2E-Inventory \(P-I\) permission from the producer to view their products in Inventory.
-* A hubs distributors also needs E2E-Inventory \(P-I\) from the supplying producer if they are to stock the product at according to the hub’s inventory. Without this permission, they will inherit all master product details.
-
-## Your inventory settings
+## Les paramètres de votre catalogue
 
 Before using the inventory tool, it’s important to understand your inventory setting, as these will impact on how the inventory lists effects product management.
 
