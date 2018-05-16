@@ -10,9 +10,9 @@ Les 3 avantages principaux de la page :
 
    Cela peut être intéressant si vous souhaitez modifier les prix pour certains produits par exemple. La page catalogue permet aux entreprises de modifier des détails produits et de les appliquer à leur boutique uniquement. Toutes caractéristique présente en catalogue sera prioritaire aux caractéristiques produits présentent dans le listing produit. Cependant, si d'autres entreprises vendent également ce produit, le changement effectué en catalogue ne changera pas. 
 
-2. **Hiding products and assessing new products.**
+2. **Masquer des produits.**
 
-    In the inventory list enterprises can hide products that they may not want to see, making the task of filtering which products go into the shopfront quicker when dealing with large amounts of products. There is also the option to have new products added by producers hidden by default, until they have been approved by you.
+    La page catalogue permet de masquer des produits, soit volontairement soit par défaut de considérer qu'ils ne sont pas visible tant que le hub ne les a pas approuvé.
 
 3. **Resting stock ‘on hand’ levels.** 
 
