@@ -2,21 +2,13 @@
 
 ## Introduction
 
-The inventory page gives enterprises increased control and flexibility with their product management, if they require it. This includes being able to override certain product details, define regular stock levels and hide certain products from view. Not all enterprises will need to use this feature and it is most relevant to enterprises with relatively complex configurations. Read on for an explanation of the utility of the Inventory pages and how to use them to achieve different outcomes.
+La page catalogue permet d'aller plus loin dans la gestion des produits. 
 
-The inventory pages are used for three primary functions:
+Les 3 avantages principaux de la page :
 
-1. **Overriding product details.** 
+1. **Ecraser les caractéristiques par défaut du produit**
 
-   The
-
-   **products page**
-
-   contains the ‘master list’ of products that a producer has on offer. Sometimes, a shopfront might need to vary product details, such as price, on hand stock levels and the SKU code from this master list. The
-
-   **inventory page**
-
-   allows enterprises to change some product details just for their shopfront. Any product details changed in the inventory page will over-ride the master product details. However, if other enterprises are also stocking these products, the changes made in the inventory list will not affect them.
+   Cela peut être intéressant si vous souhaitez modifier les prix pour certains produits par exemple. La page catalogue permet aux entreprises de modifier des détails produits et de les appliquer à leur boutique uniquement. Toutes caractéristique présente en catalogue sera prioritaire aux caractéristiques produits présentent dans le listing produit. Cependant, si d'autres entreprises vendent également ce produit, le changement effectué en catalogue ne changera pas. 
 
 2. **Hiding products and assessing new products.**
 
