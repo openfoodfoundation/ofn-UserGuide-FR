@@ -80,7 +80,7 @@ Les [Méthodes de livraison](types-de-livraisons.md), [les méthodes de paiement
 
 _\* non visible pour les profils simples_
 
-Veuillez vous rendre sur la page [Inventaire](../fonctionnalites-avancees/produits/inventory-tool.md) avant de modifier les paramètres ici.
+Veuillez vous rendre sur la page [catalogue boutique](../fonctionnalites-avancees/produits/inventory-tool.md) avant de modifier les paramètres ici.
 
 ### Règles de tag
 

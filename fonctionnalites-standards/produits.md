@@ -34,7 +34,7 @@ Sélectionnez les fournisseurs à l'origine du produit.
 
 **En stock** **:** Indiquez le stock de produit que vous avez prêt à la vente.
 
-> Utilisez ce champ si vous voulez suivre votre stock. Lorsque les consomateurs réaliseront des commandes, le niveau du stock se réduira automatiquement et lorsqu'il atteindra 0 le produit ne sera plus visible dans votre boutique. Si vous ne souhaitez pas gérer votre inventaire de cette manière, cliquez sur "à volonté" \(paragraphe suivant\).
+> Utilisez ce champ si vous voulez suivre votre stock. Lorsque les consomateurs réaliseront des commandes, le niveau du stock se réduira automatiquement et lorsqu'il atteindra 0 le produit ne sera plus visible dans votre boutique. Si vous ne souhaitez pas gérer votre catalogue de cette manière, cliquez sur "à volonté" \(paragraphe suivant\).
 
 **A volonté** **:**  Si vous cochez cette case, la boutique indiquera que le produit est toujours disponible. La plateforme ne vérifie donc plus les stocks, et considère que le produit est toujours en stock.
 

@@ -1,8 +1,6 @@
-# Inventory tool
+# Catalogue boutique
 
-_Note: This page and feature was previously called ‘Variant Overrides’. Variant overrides are now managed in Inventory. The same functionality has been kept, with some additions._
-
-## Introduction to Inventory
+## Introduction
 
 The inventory page gives enterprises increased control and flexibility with their product management, if they require it. This includes being able to override certain product details, define regular stock levels and hide certain products from view. Not all enterprises will need to use this feature and it is most relevant to enterprises with relatively complex configurations. Read on for an explanation of the utility of the Inventory pages and how to use them to achieve different outcomes.
 

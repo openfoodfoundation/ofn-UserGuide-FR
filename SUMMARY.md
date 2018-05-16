@@ -28,7 +28,7 @@
     * [Les variantes](fonctionnalites-avancees/produits/product-variants.md)
     * [Fixer un prix pour les produits irréguliers au kg](fonctionnalites-avancees/produits/pricing-irregular-items-kg.md)
     * [Propriétés / labels](fonctionnalites-avancees/produits/product-properties.md)
-    * [Inventory tool](fonctionnalites-avancees/produits/inventory-tool.md)
+    * [Catalogue boutique](fonctionnalites-avancees/produits/inventory-tool.md)
     * [Group Buy - for bulk ordering](fonctionnalites-avancees/produits/group-buy-for-bulk-ordering.md)
   * [Commandes](fonctionnalites-avancees/commandes/README.md)
     * [Création de commandes](fonctionnalites-avancees/commandes/manual-orders.md)
