@@ -9,7 +9,7 @@ description: Utilisez ce menu pour gérer les informations de votre profil
 1. Une fois connecté, cliquez sur "Entreprises"
 2. Cliquez ensuite sur le bouton bleu "Gérer"
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 > Rappel : pour sauvegarder vos modifications, il vous faut cliquer sur "sauvegarder" en bas de page.
 
@@ -64,7 +64,7 @@ L'adresse nous permet de vous géolocaliser sur une carte. Si vous disposez d'un
 
 Un exemple de profil :
 
-![](../.gitbook/assets/image%20%2876%29.png)
+![](../.gitbook/assets/image%20%2878%29.png)
 
 ### Propriétés / Labels \(visible seulement par les producteurs\)
 
@@ -94,11 +94,11 @@ _\* non visible pour les profils simples_
 
 **Message d'accueil boutique ouverte** : Ce message est facultatif. Il sera afficé sur votre boutique juste au-dessus des produits \(cf. exemple ci-dessous\). C'est l'endroit idéal pour des informations importantes comme des commandes spéciales ou des informations particulières sur vos cycles de vente. 
 
-![](../.gitbook/assets/image%20%2858%29.png)
+![](../.gitbook/assets/image%20%2860%29.png)
 
 **Message d'accueil boutique fermée** : Ce message s'affiche lorsque votre boutique est fermée. L'occasion d'indiquer la date de la réouverture !
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
 **Ordre d'affichage des catégories :** Les produits sont rangés par ordre alphabétique dans votre boutique, au sein de leur catégorie. Vous pouvez changer l'ordre des catégories par celui qui vous convient le mieux.
 

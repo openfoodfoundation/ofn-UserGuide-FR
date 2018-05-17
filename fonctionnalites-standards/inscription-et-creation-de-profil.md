@@ -13,13 +13,13 @@
 
 
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 **Votre profil est désormais créé, bravo !**
 
 Pour vous connecter à l'interface d'administration, connectez-vous à la plateforme puis cliquez sur la petite roue dentée en haut à droite : 
 
-![](../.gitbook/assets/image%20%2841%29.png)
+![](../.gitbook/assets/image%20%2843%29.png)
 
 Lors de votre première connexion à l'interface d'administration, on vous demandera de choisir vos types de packages. Pour en savoir plus, consultez [cette page](types-de-package.md).
 

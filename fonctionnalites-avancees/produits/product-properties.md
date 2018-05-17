@@ -26,7 +26,7 @@ Cette méthode permet d'assigner le label à tous les produits de l'entreprise. 
 
 Sur l'interface d'administration, rendez-vous sur le menu "**Entreprises**" puis cliquez sur "**gérer**" et accédez à "**Propriétés/Labels**" dans le menu vertical de gauche :
 
-![](../../.gitbook/assets/image%20%2834%29.png)
+![](../../.gitbook/assets/image%20%2836%29.png)
 
 **Nom du label** **:** A sélectionner dans la liste déroulante. C'est le nom qui s'affichera à l'acheteur final.
 
@@ -38,11 +38,11 @@ Vous pouvez ajouter autant de propriétés / labels que vous souhaitez. N'oublie
 
 Sur l'interface d'administration, rendez-vous sur le menu "Produits" et modifiez un produit existant \(il n'est pas possible d'ajouter des labels à la création produit\) :
 
-![](../../.gitbook/assets/image%20%283%29.png)
+![](../../.gitbook/assets/image%20%284%29.png)
 
 Une fois sur cette page cliquez sur "**Propriété du produit**" sur le menu vertical de droite :
 
-![](../../.gitbook/assets/image%20%2866%29.png)
+![](../../.gitbook/assets/image%20%2868%29.png)
 
 **Nom du label** **:** A sélectionner dans la liste déroulante. C'est le nom qui s'affichera à l'acheteur final.
 
@@ -62,11 +62,11 @@ En effet, lorsque vous modifiez un produit \(voir paragraphe précédent\) vous 
 
 En cliquant sur le profil d'un producteur, les labels entreprises s'affichent sur sa page :
 
-![](../../.gitbook/assets/image%20%2862%29.png)
+![](../../.gitbook/assets/image%20%2864%29.png)
 
 Les acheteurs peuvent également filtrer les produits d'une boutique en fontion des labels :.
 
-![](../../.gitbook/assets/image%20%2826%29.png)
+![](../../.gitbook/assets/image%20%2828%29.png)
 
 
 
