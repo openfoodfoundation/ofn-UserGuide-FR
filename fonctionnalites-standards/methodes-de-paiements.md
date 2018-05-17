@@ -67,7 +67,7 @@ Pour permettre un paiement par Paypal, vous devez avoir un compte Paypal profess
 
 **Signature :** Indiquez le contenu du champ Signature.
 
-![](../.gitbook/assets/image%20%2874%29.png)
+![](../.gitbook/assets/image%20%2875%29.png)
 
 **Serveur :** Indiquez " live "sans les guillemets à la place de "sandbox".
 
@@ -77,17 +77,11 @@ Pour permettre un paiement par Paypal, vous devez avoir un compte Paypal profess
 
 ### MasterCard Internet Gateway Service \(MIGS\)
 
-%accordion%MIGS%accordion%
-
-Set up of this service needs to be done through your bank. So far it has been tested with Bendigo Bank.
-
-%/accordion%
+Ce paramétrage ne peut être fait que via votre banque.
 
 ### Stripe
 
-%accordion%Stripe%accordion%
-
-[Stripe ](https://stripe.com/au)is an online payment platform similar to Paypal. It will allow you to accept credit card payments from your customers. Stripe is a global platform, but is only available on certain OFN instances. Contact your [local OFN team](https://openfoodnetwork.org/ofn-local/) to see whether it’s available on your OFN.
+[Stripe ](https://stripe.com/au)est une plateforme de paiement en ligne similaire à PayPal. Cette plateforme acceptera les paiements par carte bleue également.
 
 #### Why use Stripe?
 
@@ -139,19 +133,17 @@ When the customer next shops with an OFN shop offering Stripe as a payment metho
 
 ## Commissions sur les méthodes de paiements
 
-![Calculator](https://openfoodnetwork.org/wp-content/uploads/2015/05/Calculator.png)
+![](../.gitbook/assets/image%20%2873%29.png)
 
-You can attach a fee to payment methods. Most commonly this is used to pass on a platform's fees to the customer, such as Paypal fees. 1. Select a fee calculator \(full descriptions below\) 2. Enter the value.
+Vous pouvez associer une marge ouune commission à une méthode de paiement. Généralement c'est utilisé pour répercuter les frais des plateformes de paiement à l'acheteur. Sélectionnez un calculateur et indiquez un montant \(voir description ci-dessous\). 
 
-_Note: Payment method fees do not include tax._
+_Remarque : les commissions sur les méthodes de paiement n'incluent pas les taxes._
 
 ### Le calculateur
 
 **Pourcentage net** – This fee is charged as a percentage of the total amount charged in the order.
 
-**Poids \(au kg\)** – cette marge s'applique aux produits vendus par kg. Elle ne s'appliquera donc pas aux produits vendus à la pièce.
-
-**Flat Rate \(per order\)** – Cette marge s'applique de manière standard à toutes les commandes, quelque soit leur taille ou leur unité.
+**Taux net \(par commande\)** – Cette marge s'applique de manière standard à toutes les commandes, quelque soit leur taille ou leur unité.
 
 **Taux flexible** – Ce calcul est utilisé pour les remises promotionnelles \(quand vous appliquez une marge réduite lorsque le consommateur achète en gros\).
 

@@ -12,7 +12,7 @@ En ouvrant un cyclde de vente, vous définissez les périodes d'ouverture de vot
 
 Connecté en administrateur, vous pouvez vous rendre sur le menu Cycle de vente ou depuis votre tableau de bord, cliquer sur le bouton suivant :
 
-![](../.gitbook/assets/image%20%2881%29.png)
+![](../.gitbook/assets/image%20%2882%29.png)
 
 Puis cliquez sur "Nouveau cycle de vente" :
 
