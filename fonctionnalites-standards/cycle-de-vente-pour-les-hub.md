@@ -12,7 +12,7 @@ En ouvrant un cyclde de vente, vous définissez les périodes d'ouverture de vot
 
 Connecté en administrateur, vous pouvez vous rendre sur le menu Cycle de vente ou depuis votre tableau de bord, cliquer sur le bouton suivant :
 
-![](../.gitbook/assets/image%20%2876%29.png)
+![](../.gitbook/assets/image%20%2877%29.png)
 
 Puis cliquez sur "Nouveau cycle de vente" :
 
@@ -24,7 +24,7 @@ Puis cliquez sur "Nouveau cycle de vente" :
 
 La première chose à faire est de sélectionner un coordinateur pour votre cycle de vente. Cette entreprise aura toutes les permissions pour modifier et gérer le cycle de vente. Les autres entreprises impliquées dans le cycle de vente \(les fournisseurs ou les autres hubs\) auront des accès restreints. Pour plus d'informations sur les gestions des droits entre entreprises, cliquez [ici](../fonctionnalites-avancees/collaborer-avec-dautres-entreprises/e2e-powers-in-multi-enterprise-ocs.md).
 
-![](../.gitbook/assets/image%20%2835%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 **Nom :** Choississez un nom pou le cycle. Il sera visible uniquement pour vous, donc indiquez quelque chose qui vous permettra de le retrouver facilement ensuite. Par exemple vous pouvez choisir un protocole du type _Commandesemaine26\_2018._
 

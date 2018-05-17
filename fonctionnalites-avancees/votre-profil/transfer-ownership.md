@@ -1,23 +1,23 @@
-# Transfer ownership
+# Transférer les accès d'un profil
 
-There are some cases where users need to transfer ownership of a profile to other users. For instance, when a hub or group page is getting set up, producer profiles are often created by the hub or group, on behalf of the producer. This page outlines how, as a profile owner, you can transfer ownership of a profile to someone else.
+Dans certains cas, un utilisateur doit transférer les accès de son comptes à d'autres utilisateurs. C'est le cas assez fréquemment lors de la création d'un groupe par le responsable du hub, qui souhaite ensuite donner accès aux producteurs dont il a créé les profils.
 
-The first step is to go to the**Users**section of the profile.
+Voici les étapes à réaliser pour donner les accès :
 
-**If the new owner has already created an OFN login.**
+1. Sur l'interface d'administration, rendez-vous sur la page Managers :
 
-* You can add the new owner as a manager of the profile by searching for the user in the Manager dropdown field
-* Once they’ve been added as the manager, you can then add them as the Owner
+![](../../.gitbook/assets/image%20%2823%29.png)
 
-**If the new owner hasn’t created a login to OFN yet.**
+**2a. Si l'utilisateur en question a déjà un compte sur OFF :**
 
-* Type the new user’s email in the Notifications field.
-* This will trigger an email confirmation to be sent to the email. Once the user confirms their email, they’ll be prompted to create a password to login to OFN. When confirmed, they’ll automatically be made a manager of the enterprise, and be the notification email.
-* You can then make that user the Owner, and remove yourself as a manager if you wish.
+* Recherchez le profil sur le listing users \(vous pouvez recherchez par adresse email dans le menu vertical de droite\)
+* En modifiant le profil, vous pouvez les ajouter manager. Une fois le compte manager effectif vous pourrez les ajouter en tant qu'administrateur
 
-\*Note: Users require permission to own/manage more than one profile. If you get a message saying that the new owner/manager of a profile has reached their enterprise limit, [email us](https://openfoodnetwork.org/contact/) and we’ll grant the user permission to own additional profiles.
+**2.b. Si l'utilisateur n'a pas encore de compte OFF :**
 
-Have a suggestion for how we could improve this feature? Send us an email or join the conversation on our community forum.
+* Indiquez l'email de l'utilisateur dans le champ de notifications
+* Cette action génèrera un email de confirmation pour l'utilisateur. Une fois que l'utilisateur aura confirmé son adresse email, la plateforme lui demandera de choisir un mot de passe. A la confirmation, il sera automatiquement manager d'une entreprise et recevra une notification email. 
+* Vous pourrez alors passez cet utilisateur en administrateur et vous supprimer de la lsite des managers de l'entreprise.
 
-[Email us](https://mail.google.com/a/virtuallogger.com/mail/?view=cm&fs=1&tf=1&to=hello@openfoodnetwork.org&su=Hub%20set-up%20guide%20feedback)
+\*Remarque : les utilisateurs ayant accès à plusieurs profils en tant que manager ou administrateur sont limités en nombre de profils simultanés. Si vous recevez un message indiquant que le nouvel utilisateur a atteint sa limite, contactez-nous et nous lui ajouterons la possibilité d'avoir d'autres accès.
 

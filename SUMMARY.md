@@ -34,7 +34,7 @@
     * [Création de commandes](fonctionnalites-avancees/commandes/manual-orders.md)
   * Profil utilisateur
     * [Rendre un profil producteur simple consultable par catégorie de produit](fonctionnalites-avancees/votre-profil/making-a-producer-profile-searchable-by-product-category.md)
-    * [Transfer ownership](fonctionnalites-avancees/votre-profil/transfer-ownership.md)
+    * [Transférer les accès d'un profil](fonctionnalites-avancees/votre-profil/transfer-ownership.md)
   * [Mise en place d'une boutique](fonctionnalites-avancees/mise-en-place-dune-boutique/README.md)
     * [Customer Specific Pricing](fonctionnalites-avancees/mise-en-place-dune-boutique/customer-specific-pricing.md)
     * [Private shopfront](fonctionnalites-avancees/mise-en-place-dune-boutique/private-shopfront.md)
