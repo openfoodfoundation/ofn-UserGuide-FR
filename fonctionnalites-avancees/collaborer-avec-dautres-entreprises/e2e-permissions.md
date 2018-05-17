@@ -1,53 +1,55 @@
 # Permissions inter-entreprises
 
-## Enterprise to Enterprise permissions \(E2Es\)
+## Permissions inter-entreprises
 
-Within the OFN there are rules which govern the trading relationships between enterprises, which we call Enterprise to Enterprise permissions \(E2E\). Certain ‘permissions’ must be granted before an enterprise can act as a supplier to another enterprise. Similarly, before an enterprise can distribute on behalf of an enterprise they must also grant the appropriate E2Es.
+Ce sont des permissions nécessaires avant qu'une entreprise deviennent fournisseur d'une autre ou inversement qu'une entreprise ne puisse distribuer les produits d'une autre.
 
-This article provides a description of the different types of E2E permissions.
+Cette page détaille les différentes permissions possibles et la manière de les allouer. Ensuite deux paragraphes vont plus loin en présentant les permissions depuis deux points de vue différents :
 
-Users may also find it useful to look at the hub-specific, producer specific and buying-group specific examples provided"
+* [**Celui du hub**](e2e-permissions.md#E2Es-from-a-hubs-perspective)
+* [**Celui du producteur**](e2e-permissions.md#E2Es-from-a-producers-perspective)
 
-* [**Hubs Perspective**](e2e-permissions.md#E2Es-from-a-hubs-perspective)
-* [**Producers Perspective**](e2e-permissions.md#E2Es-from-a-producers-perspective)
+### Les différentes permissions
 
-### Different kinds of E2E permission:
+Il existe 4 différentes permissions. Elles peuvent se combiner de différentes manières afin de donner aux entreprises plus ou moins de droits suivant leurs profils. 
 
-There are four different kinds of E2E permissions. Applying these E2Es in different combinations allows enterprises to specify exactly how much permission, and over what aspects of their account, they want to grant another enterprise.
+**Permission d'ajouter un cycle de vente**
 
-**Permission to add to order cycle \(P-OC\)**
+Le fournisseur permet au hub d'ajouter ses produits à leurs cycle de vente
 
-![P-OC](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-OC-table.png)
+**Permission d'ajouter un catalogue boutique**
 
-**Permission to Add to Inventory \(P-I\) \(previously P-VO\)**
+Le fournisseur permet au hub d'ajouter ses produits au catalogue boutique du hub.
 
-![P-I](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-I-1.png)
+**Permission de gérer les produits**
 
-**Permission to manage products \(P-P\)**
+Le fournisseur permet à une entreprise \(hub ou producteur\) de créer, supprimer et modifier ses produits en ligne.
 
-![P-P](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-P.png)
+**Permission de modifier le profil**
 
-**Permission to edit profile \(P-Profile\)**
+Une entreprise permet à une autre de modifier ses détails de profils \(coordonnées, adresse, description, ...\)
 
-![P-Profile](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-Profile.png)
+### Donner et gérer les permissions {#grantingandmanagingE2Es}
 
-### Granting and Managing E2Es {#grantingandmanagingE2Es}
+Pour modifier, ajouter ou supprimer des permissions, rendez-vous sur l'interface d'administration puis dans le menu **Entreprises**, puis sous-menu **Permissions inter-entreprises** \(voir capture ci-dessous\).
 
-To grant, view and delete your E2E permissions, click on **Enterprises**in the blue horizontal menu, and then **Enterprise Relationships** in the green horizontal menu \(below\). Here you can view any E2E permissions that you have established previously, grant new ones or delete them.
+Si vous avez besoin qu'une autre entreprise vous donne des permissions, vous devez les contacter par email ou téléphone. Il n'y a pas de fonctionnalité en ligne pour contacter une autre entreprise à ce sujet.
 
-If you need another enterprise to grant you and E2E permission, you must contact them \(via email or phone\) and request for them to grant you permission through their account. There is no way of requesting permission from within the OFN, and you cannot grant E2Es from an enterprise if you are not the owner/manager.
+**Attention** : vous ne pouvez pas gérer les permissions de votre entreprises si vous n'êtes pas administrateur ou manager du profil de votre entreprise.
 
-**Granting E2E permissions**
+**Donner une permission**
 
-In the first column, select the enterprise name you want to grant the permission \(in this menu you’ll only see enterprises you own/manage\). Then in the third column select the enterprise that you wish to give permission to \(in this menu you will see all enterprises on the OFN\). Then click on the types of permission you wish to grant in the right hand column. You can select any combination, or ‘everything’ to select all. Then hit **create.** You can also delete permissions and replace them at any time.
+Dans la première colonne, sélectionner votre entreprise et dans la seconde l'entreprise à qui vous donnez des droits. Cliquez ensuite sur le type de permissions que vous souhaitez ajouter. Vous pouvez sélectionner plusieurs permissions ou les sléectionner toutes en cliquant sur "TOUT".
 
-![Granting E2Es](https://openfoodnetwork.org/wp-content/uploads/2015/05/Granting-E2Es.png)
+Puis cliquez sur "Créer". Notez que vous pouvez supprimer ou modifier ces permissions à tout moment.
 
-### Automatically generated E2Es
+![](../../.gitbook/assets/image%20%2872%29.png)
 
-When a user owns multiple enterprises, E2E permissions are created automatically between them. This primarily benefits users who own a hub enterprise and the producer enterprises that supply the hub. Automatic generation of certain E2Es makes the set up of such an arrangement much faster.
+### Les permissions générées automatiquement
 
-No automatic E2Es are created between enterprises owned by different users.
+Lorsqu'un utilisateur administre plusieurs entreprises sur la plateforme, les permissions sont créées automatiquement entre chaque entreprises. 
+
+Ce n'est pas le cas entre des entreprises administrées par des utilisateurs différents.
 
 ## E2Es from a hub’s perspective
 
@@ -109,7 +111,5 @@ Use the following examples to explore your options.
 
 The scenario described can be solved by granting P-I \([**Add to Inventory**](../produits/inventory-tool.md)\). This allows the hub to stock your products in their shop, but to set their own prices and inventory levels. When you stock your own shop with your products, they will continue to reflect the prices and stock levels that you have set.
 
-## E2Es from a buying group’s perspective
 
-Coming soon…
 

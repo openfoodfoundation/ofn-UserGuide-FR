@@ -35,19 +35,19 @@
   * Profil utilisateur
     * [Rendre un profil producteur simple consultable par catégorie de produit](fonctionnalites-avancees/votre-profil/making-a-producer-profile-searchable-by-product-category.md)
     * [Transférer les accès d'un profil](fonctionnalites-avancees/votre-profil/transfer-ownership.md)
-  * [Mise en place d'une boutique](fonctionnalites-avancees/mise-en-place-dune-boutique/README.md)
+  * Mise en place d'une boutique
     * [Customer Specific Pricing](fonctionnalites-avancees/mise-en-place-dune-boutique/customer-specific-pricing.md)
     * [Private shopfront](fonctionnalites-avancees/mise-en-place-dune-boutique/private-shopfront.md)
     * [Gestion des tags et comptes clients](fonctionnalites-avancees/mise-en-place-dune-boutique/customized-shopping-experience.md)
     * [Embedded Shops](fonctionnalites-avancees/mise-en-place-dune-boutique/embedded-shops.md)
     * [Thermally printed receipts](fonctionnalites-avancees/mise-en-place-dune-boutique/thermally-printed-receipts.md)
-  * [Cycles de vente](fonctionnalites-avancees/cycles-de-vente/README.md)
+  * Cycles de vente
     * [Cycles de vente en lecture seule](fonctionnalites-avancees/cycles-de-vente/display-only-order-cycles.md)
     * [Ouvrir des cycles de vente simultanés](fonctionnalites-avancees/cycles-de-vente/opening-more-than-one-order-cycle.md)
-  * [Collaborer avec d'autres entreprises](fonctionnalites-avancees/collaborer-avec-dautres-entreprises/README.md)
+  * Collaborer avec d'autres entreprises
     * [Permissions inter-entreprises](fonctionnalites-avancees/collaborer-avec-dautres-entreprises/e2e-permissions.md)
     * [E2E powers in multi-enterprise OCs](fonctionnalites-avancees/collaborer-avec-dautres-entreprises/e2e-powers-in-multi-enterprise-ocs.md)
-  * [Groupes](fonctionnalites-avancees/groupes/README.md)
+  * Groupes
     * [Create Group Page](fonctionnalites-avancees/groupes/create-group-page.md)
     * [Embed a Group Page](fonctionnalites-avancees/groupes/embed-a-group-page.md)
   * [Réseaux sociaux](fonctionnalites-avancees/reseaux-sociaux/README.md)
