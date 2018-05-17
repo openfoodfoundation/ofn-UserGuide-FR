@@ -1,26 +1,30 @@
 # Création de commandes
 
-Sometimes you may wish to manually put an order into the system. This may be on behalf of a customer, or so that your reports will capture an order from a different sales stream. You can create an order by going to **Orders** and clicking on the**+ New Order** button.
+Parfois, vous souhaitez insérer vous même une commande manuellement dans le système, pour le compte d'un acheteur ou pour que vos rapports incluent une commande issue d'une autre plateforme par exemple. Rendez-vous sur **Commandes** et cliquez sur le bouton **Nouvelle Commande** :
 
-![New order](https://openfoodnetwork.org/wp-content/uploads/2015/12/New-Order.png)
+![](../../.gitbook/assets/image%20%2832%29.png)
 
-Firstly you will be prompted to select the distributor that the order will be placed with. This will usually be your hub or producer shopfront, but you may also wish to place an order into a buying group that is associated with you hub. Next you will need to select the order cycle that you want the order to be placed in. You choice of order cycle will dictate which products will be available to be added into the order and the fees applied. For example, if you select the June order cycle, you won’t be able to put products that were not in that order cycle into your new order.
+Sélectionnez le hub sur lequel doit être enregistré la commande puis le cycle de vente. En fonction du cycle de vente choisi, les produits pouvant être ajoutés à la commande ainsi que les marges ne seront pas forcément les mêmes \(tout dépend de vos paramètres pour ces deux fonctionnalités\). 
 
-![Search for and add products to the order](https://openfoodnetwork.org/wp-content/uploads/2015/12/add-products.png)
+Vous serez redirigé sur la page suivante où vous pourrez ajouter les produits en les recharchant en tapant leur premières lettres :
 
-Now you can select which products to add to the order by searching for them and selecting a quantity. Once you’ve added all of the necessary products click **update and recalculate fees.**
+![](../../.gitbook/assets/image%20%2817%29.png)
 
-The next step is to add in the customer’s details. If it is a customer who is on your customer list, you can select them from the dropdown menu, otherwise you can fill in the customer’s details details and check them out as a guest.
+Indiquez les quantités. Une fois tous les produits ajoutés, cliquez sur **update and recalculate fees.**
 
-Click **Continue** to select a shipping method. Then click **Update**.
+L'étape suivante est d'ajouter les informations liées à l'acheteur dans le menu vertical "détails client". Si l'acheteur fait déjà parti de vos clients, vous pouvez le sélectionner via la liste déroulante, ou alors remplir les champs et indiquer une commande invité :
 
-![Shipping](https://openfoodnetwork.org/wp-content/uploads/2015/12/Shipping.png)
+![](../../.gitbook/assets/image.png)
 
-Next you will be able to make any adjustments to the order, such as including a fee. Once you have done this click **Continue**.
+Cliquez sur continuer et sélectionnez une méthode de livraison :
 
-Finally you can select the customer’s payment method.
+![](../../.gitbook/assets/image%20%2855%29.png)
 
-![Payment method](https://openfoodnetwork.org/wp-content/uploads/2015/12/Payment-method.png)
+Ensuite vous pouvez réaliser des ajustements comme l'ajout d'une commission. Continuez.
 
-Clicking **update** will finalise this order and send an email confirmation to the customer.
+LA dernière étape est le choix de la méthode de paiement :
+
+![](../../.gitbook/assets/image%20%2871%29.png)
+
+Cliquez sur **mettre à jour** et envoyez un email de confirmation à l'acheteur.
 
