@@ -4,7 +4,7 @@
 
 Une fois connecté sur l'interface d'adminsitration, cliquez sur le menu **Produits**, puis sur le bouton **Nouveau Produit**.
 
-![](../.gitbook/assets/image%20%2876%29.png)
+![](../.gitbook/assets/image%20%2877%29.png)
 
 Vous serez redirigé vers la page suivante :
 

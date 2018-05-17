@@ -28,64 +28,52 @@ Un exemple de message au moment du paiement :
 
 7\) **Tags :** Utilisez les tags si vous souhaitez rendre certaines méthodes de paiements accessible ou non pour certains types d'acheteurs \(voir [la page suivante](../fonctionnalites-avancees/mise-en-place-dune-boutique/customized-shopping-experience.md#customer-tagging) pour l'utilisation de cette fonctionnalité\).
 
-8\) **Payment providers**: Select the one which is relevant to the payment method you are creating.
+8\) **Fournisseurs** : Sélectionnez celui qui concerne la méthode que vous créez
 
-You can accept payment via 5 payment options:
+Vous pouvez accepter les paiements de 5 façons :
 
-* Cash/EFT/etc. \(Use this for payments which occur after checkout, externally to OFN such as cash or bank transfers\)
+* Cash/EFT/etc. \(dans ce cas pas de validation automatique\)
 * MasterCard Internet Gateway Service \(MIGS\)
 * PayPal Express
-* [Pin Payments](https://pin.net.au/)
+* Pin Payments **\(ne fonctionne pas en France\)**
 * Stripe
 
-If you have selected ‘Cash/EFT/etc..’ as the provider, click **Create** to end the process.
+Si vous avez séletionné ‘Cash/EFT/etc..’, cliquez sur **Créer** en base de page.
 
-For MasterCard, Paypal and Pin Payments additional instructions are below.
+Pour les autres méthodes, les instructions sont dans les paragraphes ci-dessous.
 
-### PayPal
+### PayPal Express
 
-%accordion%Paypal%accordion%
+Pour permettre un paiement par Paypal, vous devez avoir un compte Paypal professionnel au préalable. Vous pouvez en créer un [ici](https://www.paypal.com/fr/home). Ensuite il est nécessaire de paramétrer l'API. C'est elle qui vous permettra de connecter votre compte Paypal à Open Food France \(OFF\).
 
-To setup a PayPal payment method, you need a PayPal business or merchant account. You can create one [here](https://www.paypal.com/au/webapps/mpp/merchant). Once you have that, you can set up ‘API access’ within PayPal, which will enable OFN to connect customers directly with your PayPal account.
-
-1. Login to your PayPal Account
-2. Click Tools and then select API credentials
+1. Connectez-vous à votre compte Paypal
+2. Cliquez sur Tools / Outils puis API credentials / Paramètres :
 
 ![Paypal tools API credentials](https://openfoodnetwork.org/wp-content/uploads/2015/05/Paypal-tools-API-credentials.png)
 
-1. Click on ‘View API Signature’  and you will see the API details you’ll need to set up Paypal in OFN.
+1. Cliquez sur "Voir la signature API" :
 
 ![API Access](https://openfoodnetwork.org/wp-content/uploads/2015/05/API-Access.png)
 
+2. Sur OFF, assurez-vous d'être connecté en tant qu'entreprise. Allez dans l'interface d'administration, puis dans le menu Entreprises et créez un méthode de paiement \(voir ci-dessus\). Sélectionnez Paypal et intégrer les informations :
+
+
+
 ![Api Signature](https://openfoodnetwork.org/wp-content/uploads/2015/05/Api-Signature.png)
 
-1. In OFN, make sure you are logged in as your Enterprise User. Go to an Enterprise and create a Payment Method. Select PayPal and fill in the details from the PayPal site.
+**Connexion** **:** Indiquez le nom de l'API "API Username".
 
-**Login:**Type the API Username.
+**Mot de passe :** Indiquez le mot de passe de l'API  "API Password".
 
-**Password:**Type the API Password.
+**Signature :** Indiquez le contenu du champ Signature.
 
-**Signature:**Type the Signature in this field.
+![](../.gitbook/assets/image%20%2874%29.png)
 
-![New Payment Paypal](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-Payment-Paypal-1.png)
+**Serveur :** Indiquez " live "sans les guillemets à la place de "sandbox".
 
-**Server**
+**Solution :** Ce champ détermine si les utilisateurs devront avoir un compte paypal pour payer ou non. Laissez "Mark" si l'utilisateur doit avoir un compte paypal, indiquez "Sole" si vous souhaitez le contraire.
 
-Change the ‘server’ field to ‘live’ – this is case sensitive.
-
-**Solution**
-
-Solution determines whether or not a user needs a PayPal account to check out.
-
-Type “Mark” if you do want users to have a paypal account, or “Sole” if they can checkout without a Paypal account \(with credit card\).
-
-**Landing Page**
-
-You can select which page to show customers once they’re redirected to PayPal.
-
-Type “Login” to direct customer to the login form for PayPal \(if you selected “Mark” above\). Or type “Billing” to show show customers a form where they can enter their credit card data and possibly sign up for a PayPal account \(if you selected “Sole” above\).
-
-%/accordion%
+**Landing Page :** vous pouvez sélectionner la page d'accueil une fois les utilisateurs redirigez vers paypal pour leur achat. Si vous avez sélectionné "Mark" avant, il vaut mieux indiquer "Login". Si non, "Billing" les renverra directement vers un écran leur permettant d'indiquer leur numéro de carte bleue.
 
 ### MasterCard Internet Gateway Service \(MIGS\)
 
@@ -149,7 +137,7 @@ Customer can also save a credit card in their Account, or delete saved ones.
 
 When the customer next shops with an OFN shop offering Stripe as a payment method, they’ll be able to select from their saved credit cards.
 
-## Fees on Payment Methods
+## Commissions sur les méthodes de paiements
 
 ![Calculator](https://openfoodnetwork.org/wp-content/uploads/2015/05/Calculator.png)
 
@@ -157,24 +145,29 @@ You can attach a fee to payment methods. Most commonly this is used to pass on a
 
 _Note: Payment method fees do not include tax._
 
-#### Fee Calculators
+### Le calculateur
 
-**Flat Percent:**  This fee is charged as a percentage of the total amount charged in the order.
+**Pourcentage net** – This fee is charged as a percentage of the total amount charged in the order.
 
-**Flat Rate \(per order\):** This fee is applied as standard fee to all orders, regardless of the size of the order.
+**Poids \(au kg\)** – cette marge s'applique aux produits vendus par kg. Elle ne s'appliquera donc pas aux produits vendus à la pièce.
 
-**Flexible Rate:** This calculator is typically used for promotional discounts where you charge a reduced fee as the customer makes more purchases of that item. This fee applies to items and products listed per kg or L.
+**Flat Rate \(per order\)** – Cette marge s'applique de manière standard à toutes les commandes, quelque soit leur taille ou leur unité.
 
-* ‘First Item Cost’: The fee charged for the first item in the order.
-* ‘Additional Item Cost’: The fee charged for aditional items beyond the first.
-* ‘Max Items’: The maximum number of items on which the fee will be applied. Items purchased beyond this amount will be not be charged the fee.
+**Taux flexible** – Ce calcul est utilisé pour les remises promotionnelles \(quand vous appliquez une marge réduite lorsque le consommateur achète en gros\).
 
-> For example: If the first cost is $2, Additional Item Cost is $1 and the maximum items is three. If a customer orders 5 of the item, they will be charged $2 for the first item, $1 for the second and third, and no fee for the fourth and fifth.
+* ‘Coût du premier item’ : La marge appliquée au premier produit
+* ‘Coût d'item additionnel’ : La marge appliquée aux produits suivants
+* ‘Nombre maximum d'objets’ : Le nombre maximum d'objets sur lesquels la marge va s'appliquer. Les objets après ce nombre n'auront pas de marge associée.
 
-**Flat Rate \(per item\):** This fee is a constant fee, applied to products listed as ‘items’. \(it will not be applied to products listed as per kg, or per L\)
+![](../.gitbook/assets/image%20%286%29.png)
 
-**Price Sack:** This fee is used to charge a discount on fees for orders which exceed a certain dollar amount.
+Exemple :  Si la marge du premier est de 2€, celle de l'objet supplémentaire 1 € et le nombre maximum d'objet est de 3. Si un client en commande 5, il paiera 2 € pour le premier, 1€ pour le second et aucune commissions pour les objets 3 et 4.
 
-* ‘Minimum Amount’: If the order’s total is below this amount, they will be charged the ‘Normal Amount’.
-* ‘Discount Amount’: Orders which are equal to or greater than the minimum amount will be charged the ‘Discount Amount’.
+**Taux net \(par item\)** – Cette marge est constante et s'applique uniquement aux produits vendus à la pièce \(et non ceux vendus au poids\).
+
+**Price Sack** – Cette marge est utilisée pour appliquer une marge réduite à partir du moment où la commande atteind un certain montant.
+
+* ‘Montant minimal’ : Si la commande est en-dessous de ce montant, le consommateur devra payer le ‘Montant normal'.
+* ‘Montant de la réduction’ : Si la commande est égale ou supérieure au montant minimal, le consommateur devra payer le ‘Montant de la réduction’.
+* 'Currency' : La monnaie utilisée \(généralement "EUR"\).
 
