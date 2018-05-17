@@ -24,7 +24,7 @@ Si vous travaillez déjà avec une boutique visible sur Open Food France, vous i
 
 ### Votre compte est désormais prêt !
 
-Si vous avez besoin de le modifier etou d'ajouter des détails, vous pouvez :
+Si vous avez besoin de le modifier et ou d'ajouter des détails, vous pouvez :
 
 3\) modifier vos [Paramètres](../fonctionnalites-standards/parametres.md). C'est toujours un plus si vous pouvez indiquer vos méthodes de production \(BIO, élevage en plein air...\)
 
@@ -38,7 +38,7 @@ Si **vous souhaitez qu'une boutique vende vos produits :**
 
 ## Fonctionnalités avancées
 
-* [Rendre votre profil consultable par catégorie de produit ]()
+* [Rendre votre profil consultable par catégorie de produit ](../fonctionnalites-avancees/votre-profil/making-a-producer-profile-searchable-by-product-category.md)
 
 **Vous souhaitez ouvrir une boutique en ligne ?**    
 En quelques clics, vous pouvez ouvrir votre propre boutique en ligne. Pour ce point, consultez le [guide à ce lien](le-producteur-en-vente-directe-avec-une-boutique.md). Vous avez déjà réalisé l'étape 1, il vous suffit de vous rendre directement à l'étape deux et changer vos types de packages.

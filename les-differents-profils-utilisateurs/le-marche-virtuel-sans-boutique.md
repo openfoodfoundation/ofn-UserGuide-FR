@@ -35,11 +35,11 @@ Une fois que votre page est créée et complétée, l'étape suivante est de cr�
 
 L'avantage de cette option, reste que vous pouvez remplir le groupe plus rapidement qu'en attendant la création de chaque profil individuelle.
 
-Vous trouverez le détail des étapes pour la création [de pluiseurs profils producteur à cette adresse.](../fonctionnalites-standards/creez-ou-connectez-vos-producteurs.md)
+Vous trouverez le détail des étapes pour la création [de plusieurs profils producteur à cette adresse.](../fonctionnalites-standards/creez-ou-connectez-vos-producteurs.md)
 
 Nous vous conseillons de créer ces profils en "invisibles". En effet, lorsque le marché virtuel est ouvert, un email est envoyés aux membres du groupe afin de leur permettre de gérer leur profil et démarrer l'utilisation du groupe.
 
-Lorsque vous indiquez une adresse email sur un profil producteur, un email de confirmation de l'adresse sera envoyé à cet utilisateur. Pour plus de détails sur cette étape, consultez [la page suivante]().
+Lorsque vous indiquez une adresse email sur un profil producteur, un email de confirmation de l'adresse sera envoyé à cet utilisateur. Pour plus de détails sur cette étape, consultez la page suivante.
 
 ### Option 2 – Invitez vos membres à créer eux-même leur profil
 

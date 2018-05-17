@@ -50,5 +50,5 @@ Cette page présente les stratégies pour fixer les prix des produits comme les 
 
 [Réaliser une tarification personnalisée en fonction des clients.](../fonctionnalites-avancees/mise-en-place-dune-boutique/customer-specific-pricing.md) Il est possible configurer une boutique afin d'appliquer une politique de prix différente en fonction de vos groupes de clients.
 
-[Réaliser des commandes manuelles ]()pour les clients préférant utiliser les sms ou le téléphone.
+[Réaliser des commandes manuelles ](../fonctionnalites-avancees/commandes/manual-orders.md)pour les clients préférant utiliser les sms ou le téléphone.
 
