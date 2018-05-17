@@ -1,8 +1,8 @@
-# Making a producer profile searchable by product category
+# Rendre un profil producteur consultable par catégorie de produit
 
-When customers come to the Open Food Network, they are able to search for producers by name or location. They are also able to filter the producer profiles according to what kinds of products the producers stock \(see below\).
+Vous pouvez rechercher un producteur sur Open Food France via son nom ou sa localisation, mais vous pouvez aussi activer la recherche par les catégories de produits que le producteur offre. Suivez les étapes dans la suite de la page pour activer cette fonctionnalité.
 
-![Filter by product](https://openfoodnetwork.org/wp-content/uploads/2015/08/Filter-by-product.png)
+![](../../.gitbook/assets/image%20%2855%29.png)
 
 Producers with online shops on the OFN have products in the system, which get picked up by the search filter tool. However, producers who don’t have an OFN shop \(just a profile\) won’t be searchable in this way, unless they add some fake products into the system. By adding a dummy product for each product category that you want to be searchable under, you’ll show up when customers search for your products.
 

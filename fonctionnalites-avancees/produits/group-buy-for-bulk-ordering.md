@@ -34,7 +34,7 @@ Dans le menu commandes &gt; gestion des commandes par lot :
 5. Grâce à l'information dans la colonne "nombre max d'unité commandées", vous pouvez augmenter le max de chaque commande
 6. Sauvegardez vos modifications
 
-![](../../.gitbook/assets/image%20%2865%29.png)
+![](../../.gitbook/assets/image%20%2866%29.png)
 
 
 

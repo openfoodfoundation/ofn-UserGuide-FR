@@ -54,7 +54,7 @@ Poursuivez la lecture pour comprendre le traitement manuel du masquage et de l'a
 
 ## Produits du Catalogue Boutique
 
-![](../../.gitbook/assets/image%20%2857%29.png)
+![](../../.gitbook/assets/image%20%2858%29.png)
 
 Via le bouton colonnes, si vous affichez toutes les colonnes, toutes les fonctionnalités du catalogue s'afficheront à vous.
 
@@ -110,5 +110,5 @@ Sur cette page, vous pouvez décider de rendre visible certains produits en cliq
 
 Dans le menu Cycle de vente &gt; Modifier un cycle de vente, si vous cliquez sur "paramètres avancés" vous autre une option pour choisir si sur ce cycle en particulier les informations viennent de votre catalogue ou directement des fournisseurs :
 
-![](../../.gitbook/assets/image%20%2863%29.png)
+![](../../.gitbook/assets/image%20%2864%29.png)
 
