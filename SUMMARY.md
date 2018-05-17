@@ -43,7 +43,7 @@
     * [Thermally printed receipts](fonctionnalites-avancees/mise-en-place-dune-boutique/thermally-printed-receipts.md)
   * [Cycles de vente](fonctionnalites-avancees/cycles-de-vente/README.md)
     * [Cycles de vente en lecture seule](fonctionnalites-avancees/cycles-de-vente/display-only-order-cycles.md)
-    * [Opening more than one order cycle](fonctionnalites-avancees/cycles-de-vente/opening-more-than-one-order-cycle.md)
+    * [Ouvrir des cycles de vente simultanés](fonctionnalites-avancees/cycles-de-vente/opening-more-than-one-order-cycle.md)
   * [Collaborer avec d'autres entreprises](fonctionnalites-avancees/collaborer-avec-dautres-entreprises/README.md)
     * [Permissions inter-entreprises](fonctionnalites-avancees/collaborer-avec-dautres-entreprises/e2e-permissions.md)
     * [E2E powers in multi-enterprise OCs](fonctionnalites-avancees/collaborer-avec-dautres-entreprises/e2e-powers-in-multi-enterprise-ocs.md)

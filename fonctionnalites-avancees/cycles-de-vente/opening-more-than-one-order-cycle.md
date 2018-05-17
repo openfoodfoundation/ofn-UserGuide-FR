@@ -1,18 +1,22 @@
-# Opening more than one order cycle
+# Ouvrir des cycles de vente simultanés
 
-It is possible to have more than one order cycle open at the same time. This has the effect of creating two \(or more\) shopfronts within your OFN shop, which the customer can choose between. This feature is helpful when you want to have different ‘conditions’ in the two shopfronts such as different products \(wholesale or retail\), different enterprise fees \(such a non-member mark-ups\) or different order cycle opening and closing dates \(for different deliver runs\).
+Il est possible d'avoir plusieurs cycles de vente simultanés. Cela a pour effet d'avoir plusieurs boutiques ouvertes : l'acheteur peut naviguer de l'une à l'autre. Cette fonctionnalité est intéressante si vous souhaitez avoir des conditions différentes entre les deux boutiques \(produits différents, différentes marges ou des dates de début et de fin différentes\). 
 
-If you have two order cycles open, when the customer arrives at your shopfront, they will be prompted to select which order cycle they want to order in. An example is shown below, where the two order cycles have different delivery dates. Remember it is the ‘Ready for’ field in the order cycle set up which determines an order cycle’s name \(seen as ‘Thursday delivery’ in this case\).
+Exemple ci-dessous avec des boutiques par date de livraison :
 
-![Choose when to order](https://openfoodnetwork.org/wp-content/uploads/2015/10/Choose-when-to-order.png)
+![](../../.gitbook/assets/image%20%2879%29.png)
 
-When the customer selects an order cycle, the shopfront will load with the specific products, fees and opening and closing dates of that order cycle.
+A la sélection du cycle de vente, l 'acheteur aura à l'affichage les produits et paramètres du cycle de vente sélectionné.
 
-Often, having two separate order cycles is not necessary, because different fees and delivery days can be applied in the shipping methods and shipping fees. However, it can be useful in some circumstance.
+Notez que vous pouvez aussi gérer les paramètres et marges par produits. Mais cette solution peut être utile.
 
-Note: You can’t specify which shipping methods are available in an order cycle, so all order cycles will have all of your shipping methods available.
+**Attention : les méthodes de livraison ne sont pas paramétrés aux niveau du cycle de vente** ! Tous vos cycles de vente auront donc les mêmes options de livraison.
 
-**Ordering your order cycles**
+### **Définir l'ordre d'affichage de vos cycles de vente dans la liste déroulante**
 
-You can choose whether you want your order cycles to be listed in the dropdown menu by closing date \(closing soonest first\) or by opening date \(opened earliest first\). This is setup in your enterprise settings, under ‘shop preferences’.
+Vous pouvez choisir si vous souhaitez les afficher par date de fermeture ou par date d'ouverture. 
+
+Il suffit de vous rendre dans le menu Entreprises &gt; Gérer &gt; Préférences boutique :
+
+![](../../.gitbook/assets/image%20%2860%29.png)
 

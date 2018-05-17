@@ -66,7 +66,7 @@ Pour modifier le statut de livraison ou de paiement, cliquez simplement sur le b
 
 En cliquant sur le bouton modifier vous êtes amener à consulter la page suivante :
 
-![](../.gitbook/assets/image%20%2882%29.png)
+![](../.gitbook/assets/image%20%2884%29.png)
 
 _Remarque_ _: Vous pouvez également modifier le statut de paiement et de livraison via cette page. Consultez les paragraphes suivants pour les autres fonctionnalités._
 
@@ -98,7 +98,7 @@ Cliquez sur le bouton "annuler" depuis la page de modification d'une commande.
 
 Cliquez sur "détails clients" dans la liste en bas à droite pour accéder à toutes les coordonnées :
 
-![](../.gitbook/assets/image%20%2862%29.png)
+![](../.gitbook/assets/image%20%2863%29.png)
 
 **Ajouter ou supprimer un montant à la commande**
 
@@ -163,7 +163,7 @@ Nous allons prendre l'exemple d'une caisse de viande de 10 kg :
 4. Modifiez les valeurs de poids \(le prix changera automatiquement\)
 5. Cliquez sur "mettre à jour".
 
-![](../.gitbook/assets/image%20%2880%29.png)
+![](../.gitbook/assets/image%20%2882%29.png)
 
 
 
