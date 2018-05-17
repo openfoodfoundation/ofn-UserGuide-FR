@@ -64,7 +64,7 @@ L'adresse nous permet de vous géolocaliser sur une carte. Si vous disposez d'un
 
 Un exemple de profil :
 
-![](../.gitbook/assets/image%20%2867%29.png)
+![](../.gitbook/assets/image%20%2870%29.png)
 
 ### Propriétés / Labels \(visible seulement par les producteurs\)
 
@@ -94,11 +94,11 @@ _\* non visible pour les profils simples_
 
 **Message d'accueil boutique ouverte** : Ce message est facultatif. Il sera afficé sur votre boutique juste au-dessus des produits \(cf. exemple ci-dessous\). C'est l'endroit idéal pour des informations importantes comme des commandes spéciales ou des informations particulières sur vos cycles de vente. 
 
-![](../.gitbook/assets/image%20%2853%29.png)
+![](../.gitbook/assets/image%20%2854%29.png)
 
 **Message d'accueil boutique fermée** : Ce message s'affiche lorsque votre boutique est fermée. L'occasion d'indiquer la date de la réouverture !
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 **Ordre d'affichage des catégories :** Les produits sont rangés par ordre alphabétique dans votre boutique, au sein de leur catégorie. Vous pouvez changer l'ordre des catégories par celui qui vous convient le mieux.
 
