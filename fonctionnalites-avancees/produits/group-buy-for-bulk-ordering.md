@@ -30,33 +30,15 @@ Dans le menu commandes &gt; gestion des commandes par lot :
 1. Sélectionnez le cycle de vente ou les bonnes dates
 2. Recherchez votre produit \(dans notre exemple la caisse de viande\)
 3. Veillez à bien afficher la colonne **Maximum** pour connaitre le consentement maximal à payer des acheteurs finaux
-4. Next, click on Almonds in the Product:Unit column, to display the orders total box. Here I can see the cumulative minimum and maximum orders. In this case, the
-
-   **total quantity ordered**
-
-   is 4kg, which falls short of my bulk order quantity. But the
-
-   **max quantity ordered**
-
-   is 6kg, which shows that some customers are willing to raise their orders.
-
-5. Next, I can look at each customer’s max value, and raise their order
-
-   **Quantity**
-
-   , until the 5kg threshold is reached. Note: any changes to quantity will will be automatically captured in the price column.
-
+4. Cliquez sur la valeur de la colonne Produit : unité pour afficher l'encart ci-dessous
+5. Grâce à l'information dans la colonne "nombre max d'unité commandées", vous pouvez augmenter le max de chaque commande
 6. Sauvegardez vos modifications
 
-![Bulk order management and group buy](https://openfoodnetwork.org/wp-content/uploads/2015/06/BOM-almonds.png)
+![](../../.gitbook/assets/image%20%2861%29.png)
 
-What does Current Fulfilled Orders and Max Fulfilled Order tell me?
 
-**Current Fulfilled Orders** divides your total quantity ordered by the group buy unit size. If this figure is greater than 1, it tells you that the existing customer order satisfy or exceed your required group buy unit size. If this figure is less than 1, existing customer orders don’t meet that threshold. As you raise the quantity of customer orders, this figure will raise.
 
-**Max Fulfilled Order** takes the sum or all of the customer’s MAX order quantities and divides this by the Group Buy Unit Size. If the number is over 1, then you know that the total of your MAX orders exceeds the required group buy quantity. If it’s below zero, it means that even the MAX order quantities won’t reach the threshold.
+**Nombre d'unité commandées** divise ****le total des quantités commandées par la quantité max des paramètres d'achat par lot. Si le nombre est supérieur à 1, cela signifie que la commande de l'acheteur est équivalente ou supérieure au maximum d'unité de l'option d'achat par lot. A l'inverse, cela signifie que vous pouvez augmenter les quantités. Plus vous augmentez, plus ce nombre augmentera également. 
 
-### Group Buy Report
-
-The “Bulk Co-op – Totals By Suppliers Report” provides a summary of your bulk products including how many bulk sizes to order, how much remaining stock will be left over and how much extra stock customers are willing to purchase to help the group reach the bulk order size. For details of how to use this report, see the bottom of [this page](https://github.com/ofnuserguidefr/guide-utilisateur-open-food-france/tree/f72c4e0a78bb6dc0c5b39249e706b0dbac84df5f/reports.md).
+**Nombre max d'unités commandées** récupère la somme de toutes les quantités maximales pour les acheteurs et divise par la quantité max des paramètres d'achat par lot. SI le nombre est supérieur à 1, vous sacez que le nombre de commande dépasse le seuil maximum. S'il est inférieur à 0 cela signifie que la quantité maximale n'atteindra pas le seuil. 
 
