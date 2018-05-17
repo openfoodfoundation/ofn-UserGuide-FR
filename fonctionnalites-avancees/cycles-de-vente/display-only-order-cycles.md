@@ -1,14 +1,12 @@
-# Display only Order Cycles
+# Cycles de vente en lecture seule
 
-In some cases, shop owners may want to be able to display products in their shop but not actually allow customers to checkout. For example to show the range they will have when their order cycle will next open.
+Dans certains cas, les détenteurs de boutique vont souhaiter afficher les produits qu'ils vendent, sans permettre aux acheteurs de les acquérir, mais uniquement pour montrer les produits qui seront bientôt en vente dans le prochain cycle de vente.
 
-To setup a display only order cycle, you should open an order cycle that included the products you wish to display, for the date range that you want. Next you should go to your payment method list, and deactivate all payment methods. To inactivate your shipping/payment methods go to edit your profile and deselect all boxes in the ‘applied column’ \(as below\).
+Pour réaliser cette opération il faut ouvrir un cycle de vente normal \(voir menu fonctionnalité standard\) et vous rendre ensuite dans vos méthode de paiements \(menu Entreprises &gt; Gérer &gt; Méthode de paiements\) et désactiver tous vos moyens de paiements.
 
-![Inactive closed](https://openfoodnetwork.org/wp-content/uploads/2015/05/Inactive-closed.png)
-
-Your shop will now be in the ‘display only’ state. Below is an example of how the shop appears to customers. It’s clearly marked as closed, but customers can see the product range. If they do try to add items to cart or checkout, they’ll be stopped.
+Et le tour est joué ! Vos produits s'affichent sur votre boutique, mais la boutique est bien affichée comme fermée. Exemple ci-dessous :
 
 ![display only shopfront](https://openfoodnetwork.org/wp-content/uploads/2015/05/display-only.png)
 
-Note: It’s important to remember that when you next open a real order cycle, you must turn your payment methods back on so customers can checkout.
+**N'oubliez pas de réactiver vos méthodes de paiements à la réouverture de la boutique !**
 

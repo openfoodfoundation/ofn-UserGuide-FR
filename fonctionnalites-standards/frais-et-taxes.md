@@ -14,7 +14,7 @@ Sur l'interface d'administration, rendez-vous sur le menu **Enterprises**, puis 
 
 ## Ajouter des marges et commissions
 
-![](../.gitbook/assets/image%20%2866%29.png)
+![](../.gitbook/assets/image%20%2867%29.png)
 
 **Entreprise :** Dans la première colonne, sélectionnez l'entreprise qui recevra la marge.
 
@@ -32,7 +32,7 @@ Pour finaliser, cliquez sur "Mettre à jour". Une fois que la marge a été cré
 
 ### Le calculateur
 
-![](../.gitbook/assets/image%20%2849%29.png)
+![](../.gitbook/assets/image%20%2850%29.png)
 
 **Pourcentage net** – This fee is charged as a percentage of the total amount charged in the order.
 
