@@ -24,7 +24,7 @@
   * [Gestion des commandes](fonctionnalites-standards/visualisation-des-commandes.md)
   * [Tableau de Bord](fonctionnalites-standards/tableau-de-bord.md)
 * [Fonctionnalités avancées](fonctionnalites-avancees/README.md)
-  * [Produits](fonctionnalites-avancees/produits/README.md)
+  * Produits
     * [Les variantes](fonctionnalites-avancees/produits/product-variants.md)
     * [Fixer un prix pour les produits irréguliers au kg](fonctionnalites-avancees/produits/pricing-irregular-items-kg.md)
     * [Propriétés / labels](fonctionnalites-avancees/produits/product-properties.md)
