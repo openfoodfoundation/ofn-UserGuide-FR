@@ -1,34 +1,32 @@
 # Méthodes de paiements
 
-You must create a payment method before you can open your shop.
+Vous devez créer des méthodes de paiements avant de pouvoir ouvrir votre boutique.
 
-## Setting up a payment method
+## Paramétrer une méthode de paiement
 
-1\) Go to the payment methods page.
+1\) Accéder à la page traitant des méthodes de paiement
 
-%accordion%Accessing payment methods%accordion%
+Cliquez sur **Entreprises**, puis cliquez sur **Gérer**. Cliquez ensuite sur Méthodes de paiement sur le menu vertical de gauche :
 
-Click **Enterprises** in the blue horizontal menu, and then click **Manage** next to your enterprise. Then, click Payment methods in the menu on the left hand side.
+![](../.gitbook/assets/image%20%2812%29.png)
 
-![Access demo hub profile edit](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-demo-hub-profile-edit.png)
+2\) Cliquez sur "**En créer une maintenant**".
 
-%/accordion%
+3\) Si ce n'est pas le cas sélectionnez votre entreprise dans la liste déroulante des hubs. Cela signifie que la méthode de paiement qui sera créé le sera pour cette entreprise. **Vous pouvez sélectionner plusieurs entreprises**.
 
-2\) Click on the **create new payment method** button.
+![](../.gitbook/assets/image%20%2833%29.png)
 
-3\) Tick your enterprise, in the box on the right hand side of the page titled Hubs. This indicates which enterprise the payment method you are about to create will apply to. You can select more than one enterprise.
+4\) **Nom :** Choisissez un nom pour cette méthode de paiement. \(par exemple : "Payez par carte de crédit en utilisant Paypal" etc\). Ce nom s'affichera au moment du paiement pour l'acheteur, ainsi que dans les emails de confirmation qui lui seront envoyés.
 
-4\) **Name:** Choose a name for this payment method. \(i.e. Pay with credit card using Paypal, Cash on delivery or Bank Transfer etc\). It will be displayed at checkout and on customers' order confirmation emails.
+5\) **Description :** ajoutez des détails pour la méthode de paiement. Par exemple, pour un virement, vous pouvez indiquez les détails du RIB. Cette description s'affichera au moment du paiement pour l'acheteur, ainsi que dans les emails de confirmation qui lui seront envoyés.
 
-5\) **Description:** provide further details about the payment method. For example, for a bank transfer, you would provide details of the bank account. This description will be displayed at checkout and in order confirmation emails.
+Un exemple de message au moment du paiement :
 
-The screenshot below shows a payment methods display at checkout. The customer has selected ‘cash on collection/delivery’ and the ‘correct change…’ description is displayed.
+![](../.gitbook/assets/image%20%2844%29.png)
 
-![Payment message displayed at checkout](https://openfoodnetwork.org/wp-content/uploads/2015/05/Payment-at-checkout.png)
+ 6\) **Active :** Indiquez si vous souhaitez que cette méthode soit visible et utilisable
 
- 6\) **Active:** Select whether this payment method is currently visible and available, or not.
-
-7\) **Tags:** Use tag rules if you want to make certain payment methods available/unavailable for specific customers \(e.g. wholesale vs retail\). See [here](../fonctionnalites-avancees/mise-en-place-dune-boutique/customized-shopping-experience.md) for details on tag rules.
+7\) **Tags :** Utilisez les tags si vous souhaitez rendre certaines méthodes de paiements accessible ou non pour certains types d'acheteurs \(voir [la page suivante](../fonctionnalites-avancees/mise-en-place-dune-boutique/customized-shopping-experience.md#customer-tagging) pour l'utilisation de cette fonctionnalité\).
 
 8\) **Payment providers**: Select the one which is relevant to the payment method you are creating.
 
