@@ -1,8 +1,8 @@
 # Producteur
 
-## Our model and what's in it for you?
+## Notre modèle et ses avantages
 
-%accordion%Why choose OFN? What's the difference with other online stores?%accordion%
+**Pourquoi choisir OFF ? Quelle est la différence avec les autres boutiques en ligne ?**
 
 We think the OFN is pretty great, and unique to other options out there!
 
@@ -30,49 +30,31 @@ We think the OFN is pretty great, and unique to other options out there!
 
   – The OFN is a social enterprise, which is owned by all of us. It’s non-profit and continuously working to facilitate improvements to our food system. All revenues are reinvested back into the software, so it can be more useful to more people. So you can feel great about being part of the OFN!
 
-%/accordion%
-
-%accordion%How can producers make use of the OFN?%accordion%
+**Comment utiliser OFF en tant que producteur ?**
 
 The OFN can help producers access a greater diversity of markets. This can be through direct sales, or through intermediary hubs or retailers, who perform the sales and logistics functions. The OFN enables transparency in the supply chain. Because all food traded on the OFN must be linked to the farmer who produced it, customers can see where their food originated from and how it was produced. In OFN shopfronts, the pricing is also transparent, so customers can see what cut of the sale price went to the producer. Our ultimate goal is fair price to farmers and affordable, good food for eaters.
 
-%/accordion%
-
-%accordion%New: How much does OFN costs?%accordion%
-
-blabla
-
-%/accordion%
-
-%accordion%There's no OFN in our country yet, are we able to get involved with the OFN?%accordion%
+**Open Food Network n'est pas encore disponible dans notre pays, peut-on tout de même l'utiliser ?**
 
 The OFN is operational in Australia and the UK. We have partner organisations getting local OFN’s set-up in Norway, South Africa, Germany, France, Canada, India and Brazil. We’re always looking for likeminded and capable international partner organisations to help spread the OFN to more users around the world. If you’re a producer, talk to your local food movement about the OFN to see if it could be a solution for producers in your region.
 
-%/accordion%
+## La plateforme peut-elle vous convenir ?
 
-## Is the OFN suitable for you?
-
-%accordion%I'm a producer and I would like to start selling directly to customers.%accordion%
+**Je suis un producteur et je souhaite vendre en direct aux consommateurs**
 
 Producers can create a professional and affordable online shop on the OFN, and begin trading direct with customers. An online store is simple to set up, taking just a few hours \(check out theset-up guidefeature list\). As well as the shopfront, an online shop also comes with handy tools which streamline the administration side of operating an online store. Click here for a full.
 
-%/accordion%
-
-%accordion%I'm a producer and I want to sell my products through a hub.%accordion%
+**Je suis un producteur et je souhaite vendre mes produits via un hub.**
 
 The OFN aims to facilitate producers and hubs working together and forming networks of food movement and trade. We encourage producers to search for hubs in their area \(on the OFN map\) who could be compatible trading partners \(check out their profiles\). However, the OFN doesn’t play an active role in partnering producers and hubs.
 
 To supply a hub, the producer must have a profile on the OFN and add their products to that profile. They must also make contact with the hub they wish to supply to discuss the agreement. If the hub is willing to stock the products, you can grant the hub permission to stock your products in the OFN E2E permissions. The hub can then add your products to their OFN shop front and start selling them!
 
-%/accordion%
-
-%accordion%I sell through farmers markets and want an online store in addition to this.%accordion%
+**Je vends mes produits sur des marchés, mais j'aimerai une boutique en ligne en parallèle.**
 
 An OFN online store is a good addition for producers who are already doing direct sales through farmer’s markets. The online store enables customers to order in advance, for a quick pick up at the market, and to access your products outside of market times. Some producers also find that the online store is preferable for hospitality customers who cannot attend markets.
 
-%/accordion%
-
-%accordion%Our farmer's market considers an online platform , to allow customers to shop from our producers outside of market day.%accordion%
+**Notre marché aimerait une boutique en ligne pour que les acheteurs puissent réaliser leurs commandes en dehors des jours de marché.**
 
 There are a number of potential paths you could take:
 
@@ -85,33 +67,25 @@ There are a number of potential paths you could take:
 
 3. Farmer’s market groups who are willing to cooperate and work together can establish a hub. This hub has a single shopfront offering the entire product range of participating producers. Finding a way to coordinate the logistics of incoming and outgoing products can require some creative thinking, but using the farmer’s market days as a chance to aggregate and pack orders is one simple option.
 
-%/accordion%
-
-%accordion%I already sell my products to customers via an online shop, how can I get involved with the OFN?%accordion%
+**Je vends déjà mes produits via une boutique en ligne. Comment puis-je m'intégrer à OFF ?**
 
 You can create a profile on the OFN which links to your existing store. This will raise the visibility of your farm and allows you to connect with the audience on the OFN.
 
 Check out our feature list page, which describes the full functionalities of an OFN shopfront. Our functions and pricing are competitive, so perhaps you’d consider switching to an OFN store, and being part of the OFN movement.
 
-**Add embedded shops**
+**Boutiques intégrées**
 
-%/accordion%
-
-%accordion%We have infrequent and unpredictable surplus stock which we'd like to sell.%accordion%
+**Nous avons frequemment un surplus \(non anticipé\) de produits que nous souhaitrerions vendre.**
 
 Producers with an OFN profile can add products, which hubs can then sell through their OFN shopfronts. If you have irregular surplus stock, you can talk to hubs to arrange for them to stock your produce when you have it on hand.
 
-%/accordion%
-
-%accordion%We deliver weekly veggie boxes to customers and our orders are currently placed by email.%accordion%
+**Nous livrons des paniers de produits hebdomadaire et gérons actuellement les commandes par email.**
 
 Yes! With an online store, customers can place their order for your veggie box online. This makes it easier for the customer, and also for you. The reporting functionality of the OFN makes the administration tasks of running a store straightforward, by helping you to track orders, payment and inventory. You can easily view reports summarising the total orders, individual orders and the payment status of each order.
 
-%/accordion%
+## Créer un profil producteur
 
-## Creating a producer account
-
-%accordion%What is the difference between a profile and a shopfront on the OFN?%accordion%
+**Quel est la différence entre un profil producteur et une boutique en ligne ?**
 
 The OFN functions as a directory, advertising platform, and an online marketplace. People can choose which functionalities of the OFN they want to use, according to their needs.
 
@@ -123,35 +97,13 @@ A profile on the OFN is the simplest option, and offers a way for producers to m
 
 An OFN shop, is like a profile, but it also includes all the functions needed for producers to sell directly to customers online. This includes the online shopfront with full checkout capabilities as well as behind the scenes tools to aid in administration, such as reporting of payments and inventory. The OFN is a network, so it allows shops to be connected with other shops. This way a producer can be stocking their products in their own independent store, as well as through a number of hub shops.
 
-%/accordion%
+## Votre offre produit et votre boutique
 
-%accordion%New: How do I create a profile?%accordion%
-
-blabla
-
-%/accordion%
-
-%accordion%New: How do I create a shopfront?%accordion%
-
-blabla
-
-%/accordion%
-
-## Your product offer and shop
-
-%accordion%New: How do I add and delete products?%accordion%
-
-blabla
-
-%/accordion%
-
-%accordion%How do I control the order of products displayed in my shopfront?%accordion%
+**Comment gérer l'ordre d'apparition de mes produits sur ma boutique en ligne ?**
 
 Yes, you can select the order that each category of food is displayed in your shop, then within each category the products are displayed alphabetically. For instance, if Meat and Fish are your most important products, you can select to have them show up first, with your secondary Oil and Spreads products below. You can do this in your profile settings, under‘shopfront category ordering’.
 
-%/accordion%
-
-%accordion%Why can't I see all of my products in my shopfront?%accordion%
+**Pourquoi je ne peux pas vendre tous mes produits dans ma boutique ?**
 
 Here’s a few things to check:
 
@@ -162,8 +114,6 @@ Here’s a few things to check:
   Inventory Hidden
 
   list?
-
-%/accordion%
 
 %accordion%I only want existing customers to see and to shop in my shop, can I make it 'member only'?%accordion%
 
