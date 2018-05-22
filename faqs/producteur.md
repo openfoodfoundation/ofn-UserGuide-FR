@@ -115,47 +115,29 @@ Here’s a few things to check:
 
   list?
 
-%accordion%I only want existing customers to see and to shop in my shop, can I make it 'member only'?%accordion%
+**Je souhaite que seul mes clients actuels puissent accéder à la boutique en ligne. Est-ce possible ?**
 
 Yes, you can restrict access to your shop to approved customers only. Checkout instructionshere.
 
-%/accordion%
-
-%accordion%How can I tell my customers about how my shop works and the terms and conditions?%accordion%
+**Comment puis-je indiquer à mes acheteurs le fonctionnement de ma boutique ainsi que les conditions applicables ?**
 
 There is the option of adding a ‘shopfront message’ to your shop. This message is clearly visible to customers when they visit your shop and you can add as much or as little detail here as you like. Instructions for inserting a ‘shopfront message’ can be found here.
 
-%/accordion%
-
-%accordion%Can I set a minimum spend amount in my shopfront?%accordion%
-
-OFN doesn’t currently have the option of blocking checkout until a customer’s order reaches a defined threshold. An alternative option is to add a shipping fee with the ‘price sac’ fee calculator. This calculator will apply one fee value if the total is below a given level, and another fee value \(possibly $0\) if the order is over that level.See here.
-
-%/accordion%
-
-%accordion%Why doesn't my profile show up when I filter for producers of meat on the producer listing page?%accordion%
+**Je produis des oeufs, pourtant mon profil ne s'affiche pas lorsque je regarde la liste des producteurs d'oeufs sur la plateforme. Pourquoi ?**
 
 The filter tool on theproducer listing pagehere, allows customers to search for producers of certain product categories \(ie Fruit, or Meat\). The filter tool works by looking at the products that are assigned to each producer’s profile. If a producer has an online shop, their products will already be in the system. But if you only have a profile, this filter tool won’t capture you, until you add some dummy products. Instructions for doing this can be found. Once you have dummy products set up for the product categories that you produce, you’ll be captured by this filter tool.
 
-%/accordion%
+## Livraison et paiement
 
-## Delivery and payment
-
-%accordion%How do payments work?%accordion%
+**Comment fonctionne le paiement ?**
 
 An online store allows producers to sell their produce to customers and collect payment via a number of options. The OFN doesn’t dictate a payment method, and you can use any arrangement that works for you. Current payment options which are integrated into the checkout process include Paypal, Pin Payments and EFTPOS \(through a payment gateway\). Enterprises can also use manual methods including invoicing, cash on collection and direct deposit.
 
-%/accordion%
-
-%accordion%Can I set a minimum spend amount in my shopfront?%accordion%
+**Est-ce que je peux fixer un prix minimal de commande sur ma boutique ?**
 
 OFN doesn’t currently have the option of blocking checkout until a customer’s order reaches a defined threshold. An alternative option is to add a shipping fee with the ‘price sac’ fee calculator. This calculator will apply one fee value if the total is below a given level, and another fee value \(possibly $0\) if the order is over that level.See here.
 
-%/accordion%
-
-%accordion%Can I get data about my shops' sales and orders?%accordion%
+**Est-ce que je peux avoir des statistiques sur les commandes et les montants dépensés ?**
 
 Yes, OFN store operators will receive an email each time an order is placed. Additionally, a number of different reports regarding sales are downloadable from your store. This includes reports on unique orders, reports summarising a collection of orders, reports on inventory levels and customer relationship management reports. Check out our set-up guide for more info onreports.
-
-%/accordion%
 
