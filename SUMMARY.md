@@ -10,7 +10,7 @@
   * [Le hub non producteur avec boutique en ligne](les-differents-profils-utilisateurs/le-hub-non-producteur-avec-boutique-en-ligne.md)
   * [Le marché virtuel sans boutique](les-differents-profils-utilisateurs/le-marche-virtuel-sans-boutique.md)
   * [Le marché virtuel avec boutique](les-differents-profils-utilisateurs/le-marche-virtuel-avec-boutique.md)
-* [Fonctionnalités standards](fonctionnalites-standards/README.md)
+* [Les fonctionnalités](fonctionnalites-standards/README.md)
   * [Inscription et création de profil](fonctionnalites-standards/inscription-et-creation-de-profil.md)
   * [Sélection des types de package](fonctionnalites-standards/types-de-package.md)
   * [Paramètres du profil](fonctionnalites-standards/parametres.md)

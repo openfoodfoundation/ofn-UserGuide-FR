@@ -1,4 +1,4 @@
-# Fonctionnalités standards
+# Les fonctionnalités
 
 
 
