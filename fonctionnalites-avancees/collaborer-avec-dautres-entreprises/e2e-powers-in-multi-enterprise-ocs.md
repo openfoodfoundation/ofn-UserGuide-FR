@@ -1,4 +1,4 @@
-# E2E powers in multi-enterprise OCs
+# Les permissions inter-entreprises dans le cas de cycles de vente multiples
 
 This page will outline the varying powers each player has in an order cycle which involves multiple enterprises. Click [here](../../fonctionnalites-standards/cycle-de-vente-pour-les-hub.md) for content relating to order cycles involving a sole enterprise \(producer shop\).
 

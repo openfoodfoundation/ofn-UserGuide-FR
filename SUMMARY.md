@@ -46,7 +46,7 @@
     * [Ouvrir des cycles de vente simultanés](fonctionnalites-avancees/cycles-de-vente/opening-more-than-one-order-cycle.md)
   * Collaborer avec d'autres entreprises
     * [Permissions inter-entreprises](fonctionnalites-avancees/collaborer-avec-dautres-entreprises/e2e-permissions.md)
-    * [E2E powers in multi-enterprise OCs](fonctionnalites-avancees/collaborer-avec-dautres-entreprises/e2e-powers-in-multi-enterprise-ocs.md)
+    * [Les permissions inter-entreprises dans le cas de cycles de vente multiples](fonctionnalites-avancees/collaborer-avec-dautres-entreprises/e2e-powers-in-multi-enterprise-ocs.md)
   * Groupes
     * [Create Group Page](fonctionnalites-avancees/groupes/create-group-page.md)
     * [Embed a Group Page](fonctionnalites-avancees/groupes/embed-a-group-page.md)
