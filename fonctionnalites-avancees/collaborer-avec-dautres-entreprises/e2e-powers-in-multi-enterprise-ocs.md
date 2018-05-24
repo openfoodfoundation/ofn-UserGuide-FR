@@ -6,15 +6,15 @@
 * Leur donne un nom et des dates de début et de fin
 * Applique les commissions
 
-\* Une fois qu'un cycle de vente est créer, son coordinateur ne peut plus être changé
+\* Une fois qu'un cycle de vente est créé, son coordinateur ne peut plus être changé
 
-### Entrant
+## Entrant
 
 * Le coordinateur peut ajouter des entreprises en tant que fournisseurs. Pour ce faire, l'entreprise doit :
 * être valide \(une adresse email confirmée\)
 * avoir donné les droits au coordinateur d'ajouter leurs produtis dans son cycle de vente
 
-### Sortant
+## Sortant
 
 * Le coordinateur peut ajouter les entreprises comme distributeur \(sortant\) - lui-même inclut.
 

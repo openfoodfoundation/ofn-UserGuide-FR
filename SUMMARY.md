@@ -48,7 +48,7 @@
     * [Permissions inter-entreprises](fonctionnalites-avancees/collaborer-avec-dautres-entreprises/e2e-permissions.md)
     * [Les permissions inter-entreprises dans le cas de cycles de vente multiples](fonctionnalites-avancees/collaborer-avec-dautres-entreprises/e2e-powers-in-multi-enterprise-ocs.md)
   * Groupes
-    * [Create Group Page](fonctionnalites-avancees/groupes/create-group-page.md)
+    * [Créer une page groupe](fonctionnalites-avancees/groupes/create-group-page.md)
     * [Embed a Group Page](fonctionnalites-avancees/groupes/embed-a-group-page.md)
   * [Réseaux sociaux](fonctionnalites-avancees/reseaux-sociaux/README.md)
     * [Facebook tips](fonctionnalites-avancees/reseaux-sociaux/facebook-tips.md)

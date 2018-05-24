@@ -1,14 +1,14 @@
-# Create Group Page
+# Créer une page groupe
 
-**What is a group page?** Group pages are a way for groups to have their own personalised directory on the OFN. Group pages are suited to regional producer groups, certification bodies, farmer’s markets and large multi-hub groups.
+**Qu'est-ce que c'est ?** C'est une manière d'avoir un profil collectif sur OFF.
 
-**What does a group page look like?** You can see some [Group Pages on Open Food Network Australia](https://openfoodnetwork.org.au/groups).
+**Cela ressemble à quoi ?** Vous pouvez voir les groupes existants ici : [https://www.openfoodfrance.org/groups](https://www.openfoodfrance.org/groups)
 
-**How can I create a group page?** To create a group and become an administrator of a group, you’ll need to contact your local OFN first so we can set this up.
+**Comment créer une page groupe ?** Il est nécessaire de nous contacter !
 
-## Managing a Group Page
+## Gérer une page groupe
 
-Once you’ve been designated the administrator of a group, you’ll be able to view and edit your group by clicking on **Groups** in the horizontal blue menu. Then click on the **edit** icon next to your group.
+une fois administrateur du groupe, vous aurez accès au menu groupe. Rendez-vous alors dans l'édition :
 
 ![Edit a group](https://openfoodnetwork.org/wp-content/uploads/2015/10/Edit-group.png)
 
@@ -28,7 +28,7 @@ Once you’ve been designated the administrator of a group, you’ll be able to 
 
 **Owner:**This is the owner of the group page. Only this user has permission to edit the page and manage its membership. Please contact us if you wish to change the owner.
 
-### About
+### A propos
 
 All group pages have an ‘About Us’ tab. This is where you can provide more detailed information about your group. Note you can use the different headings \(H1, H2, H3…\) to structure this page into paragraphs.
 
@@ -42,7 +42,7 @@ All group pages have an ‘About Us’ tab. This is where you can provide more d
 
 You have the option of providing a phone number, email address and address for your group.
 
-### Web
+### Webune fois administrateur du group
 
 Provide links to any websites and social media channels you may have.
 
