@@ -8,7 +8,7 @@ Vous pouvez faire payer un prix moyen à l'acheteur et ensuite rembourser la dif
 
 Lorsque vous connaissez le vrai poids des produits, connectez-vous au menu "Gestion des commandes par lot" et ajoutez la colonne Poids/volume au tableau de la page. Vous pouvez ainsi modifier le poids indiqué pour chaque acheteur. Le prix se recalculera automatiquement en fonction de la quantité. 
 
-![](../../.gitbook/assets/image%20%2859%29.png)
+![](../../.gitbook/assets/image%20%2860%29.png)
 
 N'oubliez pas de renvoyer une confirmation de commande à Claire pour lui indiquer le bon prix.
 
@@ -22,7 +22,7 @@ Même logique que dans le précédent paragraphe, simplement au lieu d'afficher 
 
 Si vous connaissez à l'avance tous les formats possible, vous pouvez utiliser les variantes pour afficher directement les prix précis. Exemple :
 
-![](../../.gitbook/assets/image%20%2851%29.png)
+![](../../.gitbook/assets/image%20%2852%29.png)
 
 ## Offre irrégulière
 

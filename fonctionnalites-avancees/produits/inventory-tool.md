@@ -26,7 +26,7 @@ Les entreprises doivent obtenir les bonnes [permissions inter-entreprises](../co
 
 Pour y accéder, rendez-vous sur **Entreprises**, puis "**gérer**" et enfin "**Catalogue boutique**" dans le menu vertical de gauche :
 
-![](../../.gitbook/assets/image%20%2856%29.png)
+![](../../.gitbook/assets/image%20%2857%29.png)
 
 Vous avez deux options : soit vous choisissez l'option selon laquelle les nouveaux produits ajoutés par vos fournisseurs doivent être préalablement ajoutés à votre catalogue \(de cette manière vous pourrez choisir de les ajouter ou non à vos cycles de vente en cours\), soit - si vous ne pensez pas utiliser le catalogue - sélectionnez l'option recommandée. Les produits ajoutés par les fournisseurs seront ainsi ajoutés directement à votre boutique en ligne.
 
@@ -54,11 +54,11 @@ Poursuivez la lecture pour comprendre le traitement manuel du masquage et de l'a
 
 ## Produits du Catalogue Boutique
 
-![](../../.gitbook/assets/image%20%2867%29.png)
+![](../../.gitbook/assets/image%20%2868%29.png)
 
 Via le bouton colonnes, si vous affichez toutes les colonnes, toutes les fonctionnalités du catalogue s'afficheront à vous.
 
-![](../../.gitbook/assets/image%20%2852%29.png)
+![](../../.gitbook/assets/image%20%2853%29.png)
 
 ### Ecraser des caractéristiques produits
 
@@ -110,5 +110,5 @@ Sur cette page, vous pouvez décider de rendre visible certains produits en cliq
 
 Dans le menu Cycle de vente &gt; Modifier un cycle de vente, si vous cliquez sur "paramètres avancés" vous autre une option pour choisir si sur ce cycle en particulier les informations viennent de votre catalogue ou directement des fournisseurs :
 
-![](../../.gitbook/assets/image%20%2874%29.png)
+![](../../.gitbook/assets/image%20%2875%29.png)
 

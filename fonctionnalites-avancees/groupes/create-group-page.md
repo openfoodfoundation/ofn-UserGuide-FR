@@ -8,41 +8,43 @@
 
 ## Gérer une page groupe
 
-une fois administrateur du groupe, vous aurez accès au menu groupe. Rendez-vous alors dans l'édition :
+Une fois administrateur du groupe, vous aurez accès au menu groupe. Rendez-vous alors dans l'édition :
 
-![Edit a group](https://openfoodnetwork.org/wp-content/uploads/2015/10/Edit-group.png)
+![](../../.gitbook/assets/image%20%2841%29.png)
 
-### **Primary Details**
+### Informations de base
 
-**Name:** Select a name for your group
+**Nom :** Donnez un nom à votre groupe.
 
-**Description:** This is just a short descriptoin of your hub, which will be visible on the front of your group page.
+**Description :** Cette description sera visible sur la page d'accueil de votre groupe.
 
-**On Front Page:** Select the tick box if your group is ready to be visible on the OFN. Do not check this box if you don’t want your group page to be visible yet.
+**Sur la page d'accueil ?** **:** Cochez cette case pour que le groupe soit visible sur le site OFF. Cette action peut être réalisée à tout moment.
 
-**Enterprises:** Select the enterprises who you want to be members of your group. You can search through all of the enterprises currently on the OFN and make them a member of your group. Please make sure you have permission to add enterprises to your group before doing so. Note, if you have already added an enterprise to your group, they will no longer show in the search box.
+**Entreprises :** Sélectionnez les entreprises que vou ssouhaitez voir dans le groupe. ****Vous pouvez recherchez des entreprises dans toutes celles actuellement existantes sur la plateforme. Si vous avez déjà ajouté une entreprise à votre groupe, elle n'apparaitra plus dans la recherche.
 
-**Permalink:** This is the final component of your group page’s URL, after www.openfoodnetwork.org.au/groups/
+**Permalink \(unique, no space\) :** C'est l'élement qui s'affichera dans votre lien, après les éléments suivants :
 
-### Users
+[www.openfoodnetwork.fr/groups/](https://www.openfoodfrance.org/groups)
 
-**Owner:**This is the owner of the group page. Only this user has permission to edit the page and manage its membership. Please contact us if you wish to change the owner.
+### Managers
+
+**Manager principal :**  Cet utilisateur a les droits d'administration du groupe \(modification, ...\) Contactez-nous si vous souhaitez changer le manager.
 
 ### A propos
 
-All group pages have an ‘About Us’ tab. This is where you can provide more detailed information about your group. Note you can use the different headings \(H1, H2, H3…\) to structure this page into paragraphs.
+Cette partie vous permet de détailler la présentation de votre groupe \(la description étant généralement courte, plutôt une phrase\).
 
 ### Images
 
-**Logo:**This should be a square image. It will show in the group listing page and on your group’s page.
+**Logo :** Cette image doit être carrée. Elle sera présente dans la liste des groupes et sur votre page groupe.
 
-**Promo Image:**This image will sit at the top of your group page. It’s best if this image has banner proportions, being long across the screen and not too tall. We recommend 1200 x 260 pixels.
+**Promo Image :** Cette image sera visible en haut de votre page groupe. Nous recommandons une taille de 1200 x 260 pixels.
 
 ### Contact
 
-You have the option of providing a phone number, email address and address for your group.
+Vous avez la possibilité d'ajouter des coordonnées de contact pour votre groupe. Elles seront visibles.
 
-### Webune fois administrateur du group
+### Liens web
 
-Provide links to any websites and social media channels you may have.
+UN site, une page Facebook... indiquez tout liens intéressants ici ! \(et en lien avec votre groupe bien sûr\).
 
