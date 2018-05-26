@@ -39,7 +39,7 @@
     * [Customer Specific Pricing](fonctionnalites-avancees/mise-en-place-dune-boutique/customer-specific-pricing.md)
     * [Private shopfront](fonctionnalites-avancees/mise-en-place-dune-boutique/private-shopfront.md)
     * [Gestion des tags et comptes clients](fonctionnalites-avancees/mise-en-place-dune-boutique/customized-shopping-experience.md)
-    * [Embedded Shops](fonctionnalites-avancees/mise-en-place-dune-boutique/embedded-shops.md)
+    * [Boutiques intégrées à votre site web](fonctionnalites-avancees/mise-en-place-dune-boutique/embedded-shops.md)
     * [Thermally printed receipts](fonctionnalites-avancees/mise-en-place-dune-boutique/thermally-printed-receipts.md)
   * Cycles de vente
     * [Cycles de vente en lecture seule](fonctionnalites-avancees/cycles-de-vente/display-only-order-cycles.md)

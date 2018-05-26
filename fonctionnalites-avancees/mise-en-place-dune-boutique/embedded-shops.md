@@ -1,58 +1,48 @@
-# Embedded Shops
+# Boutiques intégrées à votre site web
 
-This feature lets users who have OFN shopfronts embed their shop into their own website. This gives customers a more fluid experience and avoids the need to redirect them between multiple websites. It also allows users to retain some of their visual branding in the shop. When you embed your OFN shop in your own site, your OFN based shop will remain, so customers can choose where they want to shop. This page details the requirements for using embedded shopfronts and the steps to get it setup. There is also a link to an example of how an embedded shopfront will look.
+Cette fonctionnalité vous permet de naviguer au sein de votre boutique Open Food France, sur votre propre site.
 
-## Requirements
+## Pré-requis
 
-### Platforms
+### Site web
 
-This feature is relatively new, and we’re still testing it out, but it should work on any kind of website, as long as you can add custom html to the page where you want the shop. Whether your website is supported by WordPress, Squarespace, Wix or another platform, it should be able to be setup to embed your shopfront.
+Cette fonctionnalité est assez récente, nous sommes toujours en phase de test. En revanche, cela devrait bien fonctionner tant que vous pouvez ajouter du html personnalisé à l'endroit où vous souhaitez afficher la page groupe.
 
-Below are some platform specific resources:
+### Sécuritée
 
-Squarespace lets you ‘add customer html’ via their “codeblocks” – see here.
+Open Food France est une place de marché, ainsi nos standards de sécurités sont hauts afin de permettre des paiements sur la plateforme. Ainsi, si vous ne l'avez pas déjà fait, vous devrez installer un certificat SSL/TLS sur votre site pour que l'intégration fonctionne.
 
-#### Security
+### Créer une boutique OFF
 
-Because OFN is an eCommerce platform, and handles monetary transactions, it has a higher security requirement than text only websites. Therefore, you’ll need to setup SSL/TLS on the website you want to embed your OFN shop into if you haven’t already.
+Cela parait évident mais c'est toujours mieux en le disant : il faut créer une boutique avant de pouvoir l'intégrer \(cf. page précédente\). En effet, vous allez avoir besoin de votre URL dans les étapes suivantes :
 
-You can get such a security certificate for free from [Let’s Encrypt](https://letsencrypt.org/)or for around $10-$30 for a paid service.
+## Mise en place
 
-### OFN Shop
+**1\) Contactez votre antenne OFF locale**
 
-Of course, the last requirement is that you have a shop setup on OFN. You’ll need to know your shop’s OFN url in the setup steps below.
+La première étape est de nous contacter afin que nous puissions autoriser votre site à appeler une page d'Open Food France. Nous aurons besoin de l'URL de votre site \(ex : monpanierpaysanpointcom\).
 
-Getting setup
+**2\) Ajouter un bout de code HTML à votre site**
 
-**1\) Contact your local OFN team**
+Voici le bout de code HTML à ajouter à l'endroit où vous souhaitez que la page groupe s'affiche :
 
-First of all, you’ll need to [contact your local OFN team](https://openfoodnetwork.org/ofn-local/) and let them know that you want to embed your OFN shop in your own website. You’ll need to provide them with your external domain. E.g. happyhenfarm.com.au so they can grant permission for your website to communicate with OFN.
+![](../../.gitbook/assets/embedded-group-code.png)
 
-**2\) Adding Custom HTML to your website**
+**Attention**, à la place ‘flavour-crusader’ vous devrez indiquer le permalien de votre boutique.
 
-Embedding your shop is as simple as inserting a line of code into your website. This is the line of html that you should insert into the page where you want the shop:
+A partir de là, vous devriez voir votre boutique OFF dans votre site.
 
-```text
-<iframe src=" https://openfoodnetwork.org.au/happy-hens-farm/shop?embedded_shopfront=true"style="width:100%;min-height:35em"></iframe>
-```
+**3\) Personnalisation**
 
-In the html above make sure to replace ‘happy-hens-farm’ with your shop’s unique OFN permalink.
+En fonction de votre site, il est possible que vous ayiez besoin \(ou envie\) d'ajouter des touches de CSS pour paufiner l'intégration à votre site. Cela peut permettre de changer la taille de la fenêtre d'intégration par exemple.
 
-Once you’ve done this, you should see your OFN shopfront appear on your webpage.
+N'oubliez pas de bien tester l'intégration sur une navigation mobile !
 
-**3\) Styling**
-
-Depending on the styling of your website you may need to add some CSS tweaks. They may be needed to avoid having two scroll bars, and to make sure the length and width of the embedded shop looks visually appealing. Make sure to test the display of your embedded shop on a mobile device. If the mobile display is misbehaving you may need further CSS tweaks. The tweaks required will be different for every website, but your website administrator should be able to help you.
-
-**Example**
-
-We have setup an [example of an embedded shop](https://openfoodnetwork.org/user-guide/advanced-features/demo-embedded-shop/) for you to look at and play with.
-
-## Instructions for Customers
+## Instructions pour vos visiteurs
 
 ### Cookies
 
-Most people have cookies enabled on their web browsers. But if a customer doesn’t enable cookies they won’t be able to shop in the embedded shop. The error message they’ll see is shown below. Note that they can shop at the version of your shop hosted by OFN without needing cookies enabled.
+Attention, si vos visiteurs n'ont pas activés leurs cookies, il ne verront pas la page intégrée ! 
 
-![](../../.gitbook/assets/ofn-cookies-embedded-shopfront.bin)
+
 

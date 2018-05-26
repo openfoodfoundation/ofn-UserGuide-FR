@@ -42,7 +42,7 @@ N'oubliez pas de bien tester l'intégration sur une navigation mobile !
 
 ### Cookies
 
-Attention, si vos visiteurs n'ont pas activés leurs cookies, il ne verront pas la page intégrée !
+Attention, si vos visiteurs n'ont pas activés leurs cookies, ils ne verront pas la page intégrée !
 
 
 

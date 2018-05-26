@@ -1,8 +1,6 @@
 # Thermally printed receipts
 
-_Note: This functionality is currently only available to OFN users in France. Contact your local OFN to for more details, or to request use of this feature._
-
-Printer
+## Printer
 
 What printer do I need to print a “receipt”, like the one you usually get in a store? You need a thermal printer that talks ESC/P control language \(most of them do\).
 
