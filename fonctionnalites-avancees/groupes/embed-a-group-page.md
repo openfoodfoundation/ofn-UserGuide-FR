@@ -28,7 +28,7 @@ Voici le bout de code HTML à ajouter à l'endroit où vous souhaitez que la pag
 
 ![](../../.gitbook/assets/embedded-group-code.png)
 
-**Attention**, à la place ‘flavour-crusader’ vous devrez indiquer le nom de la page \(dans l'URL\) que vous avez choisi à l'étape de création du groupe.
+**Attention**, à la place ‘flavour-crusader’ vous devrez indiquer le permalien que vous avez choisi à l'étape de création du groupe.
 
 A partir de là, vous devriez voir votre page groupe dans votre site.
 

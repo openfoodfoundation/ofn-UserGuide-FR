@@ -24,7 +24,7 @@ Une fois administrateur du groupe, vous aurez accès au menu groupe. Rendez-vous
 
 **Permalink \(unique, no space\) :** C'est l'élement qui s'affichera dans votre lien, après les éléments suivants :
 
-[www.openfoodnetwork.fr/groups/](https://www.openfoodfrance.org/groups)
+[https://www.openfoodfrance.org/groups](https://www.openfoodfrance.org/groups)
 
 ### Managers
 
