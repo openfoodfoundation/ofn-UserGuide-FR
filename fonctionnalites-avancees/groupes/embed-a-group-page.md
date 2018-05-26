@@ -1,56 +1,48 @@
-# Embed a Group Page
+# Intégrer une page groupe à un site web
 
-This feature lets you embed a group page into a website external to OFN. This lets you use the OFN’s group director tool on your own website. This page details the requirements for embedding a group page, and the steps to set it up. There is also an example of how an embedded group may look.
+Cette fonctionnalité vous permet de naviguer au sein d'une page groupe d'Open Food France, sur votre propre site.
 
-## Requirements
+## Pré-requis
 
-### Platform
+### Site web
 
-This feature is relatively new, and we’re still testing it out, but it should work on any kind of website, **as long as you can add custom html** to the page where you want the group page. Whether your website is suported by WordPress, Squarespace, Wix or another platform, it should be able to be setup to embed your group page.
+Cette fonctionnalité est assez récente, nous sommes toujours en phase de test. En revanche, cela devrait bien fonctionner tant que vous pouvez ajouter du html personnalisé à l'endroit où vous souhaitez afficher la page groupe.
 
-Below are some platform specific resources:
+### Sécuritée
 
-* Squarespace lets you ‘add customer html’ via their “codeblocks” –[see here](https://support.squarespace.com/hc/en-us/articles/206543167).
+Open Food France est une place de marché, ainsi nos standards de sécurités sont hauts afin de permettre des paiements sur la plateforme. Ainsi, si vous ne l'avez pas déjà fait, vous devrez installer un certificat SSL/TLS sur votre site pour que l'intégration fonctionne.
 
-### Security
+### Créer une page groupe
 
-Because OFN is an eCommerce platform, and handles monetary transactions, it has a higher security requirement than text only websites. Therefore, you’ll need to setup SSL/TLS on the website you want to embed your group page into if you haven’t already.
+Cela parait évident mais c'est toujours mieux en le disant : il faut créer une page groupe avant de pouvoir l'intégrer \(cf. page précédente\). En effet, vous allez avoir besoin de votre URL dans les étapes suivantes :
 
-You can get such a security certificate for free from [Let’s Encrypt](https://letsencrypt.org/) for around $10-$30 for a paid service.
+## Mise en place
 
-### OFN Group page
+**1\) Contactez votre antenne OFF locale**
 
-Of course, the last requirement is that you have a group page setup on OFN. You’ll need to know your group page’s OFN url in the setup steps below.
+La première étape est de nous contacter afin que nous puissions autoriser votre site à appeler une page d'Open Food France. Nous aurons besoin de l'URL de votre site \(ex : monpanierpaysanpointcom\).
 
-## Getting setup
+**2\) Ajouter un bout de code HTML à votre site**
 
-**1\) Contact your local OFN team**
-
-First of all, you’ll need to contact [your local OFN team](https://openfoodnetwork.org/ofn-local/), and let them know that you want to embed your OFN group page in your own website. You’ll need to provide them with your external domain. E.g. freerange.com.au so they can grant permission for your website to communicate with OFN.
-
-**2\) Adding Custom HTML to your website**
-
-Embedding your shop is as simple as inserting a line of code into your website. This is the line of html that you should insert into the page where you want the shop:
+Voici le bout de code HTML à ajouter à l'endroit où vous souhaitez que la page groupe s'affiche :
 
 ![](../../.gitbook/assets/embedded-group-code.png)
 
-In the html above make sure to replace ‘flavour-crusader’ with your shop’s unique OFN permalink.
+**Attention**, à la place ‘flavour-crusader’ vous devrez indiquer le nom de la page \(dans l'URL\) que vous avez choisi à l'étape de création du groupe.
 
-Once you’ve done this, you should see your OFN group page appear on your webpage.
+A partir de là, vous devriez voir votre page groupe dans votre site.
 
-**3\) Styling**
+**3\) Personnalisation**
 
-Depending on the styling of your website you may need to add some CSS tweaks. They may be needed to avoid having two scroll bars, and to make sure the length and width of the embedded group page looks visually appealing. Make sure to test the display of your group page on a mobile device as well. If the mobile display is misbehaving you may need further CSS tweaks. The tweaks required will be different for every website, but your website administrator should be able to help you.
+En fonction de votre site, il est possible que vous ayiez besoin \(ou envie\) d'ajouter des touches de CSS pour paufiner l'intégration à votre site. Cela peut permettre de changer la taille de la fenêtre d'intégration par exemple.
 
-### **Example**
+N'oubliez pas de bien tester l'intégration sur une navigation mobile !
 
-We have setup an [example of an embedded group page](https://openfoodnetwork.org/user-guide/advanced-features/demo-embedded-group/)**,** using Flavour Crusader for you to look at and play with. It’s been embedded into OFN’s global website openfoodnetwork.org, which is a wordpress site.
-
-## Instructions for Visitors
+## Instructions pour vos visiteurs
 
 ### Cookies
 
-Most people have cookies enabled on their web browsers. But if a visitor doesn’t enable cookies they may not be able to view the embedded group.
+Attention, si vos visiteurs n'ont pas activés leurs cookies, il ne verront pas la page intégrée !
 
-![](../../.gitbook/assets/cookies.png)
+
 

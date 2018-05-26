@@ -49,7 +49,7 @@
     * [Les permissions inter-entreprises dans le cas de cycles de vente multiples](fonctionnalites-avancees/collaborer-avec-dautres-entreprises/e2e-powers-in-multi-enterprise-ocs.md)
   * Groupes
     * [Créer une page groupe](fonctionnalites-avancees/groupes/create-group-page.md)
-    * [Embed a Group Page](fonctionnalites-avancees/groupes/embed-a-group-page.md)
+    * [Intégrer une page groupe à un site web](fonctionnalites-avancees/groupes/embed-a-group-page.md)
   * [Réseaux sociaux](fonctionnalites-avancees/reseaux-sociaux/README.md)
     * [Facebook tips](fonctionnalites-avancees/reseaux-sociaux/facebook-tips.md)
     * [Your farm on Facebook](fonctionnalites-avancees/reseaux-sociaux/your-farm-on-facebook.md)
