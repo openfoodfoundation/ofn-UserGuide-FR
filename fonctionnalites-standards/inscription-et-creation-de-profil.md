@@ -9,17 +9,17 @@
 7. Cliquez sur "créer". Vous allez ensuite recevoir un email vous confirment la création de votre profil. Vous pouvez vous arrêter là et compléter les informations manquantes un autre jour ou continuer à l'étape 8.
 8. Complétez la description de votre entreprise, ajoutez des images, des liens web ainsi que vos coordonnées.
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 **Votre profil est désormais créé, bravo !**
 
 Pour vous connecter à l'interface d'administration, connectez-vous à la plateforme puis cliquez sur la petite roue dentée en haut à droite : 
 
-![](../.gitbook/assets/image%20%2845%29.png)
+![](../.gitbook/assets/image%20%2846%29.png)
 
 Lors de votre première connexion à l'interface d'administration, on vous demandera de choisir vos types de packages. Pour en savoir plus, consultez [cette page](types-de-package.md).
 

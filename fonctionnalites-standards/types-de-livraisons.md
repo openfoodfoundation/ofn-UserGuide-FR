@@ -8,17 +8,17 @@ La définition des méthodes de livraison est obligatoire avant l'ouverture d'un
 
 En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez sur **gérer** et enfin sur **méthode de livraison** dans le menu vertical de gauche :
 
-![](../.gitbook/assets/image%20%2862%29.png)
+![](../.gitbook/assets/image%20%2863%29.png)
 
 **2\)** Cliquez sur **créer une nouvelle méthode de livraison.** Vous serez redirigé sur cette page :
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 **3\)** Cochez la case correspondant à votre entreprise dans l'encart à droite intitulé "Hubs". Cela permettra à la méthode de bien s'appliquer à votre entreprise. 
 
 **4\) Nom :** Choisissez un nom pour la méthode. Ce nom sera affiché au client durant son processus d'achat et sur les emails de confirmation de commande. Exemple :
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 **5\) Description :** Ici vous pouvez ajouter des détails supplémentaires. Ces détails seront visibles pour les clients en gris à côté du nom \(cf. capture ci-dessus\).
 
@@ -32,7 +32,7 @@ En cliquant sur **Créer**, la méthode de livraison sera créée et vous aurez 
 
 ### Le calculateur
 
-![](../.gitbook/assets/image%20%2851%29.png)
+![](../.gitbook/assets/image%20%2852%29.png)
 
 **Pourcentage net** – This fee is charged as a percentage of the total amount charged in the order.
 
@@ -46,7 +46,7 @@ En cliquant sur **Créer**, la méthode de livraison sera créée et vous aurez 
 * ‘Coût d'item additionnel’ : La marge appliquée aux produits suivants
 * ‘Nombre maximum d'objets’ : Le nombre maximum d'objets sur lesquels la marge va s'appliquer. Les objets après ce nombre n'auront pas de marge associée.
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 Exemple :  Si la marge du premier est de 2€, celle de l'objet supplémentaire 1 € et le nombre maximum d'objet est de 3. Si un client en commande 5, il paiera 2 € pour le premier, 1€ pour le second et aucune commissions pour les objets 3 et 4.
 
