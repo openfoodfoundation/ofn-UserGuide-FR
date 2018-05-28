@@ -1,52 +1,44 @@
 # Gestion des tags et comptes clients
 
-Any customers who have placed an order in your shop will be listed on the **Customer Page**. Each unique email address used, will be listed as a unique customer. You can also add customer emails to your list by typing the email in the Add New Customer field. Once customers are in your customers page, you will be able to apply tags to them \(see below\).
+Tous les acheteurs ayant passé une commande sur votre boutique se trouvent sur la page **Acheteurs** \(menu principal sur l'interface d'adminsitration\).
 
-![customers](https://openfoodnetwork.org/wp-content/uploads/2015/10/customers.png)
+Vous pouvez également ajouter manuellement un acheteur via le bouton "nouvel acheteur". Seul les acheteurs dans cette liste peuvent avoir un tag associé.
 
-## Customer Billing and Shipping Address
+![](../../.gitbook/assets/image%20%2868%29.png)
 
-Each customer may be assigned with a default billing and shipping address. These details will be auto-saved by the system when the customer shops with their given email address. Or you can overwrite these details at your customers’s request.
+## Adresse de facturation et de livraison par défaut
 
-What’s the benefit of saving default address details? These details will be auto-filled for the customer when they go to checkout, making checkout quicker. These details will also auto-fill if you choose to create an order for your customer in the back end, via [orders](../../les-differents-profils-utilisateurs/le-hub-non-producteur-avec-boutique-en-ligne.md).
+Chaque acheteut peut avoir une adresse de livraison et facturation par défaut. Ainsi le processus d'achat en ligne peut être plus rapide : en effet les champs vont se remplir automatiquement à partir du profil de l'acheteur \(il en va de même pour l'administrateur [s'il créer lui même la commande dans le système](../commandes/manual-orders.md)\).
 
-If a customer changes address, they can also update their default address records during checkout by selecting the ‘save as default’ checkbox:
+Si un acheteur change d'adresse, ils peuvent aussi modifier cette adresse par défaut durant la commande en cochant la case "Sauvegarde comme adresse par défaut" :
 
-![Save details](https://openfoodnetwork.org/wp-content/uploads/2015/10/save.png)
+![](../../.gitbook/assets/image%20%287%29.png)
 
-## Customer Tagging
+## Gestion des tags
 
-Customer tagging is a way to control the shopfront settings for different customers. Currently this includes:
+Un tag vous permet de réaliser les opérations suivantes :
 
-* Making particular variants available/unavailable
-* Making certain shipping methods available/unavailable
-* Making certain payment methods available/unavailable
-* Making order cycles visible/invisible
+* Rendre certaines variantes disponibles ou indisponibles
+* Rendre des méthodes de livraisons disponibles ou indisponibles
+* Rendre des méthodes de paiements disponibles ou indisponibles
+* Rendre des cycles de vente visibles ou invisibles
 
-Most often this feature is required by enterprises who have different shop setups for members Vs non-members or different groups of customers such as wholesale Vs retail customers.
+Le plus souvent cette fonctionnalité sera utilisée par les entreprises ayant une segmentation de leur acheteurs bien définie \(membres vs non-membres par exemple\).
 
-Using the tagging feature involves two main steps:
+Utiliser la fonctionnalité se réalise en deux étapes :
 
-1. Tagging your customers
-2. Setting up a
+1. Taguer un acheteur
+2. Paramétrer une règle de tag
 
-   **tag rule**
+### 1. Taguer un acheteur
 
-### Tagging Customers
+Pour ajouter un tag, il vous suffit de taper un tag dans la colonne dédiée \(menu **Acheteurs**\). Un acheteur peut avoir plusieurs tags et bien évidemment un tag peut être lié à plusieurs acheteurs. Pour ce deuxième point, la seconde fois où vous taperez le tag dans la colonne correspondante, il vous sera suggéré via une liste déroulante. Faites bien attention à le sélectionner dans cette liste \(les tags sont sensibles à la casse\).
 
-Any customer’s who have placed an order in your shop will be listed on the C**ustomers** page \([https://www.openfoodnetwork.org.au/admin/customers](https://www.openfoodnetwork.org.au/admin/customers)\). Each unique email address used, will be listed as a unique customer.
+![](../../.gitbook/assets/image%20%2822%29.png)
 
-You can create a tag for groups of customers, such as your members or your wholesale customers, for whom you will set up tag rules \(which carry a discount, or special shipping methods\). To create a tag, type the tag in the **tag** column next to a customer and hit the enter button when you’re done. You should do this for all customers in the group \(this could just be one, or many customers\). You can add multiple tags to a single customer also. Remember to type the tag with identical characters each time \(tags are case sensitive\).
+Notez que les tags apparaissent également dans vos rapports. Vous pouvez donc les utilisez lors des exports excel pour filtrer rapidement les données.
 
-![Customer tags](https://openfoodnetwork.org/wp-content/uploads/2015/10/Customer-taggs.png)
-
-Once you have applied tags to your customers, you can then apply **Tag Rules** to control certain setting for customers in certain tag groups \(see Tag Rules below\).
-
-Any tags that you attach will also show up in your ‘Order cycle customer totals’ report, next to this customer’s order. If you take these reports to excel you can then filter your reports according to these tags, making it easy to sort your orders based on certain information.
-
-Note: If you are transferring an existing hub/shop onto the OFN there is no way to import your database of customers into the system. Customers will only show on this page after they place their first order on the OFN.
-
-### Tag Rules
+### 2. Paramétrer une règle de tag
 
 Once you have tagged your customers you can define how certain feature will apply to customers with different tags. Currently you can use tags to change four elements:
 
@@ -57,7 +49,7 @@ Once you have tagged your customers you can define how certain feature will appl
 
 To set up your tags go to Edit your Enterprise interface and select **Tag Rules**.
 
-### By Default
+#### Par défaut
 
 By default, all items will be visible to all customers whether they are tagged or not. The general approach is to then create a rule dictating that certain items \(variant, shipping/payment methods or order cycles\) will be invisible to certain customers who are tagged. However, if you wish to change this default, such that tagged items are ‘not visible’ until a rule is setup reversing this, you can do so by changing your ‘By Default’ rules.
 
@@ -65,7 +57,7 @@ The example below shows that my shipping methods tagged ‘wholesale’ will now
 
 ![Default tags](https://openfoodnetwork.org/wp-content/uploads/2015/10/Default-tags.png)
 
-### Tag Rules
+#### Les règles de tags
 
 Keeping in mind your default setting above, you can now apply rules to vary the default settings for certain customers.
 

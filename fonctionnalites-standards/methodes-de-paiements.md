@@ -8,13 +8,13 @@ Vous devez créer des méthodes de paiements avant de pouvoir ouvrir votre bouti
 
 Cliquez sur **Entreprises**, puis cliquez sur **Gérer**. Cliquez ensuite sur Méthodes de paiement sur le menu vertical de gauche :
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 2\) Cliquez sur "**En créer une maintenant**".
 
 3\) Si ce n'est pas le cas sélectionnez votre entreprise dans la liste déroulante des hubs. Cela signifie que la méthode de paiement qui sera créé le sera pour cette entreprise. **Vous pouvez sélectionner plusieurs entreprises**.
 
-![](../.gitbook/assets/image%20%2836%29.png)
+![](../.gitbook/assets/image%20%2838%29.png)
 
 4\) **Nom :** Choisissez un nom pour cette méthode de paiement. \(par exemple : "Payez par carte de crédit en utilisant Paypal" etc\). Ce nom s'affichera au moment du paiement pour l'acheteur, ainsi que dans les emails de confirmation qui lui seront envoyés.
 
@@ -22,7 +22,7 @@ Cliquez sur **Entreprises**, puis cliquez sur **Gérer**. Cliquez ensuite sur M�
 
 Un exemple de message au moment du paiement :
 
-![](../.gitbook/assets/image%20%2850%29.png)
+![](../.gitbook/assets/image%20%2852%29.png)
 
  6\) **Active :** Indiquez si vous souhaitez que cette méthode soit visible et utilisable
 
@@ -67,7 +67,7 @@ Pour permettre un paiement par Paypal, vous devez avoir un compte Paypal profess
 
 **Signature :** Indiquez le contenu du champ Signature.
 
-![](../.gitbook/assets/image%20%2885%29.png)
+![](../.gitbook/assets/image%20%2888%29.png)
 
 **Serveur :** Indiquez " live "sans les guillemets à la place de "sandbox".
 
@@ -93,7 +93,7 @@ Si vous souhaitez utiliser la fonctionnalité d'**abonnements**, la seule métho
 
 Avant d'utiliser strip, il faut connecter Stripe. Cliquez sur ce bouton \(menu Entreprises &gt; Gérer &gt; Méthode de paiements\) :
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 Vous serez redirigé vers un formulaire : soit vous avez déjà un compte Stripe et il suffit de vous connecter, soit vous devrez vous créer un compte.
 
@@ -117,7 +117,7 @@ Quand les acheteurs utilises Stripe, il peuvent cocher une case pour que leur ca
 
 ## Commissions sur les méthodes de paiements
 
-![](../.gitbook/assets/image%20%2882%29.png)
+![](../.gitbook/assets/image%20%2885%29.png)
 
 Vous pouvez associer une marge ouune commission à une méthode de paiement. Généralement c'est utilisé pour répercuter les frais des plateformes de paiement à l'acheteur. Sélectionnez un calculateur et indiquez un montant \(voir description ci-dessous\). 
 
@@ -135,7 +135,7 @@ _Remarque : les commissions sur les méthodes de paiement n'incluent pas les tax
 * ‘Coût d'item additionnel’ : La marge appliquée aux produits suivants
 * ‘Nombre maximum d'objets’ : Le nombre maximum d'objets sur lesquels la marge va s'appliquer. Les objets après ce nombre n'auront pas de marge associée.
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 Exemple :  Si la marge du premier est de 2€, celle de l'objet supplémentaire 1 € et le nombre maximum d'objet est de 3. Si un client en commande 5, il paiera 2 € pour le premier, 1€ pour le second et aucune commissions pour les objets 3 et 4.
 
