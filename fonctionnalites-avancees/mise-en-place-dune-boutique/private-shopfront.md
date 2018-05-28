@@ -1,22 +1,20 @@
-# Private shopfront
+# Boutique en ligne privée
 
-If you don’t want your shopfront to be visible to the public, or for anybody to be able to place an order with you, you can set your shop to be only visible to your known customers. This feature is useful for those operating membership based coops, or wholesale shops. When you opt to have a private shopfront, only customers whose email is on your Customer list will be able to login and view your shop and place an order.
+Si vous ne souhaitez pas que votre boutique soit visible pour le public, vous pouvez rendre votre boutique visible uniquement pour vos acheteurs actuels, ou vos membres. Seuls les utilisateurs dont l'adresse email figure sur vos liste d'acheteur vont pouvoir se connecter, voir votre boutique et commander des produits.
 
-To set this up, you should first maintain your **Customer**list.
+Pour réaliser cette opération, vous devez tout d'abord maintenir une liste de vos acheteurs à jour. Pour cela, rendez-vous en administration, sur le menu "Acheteurs" :
 
-![Customers](https://openfoodnetwork.org/wp-content/uploads/2015/10/Customerssssss.png)
+![](../../.gitbook/assets/image%20%2877%29.png)
 
-The list will include all customers who have previously placed an order in your shop. You can also add customers manually, at the bottom of the list. Then in future, if they come to shop with you, they’ll be permitted.
+Cette liste présente tous les acheteurs qui ont déjà placé une commande avec vous. Vous pouvez également ajouter des acheteurs manuellement via le bouton "nouvel acheteur".
 
-![Add new customer](https://openfoodnetwork.org/wp-content/uploads/2016/04/Add-new-customer.png)
+Vous pouvez également supprimer les acheteurs que vous ne souhaitez plus voir dans votre boutique.
 
-You can also delete customers who you no longer want to be able to see your shop.
+Une fois cette opération réalisée, rendez-vous dans le menu **Entreprise** &gt; **Gérer** &gt; **Préférences boutique :**
 
-After updating your customer list, you can set your shopfront to private. Go to your**enterprise settings &gt; Shop Preferences**and select ‘**visible to registered customers only**‘.
+![](../../.gitbook/assets/image%20%2847%29.png)
 
-![](https://openfoodnetwork.org/wp-content/uploads/2016/04/Registered-customers-only.png)
+Et sélectionnez "visible uniquement pour les acheteurs loggués".
 
-Now customers will be prompted to login before they can see your shop, and only those on your customer list will be permitted into the shop.
 
-![Login required message](https://openfoodnetwork.org/wp-content/uploads/2016/04/Demo-login-required.png)
 

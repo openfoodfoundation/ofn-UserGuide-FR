@@ -37,7 +37,7 @@
     * [Transférer les accès d'un profil](fonctionnalites-avancees/votre-profil/transfer-ownership.md)
   * Mise en place d'une boutique
     * [Tarification spécifique par acheteurs](fonctionnalites-avancees/mise-en-place-dune-boutique/customer-specific-pricing.md)
-    * [Private shopfront](fonctionnalites-avancees/mise-en-place-dune-boutique/private-shopfront.md)
+    * [Boutique en ligne privée](fonctionnalites-avancees/mise-en-place-dune-boutique/private-shopfront.md)
     * [Gestion des tags et comptes clients](fonctionnalites-avancees/mise-en-place-dune-boutique/customized-shopping-experience.md)
     * [Boutiques intégrées à votre site web](fonctionnalites-avancees/mise-en-place-dune-boutique/embedded-shops.md)
     * [Imprimer les tickets de caisse](fonctionnalites-avancees/mise-en-place-dune-boutique/thermally-printed-receipts.md)

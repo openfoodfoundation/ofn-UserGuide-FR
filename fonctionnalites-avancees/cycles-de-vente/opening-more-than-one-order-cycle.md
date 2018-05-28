@@ -4,7 +4,7 @@ Il est possible d'avoir plusieurs cycles de vente simultanés. Cela a pour effet
 
 Exemple ci-dessous avec des boutiques par date de livraison :
 
-![](../../.gitbook/assets/image%20%2882%29.png)
+![](../../.gitbook/assets/image%20%2884%29.png)
 
 A la sélection du cycle de vente, l 'acheteur aura à l'affichage les produits et paramètres du cycle de vente sélectionné.
 
@@ -18,5 +18,5 @@ Vous pouvez choisir si vous souhaitez les afficher par date de fermeture ou par 
 
 Il suffit de vous rendre dans le menu Entreprises &gt; Gérer &gt; Préférences boutique :
 
-![](../../.gitbook/assets/image%20%2862%29.png)
+![](../../.gitbook/assets/image%20%2863%29.png)
 
