@@ -6,7 +6,7 @@ Open Food France \(OFF\) offre 5 types de packages, qui vont différer en foncti
 
 Les packages
 
-![](../.gitbook/assets/image%20%2850%29.png)
+![](../.gitbook/assets/image%20%2852%29.png)
 
 1. **Création d'un profil simple** : ****
 
@@ -22,7 +22,7 @@ Les packages
 
 ## Pour les non-producteurs \(Les hubs\)
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2834%29.png)
 
 1. **Création un profil simple :**
 
@@ -38,5 +38,5 @@ SI vous souhaitez modifier des informations sur votre profil rendez-vous sur la 
 
 Vous pouvez toujours changer de package par la suite. Vous avez deux options : soit vous utilisez le bouton ‘**Modifier le package** sur le [Tableau de Bord](tableau-de-bord.md). Or via le menu "Entreprises" en modifiant les colonnes dédiées comme sur la capture ci-dessous : 
 
-![](../.gitbook/assets/image%20%2836%29.png)
+![](../.gitbook/assets/image%20%2838%29.png)
 
