@@ -36,7 +36,7 @@
     * [Rendre un profil producteur simple consultable par catégorie de produit](fonctionnalites-avancees/votre-profil/making-a-producer-profile-searchable-by-product-category.md)
     * [Transférer les accès d'un profil](fonctionnalites-avancees/votre-profil/transfer-ownership.md)
   * Mise en place d'une boutique
-    * [Customer Specific Pricing](fonctionnalites-avancees/mise-en-place-dune-boutique/customer-specific-pricing.md)
+    * [Tarification spécifique par acheteurs](fonctionnalites-avancees/mise-en-place-dune-boutique/customer-specific-pricing.md)
     * [Private shopfront](fonctionnalites-avancees/mise-en-place-dune-boutique/private-shopfront.md)
     * [Gestion des tags et comptes clients](fonctionnalites-avancees/mise-en-place-dune-boutique/customized-shopping-experience.md)
     * [Boutiques intégrées à votre site web](fonctionnalites-avancees/mise-en-place-dune-boutique/embedded-shops.md)

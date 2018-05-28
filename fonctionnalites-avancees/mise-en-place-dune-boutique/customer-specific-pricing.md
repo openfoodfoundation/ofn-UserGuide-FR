@@ -1,4 +1,4 @@
-# Customer Specific Pricing
+# Tarification spécifique par acheteurs
 
 Sometimes our users want to charge different prices for different customers, often based on their member Vs non-member status.Currently, there’s no way to automatically charge different prices for members vs non-members, but there are some round about ways of achieving the same thing.
 
