@@ -1,4 +1,4 @@
-# Consommateur
+# Acheteur
 
 ## A propos d'Open Food France \(OFF\)
 
@@ -44,11 +44,11 @@ En vous connectant à la plateforme \(en haut à droite sur la page d'accueil\),
 
 ## Autre
 
-**Toutes les boutiques sur OFF sont différentes. Comment connaitre celle qui me convient le mieux ?**
+**Toutes les boutiques sur OFF sont différentes. Comment trouver celle qui me convient le mieux ?**
 
 Les boutiques OFF sont très diverses, cela signifie qu'il y en a forcément une qui correspond à vos besoins. Vous pouvez utilisez la carte pour découvrir les boutiques à côté de chez vous. Sur chaque profil de boutique, vous pouvez connaitre le type de produits vendus, les méthodes de paiement et de livraison, et surtout, connaitre les producteurs à l'origine des produits vendus \(quelles sont leurs méthodes de production, etc\). Les tarifs sont transparents : pour chaque boutique vous connaissez le montant reversé à la boutique et le montant reversé au producteur.
 
-**Les produits vendus sont-ils accessibles ?**
+**Les produits vendus sont-ils bon marché ?**
 
 Notre objectif est de rendre accessible les bons produits aux bons prix \(bons pour les producteurs, bons pour les consommateurs\). En réduisant les intermédiaires et en affichant une meilleure transparence, les consommateurs peuvent savoir d'où viennent les produits achetés et à quoi sert leur argent.
 

@@ -54,7 +54,7 @@
     * [Facebook tips](fonctionnalites-avancees/reseaux-sociaux/facebook-tips.md)
     * [Your farm on Facebook](fonctionnalites-avancees/reseaux-sociaux/your-farm-on-facebook.md)
 * [FAQs](faqs/README.md)
-  * [Consommateur](faqs/consommateur.md)
+  * [Acheteur](faqs/consommateur.md)
   * [Producteur](faqs/producteur.md)
   * [Hub](faqs/hub.md)
 

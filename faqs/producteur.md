@@ -2,7 +2,7 @@
 
 ## Notre modèle et ses avantages
 
-**Pourquoi choisir OFF ? Quelle est la différence avec les autres boutiques en ligne ?**
+**Pourquoi choisir OFF ? Quelle est la différence avec les autres plateformes e-commerce ?**
 
 We think the OFN is pretty great, and unique to other options out there!
 
@@ -34,23 +34,19 @@ We think the OFN is pretty great, and unique to other options out there!
 
 The OFN can help producers access a greater diversity of markets. This can be through direct sales, or through intermediary hubs or retailers, who perform the sales and logistics functions. The OFN enables transparency in the supply chain. Because all food traded on the OFN must be linked to the farmer who produced it, customers can see where their food originated from and how it was produced. In OFN shopfronts, the pricing is also transparent, so customers can see what cut of the sale price went to the producer. Our ultimate goal is fair price to farmers and affordable, good food for eaters.
 
-**Open Food Network n'est pas encore disponible dans notre pays, peut-on tout de même l'utiliser ?**
-
-The OFN is operational in Australia and the UK. We have partner organisations getting local OFN’s set-up in Norway, South Africa, Germany, France, Canada, India and Brazil. We’re always looking for likeminded and capable international partner organisations to help spread the OFN to more users around the world. If you’re a producer, talk to your local food movement about the OFN to see if it could be a solution for producers in your region.
-
 ## La plateforme peut-elle vous convenir ?
 
-**Je suis un producteur et je souhaite vendre en direct aux consommateurs**
+**Je suis un producteur et je souhaite vendre en direct aux consommateurs via ma propre boutique**
 
 Producers can create a professional and affordable online shop on the OFN, and begin trading direct with customers. An online store is simple to set up, taking just a few hours \(check out theset-up guidefeature list\). As well as the shopfront, an online shop also comes with handy tools which streamline the administration side of operating an online store. Click here for a full.
 
-**Je suis un producteur et je souhaite vendre mes produits via un hub.**
+**Je suis un producteur et je souhaite vendre mes produits via un "hub", une boutique partagée**
 
 The OFN aims to facilitate producers and hubs working together and forming networks of food movement and trade. We encourage producers to search for hubs in their area \(on the OFN map\) who could be compatible trading partners \(check out their profiles\). However, the OFN doesn’t play an active role in partnering producers and hubs.
 
 To supply a hub, the producer must have a profile on the OFN and add their products to that profile. They must also make contact with the hub they wish to supply to discuss the agreement. If the hub is willing to stock the products, you can grant the hub permission to stock your products in the OFN E2E permissions. The hub can then add your products to their OFN shop front and start selling them!
 
-**Je vends mes produits sur des marchés, mais j'aimerai une boutique en ligne en parallèle.**
+**Je vends mes produits sur des marchés, mais j'aimerais une boutique en ligne en parallèle.**
 
 An OFN online store is a good addition for producers who are already doing direct sales through farmer’s markets. The online store enables customers to order in advance, for a quick pick up at the market, and to access your products outside of market times. Some producers also find that the online store is preferable for hospitality customers who cannot attend markets.
 
@@ -75,17 +71,17 @@ Check out our feature list page, which describes the full functionalities of an 
 
 **Boutiques intégrées**
 
-**Nous avons frequemment un surplus \(non anticipé\) de produits que nous souhaitrerions vendre.**
+**J'ai fréquemment un surplus \(non anticipé\) de produits que je souhaiterais vendre.**
 
 Producers with an OFN profile can add products, which hubs can then sell through their OFN shopfronts. If you have irregular surplus stock, you can talk to hubs to arrange for them to stock your produce when you have it on hand.
 
-**Nous livrons des paniers de produits hebdomadaire et gérons actuellement les commandes par email.**
+**Je livre des paniers de produits hebdomadaires et gère actuellement les commandes par email.**
 
 Yes! With an online store, customers can place their order for your veggie box online. This makes it easier for the customer, and also for you. The reporting functionality of the OFN makes the administration tasks of running a store straightforward, by helping you to track orders, payment and inventory. You can easily view reports summarising the total orders, individual orders and the payment status of each order.
 
 ## Créer un profil producteur
 
-**Quel est la différence entre un profil producteur et une boutique en ligne ?**
+**Quel est la différence entre un profil producteur, une boutique producteur et un hub producteur ?**
 
 The OFN functions as a directory, advertising platform, and an online marketplace. People can choose which functionalities of the OFN they want to use, according to their needs.
 

@@ -30,10 +30,6 @@ We think the OFN is pretty great, and unique to other options out there!
 
   – The OFN is a social enterprise, which is owned by all of us. It’s non-profit and continuously working to facilitate improvements to our food system. All revenues are reinvested back into the software, so it can be more useful to more people. So you can feel great about being part of the OFN!
 
-**Open Food Network n'est pas encore disponible dans notre pays, peut-on tout de même l'utiliser ?**
-
-The OFN is operational in Australia and the UK and we have partner organisations getting local OFN’s set-up in the France, Norway, South Africa and Canada. We’re always looking for like-minded and capable international partner organisations to help spread the OFN to more users around the world. Talk to your local food movement about the OFN to see if it could be a solution for producers and enterprises in your region.
-
 ## La plateforme peut-elle vous convenir ?
 
 **Je vends déjà mes produits via une boutique en ligne que j'ai créé.**
@@ -76,7 +72,7 @@ No the OFN doesn’t actually operate hubs, we just provide the software for ent
 
 Each hub is different and set up times will depend on whether they hub is new, or simply transitioning to the OFN. It will also depend on the complexity of their sourcing, sales and distribution activities. Creating profiles for your suppliers who are not on the OFN can take some time, as can adding in your product range. But these are once off tasks, and once complete, administering day to day activities on the OFN is very efficient.
 
-**Quelle est la différence entre un profil et une boutique en ligne ?**
+**Quelle est la différence entre un profil et une boutique hub ?**
 
 The OFN functions as a directory, advertising platform, and an online marketplace. People can choose which functionalities of the OFN they want to use, according to their needs.
 
