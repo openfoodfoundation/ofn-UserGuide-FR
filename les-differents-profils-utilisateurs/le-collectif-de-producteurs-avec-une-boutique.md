@@ -17,20 +17,6 @@ Par ailleurs chaque producteurs peut accéder et modifier ses informations direc
 **Améliore la communication entre les parties prenantes**   
 Il est possible d'utiliser les fonctions de rapports pour permettre aux producteurs de connaitre ce qui a été commandé et calculer les chiffres d'affaires globaux et individuels.
 
-### An example of this model in action
-
-The [Prom Coast Food Collective](https://www.promcoastfoodcollective.com.au/), in Victoria Australia is a group of farmers who are using a this model to collectively market their produce. So how does their model work?
-
-Each month the Collective opens their online shop on the OFN which stocks produce from over 20 producers, encompassing an impressive range of produce, from dairy, to household cleaning products, meat and vegetables. Customers have 2 weeks to browse the shop and place their order, which they won’t collect until the collection date. The collective takes payment via bank transfer. They could also have used an automated tool like Paypal, however these carry fees.
-
-At the close of the ordering period, the shop closes and the group’s coordinator begins the task of administering the orders and payments. This involves downloading a report from OFN listing all orders placed. The coordinator will check that bank transfers have been received from customers for each order placed. Once this has been confirmed, they will send each producer a list of the items that have been ordered from them, as well as transfer them the total value of sales they made. In the Prom Coast’s case, they have a $5 fee attached to each order, which covers some collective costs, such as this administration time.
-
-Once producers receive their order totals list from the coordinator, they start to prepare the produce for each customer. This may involve processing meat, harvesting vegetables, or bagging and labelling preserves. On a Sunday morning, one week after the shop closed and stopped accepting orders, all of the producers and customers converge at one of the farms. Customers will walk from producer to producer and collect the items they had pre-ordered. Producers will have the goods ready for each customer. Because orders are pre-paid, no money needs to changes hands on the day. Note, that alcohol sales cannot be pre-paid due to liquor licensing, so must be purchased on the day.
-
-![](../.gitbook/assets/prommm.png)
-
-After the collection day, the cycle repeats again. The first step for producers is to login to their OFN profiles and to update the availability and pricing of their products for the next month’s orders. Once they’ve had time to do this, the coordinator can open the shop and start receiving orders again.
-
 ## Les étapes de création du profil
 
 Ces étapes sont très similaire avec la création d'un hub avec une boutique en ligne.
