@@ -9,7 +9,7 @@ description: Utilisez ce menu pour gérer les informations de votre profil
 1. Une fois connecté, cliquez sur "Entreprises"
 2. Cliquez ensuite sur le bouton bleu "Gérer"
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../../.gitbook/assets/image%20%2817%29.png)
 
 > Rappel : pour sauvegarder vos modifications, il vous faut cliquer sur "sauvegarder" en bas de page.
 
@@ -64,7 +64,7 @@ L'adresse nous permet de vous géolocaliser sur une carte. Si vous disposez d'un
 
 Un exemple de profil :
 
-![](../.gitbook/assets/image%20%2892%29.png)
+![](../../.gitbook/assets/image%20%2892%29.png)
 
 ### Propriétés / Labels \(visible seulement par les producteurs\)
 
@@ -74,19 +74,19 @@ Vous pouvez ajouter les labels qui vous correspondent \(Bio, Label Rouge...\) à
 
 _\* non visible pour les profils simples_
 
-Les [Méthodes de livraison](types-de-livraisons.md), [les méthodes de paiement](https://github.com/ofnuserguidefr/guide-utilisateur-open-food-france/tree/f72c4e0a78bb6dc0c5b39249e706b0dbac84df5f/payment-methods-2.md) ainsi que [les marges et commissions](frais-et-taxes.md) sont mieux détaillées dans chacun de ces liens respectifs.
+Les [Méthodes de livraison](../mise-en-place-dune-boutique/types-de-livraisons.md), [les méthodes de paiement](https://github.com/ofnuserguidefr/guide-utilisateur-open-food-france/tree/f72c4e0a78bb6dc0c5b39249e706b0dbac84df5f/payment-methods-2.md) ainsi que [les marges et commissions](../mise-en-place-dune-boutique/frais-et-taxes.md) sont mieux détaillées dans chacun de ces liens respectifs.
 
 ### Catalogue boutique
 
 _\* non visible pour les profils simples_
 
-Veuillez vous rendre sur la page [catalogue boutique](../fonctionnalites-avancees/produits/inventory-tool.md) avant de modifier les paramètres ici.
+Veuillez vous rendre sur la page [catalogue boutique](../produits-1/inventory-tool.md) avant de modifier les paramètres ici.
 
 ### Règles de tag
 
 _\* non visible pour les profils simples_
 
-Ici sont gérés les tags que vous attribuez à vos clients. Pour plus d'information rendez-vous sur la page [personnalisation du parcours consommateur](../fonctionnalites-avancees/mise-en-place-dune-boutique/customized-shopping-experience.md).
+Ici sont gérés les tags que vous attribuez à vos clients. Pour plus d'information rendez-vous sur la page [personnalisation du parcours consommateur](../mise-en-place-dune-boutique/customized-shopping-experience.md).
 
 ### Préférences boutique
 
@@ -94,15 +94,15 @@ _\* non visible pour les profils simples_
 
 **Message d'accueil boutique ouverte** : Ce message est facultatif. Il sera afficé sur votre boutique juste au-dessus des produits \(cf. exemple ci-dessous\). C'est l'endroit idéal pour des informations importantes comme des commandes spéciales ou des informations particulières sur vos cycles de vente. 
 
-![](../.gitbook/assets/image%20%2870%29.png)
+![](../../.gitbook/assets/image%20%2870%29.png)
 
 **Message d'accueil boutique fermée** : Ce message s'affiche lorsque votre boutique est fermée. L'occasion d'indiquer la date de la réouverture !
 
-![](../.gitbook/assets/image%20%2835%29.png)
+![](../../.gitbook/assets/image%20%2835%29.png)
 
 **Ordre d'affichage des catégories :** Les produits sont rangés par ordre alphabétique dans votre boutique, au sein de leur catégorie. Vous pouvez changer l'ordre des catégories par celui qui vous convient le mieux.
 
-**Trier les cycles de vente par** : Si votre boutique aura [plus d'un cycle de vente ouvert en même temps](../fonctionnalites-avancees/cycles-de-vente/opening-more-than-one-order-cycle.md) vous pouvez sélectionner l'ordre d'apparition des cycles sur la boutique en ligne : soit par date de fermeture, soit par date d'ouverture.
+**Trier les cycles de vente par** : Si votre boutique aura [plus d'un cycle de vente ouvert en même temps](../mise-en-place-dune-boutique/opening-more-than-one-order-cycle.md) vous pouvez sélectionner l'ordre d'apparition des cycles sur la boutique en ligne : soit par date de fermeture, soit par date d'ouverture.
 
 **Boutique visible par tous** **?** : Si vous sélectionnez "visible par tous", n'importe quel internaute pourra voir votre boutique. Si vous selectionnez "visible uniquement par les acheteurs logués’, vos clients seront ceux que vous aurez pré-invités avec le mot de passe pour accéder à votre boutique.
 

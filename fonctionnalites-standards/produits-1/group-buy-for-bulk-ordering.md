@@ -13,7 +13,7 @@ Les acheteurs doivent indiquer :
 
 En gros, cela signifie que l'acheteur final indique le montant maximum qu'il est prêt à acheter afin de bénéficier de réduction lié à l'achat par lot.
 
-Dans le menu de [gestion des commandes par lot](../../fonctionnalites-standards/visualisation-des-commandes.md), vous pouvez observer les quantités minimales et maximales par produits, pour tous les acheteurs. Vous pouvez ainsi décider d'augmenter les commandes jusqu'au seuil maximal ou toutes les supprimer si le minimum de commandes n'est pas atteint.
+Dans le menu de [gestion des commandes par lot](../commandes/visualisation-des-commandes.md), vous pouvez observer les quantités minimales et maximales par produits, pour tous les acheteurs. Vous pouvez ainsi décider d'augmenter les commandes jusqu'au seuil maximal ou toutes les supprimer si le minimum de commandes n'est pas atteint.
 
 ## Activer l'option d'achat par lot
 

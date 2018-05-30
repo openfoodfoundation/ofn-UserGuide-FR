@@ -24,27 +24,27 @@ La première étape avant de créer votre boutique en ligne, c'est la création 
 
 1\) [Créez votre profil](../fonctionnalites-standards/inscription-et-creation-de-profil.md) sur Open Food France \(OFF\). Pour cette étape, il est nécessaire d'avoir vos coordonnées et un accès à votre boite mail à proximité afin de valider votre adresse.
 
-2\) Sélectionnez le producteur en vente directe avec une boutique dans les [types de package](../fonctionnalites-standards/types-de-package.md).
+2\) Sélectionnez le producteur en vente directe avec une boutique dans les [types de package](../fonctionnalites-standards/votre-profil/types-de-package.md).
 
-3\) Si vous souhaitez modifier votre profil, ou ajouter des détails vous pouvez modifier vos [Paramètres](../fonctionnalites-standards/parametres.md). A cet endroit, vous pouvez également choisir vos préférences, notamment si votre boutique est privée ou publique, mais aussi écrire un texte de bienvenue.
+3\) Si vous souhaitez modifier votre profil, ou ajouter des détails vous pouvez modifier vos [Paramètres](../fonctionnalites-standards/votre-profil/parametres.md). A cet endroit, vous pouvez également choisir vos préférences, notamment si votre boutique est privée ou publique, mais aussi écrire un texte de bienvenue.
 
-4\) Définissez et paramétrez vos [méthodes de livraison](../fonctionnalites-standards/types-de-livraisons.md).
+4\) Définissez et paramétrez vos [méthodes de livraison](../fonctionnalites-standards/mise-en-place-dune-boutique/types-de-livraisons.md).
 
-5\) Définissez et paramétrez vos [méthodes de paiement](../fonctionnalites-standards/methodes-de-paiements.md).
+5\) Définissez et paramétrez vos [méthodes de paiement](../fonctionnalites-standards/mise-en-place-dune-boutique/methodes-de-paiements.md).
 
-6\) [Ajoutez vos produits](../fonctionnalites-standards/produits.md).
+6\) [Ajoutez vos produits](../fonctionnalites-standards/produits-1/produits.md).
 
 ### Ouvrez votre boutique !
 
-7\) [Ouvrez votre boutique en ouvrant un nouveau cycle de vente](../fonctionnalites-avancees/cycles-de-vente/). En créant le cycle de vente, vous allez pouvoir définir à quel moment votre boutique est ouverte et à quel moment elle ferme. Ce processus va ensutie ce répéter. C'est ce que nous appelons un cycle de vente. A chaque fois qu'un cycle de vente est créé, vous avez la possibilité de choisir les produits en stock.
+7\) [Ouvrez votre boutique en ouvrant un nouveau cycle de vente](). En créant le cycle de vente, vous allez pouvoir définir à quel moment votre boutique est ouverte et à quel moment elle ferme. Ce processus va ensutie ce répéter. C'est ce que nous appelons un cycle de vente. A chaque fois qu'un cycle de vente est créé, vous avez la possibilité de choisir les produits en stock.
 
 ### Hourra ! Vous êtes prêts à vendre !
 
-Vous pouvez désormais [voir vos commandes](../fonctionnalites-standards/visualisation-des-commandes.md), [observer des rapports détaillés](https://github.com/OFNUserguideFr/OFNUserGuide-France/tree/ba35ff4002c6dbbe2705dd144d265eef9973c6e7/reports.md) et explorer des fonctionnalités avancées afin de réaliser votre boutique sur mesure.
+Vous pouvez désormais [voir vos commandes](../fonctionnalites-standards/commandes/visualisation-des-commandes.md), [observer des rapports détaillés](https://github.com/OFNUserguideFr/OFNUserGuide-France/tree/ba35ff4002c6dbbe2705dd144d265eef9973c6e7/reports.md) et explorer des fonctionnalités avancées afin de réaliser votre boutique sur mesure.
 
 ## Fonctionnalités avancées
 
-* [Intégrer](../fonctionnalites-avancees/mise-en-place-dune-boutique/embedded-shops.md) votre boutique dans VOTRE site internet
-* [Fixer les prix de produits "irréguliers" comme la viande](../fonctionnalites-avancees/produits/pricing-irregular-items-kg.md)
-* [Ouvrir plusieurs cycles de ventre simultanés](../fonctionnalites-avancees/cycles-de-vente/opening-more-than-one-order-cycle.md).
+* [Intégrer](../fonctionnalites-standards/mise-en-place-dune-boutique/embedded-shops.md) votre boutique dans VOTRE site internet
+* [Fixer les prix de produits "irréguliers" comme la viande](../fonctionnalites-standards/produits-1/pricing-irregular-items-kg.md)
+* [Ouvrir plusieurs cycles de ventre simultanés](../fonctionnalites-standards/mise-en-place-dune-boutique/opening-more-than-one-order-cycle.md).
 

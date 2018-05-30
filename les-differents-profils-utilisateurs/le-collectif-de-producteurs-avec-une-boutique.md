@@ -37,15 +37,15 @@ Ces étapes sont très similaire avec la création d'un hub avec une boutique en
 
 1\) [Créez votre profil](../fonctionnalites-standards/inscription-et-creation-de-profil.md) sur Open Food France \(OFF\). Pour cette étape, il est nécessaire d'avoir vos coordonnées et un accès à votre boite mail à proximité afin de valider votre adresse.
 
-2\) Sélectionnez le 'hub non producteur avec boutique en ligne' dans les [types de package](../fonctionnalites-standards/types-de-package.md).
+2\) Sélectionnez le 'hub non producteur avec boutique en ligne' dans les [types de package](../fonctionnalites-standards/votre-profil/types-de-package.md).
 
-3\) Si vous souhaitez modifier votre profil, ou ajouter plus de détails vous pouvez modifier vos [Paramètres](../fonctionnalites-standards/parametres.md). A cet endroit, vous pouvez également choisir vos préférences, notamment si votre boutique est privée ou publique, mais aussi écrire un texte de bienvenue.
+3\) Si vous souhaitez modifier votre profil, ou ajouter plus de détails vous pouvez modifier vos [Paramètres](../fonctionnalites-standards/votre-profil/parametres.md). A cet endroit, vous pouvez également choisir vos préférences, notamment si votre boutique est privée ou publique, mais aussi écrire un texte de bienvenue.
 
-4\) Définissez et paramétrez vos [méthodes de livraison](../fonctionnalites-standards/types-de-livraisons.md).
+4\) Définissez et paramétrez vos [méthodes de livraison](../fonctionnalites-standards/mise-en-place-dune-boutique/types-de-livraisons.md).
 
-5\) Définissez et paramétrez vos [méthodes de paiement](../fonctionnalites-standards/methodes-de-paiements.md).
+5\) Définissez et paramétrez vos [méthodes de paiement](../fonctionnalites-standards/mise-en-place-dune-boutique/methodes-de-paiements.md).
 
-6\) Définissez les [frais](../fonctionnalites-standards/frais-et-taxes.md) que vous souhaitez appliquer à votre boutique.
+6\) Définissez les [frais](../fonctionnalites-standards/mise-en-place-dune-boutique/frais-et-taxes.md) que vous souhaitez appliquer à votre boutique.
 
 7\) [Créer ou connecter vos producteurs](../fonctionnalites-standards/creez-ou-connectez-vos-producteurs.md). Vous devez réaliser cette étape avant de pouvoir ajouter vos produits.
 
@@ -54,18 +54,18 @@ Ces étapes sont très similaire avec la création d'un hub avec une boutique en
 Les instructions suivantes sont divisées en fonction des choix que vous avez réalisé à l'étape 7 : soit a\) vous avez créé des profils pour les producteurs avec qui vous travaillez \(car ils n'avaient pas encore de profil OFF\) ; ou b\) vous avez connecté votre profil avec des profils de producteurs existants.
 
 8a\) Vous avez créé des profils pour les producteurs avec lesquels je travaille  
-Dans ce cas, vous aurez aussi besoin [d'ajouter leurs produits](../fonctionnalites-standards/produits.md) à leurs profils, avant que vous puissiez gérer les stocks.
+Dans ce cas, vous aurez aussi besoin [d'ajouter leurs produits](../fonctionnalites-standards/produits-1/produits.md) à leurs profils, avant que vous puissiez gérer les stocks.
 
 8b\) Vous avez connecté votre profil à des profils de producteurs existants  
 Chaque producteurs devra vous donner accès à ses stocks.
 
-Si votre fournisseur a un profil, mais n'a pas ajouté de produits, vous devrez tout d'abord avoir la permission de gérer leur stock. Ensuite, vous pourrez [ajouter des produits](../fonctionnalites-standards/produits.md).
+Si votre fournisseur a un profil, mais n'a pas ajouté de produits, vous devrez tout d'abord avoir la permission de gérer leur stock. Ensuite, vous pourrez [ajouter des produits](../fonctionnalites-standards/produits-1/produits.md).
 
-9\) [Ouvrez votre boutique en créant un nouveau cycle de vente](../fonctionnalites-avancees/cycles-de-vente/).
+9\) [Ouvrez votre boutique en créant un nouveau cycle de vente]().
 
 **Une fois que les premières commandes auront été effectuées, vous pouvez consulter l'historique des commandes et accéder aux rapport.**    
   
-10\) [Visualiser et modifier les commandes](../fonctionnalites-standards/visualisation-des-commandes.md).
+10\) [Visualiser et modifier les commandes](../fonctionnalites-standards/commandes/visualisation-des-commandes.md).
 
 11\) [Accéder aux rapports](https://github.com/OFNUserguideFr/OFNUserGuide-France/tree/1d234e8c405da5bfe626c5ecf5f2eb351ab64b8a/reports.md). Les rapports vous permettent également de générer des factures ou des relances emails.
 
@@ -79,22 +79,22 @@ Les prix et les montants à allouer à chaque producteurs peuvent également êt
 
 ## Fonctionnalités avancées
 
-* [Les frais](../fonctionnalites-standards/frais-et-taxes.md)  
+* [Les frais](../fonctionnalites-standards/mise-en-place-dune-boutique/frais-et-taxes.md)  
   Les boutiques avec des sources variées peuvent être intéressées par une répartition des charges entre les différente parties qui proposent un service \(ex : la livraison ou l'emballage\), dont profite les autres parties.
 
   Manager multiples
 
   Il est possible d'avoir plusieurs managers qui auront les accès d'administration de la boutique \(connexion, modification, lecture\). Les managers peuvent être ajoutés directement depuis le profil du producteur revendeur.
 
-  [Les prix "irréguliers" \(pièce de viandes indivisible par exemple\).](../fonctionnalites-avancees/produits/pricing-irregular-items-kg.md)
+  [Les prix "irréguliers" \(pièce de viandes indivisible par exemple\).](../fonctionnalites-standards/produits-1/pricing-irregular-items-kg.md)
 
   Cette page présente les stratégies pour fixer les prix des produits comme les poulets ou les potirons, vendu au kilo mais dont le poids varie.
 
-  [Apliquer des tags](../fonctionnalites-avancees/mise-en-place-dune-boutique/customized-shopping-experience.md) à vos clients et personaliser leur interaction avec le site durant leur shopping. Il est par exemple possible de ne pas afficher certains produits ou certaines méthodes de paiements à certains consommateurs, ce qui peut être utile si vous avez en client des distributeurs ou des acheteurs en gros.
+  [Apliquer des tags](../fonctionnalites-standards/mise-en-place-dune-boutique/customized-shopping-experience.md) à vos clients et personaliser leur interaction avec le site durant leur shopping. Il est par exemple possible de ne pas afficher certains produits ou certaines méthodes de paiements à certains consommateurs, ce qui peut être utile si vous avez en client des distributeurs ou des acheteurs en gros.
 
-  [Rendre votre boutique privée.](../fonctionnalites-avancees/mise-en-place-dune-boutique/private-shopfront.md) Si vous souhaitez vérifier le fonctionnement de votre boutique avec un nombre de clients restreints, vous pouvez également rendre votre boutique privée en la protégeant par un mot de passe.
+  [Rendre votre boutique privée.](../fonctionnalites-standards/mise-en-place-dune-boutique/private-shopfront.md) Si vous souhaitez vérifier le fonctionnement de votre boutique avec un nombre de clients restreints, vous pouvez également rendre votre boutique privée en la protégeant par un mot de passe.
 
-  [Réaliser une tarification personnalisée en fonction des clients.](../fonctionnalites-avancees/mise-en-place-dune-boutique/customer-specific-pricing.md) Il est possible configurer une boutique afin d'appliquer une politique de prix différente en fonction de vos groupes de clients.
+  [Réaliser une tarification personnalisée en fonction des clients.](../fonctionnalites-standards/mise-en-place-dune-boutique/customer-specific-pricing.md) Il est possible configurer une boutique afin d'appliquer une politique de prix différente en fonction de vos groupes de clients.
 
-  [Réaliser des commandes manuelles ](../fonctionnalites-avancees/commandes/manual-orders.md)pour les clients préférant utiliser les sms ou le téléphone.
+  [Réaliser des commandes manuelles ](../fonctionnalites-standards/commandes/manual-orders.md)pour les clients préférant utiliser les sms ou le téléphone.
 

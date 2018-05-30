@@ -26,19 +26,19 @@ Si vous connaissez à l'avance tous les formats possible, vous pouvez utiliser l
 
 ## Offre irrégulière
 
-Il peut être difficile pour les producteurs de viande de prévoir à l'avance le conditionnement prévu pour ses produits. Les commandes peuvent ainsi être modifiées \(ajout, modification ou suppression de produits\). pour en savoir plus consultez la rubrique [Commandes](../../fonctionnalites-standards/visualisation-des-commandes.md).
+Il peut être difficile pour les producteurs de viande de prévoir à l'avance le conditionnement prévu pour ses produits. Les commandes peuvent ainsi être modifiées \(ajout, modification ou suppression de produits\). pour en savoir plus consultez la rubrique [Commandes](../commandes/visualisation-des-commandes.md).
 
 ## Remboursement ou refacturation : comment ça marche ?
 
 Ce cas est très simple à gérer lorsque la méthode de paiement est le liquide à la réception de la commande.
 
-Une alternative reste de faire payer directement en ligne 80% de la commande à l'acheteur et les 20% restant uniquement lorsque vous confirmez la commande. Ces 20% restant pouvant varier en fonction du montant final de la commande. En revanche, la plateforme n'est pas encore automatisée pour ce point. IL faut donc indiquer cette stratégie dans les descriptions à disposition dans la [méthode de paiement](../../fonctionnalites-standards/methodes-de-paiements.md) et être préparé au fait que les acheteurs manqueront peut-être de le lire.
+Une alternative reste de faire payer directement en ligne 80% de la commande à l'acheteur et les 20% restant uniquement lorsque vous confirmez la commande. Ces 20% restant pouvant varier en fonction du montant final de la commande. En revanche, la plateforme n'est pas encore automatisée pour ce point. IL faut donc indiquer cette stratégie dans les descriptions à disposition dans la [méthode de paiement](../mise-en-place-dune-boutique/methodes-de-paiements.md) et être préparé au fait que les acheteurs manqueront peut-être de le lire.
 
 Nous travaillons à la mise en place automatisée de cette partie, qui permettra également l'émission de bons de réductions à la palce de remboursement monétaires.
 
 ## Informer l'acheteur sur sa politique de prix
 
-Pour indiquer à l'acheteur final votre politique de prix et notamment le cas des produits en vrac ou de la viande, rendez-vous [ici](../../fonctionnalites-standards/parametres.md#preferences-boutique).
+Pour indiquer à l'acheteur final votre politique de prix et notamment le cas des produits en vrac ou de la viande, rendez-vous [ici](../votre-profil/parametres.md#preferences-boutique).
 
 La description de la méthode de paiement est un bon endroit pour réaliser un rappel du type "le prix final peut varier de 10% en fonction des arrivages, nous vous contacterons si la variation du prix peut être plus importantes". Le tutoriel pour placer ce message se trouve [ici](https://github.com/ofnuserguidefr/guide-utilisateur-open-food-france/tree/f72c4e0a78bb6dc0c5b39249e706b0dbac84df5f/payment-methods-2.md).
 

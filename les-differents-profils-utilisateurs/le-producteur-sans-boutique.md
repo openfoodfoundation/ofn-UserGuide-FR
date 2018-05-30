@@ -20,25 +20,25 @@ Si vous travaillez déjà avec une boutique visible sur Open Food France, vous i
 
 1\) [Créez votre compte](../fonctionnalites-standards/inscription-et-creation-de-profil.md) on Open Food France. Cette étape vous demandera de renseigner des informations standards sur votre entreprise. Egalement un email vous sera envoyé afin que vous puissiez compléter votre adresse email.
 
-2\) Veuillez sélectionner un [type de package](../fonctionnalites-standards/types-de-package.md).
+2\) Veuillez sélectionner un [type de package](../fonctionnalites-standards/votre-profil/types-de-package.md).
 
 ### Votre compte est désormais prêt !
 
 Si vous avez besoin de le modifier et ou d'ajouter des détails, vous pouvez :
 
-3\) modifier vos [Paramètres](../fonctionnalites-standards/parametres.md). C'est toujours un plus si vous pouvez indiquer vos méthodes de production \(BIO, élevage en plein air...\)
+3\) modifier vos [Paramètres](../fonctionnalites-standards/votre-profil/parametres.md). C'est toujours un plus si vous pouvez indiquer vos méthodes de production \(BIO, élevage en plein air...\)
 
 ### Bien joué, votre profil est désormais complété ;\)
 
 Si **vous souhaitez qu'une boutique vende vos produits :**
 
-4\) [Ajoutez vos produits](../fonctionnalites-standards/produits.md).
+4\) [Ajoutez vos produits](../fonctionnalites-standards/produits-1/produits.md).
 
-5\) Donnez l'autorisation à la boutique [permission de gérer vos produits](../fonctionnalites-avancees/collaborer-avec-dautres-entreprises/e2e-permissions.md).
+5\) Donnez l'autorisation à la boutique [permission de gérer vos produits](../fonctionnalites-standards/votre-profil/e2e-permissions.md).
 
 ## Fonctionnalités avancées
 
-* [Rendre votre profil consultable par catégorie de produit ](../fonctionnalites-avancees/votre-profil/making-a-producer-profile-searchable-by-product-category.md)
+* [Rendre votre profil consultable par catégorie de produit ](../fonctionnalites-standards/votre-profil/making-a-producer-profile-searchable-by-product-category.md)
 
 **Vous souhaitez ouvrir une boutique en ligne ?**    
 En quelques clics, vous pouvez ouvrir votre propre boutique en ligne. Pour ce point, consultez le [guide à ce lien](le-producteur-en-vente-directe-avec-une-boutique.md). Vous avez déjà réalisé l'étape 1, il vous suffit de vous rendre directement à l'étape deux et changer vos types de packages.

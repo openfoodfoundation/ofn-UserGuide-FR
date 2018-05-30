@@ -1,4 +1,4 @@
-# Cycles de vente en lecture seule
+# Vitrine produits sans possibilités d’achat
 
 Dans certains cas, les détenteurs de boutique vont souhaiter afficher les produits qu'ils vendent, sans permettre aux acheteurs de les acquérir, mais uniquement pour montrer les produits qui seront bientôt en vente dans le prochain cycle de vente.
 

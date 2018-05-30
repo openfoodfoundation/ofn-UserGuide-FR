@@ -24,7 +24,7 @@ Pour réaliser ce profil, [suivez ces étapes](le-hub-non-producteur-avec-boutiq
 
 ### Fonctionnalités avancées
 
-[Boutiques privées](../fonctionnalites-avancees/mise-en-place-dune-boutique/private-shopfront.md). Cette fonctionnalité permet d'ouvrir une boutique uniquement aux personnes disposant du mot de passe pour y accéder.
+[Boutiques privées](../fonctionnalites-standards/mise-en-place-dune-boutique/private-shopfront.md). Cette fonctionnalité permet d'ouvrir une boutique uniquement aux personnes disposant du mot de passe pour y accéder.
 
 Avez-vous pensé à créer un groupe pour votre marché ? C'est [ici que cela se passe](le-marche-virtuel-sans-boutique.md).
 

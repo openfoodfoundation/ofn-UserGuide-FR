@@ -1,14 +1,12 @@
-# Produits
-
-## Ajouter des produits
+# Ajouter des produits
 
 Une fois connecté sur l'interface d'adminsitration, cliquez sur le menu **Produits**, puis sur le bouton **Nouveau Produit**.
 
-![](../.gitbook/assets/image%20%2894%29.png)
+![](../../.gitbook/assets/image%20%2894%29.png)
 
 Vous serez redirigé vers la page suivante :
 
-![](../.gitbook/assets/image%20%2866%29.png)
+![](../../.gitbook/assets/image%20%2866%29.png)
 
  **Fournisseurs**
 
@@ -50,16 +48,16 @@ N'oubliez pas de bien cliquer sur le bouton "créer" une fois tous les champs ob
 
 Lorsque vous créez un produit, vous êtes redirigé sur la page "catalogue boutique" où vous retrouvez tous vos produits :
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/image%20%289%29.png)
 
 ### Créer un produit similaire
 
-Si vous créez deux produits similaires dont seule le prix ou la taille ou les ingrédients varient, le mieux est de créer une "variante" du produit plutôt qu'un deuxième produit entier. Pour créer une variante, veuillez suivre le processus indiqué [ici](../fonctionnalites-avancees/produits/product-variants.md).
+Si vous créez deux produits similaires dont seule le prix ou la taille ou les ingrédients varient, le mieux est de créer une "variante" du produit plutôt qu'un deuxième produit entier. Pour créer une variante, veuillez suivre le processus indiqué [ici](product-variants.md).
 
 ## Fonctionnalités avancées {#fonctionnalites-avancees}
 
-* [Les variantes produits](../fonctionnalites-avancees/produits/product-variants.md)
-* [Indiquer un prix pour un produit "irrégulier" ou indivisible comme la viande](../fonctionnalites-avancees/produits/pricing-irregular-items-kg.md)
-* [Les propriétés du produit \(ex. bio, élevé en plein air, etc\)](../fonctionnalites-avancees/produits/product-properties.md)
-* [Les achats groupés](../fonctionnalites-avancees/produits/group-buy-for-bulk-ordering.md) pour les produits stockés en lots
+* [Les variantes produits](product-variants.md)
+* [Indiquer un prix pour un produit "irrégulier" ou indivisible comme la viande](pricing-irregular-items-kg.md)
+* [Les propriétés du produit \(ex. bio, élevé en plein air, etc\)](product-properties.md)
+* [Les achats groupés](group-buy-for-bulk-ordering.md) pour les produits stockés en lots
 

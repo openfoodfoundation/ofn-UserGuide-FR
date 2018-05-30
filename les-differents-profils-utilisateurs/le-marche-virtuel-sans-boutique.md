@@ -25,7 +25,7 @@ Créer un marché virtuel se réalise en deux étapes :
 
 Cette page ne peux pas être créé par vous seul, veuillez nous contacter pour que nous vous accompagnons dans le processus.
 
-Une fois la page créée, vous aurez la possibilité de la personnaliser avec votre contenu, votre présentation, votre logo ainsi que vos photos. Pour plus de détail sur la manière de réaliser ses étapes, [cliquez ](../fonctionnalites-avancees/groupes/create-group-page.md)ici.
+Une fois la page créée, vous aurez la possibilité de la personnaliser avec votre contenu, votre présentation, votre logo ainsi que vos photos. Pour plus de détail sur la manière de réaliser ses étapes, [cliquez ](../fonctionnalites-standards/groupes/create-group-page.md)ici.
 
 ## Etape 2 : Ajouter les profils des producteurs au groupe
 
@@ -48,5 +48,5 @@ Pour ce faire, ils devront réaliser [les étapes décrites ici](le-producteur-e
 ## Fonctionnalités avancées
 
 **Intéger la page du groupe à VOTRE site internet**  
-Le tutoriel est disponible [à cette adresse](../fonctionnalites-avancees/groupes/embed-a-group-page.md).
+Le tutoriel est disponible [à cette adresse](../fonctionnalites-standards/groupes/embed-a-group-page.md).
 

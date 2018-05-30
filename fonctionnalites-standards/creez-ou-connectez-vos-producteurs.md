@@ -28,7 +28,7 @@ Une fois connecté à l'interface d'administration, rendez-vous dans le menu "en
 
 ![](../.gitbook/assets/image%20%2882%29.png)
 
-Cette action vous amenera sur une page similaire à[ l'édition de votre profil.](parametres.md#acceder-aux-parametres) Quelques remarques cependant :
+Cette action vous amenera sur une page similaire à[ l'édition de votre profil.](votre-profil/parametres.md#acceder-aux-parametres) Quelques remarques cependant :
 
 **Nom :** Renseignez le nom du producteur. Si vous voyez un message d'erreur vous indiquant que le nom existe déjà, cela signifie qu'il existe déjà un profil pour ce producteur. Dans ce cas passez directement  à [l''option 2](creez-ou-connectez-vos-producteurs.md).
 
@@ -40,7 +40,7 @@ Cette action vous amenera sur une page similaire à[ l'édition de votre profil.
 
 Dans ce cas, vous devez lui demander sa permission pour ajouter ses produits à votre profils et les rendre visible sur votre boutique. Pour les contacter, vous trouverez leurs coordonnées sur leur profil. N'oubliez pas que l'utilisateur manager du profil peut aussi être un autre hub ;\) Mais deux hubs peuvent vendre les produits d'un même producteur, il n'y a donc pas de problème.
 
-Sur OFF, [la gestion des permissions \(E2E\)](../fonctionnalites-avancees/collaborer-avec-dautres-entreprises/e2e-permissions.md) est utilisé pour contrôler la nature des échanges entre les producteurs et les hubs. Les producteurs peuvent donner différente permissions aux hubs, en les combinant de manière unique. Au plus simple, le producteur donne la permission au hub de vendre ses produits, voir de les modifier et de modifier leur profil.
+Sur OFF, [la gestion des permissions \(E2E\)](votre-profil/e2e-permissions.md) est utilisé pour contrôler la nature des échanges entre les producteurs et les hubs. Les producteurs peuvent donner différente permissions aux hubs, en les combinant de manière unique. Au plus simple, le producteur donne la permission au hub de vendre ses produits, voir de les modifier et de modifier leur profil.
 
-[Cette page](../fonctionnalites-avancees/collaborer-avec-dautres-entreprises/e2e-permissions.md) donne tous les détails sur les permissions existantes. Pour le producteur, les inscructions sont par [ici](../fonctionnalites-avancees/collaborer-avec-dautres-entreprises/e2e-permissions.md).
+[Cette page](votre-profil/e2e-permissions.md) donne tous les détails sur les permissions existantes. Pour le producteur, les inscructions sont par [ici](votre-profil/e2e-permissions.md).
 

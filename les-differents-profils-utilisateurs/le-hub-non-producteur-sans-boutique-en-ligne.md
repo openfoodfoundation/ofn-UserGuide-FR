@@ -15,13 +15,13 @@ Lors que vous disposez d'un profil sur Open Food France \(OFF\), vous devenez vi
 
 1\) [Créez votre profil](../fonctionnalites-standards/inscription-et-creation-de-profil.md) sur Open Food France \(OFF\). Pour cette étape, il est nécessaire d'avoir vos coordonnées et un accès à votre boite mail à proximité afin de valider votre adresse.
 
-2\) Sélectionnez le 'hub non producteur sans boutique en ligne' dans les [type de package](../fonctionnalites-standards/types-de-package.md).
+2\) Sélectionnez le 'hub non producteur sans boutique en ligne' dans les [type de package](../fonctionnalites-standards/votre-profil/types-de-package.md).
 
 ### Votr**re profil est désormais créé !**
 
 **Si vous souhaitez modifier votre profil, ou ajouter plus de détails vous pouvez :**
 
-3\) Modifier vos [Paramètres](../fonctionnalites-standards/parametres.md).
+3\) Modifier vos [Paramètres](../fonctionnalites-standards/votre-profil/parametres.md).
 
 ### Bien joué, vous avez terminé :-\)
 

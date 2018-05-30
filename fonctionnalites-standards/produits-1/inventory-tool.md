@@ -20,7 +20,7 @@ Les 3 avantages principaux de la page :
 
 ### Permissions nécessaires
 
-Les entreprises doivent obtenir les bonnes [permissions inter-entreprises](../collaborer-avec-dautres-entreprises/e2e-permissions.md) de la part de leurs fournisseurs avant de pouvoir voir les catalogues produits des fournisseurs sur cette page.
+Les entreprises doivent obtenir les bonnes [permissions inter-entreprises](../votre-profil/e2e-permissions.md) de la part de leurs fournisseurs avant de pouvoir voir les catalogues produits des fournisseurs sur cette page.
 
 ## 1\) Les paramètres de votre catalogue
 
