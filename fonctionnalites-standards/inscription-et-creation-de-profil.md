@@ -1,4 +1,4 @@
-# Inscription et création de profil \*
+# Inscription et création de profil
 
 1. Rendez-vous sur [https://www.openfoodfrance.org/register](https://www.openfoodfrance.org/register). 
 2. Renseignez votre adresse email et choisissez un mot de passe

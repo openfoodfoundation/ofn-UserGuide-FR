@@ -23,7 +23,7 @@ Avant de créer les profils additionnels, vous aurez besoin de nous contacter po
 
 **Le producteur revendeur créer les profils et les produits de tous les producteurs impliqués**    
   
-1\) Une fois que la boutique du producteur revendeur est créée, il peut désormais créer un profil pour un autre producteur et ajouter ses produits. La modification des paramètres du profil est décrite [ici](../fonctionnalites-standards/creez-ou-connectez-vos-producteurs.md).
+1\) Une fois que la boutique du producteur revendeur est créée, il peut désormais créer un profil pour un autre producteur et ajouter ses produits. La modification des paramètres du profil est décrite [ici](../fonctionnalites-standards/votre-profil/creez-ou-connectez-vos-producteurs.md).
 
 2\) Attention l'interface de cycle de vente sera différente si vous stocker des produits de la part d'autres producteurs. La version "hub alimentaire" du cycle de vente est expliquée [ici](../fonctionnalites-standards/mise-en-place-dune-boutique/cycle-de-vente-pour-les-hub.md).
 

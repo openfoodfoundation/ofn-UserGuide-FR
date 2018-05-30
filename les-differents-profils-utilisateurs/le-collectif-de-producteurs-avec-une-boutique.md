@@ -47,7 +47,7 @@ Ces étapes sont très similaire avec la création d'un hub avec une boutique en
 
 6\) Définissez les [frais](../fonctionnalites-standards/mise-en-place-dune-boutique/frais-et-taxes.md) que vous souhaitez appliquer à votre boutique.
 
-7\) [Créer ou connecter vos producteurs](../fonctionnalites-standards/creez-ou-connectez-vos-producteurs.md). Vous devez réaliser cette étape avant de pouvoir ajouter vos produits.
+7\) [Créer ou connecter vos producteurs](../fonctionnalites-standards/votre-profil/creez-ou-connectez-vos-producteurs.md). Vous devez réaliser cette étape avant de pouvoir ajouter vos produits.
 
 8\) Gérer vos produits
 

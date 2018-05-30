@@ -11,14 +11,14 @@
   * [Le marché virtuel sans boutique](les-differents-profils-utilisateurs/le-marche-virtuel-sans-boutique.md)
   * [Le marché virtuel avec boutique](les-differents-profils-utilisateurs/le-marche-virtuel-avec-boutique.md)
 * [Les fonctionnalités](fonctionnalites-standards/README.md)
-  * [Inscription et création de profil \*](fonctionnalites-standards/inscription-et-creation-de-profil.md)
-  * Profil utilisateur \*
+  * [Inscription et création de profil](fonctionnalites-standards/inscription-et-creation-de-profil.md)
+  * Profil utilisateur
     * [Sélection du type de profil](fonctionnalites-standards/votre-profil/types-de-package.md)
     * [Paramètres du profil](fonctionnalites-standards/votre-profil/parametres.md)
+    * [Créez ou connectez vos producteurs](fonctionnalites-standards/votre-profil/creez-ou-connectez-vos-producteurs.md)
     * [Rendre un profil producteur simple consultable par catégorie de produit](fonctionnalites-standards/votre-profil/making-a-producer-profile-searchable-by-product-category.md)
     * [Permissions inter-entreprises](fonctionnalites-standards/votre-profil/e2e-permissions.md)
     * [Transférer les accès d'un profil](fonctionnalites-standards/votre-profil/transfer-ownership.md)
-  * [Créez ou connectez vos producteurs](fonctionnalites-standards/creez-ou-connectez-vos-producteurs.md)
   * Produits
     * [Ajouter des produits](fonctionnalites-standards/produits-1/produits.md)
     * [Les variantes](fonctionnalites-standards/produits-1/product-variants.md)
@@ -47,8 +47,8 @@
   * Groupes
     * [Créer une page groupe](fonctionnalites-standards/groupes/create-group-page.md)
     * [Intégrer une page groupe à un site web](fonctionnalites-standards/groupes/embed-a-group-page.md)
-* [Marketing](reseaux-sociaux/README.md)
-  * [Votre boutique sur Facebook](reseaux-sociaux/your-farm-on-facebook.md)
+  * [Marketing](fonctionnalites-standards/reseaux-sociaux/README.md)
+    * [Votre boutique sur Facebook](fonctionnalites-standards/reseaux-sociaux/your-farm-on-facebook.md)
 * [FAQs](faqs/README.md)
   * [Acheteur](faqs/consommateur.md)
   * [Producteur](faqs/producteur.md)
