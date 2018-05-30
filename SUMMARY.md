@@ -47,8 +47,6 @@
   * Groupes
     * [Créer une page groupe](fonctionnalites-standards/groupes/create-group-page.md)
     * [Intégrer une page groupe à un site web](fonctionnalites-standards/groupes/embed-a-group-page.md)
-  * [Marketing](fonctionnalites-standards/reseaux-sociaux/README.md)
-    * [Votre boutique sur Facebook](fonctionnalites-standards/reseaux-sociaux/your-farm-on-facebook.md)
 * [FAQs](faqs/README.md)
   * [Acheteur](faqs/consommateur.md)
   * [Producteur](faqs/producteur.md)

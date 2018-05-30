@@ -22,7 +22,7 @@ Vous pouvez voir pas à pas comment modéliser et paramétrer votre activité da
 
 \* **Traitement des commandes** : ajustements, envois des commandes aux fournisseurs, rapports
 
-\* **Marketing** : utiliser facebook, connecter à Mailchimp pour l’envoi de vos message, etc.  
+  
 \* **Groupes** : créer votre sous-écosystème sur votre carte personnelle et intégrer cette carte à votre site
 
 ## Rechercher
