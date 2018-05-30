@@ -22,7 +22,7 @@ Puis cliquez sur "Nouveau cycle de vente" :
 
 * **Attention !** Vous ne pouvez pas créer de cycle de vente tant que vous n'avez pas indiqué de [méthode de livraisons ](types-de-livraisons.md)ni de[ méthodes de paiements](methodes-de-paiements.md).
 
-La première chose à faire est de sélectionner un coordinateur pour votre cycle de vente. Cette entreprise aura toutes les permissions pour modifier et gérer le cycle de vente. Les autres entreprises impliquées dans le cycle de vente \(les fournisseurs ou les autres hubs\) auront des accès restreints. Pour plus d'informations sur les gestions des droits entre entreprises, cliquez [ici](../../fonctionnalites-avancees/e2e-powers-in-multi-enterprise-ocs.md).
+La première chose à faire est de sélectionner un coordinateur pour votre cycle de vente. Cette entreprise aura toutes les permissions pour modifier et gérer le cycle de vente. Les autres entreprises impliquées dans le cycle de vente \(les fournisseurs ou les autres hubs\) auront des accès restreints. Pour plus d'informations sur les gestions des droits entre entreprises, cliquez [ici](e2e-powers-in-multi-enterprise-ocs.md).
 
 ![](../../.gitbook/assets/image%20%2847%29.png)
 
@@ -36,7 +36,7 @@ La première chose à faire est de sélectionner un coordinateur pour votre cycl
 
 ### 3. Produits entrants
 
-Ici vous pouvez sélectionner les producteurs et les produits qui seront accessibles durant le cycle de vente. Les producteurs visibles dans la liste déroulante sont uniquement les producteurs vous [ayant donné accès à leur catalogue](../../fonctionnalites-avancees/collaborer-avec-dautres-entreprises.md). Cliquez bien sur "ajouter un fournisseur" pour voir les produits associés à ce fournisseur. Cohez les produits que vous souahitez ajouter \(vous pouvez aussi les sélectionner tous\). **Attention** : les produits qui on une valeur "à volonté" à 0 s'afficheront également. Faites bien attention au stock disponible en les ajoutant. 
+Ici vous pouvez sélectionner les producteurs et les produits qui seront accessibles durant le cycle de vente. Les producteurs visibles dans la liste déroulante sont uniquement les producteurs vous [ayant donné accès à leur catalogue](). Cliquez bien sur "ajouter un fournisseur" pour voir les produits associés à ce fournisseur. Cohez les produits que vous souahitez ajouter \(vous pouvez aussi les sélectionner tous\). **Attention** : les produits qui on une valeur "à volonté" à 0 s'afficheront également. Faites bien attention au stock disponible en les ajoutant. 
 
 Les **détails de livraison produits Details** sont facultatifs. 
 
@@ -77,7 +77,7 @@ En utilisant ce bouton, tous les producteurs liés à ce cycle de vente seront n
 Ces fonctionnalités sont à destination descycles de vente avec plusieurs hubs. Rendez-vous sur la page [Catalogue](../produits-1/inventory-tool.md) pour plus de détails.
 
 * [Créer des cycles de vente en affichage seul](display-only-order-cycles.md)
-* [Gestions des droits pour les cycles de vente à plusieurs entreprises](../../fonctionnalites-avancees/e2e-powers-in-multi-enterprise-ocs.md)
+* [Gestions des droits pour les cycles de vente à plusieurs entreprises](e2e-powers-in-multi-enterprise-ocs.md)
 
 
 

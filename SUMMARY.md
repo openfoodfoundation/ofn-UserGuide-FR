@@ -33,6 +33,7 @@
     * [Cycle de vente pour les hubs](fonctionnalites-standards/mise-en-place-dune-boutique/cycle-de-vente-pour-les-hub.md)
     * [Cycle de vente pour les fournisseurs](fonctionnalites-standards/mise-en-place-dune-boutique/cycle-de-vente-pour-les-fournisseurs.md)
     * [Ouvrir des cycles de vente simultanés](fonctionnalites-standards/mise-en-place-dune-boutique/opening-more-than-one-order-cycle.md)
+    * [Les permissions inter-entreprises dans le cas de cycles de vente simultanés](fonctionnalites-standards/mise-en-place-dune-boutique/e2e-powers-in-multi-enterprise-ocs.md)
     * [Tarification spécifique par acheteurs](fonctionnalites-standards/mise-en-place-dune-boutique/customer-specific-pricing.md)
     * [Boutique en ligne privée](fonctionnalites-standards/mise-en-place-dune-boutique/private-shopfront.md)
     * [Vitrine produits sans possibilités d’achat](fonctionnalites-standards/mise-en-place-dune-boutique/display-only-order-cycles.md)
@@ -46,12 +47,8 @@
   * Groupes
     * [Créer une page groupe](fonctionnalites-standards/groupes/create-group-page.md)
     * [Intégrer une page groupe à un site web](fonctionnalites-standards/groupes/embed-a-group-page.md)
-* [Fonctionnalités avancées](fonctionnalites-avancees/README.md)
-  * [Les permissions inter-entreprises dans le cas de cycles de vente multiples](fonctionnalites-avancees/e2e-powers-in-multi-enterprise-ocs.md)
-  * Collaborer avec d'autres entreprises
-  * [Réseaux sociaux](fonctionnalites-avancees/reseaux-sociaux/README.md)
-    * [Facebook tips](fonctionnalites-avancees/reseaux-sociaux/facebook-tips.md)
-    * [Your farm on Facebook](fonctionnalites-avancees/reseaux-sociaux/your-farm-on-facebook.md)
+* [Marketing](reseaux-sociaux/README.md)
+  * [Votre boutique sur Facebook](reseaux-sociaux/your-farm-on-facebook.md)
 * [FAQs](faqs/README.md)
   * [Acheteur](faqs/consommateur.md)
   * [Producteur](faqs/producteur.md)

@@ -1,6 +1,6 @@
-# Your farm on Facebook
+# Votre boutique sur Facebook
 
-This page explains the process of creating a page for a farm on Facebook. If you already have a page and are looking for tips regarding how to best use Facebook to promote your farm check out our [Facebook Tips](facebook-tips.md) page.
+This page explains the process of creating a page for a farm on Facebook. If you already have a page and are looking for tips regarding how to best use Facebook to promote your farm check out our [Facebook Tips]() page.
 
 To create a page for your farm \(or business\) on Facebook, you’ll first need a personal account on Facebook. If you already have one, login and proceed to the next step. If you don’t, go to [www.facebook.com](http://www.facebook.com/) and create an account. You’ll need to provide a name, an email or phone number and a date of birth. Your farm’s page will be separate to this personal account, you just need this account to administer your farm’s page.
 
@@ -56,5 +56,5 @@ You can edit any of the information you provided during the creation of your pag
 
 ![Edit and contact details](https://openfoodnetwork.org/wp-content/uploads/2015/09/Edit-and-contact-details.png)
 
-**Great! Your farm’s page is all set up, and now you’re ready to start using Facebook to connect with customers and others in your industry. To learn about using Facebook, check out our** [**Facebook Tips**](facebook-tips.md) **page.**
+**Great! Your farm’s page is all set up, and now you’re ready to start using Facebook to connect with customers and others in your industry. To learn about using Facebook, check out our** [**Facebook Tips**]() **page.**
 

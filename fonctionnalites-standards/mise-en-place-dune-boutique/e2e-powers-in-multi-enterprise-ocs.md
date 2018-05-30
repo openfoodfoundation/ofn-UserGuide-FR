@@ -1,4 +1,4 @@
-# Les permissions inter-entreprises dans le cas de cycles de vente multiples
+# Les permissions inter-entreprises dans le cas de cycles de vente simultanés
 
 ## Le coordinateur
 
