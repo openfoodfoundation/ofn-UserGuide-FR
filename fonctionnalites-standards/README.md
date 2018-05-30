@@ -1,4 +1,4 @@
-# Les fonctionnalités
+# Fonctionnalités
 
 Vous trouverez dans les pages qui suivent toutes les fonctionnalités qui vont sont proposées. 
 

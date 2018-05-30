@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Guide utilisateur Open Food France](README.md)
-* [Les différents profils utilisateurs](les-differents-profils-utilisateurs/README.md)
+* [Profils utilisateurs](les-differents-profils-utilisateurs/README.md)
   * [Le producteur sans boutique](les-differents-profils-utilisateurs/le-producteur-sans-boutique.md)
   * [Le producteur en vente directe avec une boutique](les-differents-profils-utilisateurs/le-producteur-en-vente-directe-avec-une-boutique.md)
   * [Le producteur revendeur avec une boutique](les-differents-profils-utilisateurs/le-producteur-revendeur-avec-une-boutique.md)
@@ -10,7 +10,7 @@
   * [Le hub non producteur avec boutique en ligne](les-differents-profils-utilisateurs/le-hub-non-producteur-avec-boutique-en-ligne.md)
   * [Le marché virtuel sans boutique](les-differents-profils-utilisateurs/le-marche-virtuel-sans-boutique.md)
   * [Le marché virtuel avec boutique](les-differents-profils-utilisateurs/le-marche-virtuel-avec-boutique.md)
-* [Les fonctionnalités](fonctionnalites-standards/README.md)
+* [Fonctionnalités](fonctionnalites-standards/README.md)
   * [Inscription et création de profil](fonctionnalites-standards/inscription-et-creation-de-profil.md)
   * Profil utilisateur
     * [Sélection du type de profil](fonctionnalites-standards/votre-profil/types-de-package.md)

@@ -1,4 +1,4 @@
-# Les différents profils utilisateurs
+# Profils utilisateurs
 
 Nous vous proposons des “profils types” ci-dessous. Bien sûr, les acteurs sont souvent à cheval entre plusieurs profils types, alors regardez les modèles et faites votre marché !
 

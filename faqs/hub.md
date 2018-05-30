@@ -2,33 +2,27 @@
 
 ## Notre modèle et ses avantages
 
-**Pourquoi choisir OFF ? Quelle est la différence avec les autres boutiques en ligne ?**
+**Pourquoi choisir OFF ? Quelle est la différence avec les autres plateformes e-commerce ?**
 
-We think the OFN is pretty great, and unique to other options out there!
+* **Réseau**
 
-* **Networked-**
+  Contrairement aux plateformes classique, OFF fonctionne en réseau. Les producteur peuvent vendre leurs produits via leur boutique, la boutique d'une autre entreprises et peuvent eux-même vendre des produits d'autres producteurs.
 
-  The OFN differs from private online shops in that they can be networked with other enterprises. Food hubs stock the produce of multiple producers and customers can always see where their food has come from.
+* **Visibilité**
 
-* **Exposure-**
+  La plateforme OFF centralisant tous les profils, elle rend visible toutes les entreprises de son réseau
 
-  The OFN has a directory functionality, so customers landing on our homepage may be driven to your store if your offerings match their search terms, or if you’re located close by to them. The OFN is a centralised place for people looking to access great, local produce, giving participating enterprises exposure to a wider customer base.
+* **Flexibilité**
 
-* **Food enterprise specific-**
+  Vous pouvez paramétrer vous même un grand nombre de fonctionnalité, notamement les méthodes de paiements utilisés. Vous n'êtes pas contraint par la plateforme
 
-  The OFN’s shopfront capabilities are also designed especially for food enterprises, so it saves you from having to develop your own software from scratch \(which can be a lengthy and costly process, trust us!\).
+* **Evolutivité**
 
-* **Flexible-**
+  A partir d'un profil simple, vous pouvez évoluer simplement vers des profils avec boutique revendeur ou non.
 
-  The OFN is flexible in accommodating all kinds of shipping/collection and payment methods. Some online store offerings are restricted in the kinds of shipping and payment methods that can be accepted \(for example, limited strictly to postage\).
+* **Valeurs**
 
-* **Room to grow-**
-
-   Hubs can start with a profile, and easily build up to start selling to others, opening their own online store and starting to connect with growing numbers of suppliers. Once you have a profile, you can easily open your own store, and link with other groups, like customer buying groups, something that most software options cannot offer.
-
-* **We have soul**
-
-  – The OFN is a social enterprise, which is owned by all of us. It’s non-profit and continuously working to facilitate improvements to our food system. All revenues are reinvested back into the software, so it can be more useful to more people. So you can feel great about being part of the OFN!
+  OFF est une association collégiale. Notre ambition est de co-construire et co-gérer la plateforme ensemble. 
 
 ## La plateforme peut-elle vous convenir ?
 
