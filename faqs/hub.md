@@ -28,15 +28,15 @@
 
 **Je vends déjà mes produits via une boutique en ligne que j'ai créé.**
 
-You can create a profile on the OFN which links to your existing store. This will raise the visibility of your enterprise and allows you to connect with the audience on the OFN.
-
-Check out our feature list page, which describes the full functionalities of an OFN shopfront. Our functions and pricing are competitive, so perhaps you’d consider switching to an OFN store, and being part of the OFN movement.
+Vous pouvez créer u[n profil simple ](../les-differents-profils-utilisateurs/le-hub-non-producteur-sans-boutique-en-ligne.md)qui fera le lien avec votre boutique existante.
 
 **Je suis un grossiste.**
 
-As a wholesaler you could certainly get set up on the OFN with a profile, and an online shopfront if that’s what you’re looking for. On the OFN we class enterprises that distribute/sell produce produced by others as “hubs”. This includes wholesalers, as well as lots of other kinds of enterprises, like buying groups, food coops and retailers.
+Vous faites partie de ce qu'on appelle un "hub". Rendez-vous [ici](../fonctionnalites-standards/inscription-et-creation-de-profil.md) pour la création de votre profil.
 
 **Nous sommes un collectif cherchant un moyen de faciliter nos commandes en ligne.**
+
+
 
 The OFN is designed to make the processes of taking and managing orders and stock easier. A food collective would be established as a hub on the OFN, with its own shopfront. In contrast to taking order through email or online forms, the OFN’s checkout process is very easy to use for customers, and has the added advantage of generating order reports, which reduces the administration burden for the hub.
 
