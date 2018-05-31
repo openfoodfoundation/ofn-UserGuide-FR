@@ -34,12 +34,6 @@ Vous pouvez créer u[n profil simple ](../les-differents-profils-utilisateurs/le
 
 Vous faites partie de ce qu'on appelle un "hub". Rendez-vous [ici](../fonctionnalites-standards/inscription-et-creation-de-profil.md) pour la création de votre profil.
 
-**Nous sommes un collectif cherchant un moyen de faciliter nos commandes en ligne.**
-
-
-
-The OFN is designed to make the processes of taking and managing orders and stock easier. A food collective would be established as a hub on the OFN, with its own shopfront. In contrast to taking order through email or online forms, the OFN’s checkout process is very easy to use for customers, and has the added advantage of generating order reports, which reduces the administration burden for the hub.
-
 ## Le hub en général
 
 **A quoi correspond un hub alimentaire ?**
@@ -52,13 +46,13 @@ Hubs choose who they source from and who they sell to. They may chose to only so
 
 **Quels producteurs vont livrer aux hubs ?**
 
-The OFN doesn’t ‘match-make’ hubs with farmers. Rather we make connecting easier, by making it possible for groups to find one another and connect and trade. Check out the OFN map to find producers in your area, and view their profiles to find contact details.
+Tout type de producteur. Ceci dit OFF ne gère pas la rencontre entre le hub et le producteur. Nous mettons en place uniquement les outils pour que la collaboration fonctionne bien.
 
-Est-ce qu'OFF gère des hubs ?
+**Est-ce qu'OFF gère des hubs ?**
+
+Non. 
 
 No the OFN doesn’t actually operate hubs, we just provide the software for enterprises such as food hubs, and producers to use. We do have lots of experience in running food hubs though, so understand the unique challenges and needs facing food distribution enterprises.
-
-%/accordion%
 
 ## Créer un hub sur OFF
 
