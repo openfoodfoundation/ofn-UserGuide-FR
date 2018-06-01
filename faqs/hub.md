@@ -50,40 +50,30 @@ Tout type de producteur. Ceci dit OFF ne gère pas la rencontre entre le hub et 
 
 **Est-ce qu'OFF gère des hubs ?**
 
-Non. 
-
-No the OFN doesn’t actually operate hubs, we just provide the software for enterprises such as food hubs, and producers to use. We do have lots of experience in running food hubs though, so understand the unique challenges and needs facing food distribution enterprises.
+Non. Open Food France n'est pas opérateur d'hub alimentaire, nous mettons uniquement à disposition les outils pour en gérer. Cependant nous avons beaucoup d'expérience dans le domaine et pouvons vous accompagner si vous ouvrez votre hub actuellement.
 
 ## Créer un hub sur OFF
 
 **Combien de temps est nécessaire pour créer un hub sur OFF ?**
 
-Each hub is different and set up times will depend on whether they hub is new, or simply transitioning to the OFN. It will also depend on the complexity of their sourcing, sales and distribution activities. Creating profiles for your suppliers who are not on the OFN can take some time, as can adding in your product range. But these are once off tasks, and once complete, administering day to day activities on the OFN is very efficient.
+Chaque hub est différent et le temps d'installation va dépendre de la "jeunesse" du hub ou s'il s'agit s'implement d'un hub existant souhaitant utiliser OFF. En fonction de la complexité de vos partenariat, ajouter les producteurs ou les produits peut prendre du temps. En revanche, il s'agit d'une tache ponctuelle. Par la suite la gestion au jour-le-jour est très efficace.
 
 **Quelle est la différence entre un profil et une boutique hub ?**
 
-The OFN functions as a directory, advertising platform, and an online marketplace. People can choose which functionalities of the OFN they want to use, according to their needs.
-
-1. A Profile.
-
-A profile on the OFN is the simplest option, and offers a way for enterprises to market themselves. The profile can be used to promote your products and services, share your story and provide contact details. A profile makes you visible and contactable to customers and other enterprises who might wish to trade with you.
-
-1. A Shopfront
-
-You have the option of adding an OFN shop onto your profile, giving you all the functions needed to run an online store. This includes the online shopfront with full checkout capabilities as well as behind the scenes tools to aid in administration, such as reporting of payments and inventory. The OFN works as a network, so all hubs are connected to the profiles of their supplying producers. It’s also designed to accommodate all different hub models, from the small and simple, to the large and complex.
+Rendez-vous sur [cette page](../les-differents-profils-utilisateurs/).
 
 **Peut-on intégrer la boutique dans un site internet existant ?**
 
-In regards to embedding an OFN shopfront into your existing website, at the moment you can link customers to your OFN shopfront from your website, and then redirect them back to your website after checkout. With lots of features to develop, further embedding hasn’t been a top priority.
+Oui, pour cela rendez-vous sur [cette page](../fonctionnalites-standards/mise-en-place-dune-boutique/embedded-shops.md).
 
 ## Vos produits et votre boutique
 
 **Pourquoi je ne peux pas voir tous mes produits dans ma boutique ?**
 
-Here’s a few things to check:
+Vérifiez les points suivants :
 
-* Has the product been added to the order cycle? Open the order cycle and double check that all tick boxes next to your products have been selected.
-* Is there enough ‘on hand’ inventory? If the ‘on hand’ inventory value is zero for a product, then it will no longer appear in your store. If you have products which are always ‘on hand’, you can check the ‘on demand’ box corresponding to that product- then it will never be out of stock.
+* Est-ce que le produit à été ajouté à un cycle de vente en cours ?
+* Est-ce qu'il y a une quantité suffisante dans la quantité "à la demande" ? \(si c'est 0 , le produit n'apparait plus en boutique\). Si le produit est toujours à la demande, pensez à cocher la case "à volonté" pour que ce problème n'apparaisse plus
 
 **Je souhaite que seul mes clients actuels puissent accéder à la boutique en ligne. Est-ce possible ?**
 
