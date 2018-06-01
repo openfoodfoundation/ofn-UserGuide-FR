@@ -6,7 +6,7 @@ Ce guide a pour objet de vous accompagner dans l'utilisation de la plateforme Op
 
 * **Une entrée par profils utilisateurs**
 
-Nous avons rédigé notre guide par[ type de profil utilisateur](https://ofnuserguidefr.gitbook.io/guide-utilisateur-open-food-france/les-differents-profils-utilisateurs). En effet, en fonction de votre profil d'utilisation, les étapes d'installation différent. Pensez à sélectionner le bon ! Vous ne savez pas à quel profil vous correspondez ? Consultez le tableau pour vous orienter [ici](les-differents-profils-utilisateurs/).
+Nous avons rédigé notre guide par[ type de profil utilisateur](https://ofnuserguidefr.gitbook.io/guide-utilisateur-open-food-france/les-differents-profils-utilisateurs). En effet, en fonction de votre profil d'utilisation, les étapes d'installation diffèrent. Pensez à sélectionner le bon ! Vous ne savez pas à quel profil vous correspondez ? Consultez le tableau pour vous orienter [ici](les-differents-profils-utilisateurs/).
 
 * **Une entrée par fonctionnalités**
 

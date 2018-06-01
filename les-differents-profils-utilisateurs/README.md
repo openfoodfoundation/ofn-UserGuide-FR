@@ -13,5 +13,5 @@ Nous vous proposons des “profils types” ci-dessous. Bien sûr, les acteurs s
   
 **A noter** :  
 - Sachez qu'il est également possible d'ouvrir une boutique privée. Pour ce faire, rendez-vous sur la page suivante.  
-- OFF ne gère pour l'instant par les abonnements en ligne, mais la fonctionnalité est actuellement en développement !
+- OFF ne gère pour l'instant pas les abonnements en ligne, mais la fonctionnalité est actuellement en développement !
 
