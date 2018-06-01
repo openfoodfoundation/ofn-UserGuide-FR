@@ -91,13 +91,13 @@ Vous pouvez ajouter un message d'accueil à votre boutique.
 
 **Comment fonctionne le paiement ?**
 
-The OFN doesn’t dictate a payment method, and you can use any arrangement that works for you. Current payment options which are integrated into the checkout process include Paypal, Pin Payments and EFTPOS \(through a payment gateway\). Enterprises can also use manual methods including invoicing, cash on collection and direct deposit.
+Rendez-vous sur [cette page](../fonctionnalites-standards/mise-en-place-dune-boutique/methodes-de-paiements.md).
 
 **Est-ce que je peux fixer un prix minimal de commande sur ma boutique ?**
 
-OFN doesn’t currently have the option of blocking checkout until a customer’s order reaches a defined threshold. An alternative option is to add a shipping fee with the ‘price sac’ fee calculator. This calculator will apply one fee value if the total is below a given level, and another fee value \(possibly $0\) if the order is over that level.See here.
+La plateforme ne dispose pas de cette fonctionnalité pour l'instant. En revanche vous pouvez ajouter une commission fixe qui assurera un montant minimal. Rendez-vous sur [cette page](../fonctionnalites-standards/mise-en-place-dune-boutique/frais-et-taxes.md).
 
 **Est-ce que je peux avoir des statistiques sur les commandes et les montants dépensés ?**
 
-Yes, OFN store operators will receive an email each time an order is placed. Additionally, a number of different reports regarding sales will be downloadable from your store. Including stock management \(inventory, variants, descriptions\), order management and more.
+Oui, la plateforme propose différents rapports et tableau de bord afin de vous donner la possibilité de réaliser un suivi optimal.
 
