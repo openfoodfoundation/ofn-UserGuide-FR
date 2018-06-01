@@ -1,10 +1,10 @@
 # Sélection du type de profil
 
-Open Food France \(OFF\) offre 5 types de profils, qui vont différer en fonction de votre profil d'entreprise \(producteur ou non\) et si vous souhaitez ou non ouvrir une boutique en ligne. Lors de votre première connexion à l'outil, on vous demandera de sélectionner un package. Votre sélection vous permettra d'obtenir des fonctionnalités spécifiques à votre activitée. Les cinq packages sont décris ci-dessous en deux grands paragraphes : les packages à destination des producteurs et ensuite les packages à destination des hubs.
+Open Food France \(OFF\) offre 5 types de profils, qui vont différer en fonction de votre profil d'entreprise \(producteur ou non\) et si vous souhaitez ou non ouvrir une boutique en ligne. Lors de votre première connexion à l'outil, on vous demandera de sélectionner un profil. Votre sélection vous permettra d'obtenir des fonctionnalités spécifiques à votre activitée. Les cinq profils sont décris ci-dessous en deux grands paragraphes : les profils à destination des producteurs et ensuite les profils à destination des hubs.
 
 ## Pour les producteurs
 
-Les packages
+Les différents profils :
 
 ![](../../.gitbook/assets/image%20%2852%29.png)
 
@@ -34,9 +34,9 @@ Les packages
 
 SI vous souhaitez modifier des informations sur votre profil rendez-vous sur la page [Votre profil](./).
 
-### Modifier son package
+### Modifier son profil
 
-Vous pouvez toujours changer de package par la suite. Vous avez deux options : soit vous utilisez le bouton ‘**Modifier le package** sur le [Tableau de Bord](../tableau-de-bord.md). Or via le menu "Entreprises" en modifiant les colonnes dédiées comme sur la capture ci-dessous : 
+Vous pouvez toujours changer de profil \(package\) par la suite. Vous avez deux options : soit vous utilisez le bouton ‘**Modifier le package** sur le [Tableau de Bord](../tableau-de-bord.md). Or via le menu "Entreprises" en modifiant les colonnes dédiées comme sur la capture ci-dessous : 
 
 ![](../../.gitbook/assets/image%20%2838%29.png)
 
