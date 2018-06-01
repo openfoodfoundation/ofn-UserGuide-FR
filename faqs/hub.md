@@ -77,27 +77,15 @@ Vérifiez les points suivants :
 
 **Je souhaite que seul mes clients actuels puissent accéder à la boutique en ligne. Est-ce possible ?**
 
-Yes you can. When you set your shop to private, only customers on your customer list will be able to login to see your shopfront and place orders.Details here.
+Oui, vous pouvez décider que votre boutique est privée. Pour cela, rendez-vous sur [cette page](../fonctionnalites-standards/mise-en-place-dune-boutique/private-shopfront.md).
 
-* You can also make your shopfront invisible. This way only people who have been given the URL to your shop will be able to see it. This can be done by selecting ‘not visible’ in your
+**Peut-on gérer l'ordre d'apparition de mes produits sur ma boutique en ligne ?**
 
-  profile settings
-
-  .
-
-* You can use the shopfront message \(instructions
-
-  here
-
-  \) to let visitors to your store know that they need to be members to shop with you, or need to make contact with you first.
-
-**Comment gérer l'ordre d'apparition de mes produits sur ma boutique en ligne ?**
-
-You can select the order that each category of food is displayed in your shop, then within each category the products are displayed alphabetically. For instance, if Meat and Fish are your most important products, you can select to have them show up first, with your secondary Oil and Spreads products below. You can do this in your profile settings, under‘shopfront category ordering’.
+Oui, vous pouvez sélectionner l'ordre de chaque catégorie de produits. Ensuite au sein d'une catégorie le tri est réalisé par ordre alphabétique.
 
 **Comment puis-je indiquer à mes acheteurs le fonctionnement de ma boutique ainsi que les conditions applicables ?**
 
-There is the option of adding a ‘shopfront message’ to your shop. This message is clearly visible to customers when they visit your shop and you can add as much or as little detail here as you like. Instructions for inserting a ‘shopfront message’ can be found here.
+Vous pouvez ajouter un message d'accueil à votre boutique. 
 
 ## Paiement et livraison
 
