@@ -6,7 +6,7 @@ Ce profil permet aux marchés physiques d'avoir une représentation en ligne, le
 
 ## Les atouts
 
-* Les producteurs peuvent proposer des pré-commandes / pré-ventes de leurs produits. Ces produits seraient récupéré ensuite au marché le jour venu
+* Les producteurs peuvent proposer des pré-commandes / pré-ventes de leurs produits. Ces produits seraient récupérés ensuite au marché le jour venu
 * Les producteurs peuvent profiter de leur venue au marché pour amener d'autres produits pré-vendus en ligne
 * Les producteurs peuvent collaborer entre eux pour les emballages et la distribution
 
@@ -16,7 +16,7 @@ Pour mettre en place une boutique individuelle par producteur, les producteurs p
 
 ### Option 2 - Les producteurs gérent une boutique commune
 
-Pour gérer une boutique commune à plusieurs producteur, il est nécessaire de suivre les étapes [à ce chapitre](le-producteur-revendeur-avec-une-boutique.md).
+Pour gérer une boutique commune à plusieurs producteurs, il est nécessaire de suivre les étapes [à ce chapitre](le-producteur-revendeur-avec-une-boutique.md).
 
 ### Option 3 - Les organisateurs du marché gèrent la boutique
 

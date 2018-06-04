@@ -1,6 +1,6 @@
 # Sélection du type de profil
 
-Open Food France \(OFF\) offre 5 types de profils, qui vont différer en fonction de votre profil d'entreprise \(producteur ou non\) et si vous souhaitez ou non ouvrir une boutique en ligne. Lors de votre première connexion à l'outil, on vous demandera de sélectionner un profil. Votre sélection vous permettra d'obtenir des fonctionnalités spécifiques à votre activitée. Les cinq profils sont décris ci-dessous en deux grands paragraphes : les profils à destination des producteurs et ensuite les profils à destination des hubs.
+Open Food France \(OFF\) offre 5 types de profils, qui vont différer en fonction de votre profil d'entreprise \(producteur ou non\) et si vous souhaitez ou non ouvrir une boutique en ligne. Lors de votre première connexion à l'outil, on vous demandera de sélectionner un profil. Votre sélection vous permettra d'obtenir des fonctionnalités spécifiques à votre activité. Les cinq profils sont décrits ci-dessous en deux grands paragraphes : les profils à destination des producteurs et ensuite les profils à destination des hubs.
 
 ## Pour les producteurs
 

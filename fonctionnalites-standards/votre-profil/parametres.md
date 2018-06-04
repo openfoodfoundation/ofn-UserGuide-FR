@@ -17,11 +17,11 @@ description: Utilisez ce menu pour gérer les informations de votre profil
 
 **Nom :** Il s'agit du nom de votre entreprise. Ce sera le titre de votre profil \( et de votre boutique le cas échéant\).
 
-**Producteur ? :** Cochez cette case uniquement si vous être un producteur.
+**Producteur ? :** Cochez cette case uniquement si vous êtes un producteur.
 
 \*_Remarque : seuls les producteurs peuvent ajouter des produits sur la plateforme. Les hubs doivent sélectionner cette option lorsqu'ils vendent des paniers avec des produits de différents fournisseurs._ 
 
-**Apparait sur la plateforme ?** **:** Si votre profil est prêt, chochez "visible" et il sera visible sur la plateforme ainsi que sur la carte. Vous pouvez le laisser invisible tant que vous modifiez encore ses paramètres \(contenu, images...\).
+**Apparait sur la plateforme ?** **:** Si votre profil est prêt, cochez "visible" et il sera visible sur la plateforme ainsi que sur la carte. Vous pouvez le laisser invisible tant que vous modifiez encore ses paramètres \(contenu, images...\).
 
 **Nom pour URL** **:** Vous pouvez personnaliser l'adresse web menant jusqu'à votre profil.
 
@@ -43,13 +43,13 @@ L'adresse nous permet de vous géolocaliser sur une carte. Si vous disposez d'un
 
 ### A propos
 
-**Description \(en bref\) :** Une ou deux phrase présentant votre entreprise, ce que vous faites. Cette description s'affichera sur votre profil lorsqu'il est affiché via une petite vignette.
+**Description \(en bref\) :** Une ou deux phrases présentant votre entreprise, ce que vous faites. Cette description s'affichera sur votre profil lorsqu'il est affiché via une petite vignette.
 
-**A propos :** Ici vous avez la palce pour une description plus longue \(une page environ\). Elle s'affichera lors d'une présentation complète de votre profil.
+**A propos :** Ici vous avez la place pour une description plus longue \(une page environ\). Elle s'affichera lors d'une présentation complète de votre profil.
 
 ### Juridique
 
-**Siret** **:** Cette information ne sera pas publique. Elle est important pour les détenteurs d'une boutique, lorsqu'ils veulent émettre des factures depuis la plateforme.
+**Siret** **:** Cette information ne sera pas publique. Elle est importante pour les détenteurs d'une boutique, lorsqu'ils veulent émettre des factures depuis la plateforme.
 
 **N° de TVA intracommunautaire :** Cette information ne sera pas publique.
 
@@ -92,7 +92,7 @@ Ici sont gérés les tags que vous attribuez à vos clients. Pour plus d'informa
 
 _\* non visible pour les profils simples_
 
-**Message d'accueil boutique ouverte** : Ce message est facultatif. Il sera afficé sur votre boutique juste au-dessus des produits \(cf. exemple ci-dessous\). C'est l'endroit idéal pour des informations importantes comme des commandes spéciales ou des informations particulières sur vos cycles de vente. 
+**Message d'accueil boutique ouverte** : Ce message est facultatif. Il sera affiché sur votre boutique juste au-dessus des produits \(cf. exemple ci-dessous\). C'est l'endroit idéal pour des informations importantes comme des commandes spéciales ou des informations particulières sur vos cycles de vente. 
 
 ![](../../.gitbook/assets/image%20%2870%29.png)
 
@@ -104,17 +104,17 @@ _\* non visible pour les profils simples_
 
 **Trier les cycles de vente par** : Si votre boutique aura [plus d'un cycle de vente ouvert en même temps](../mise-en-place-dune-boutique/opening-more-than-one-order-cycle.md) vous pouvez sélectionner l'ordre d'apparition des cycles sur la boutique en ligne : soit par date de fermeture, soit par date d'ouverture.
 
-**Boutique visible par tous** **?** : Si vous sélectionnez "visible par tous", n'importe quel internaute pourra voir votre boutique. Si vous selectionnez "visible uniquement par les acheteurs logués’, vos clients seront ceux que vous aurez pré-invités avec le mot de passe pour accéder à votre boutique.
+**Boutique visible par tous** **?** : Si vous sélectionnez "visible par tous", n'importe quel internaute pourra voir votre boutique. Si vous sélectionnez "visible uniquement par les acheteurs logués’, vos clients seront ceux que vous aurez pré-invités avec le mot de passe pour accéder à votre boutique.
 
-**Commandes des invités** : Si vous sélectionnez "autoriser les commandes en mode invité" les internautes pourront commander vos produits sans être connectés à la plateforme. Si vous souhaitez qu'ils soient connectés sélectionnez "demander que l'acheteur se loggue pour pouvoir commander". Ce menu n'est pas applicable si vous avez mis en place une boutique avec mot de passe \(paragraphe précédent\).
+**Commandes des invités** : Si vous sélectionnez "autoriser les commandes en mode invité" les internautes pourront commander vos produits sans être connectés à la plateforme. Si vous souhaitez qu'ils soient connectés sélectionnez "demander que l'acheteur se connecte pour pouvoir commander". Ce menu n'est pas applicable si vous avez mis en place une boutique avec mot de passe \(paragraphe précédent\).
 
 ### Managers
 
 **Manager principal :** L'email de l'utilisateur principal de la plateforme chez vous.
 
-**Notifications :** L'email auquel toutes les correspondances seront redirigés \(confirmation de commandes,...\). Si cet email est différent de l'email vous permettant de vous connecter, vous devrez valider l'adresse grace à l'email reçu une fois l'adresse renseignée dans le champ. Une fois l'adresse email confirmée, cette adresse email aura les droits de manager également \(voir paragraphe suivant\).
+**Notifications :** L'email auquel toutes les correspondances seront redirigés \(confirmation de commandes,...\). Si cet email est différent de l'email vous permettant de vous connecter, vous devrez valider l'adresse grâce à l'email reçu une fois l'adresse renseignée dans le champ. Une fois l'adresse email confirmée, cette adresse email aura les droits de manager également \(voir paragraphe suivant\).
 
-**Manager :** Ajoutez d'autre utilisateurs en tant que managers. Il est nécessaire qu'ils aient tout d'abord créé un compte sur la plateforme.
+**Manager :** Ajoutez d'autres utilisateurs en tant que managers. Il est nécessaire qu'ils aient tout d'abord créé un compte sur la plateforme.
 
 _\* Remarque : Ces champs sont disponibles uniquement aux utilisateurs avec boutique en ligne._
 

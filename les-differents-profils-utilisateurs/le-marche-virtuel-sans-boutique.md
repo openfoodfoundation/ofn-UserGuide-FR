@@ -47,6 +47,6 @@ Pour ce faire, ils devront réaliser [les étapes décrites ici](le-producteur-e
 
 ## Fonctionnalités avancées
 
-**Intéger la page du groupe à VOTRE site internet**  
+**Intégrer la page du groupe à VOTRE site internet**  
 Le tutoriel est disponible [à cette adresse](../fonctionnalites-standards/groupes/embed-a-group-page.md).
 
