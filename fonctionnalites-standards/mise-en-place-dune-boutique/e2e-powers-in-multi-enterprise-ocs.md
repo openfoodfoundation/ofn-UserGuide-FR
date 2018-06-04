@@ -11,8 +11,8 @@
 ## Entrant
 
 * Le coordinateur peut ajouter des entreprises en tant que fournisseurs. Pour ce faire, l'entreprise doit :
-* être valide \(une adresse email confirmée\)
-* avoir donné les droits au coordinateur d'ajouter leurs produits dans son cycle de vente
+  * être valide \(une adresse email confirmée\)
+  * avoir donné les droits au coordinateur d'ajouter leurs produits dans son cycle de vente
 
 ## Sortant
 

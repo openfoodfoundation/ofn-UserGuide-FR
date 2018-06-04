@@ -20,7 +20,7 @@ Puis cliquez sur "Nouveau cycle de vente" :
 
 ### 2. Créer un nouveau cycle de vente
 
-* **Attention !** Vous ne pouvez pas créer de cycle de vente tant que vous n'avez pas indiqué de [méthode de livraisons ](types-de-livraisons.md)ni de[ méthodes de paiements](methodes-de-paiements.md).
+* **Attention !** Vous ne pouvez pas créer de cycle de vente tant que vous n'avez pas indiqué de [méthode de livraison ](types-de-livraisons.md)ni de[ méthodes de paiement](methodes-de-paiements.md).
 
 La première chose à faire est de sélectionner un coordinateur pour votre cycle de vente. Cette entreprise aura toutes les permissions pour modifier et gérer le cycle de vente. Les autres entreprises impliquées dans le cycle de vente \(les fournisseurs ou les autres hubs\) auront des accès restreints. Pour plus d'informations sur les gestions des droits entre entreprises, cliquez [ici](e2e-powers-in-multi-enterprise-ocs.md).
 
@@ -52,7 +52,7 @@ Le distributeur sélectionné dans cette catégorie aura une boutique ouverte av
 
 Les **tags** vous permettent de taguer le cycle de vente \(voir [Gestion des tags et comptes clients](customized-shopping-experience.md)\).
 
-**Le message lié aux instructions de réception de la commande** sera inclut dans l'email de confirmation de commande envoyé au client, jsute en-dessous de la méthode de livraison. Ils seront les seuls à obtenir cette information donc vous pouvez y inclure des informations comme des adresses ou numéros de téléphone.
+**Le message lié aux instructions de réception de la commande** sera inclus dans l'email de confirmation de commande envoyé au client, juste en-dessous de la méthode de livraison. Ils seront les seuls à obtenir cette information donc vous pouvez y inclure des informations comme des adresses ou numéros de téléphone.
 
 **Ajouter une marge** **:** A nouveau une marge peut être associée au hub.
 
@@ -62,7 +62,7 @@ Cliquez sur "créer" pour créer le cycle de vente.
 
 \*Remarque : lorsque vous créez un cycle de vente, si une des deux dates indiquées se situe dans le moment présent, la boutique sera automatiquement ouverte sur la plateforme. Si vous n'êtes pas prêt à ouvrir tout de suite, indiquez des dates dans le passé, que vous pourrez changer ensuite. 
 
-Si votre cycle de vente se répête de manière périodique et régulière, vous pouvez duppliquer un cycle de vente passé afin d'aller plus vite \(bouton orange sur la capture, attention il n'est pas orange sur la plateforme\) :
+Si votre cycle de vente se répète de manière périodique et régulière, vous pouvez dupliquer un cycle de vente passé afin d'aller plus vite \(bouton orange sur la capture, attention il n'est pas orange sur la plateforme\) :
 
 ![](../../.gitbook/assets/image%20%2830%29.png)
 
@@ -74,7 +74,7 @@ En utilisant ce bouton, tous les producteurs liés à ce cycle de vente seront n
 
 ## **Fonctionnalités avancées**
 
-Ces fonctionnalités sont à destination descycles de vente avec plusieurs hubs. Rendez-vous sur la page [Catalogue](../produits-1/inventory-tool.md) pour plus de détails.
+Ces fonctionnalités sont à destination des cycles de vente avec plusieurs hubs. Rendez-vous sur la page [Catalogue](../produits-1/inventory-tool.md) pour plus de détails.
 
 * [Créer des cycles de vente en affichage seul](display-only-order-cycles.md)
 * [Gestions des droits pour les cycles de vente à plusieurs entreprises](e2e-powers-in-multi-enterprise-ocs.md)

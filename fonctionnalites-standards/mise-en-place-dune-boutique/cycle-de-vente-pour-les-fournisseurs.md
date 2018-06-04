@@ -12,7 +12,7 @@ Connecté sur l'interface d'administration, sélectionnez le dernier menu sur vo
 
 ## 2. Créer un nouveau cycle de vente
 
-* **Attention !** Vous ne pouvez pas créer de cycle de vente tant que vous n'avez pas indiqué de [méthode de livraisons ](types-de-livraisons.md)ni de[ méthodes de paiements](methodes-de-paiements.md).
+* **Attention !** Vous ne pouvez pas créer de cycle de vente tant que vous n'avez pas indiqué de [méthode de livraison ](types-de-livraisons.md)ni de[ méthodes de paiement](methodes-de-paiements.md).
 
 ![](../../.gitbook/assets/image%20%2824%29.png)
 
@@ -22,9 +22,9 @@ Connecté sur l'interface d'administration, sélectionnez le dernier menu sur vo
 
 **Orders Close :** La date à laquelle la boutique arrêtera d'accepter des commandes. Si vous souhaitez laisser votre boutique ouverte en continue, indiquer une date dans un futur très lointain.
 
-**Le message lié aux instructions de réception de la commande** sera inclut dans l'email de confirmation de commande envoyé au client, jsute en-dessous de la méthode de livraison. Ils seront les seuls à obtenir cette information donc vous pouvez y inclure des informations comme des adresses ou numéros de téléphone.
+**Le message lié aux instructions de réception de la commande** sera inclus dans l'email de confirmation de commande envoyé au client, juste en-dessous de la méthode de livraison. Ils seront les seuls à obtenir cette information donc vous pouvez y inclure des informations comme des adresses ou numéros de téléphone.
 
-**Produits :** Afin que les produits soient visibles sur la boutique en ligne, il est nécesssaire de les ajouter ici. Attention, si vous ajouter des produits après la date de démarrage du cycle de vente, pensez-bin à les ajouter ici aussi pour qu'ils apparaissent en ligne !
+**Produits :** Afin que les produits soient visibles sur la boutique en ligne, il est nécesssaire de les ajouter ici. Attention, si vous ajouter des produits après la date de démarrage du cycle de vente, pensez-bien à les ajouter ici aussi pour qu'ils apparaissent en ligne !
 
 **Commission** **:** Vous pouvez ajouter une marge que vous avez défini préalablement. La marge sera calculée en fonction du calculateur sélectionné précédemment, voir guide [Marges et commissions](frais-et-taxes.md). Cette fonctionnalité est particulièrement intéressante pour les producteurs et les hubs travaillant en partenariat, peut-être moins pour les producteurs travaillant en vente directe.
 
@@ -34,7 +34,7 @@ Cliquez sur "créer" pour sauvegarder votre cycle de vente.
 
 \*Remarque : lorsque vous créez un cycle de vente, si une des deux dates indiquées se situe dans le moment présent, la boutique sera automatiquement ouverte sur la plateforme. Si vous n'êtes pas prêt à ouvrir tout de suite, indiquez des dates dans le passé, que vous pourrez changer ensuite. 
 
-Si votre cycle de vente se répête de manière périodique et régulière, vous pouvez duppliquer un cycle de vente passé afin d'aller plus vite \(bouton orange sur la capture, attention il n'est pas orange sur la plateforme\) :
+Si votre cycle de vente se répète de manière périodique et régulière, vous pouvez dupliquer un cycle de vente passé afin d'aller plus vite \(bouton orange sur la capture, attention il n'est pas orange sur la plateforme\) :
 
 ![](../../.gitbook/assets/image%20%2830%29.png)
 

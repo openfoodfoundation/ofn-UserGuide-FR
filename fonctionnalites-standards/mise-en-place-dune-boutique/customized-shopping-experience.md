@@ -8,7 +8,7 @@ Vous pouvez également ajouter manuellement un acheteur via le bouton "nouvel ac
 
 ## Adresse de facturation et de livraison par défaut
 
-Chaque acheteut peut avoir une adresse de livraison et facturation par défaut. Ainsi le processus d'achat en ligne peut être plus rapide : en effet les champs vont se remplir automatiquement à partir du profil de l'acheteur \(il en va de même pour l'administrateur [s'il créer lui même la commande dans le système](../commandes/manual-orders.md)\).
+Chaque acheteur peut avoir une adresse de livraison et facturation par défaut. Ainsi le processus d'achat en ligne peut être plus rapide : en effet les champs vont se remplir automatiquement à partir du profil de l'acheteur \(il en va de même pour l'administrateur [s'il créer lui même la commande dans le système](../commandes/manual-orders.md)\).
 
 Si un acheteur change d'adresse, ils peuvent aussi modifier cette adresse par défaut durant la commande en cochant la case "Sauvegarde comme adresse par défaut" :
 
