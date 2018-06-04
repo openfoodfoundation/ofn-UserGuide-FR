@@ -1,6 +1,6 @@
 # Transférer les accès d'un profil
 
-Dans certains cas, un utilisateur doit transférer les accès de son comptes à d'autres utilisateurs. C'est le cas assez fréquemment lors de la création d'un groupe par le responsable du hub, qui souhaite ensuite donner accès aux producteurs dont il a créé les profils.
+Dans certains cas, un utilisateur doit transférer les accès de son compte à d'autres utilisateurs. C'est le cas assez fréquemment lors de la création d'un groupe par le responsable du hub, qui souhaite ensuite donner accès aux producteurs dont il a créé les profils.
 
 Voici les étapes à réaliser pour donner les accès :
 
@@ -17,7 +17,7 @@ Voici les étapes à réaliser pour donner les accès :
 
 * Indiquez l'email de l'utilisateur dans le champ de notifications
 * Cette action génèrera un email de confirmation pour l'utilisateur. Une fois que l'utilisateur aura confirmé son adresse email, la plateforme lui demandera de choisir un mot de passe. A la confirmation, il sera automatiquement manager d'une entreprise et recevra une notification email. 
-* Vous pourrez alors passez cet utilisateur en administrateur et vous supprimer de la lsite des managers de l'entreprise.
+* Vous pourrez alors passer cet utilisateur en administrateur et vous supprimer de la liste des managers de l'entreprise.
 
 \*Remarque : les utilisateurs ayant accès à plusieurs profils en tant que manager ou administrateur sont limités en nombre de profils simultanés. Si vous recevez un message indiquant que le nouvel utilisateur a atteint sa limite, contactez-nous et nous lui ajouterons la possibilité d'avoir d'autres accès.
 

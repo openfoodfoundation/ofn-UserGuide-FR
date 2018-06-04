@@ -15,7 +15,7 @@ Il existe 4 différentes permissions. Elles peuvent se combiner de différentes 
 
 **Permission d'ajouter un cycle de vente**
 
-Le fournisseur permet au hub d'ajouter ses produits à leurs cycle de vente
+Le fournisseur permet au hub d'ajouter ses produits à leurs cycles de vente
 
 **Permission d'ajouter un catalogue boutique**
 
@@ -27,7 +27,7 @@ Le fournisseur permet à une entreprise \(hub ou producteur\) de créer, supprim
 
 **Permission de modifier le profil**
 
-Une entreprise permet à une autre de modifier ses détails de profils \(coordonnées, adresse, description, ...\)
+Une entreprise permet à une autre de modifier les détails de son profil \(coordonnées, adresse, description, ...\)
 
 ### Donner et gérer les permissions {#grantingandmanagingE2Es}
 
@@ -39,7 +39,7 @@ Si vous avez besoin qu'une autre entreprise vous donne des permissions, vous dev
 
 **Donner une permission**
 
-Dans la première colonne, sélectionner votre entreprise et dans la seconde l'entreprise à qui vous donnez des droits. Cliquez ensuite sur le type de permissions que vous souhaitez ajouter. Vous pouvez sélectionner plusieurs permissions ou les sléectionner toutes en cliquant sur "TOUT".
+Dans la première colonne, sélectionnez votre entreprise et dans la seconde l'entreprise à qui vous donnez des droits. Cliquez ensuite sur le type de permissions que vous souhaitez ajouter. Vous pouvez sélectionner plusieurs permissions ou les sélectionner toutes en cliquant sur "TOUT".
 
 Puis cliquez sur "Créer". Notez que vous pouvez supprimer ou modifier ces permissions à tout moment.
 
@@ -47,7 +47,7 @@ Puis cliquez sur "Créer". Notez que vous pouvez supprimer ou modifier ces permi
 
 ### Les permissions générées automatiquement
 
-Lorsqu'un utilisateur administre plusieurs entreprises sur la plateforme, les permissions sont créées automatiquement entre chaque entreprises. 
+Lorsqu'un utilisateur administre plusieurs entreprises sur la plateforme, les permissions sont créées automatiquement entre chaque entreprise. 
 
 Ce n'est pas le cas entre des entreprises administrées par des utilisateurs différents.
 
