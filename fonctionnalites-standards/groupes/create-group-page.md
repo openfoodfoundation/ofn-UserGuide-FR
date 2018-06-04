@@ -20,9 +20,9 @@ Une fois administrateur du groupe, vous aurez accès au menu groupe. Rendez-vous
 
 **Sur la page d'accueil ?** **:** Cochez cette case pour que le groupe soit visible sur le site OFF. Cette action peut être réalisée à tout moment.
 
-**Entreprises :** Sélectionnez les entreprises que vou ssouhaitez voir dans le groupe. ****Vous pouvez recherchez des entreprises dans toutes celles actuellement existantes sur la plateforme. Si vous avez déjà ajouté une entreprise à votre groupe, elle n'apparaitra plus dans la recherche.
+**Entreprises :** Sélectionnez les entreprises que vous souhaitez voir dans le groupe. ****Vous pouvez recherchez des entreprises dans toutes celles actuellement existantes sur la plateforme. Si vous avez déjà ajouté une entreprise à votre groupe, elle n'apparaitra plus dans la recherche.
 
-**Permalink \(unique, no space\) :** C'est l'élement qui s'affichera dans votre lien, après les éléments suivants :
+**Permalink \(unique, no space\) :** C'est l'élément qui s'affichera dans votre lien, après les éléments suivants :
 
 [https://www.openfoodfrance.org/groups](https://www.openfoodfrance.org/groups)
 

@@ -6,7 +6,7 @@
 
 * **Réseau**
 
-  Contrairement aux plateformes classique, OFF fonctionne en réseau. Les producteur peuvent vendre leurs produits via leur boutique, la boutique d'une autre entreprises et peuvent eux-même vendre des produits d'autres producteurs.
+  Contrairement aux plateformes classiques, OFF fonctionne en réseau. Les producteur peuvent vendre leurs produits via leur boutique, la boutique d'une autre entreprise et peuvent eux-même vendre des produits d'autres producteurs.
 
 * **Visibilité**
 
@@ -14,7 +14,7 @@
 
 * **Flexibilité**
 
-  Vous pouvez paramétrer vous même un grand nombre de fonctionnalité, notamement les méthodes de paiements utilisés. Vous n'êtes pas contraint par la plateforme
+  Vous pouvez paramétrer vous même un grand nombre de fonctionnalité, notamment les méthodes de paiement utilisés. Vous n'êtes pas contraint par la plateforme
 
 * **Evolutivité**
 

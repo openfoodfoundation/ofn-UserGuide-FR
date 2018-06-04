@@ -19,11 +19,11 @@ Si un acheteur change d'adresse, ils peuvent aussi modifier cette adresse par d�
 Un tag vous permet de réaliser les opérations suivantes :
 
 * Rendre certaines variantes disponibles ou indisponibles
-* Rendre des méthodes de livraisons disponibles ou indisponibles
-* Rendre des méthodes de paiements disponibles ou indisponibles
+* Rendre des méthodes de livraison disponibles ou indisponibles
+* Rendre des méthodes de paiement disponibles ou indisponibles
 * Rendre des cycles de vente visibles ou invisibles
 
-Le plus souvent cette fonctionnalité sera utilisée par les entreprises ayant une segmentation de leur acheteurs bien définie \(membres vs non-membres par exemple\).
+Le plus souvent cette fonctionnalité sera utilisée par les entreprises ayant une segmentation de leurs acheteurs bien définie \(membres vs non-membres par exemple\).
 
 Utiliser la fonctionnalité se réalise en deux étapes :
 

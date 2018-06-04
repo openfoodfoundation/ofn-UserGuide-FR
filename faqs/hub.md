@@ -38,11 +38,11 @@ Vous faites partie de ce qu'on appelle un "hub". Rendez-vous [ici](../fonctionna
 
 **A quoi correspond un hub alimentaire ?**
 
-Food hubs come in many different shapes and sizes, and include food coops, buying groups, farm gate stalls, CSA schemes and more. You can chose how you want to run your hub, but essentially a food hub sources and sells to its community. Each hub is configured differently, and each chooses who they will source from, who their customers will be, how delivery or collection will be organised, payment methods, mark ups, fees etc.
+Un hub alimentaire peut prendre plusieurs formes : une coopérative, une épicerie, une AMAP, etc En règle général, il s'agit d'une communauté qui se rassemble afin de réaliser des achats.
 
 **Est-ce que les hubs vendent uniquement des produits bio ?**
 
-Hubs choose who they source from and who they sell to. They may chose to only source and supply organics, or they may choose conventional, or a bit of both, depending on their customers’ needs.
+Non, les hubs sont libres de vendrent les produits qu'ils souhaitent. Mais la mention ou le label bio est toujours précisé si c'est le cas.
 
 **Quels producteurs vont livrer aux hubs ?**
 

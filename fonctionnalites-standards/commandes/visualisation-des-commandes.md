@@ -4,9 +4,9 @@ Le menu commandes est divisé en deux sous menu sur Open Food France \(OFF\) : l
 
 ## Listes des commandes
 
-Cette page liste toutes les commandes passées sur la plateforme pour votre compte. A partir de cette page, vous pouvez accéder aux détails de chaque commandes, modifier les commandes et suivre leur statut \(du paiement à l'envoi\). Pour consulter la manière de créer une nouvelle commande, cliquez [ici](manual-orders.md).
+Cette page liste toutes les commandes passées sur la plateforme pour votre compte. A partir de cette page, vous pouvez accéder aux détails de chaque commande, modifier les commandes et suivre leur statut \(du paiement à l'envoi\). Pour consulter la manière de créer une nouvelle commande, cliquez [ici](manual-orders.md).
 
-Les filtres présent sur la page peuvent vous aider à accéder plus rapidement à la commande désirée. Vous pouvez filtrer par date, statut ou via l'email ou le nom du client
+Les filtres présents sur la page peuvent vous aider à accéder plus rapidement à la commande désirée. Vous pouvez filtrer par date, statut ou via l'email ou le nom du client
 
 ![](../../.gitbook/assets/image%20%2829%29.png)
 

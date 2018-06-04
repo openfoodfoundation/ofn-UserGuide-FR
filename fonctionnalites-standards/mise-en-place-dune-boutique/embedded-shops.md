@@ -8,9 +8,9 @@ Cette fonctionnalité vous permet de naviguer au sein de votre boutique Open Foo
 
 Cette fonctionnalité est assez récente, nous sommes toujours en phase de test. En revanche, cela devrait bien fonctionner tant que vous pouvez ajouter du html personnalisé à l'endroit où vous souhaitez afficher la page groupe.
 
-### Sécuritée
+### Sécurité
 
-Open Food France est une place de marché, ainsi nos standards de sécurités sont hauts afin de permettre des paiements sur la plateforme. Ainsi, si vous ne l'avez pas déjà fait, vous devrez installer un certificat SSL/TLS sur votre site pour que l'intégration fonctionne.
+Open Food France est une place de marché, ainsi nos standards de sécurité sont hauts afin de permettre des paiements sur la plateforme. Ainsi, si vous ne l'avez pas déjà fait, vous devrez installer un certificat SSL/TLS sur votre site pour que l'intégration fonctionne.
 
 ### Créer une boutique OFF
 
@@ -42,7 +42,7 @@ N'oubliez pas de bien tester l'intégration sur une navigation mobile !
 
 ### Cookies
 
-Attention, si vos visiteurs n'ont pas activés leurs cookies, il ne verront pas la page intégrée ! 
+Attention, si vos visiteurs n'ont pas activé leurs cookies, ils ne verront pas la page intégrée ! 
 
 
 
