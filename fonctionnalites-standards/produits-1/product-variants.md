@@ -1,6 +1,6 @@
 # Les variantes
 
-Si vous créez deux produits similaires dont seule le prix ou la taille ou les ingrédients varient, le mieux est de créer une "variante" du produit plutôt qu'un deuxième produit entier. Ce sera plus clair pour le client final et surtout plus lisible sur la boutique en ligne.
+Si vous créez deux produits similaires dont seul le prix ou la taille ou les ingrédients varient, le mieux est de créer une "variante" du produit plutôt qu'un deuxième produit entier. Ce sera plus clair pour le client final et surtout plus lisible sur la boutique en ligne.
 
 Exemple d'affichage boutique d'un produit avec 3 variantes :
 
@@ -10,7 +10,7 @@ Exemple d'affichage boutique d'un produit avec 3 variantes :
 
 Tout d'abord, il est nécessaire de créer un produit représentant une des variantes. Pour plus de détails concernant l'ajout simple de produit, veuillez vous rendre sur la page [suivante](http://openfoodnetwork.org/platform/user-guide/producer-set-up-guide/producer_products/).
 
-Toujours sur votre interface d'administration, rendez-vous sur la page produits où vous pouvez observer une liste des produits et le produit que vous avez ajouter. Cliquez sur l'angle "&gt;" dans la première colonne de gauche puis sur le petit plus qui s'affichera juste en-dessous comme sur cette capture :
+Toujours sur votre interface d'administration, rendez-vous sur la page produits où vous pouvez observer une liste des produits et le produit que vous avez ajouté. Cliquez sur l'angle "&gt;" dans la première colonne de gauche puis sur le petit plus qui s'affichera juste en-dessous comme sur cet écran :
 
 ![](../../.gitbook/assets/image%20%2853%29.png)
 

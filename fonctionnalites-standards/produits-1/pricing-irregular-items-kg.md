@@ -10,17 +10,17 @@ Lorsque vous connaissez le vrai poids des produits, connectez-vous au menu "Gest
 
 ![](../../.gitbook/assets/image%20%2867%29.png)
 
-N'oubliez pas de renvoyer une confirmation de commande à Claire pour lui indiquer le bon prix.
+N'oubliez pas de renvoyer une confirmation de commande à l'acheteur pour lui indiquer le bon prix.
 
 Pour gérer les remboursements ou les tarifications supplémentaires, rendez-vous dans le chapitre [suivant](pricing-irregular-items-kg.md#reimbursing-or-collecting-additional-payment-on-the-ofn).
 
 ## Affichez des fourchettes de prix
 
-Même logique que dans le précédent paragraphe, simplement au lieu d'afficher un prix moyen initialement, indiquez une fourchette de prix. Cette solution à l'avantage de bien préciser à l'acheteur que le prix final est succeptible d'être modifié. Les variantes peuvent également être l'opportunité de créer des fourchettes différentes. 
+Même logique que dans le précédent paragraphe, simplement au lieu d'afficher un prix moyen initialement, indiquez une fourchette de prix. Cette solution à l'avantage de bien préciser à l'acheteur que le prix final est suceptible d'être modifié. Les variantes peuvent également être l'opportunité de créer des fourchettes différentes. 
 
 ## Créer une variante par poids possible \(cas des produits congelés\)
 
-Si vous connaissez à l'avance tous les formats possible, vous pouvez utiliser les variantes pour afficher directement les prix précis. Exemple :
+Si vous connaissez à l'avance tous les formats possibles, vous pouvez utiliser les variantes pour afficher directement les prix précis. Exemple :
 
 ![](../../.gitbook/assets/image%20%2858%29.png)
 

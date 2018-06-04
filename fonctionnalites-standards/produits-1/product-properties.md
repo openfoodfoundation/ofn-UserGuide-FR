@@ -1,6 +1,6 @@
 # Propriétés / labels
 
-Vous pouvez ajouter des labels à vos produits afin de renseigner l'acheteur final sur les méthodes de production ainsi que les lables obtenus pour le produits. Actuellement les propriétés suivantes peuvent être ajoutées :
+Vous pouvez ajouter des labels à vos produits afin de renseigner l'acheteur final sur les méthodes de production ainsi que les labels obtenus pour le produit. Actuellement les propriétés suivantes peuvent être ajoutées :
 
 * AB
 * EU bio
@@ -22,7 +22,7 @@ Il y a deux manières d'assigner un label à produit :
 
 ## 1\) Assigner un label à une entreprise
 
-Cette méthode permet d'assigner le label à tous les produits de l'entreprise. SI vous souhaitez ajouter le label qu'à certains produits, rendez-vous plutôt à l'étape 2. Si seul deux ou trois produits de votre catalogues ne sont pas concernés par le label, utilisez cette fonctionnalité et rendez-vous sur le paragraphe [Case à cocher Inherit properties](product-properties.md#case-a-cocher-inherit-properties).
+Cette méthode permet d'assigner le label à tous les produits de l'entreprise. Si vous ne souhaitez ajouter le label qu'à certains produits, rendez-vous plutôt à l'étape 2. Si seuls deux ou trois produits de votre catalogue ne sont pas concernés par le label, utilisez cette fonctionnalité et rendez-vous sur le paragraphe [Case à cocher Inherit properties](product-properties.md#case-a-cocher-inherit-properties).
 
 Sur l'interface d'administration, rendez-vous sur le menu "**Entreprises**" puis cliquez sur "**gérer**" et accédez à "**Propriétés/Labels**" dans le menu vertical de gauche :
 

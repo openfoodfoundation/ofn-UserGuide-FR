@@ -32,11 +32,11 @@ Vous avez deux options : soit vous choisissez l'option selon laquelle les nouvea
 
 ## 2\) Accéder au catalogue boutique
 
-Cliquez sur le menu **Produits** dans l'interface d'administration, puis sur **Catalogue** **boutique** dans le sous menu vert. SI vous gérer plusieurs boutiques, il vous sera demandé d'en sélectionner une car chaque catalogue est géré indépendemment.
+Cliquez sur le menu **Produits** dans l'interface d'administration, puis sur **Catalogue** **boutique** dans le sous menu vert. Si vous gérez plusieurs boutiques, il vous sera demandé d'en sélectionner une car chaque catalogue est géré indépendemment.
 
 ![](../../.gitbook/assets/image%20%2837%29.png)
 
-Lors de votre première visite, un message vous alertera sur le fait que vous avez de nouveaux produits disponible à l'ajout dans votre catalogue. Tant que ce ne sera pas fait, il resteront dans la catégorie "**Nouveau produits**".
+Lors de votre première visite, un message vous alertera sur le fait que vous avez de nouveaux produits disponibles à l'ajout dans votre catalogue. Tant que ce ne sera pas fait, ils resteront dans la catégorie "**Nouveaux produits**".
 
 ![](../../.gitbook/assets/image%20%2821%29.png)
 
@@ -48,7 +48,7 @@ En cliquant sur "**vérifier maintenant**" vous serez redirigé vers la liste de
 
 Les nouveaux produis peuvent être soit **ajoutés** à votre catalogue, soit **masqués**. Si vous souhaitez écraser les caractéristiques d'un produit de la liste ou indiquer le niveau du stock, vous devrez l'ajouter à votre catalogue. S'il s'agit d'un produit que vous ne voudrez jamais vendre dans votre boutique ou en tout cas pas à court terme, vous pouvez choisir de le masquer.
 
-Pour rappel, si l'option choisie dans les [paramètres](inventory-tool.md#1-les-parametres-de-votre-catalogue) est l'option selon laquelle les produits doivent être ajoutés à votre catalogue pour apparaitre sur le boutique en ligne, tous les produits que vous laissés dans la liste "nouveaux produits" seront par défaut masqués, c'est-à-dire absent de la boutique en ligne. Dans l'autre cas ils apparaitront automatiquement dans le cycle de vente en cours. 
+Pour rappel, si l'option choisie dans les [paramètres](inventory-tool.md#1-les-parametres-de-votre-catalogue) est l'option selon laquelle les produits doivent être ajoutés à votre catalogue pour apparaitre sur le boutique en ligne, tous les produits que vous laissez dans la liste "nouveaux produits" seront par défaut masqués, c'est-à-dire absents de la boutique en ligne. Dans l'autre cas ils apparaitront automatiquement dans le cycle de vente en cours. 
 
 Poursuivez la lecture pour comprendre le traitement manuel du masquage et de l'ajout.
 

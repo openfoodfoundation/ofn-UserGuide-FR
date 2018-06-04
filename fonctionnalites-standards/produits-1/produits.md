@@ -32,7 +32,7 @@ Sélectionnez les fournisseurs à l'origine du produit.
 
 **En stock** **:** Indiquez le stock de produit que vous avez prêt à la vente.
 
-> Utilisez ce champ si vous voulez suivre votre stock. Lorsque les consomateurs réaliseront des commandes, le niveau du stock se réduira automatiquement et lorsqu'il atteindra 0 le produit ne sera plus visible dans votre boutique. Si vous ne souhaitez pas gérer votre catalogue de cette manière, cliquez sur "à volonté" \(paragraphe suivant\).
+> Utilisez ce champ si vous voulez suivre votre stock. Lorsque les acheteurs réaliseront des commandes, le niveau du stock se réduira automatiquement et lorsqu'il atteindra 0 le produit ne sera plus visible dans votre boutique. Si vous ne souhaitez pas gérer votre catalogue de cette manière, cliquez sur "à volonté" \(paragraphe suivant\).
 
 **A volonté** **:**  Si vous cochez cette case, la boutique indiquera que le produit est toujours disponible. La plateforme ne vérifie donc plus les stocks, et considère que le produit est toujours en stock.
 
@@ -44,7 +44,7 @@ Sélectionnez les fournisseurs à l'origine du produit.
 
 **Description du produit :** Ce champ vous permet de décrire le produit vendu, pour donner plus d'information à l'acheteur final.
 
-N'oubliez pas de bien cliquer sur le bouton "créer" une fois tous les champs obligatoires renseignées \(ceux indiqués par une astérisque rouge\).
+N'oubliez pas de bien cliquer sur le bouton "créer" une fois tous les champs obligatoires renseignés \(ceux indiqués par une astérisque rouge\).
 
 Lorsque vous créez un produit, vous êtes redirigé sur la page "catalogue boutique" où vous retrouvez tous vos produits :
 
@@ -52,7 +52,7 @@ Lorsque vous créez un produit, vous êtes redirigé sur la page "catalogue bout
 
 ### Créer un produit similaire
 
-Si vous créez deux produits similaires dont seule le prix ou la taille ou les ingrédients varient, le mieux est de créer une "variante" du produit plutôt qu'un deuxième produit entier. Pour créer une variante, veuillez suivre le processus indiqué [ici](product-variants.md).
+Si vous créez deux produits similaires dont seul le prix ou la taille ou les ingrédients varient, le mieux est de créer une "variante" du produit plutôt qu'un deuxième produit entier. Pour créer une variante, veuillez suivre le processus indiqué [ici](product-variants.md).
 
 ## Fonctionnalités avancées {#fonctionnalites-avancees}
 
