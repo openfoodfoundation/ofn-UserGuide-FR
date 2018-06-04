@@ -26,7 +26,7 @@ Un exemple de message au moment du paiement :
 
  6\) **Active :** Indiquez si vous souhaitez que cette méthode soit visible et utilisable
 
-7\) **Tags :** Utilisez les tags si vous souhaitez rendre certaines méthodes de paiements accessible ou non pour certains types d'acheteurs \(voir [la page suivante](customized-shopping-experience.md#customer-tagging) pour l'utilisation de cette fonctionnalité\).
+7\) **Tags :** Utilisez les tags si vous souhaitez rendre certaines méthodes de paiements accessibles ou non pour certains types d'acheteurs \(voir [la page suivante](customized-shopping-experience.md#customer-tagging) pour l'utilisation de cette fonctionnalité\).
 
 8\) **Fournisseurs** : Sélectionnez celui qui concerne la méthode que vous créez
 
@@ -73,7 +73,7 @@ Pour permettre un paiement par Paypal, vous devez avoir un compte Paypal profess
 
 **Solution :** Ce champ détermine si les utilisateurs devront avoir un compte paypal pour payer ou non. Laissez "Mark" si l'utilisateur doit avoir un compte paypal, indiquez "Sole" si vous souhaitez le contraire.
 
-**Landing Page :** vous pouvez sélectionner la page d'accueil une fois les utilisateurs redirigez vers paypal pour leur achat. Si vous avez sélectionné "Mark" avant, il vaut mieux indiquer "Login". Si non, "Billing" les renverra directement vers un écran leur permettant d'indiquer leur numéro de carte bleue.
+**Landing Page :** vous pouvez sélectionner la page d'accueil une fois les utilisateurs redirigés vers paypal pour leur achat. Si vous avez sélectionné "Mark" avant, il vaut mieux indiquer "Login". Si non, "Billing" les renverra directement vers un écran leur permettant d'indiquer leur numéro de carte bleue.
 
 ### MasterCard Internet Gateway Service \(MIGS\)
 
@@ -91,7 +91,7 @@ Si vous souhaitez utiliser la fonctionnalité d'**abonnements**, la seule métho
 
 **Connecter avec Stripe**
 
-Avant d'utiliser strip, il faut connecter Stripe. Cliquez sur ce bouton \(menu Entreprises &gt; Gérer &gt; Méthode de paiements\) :
+Avant d'utiliser Stripe, il faut le connecter. Cliquez sur ce bouton \(menu Entreprises &gt; Gérer &gt; Méthode de paiements\) :
 
 ![](../../.gitbook/assets/image%20%2818%29.png)
 
@@ -113,19 +113,19 @@ Si vous sélectionnez une entreprise qui n'a pas de compte Stripe connecté, vou
 
 #### Les paiements stripe pour les acheteurs
 
-Quand les acheteurs utilises Stripe, il peuvent cocher une case pour que leur carte de crédit soient enregistrée pour leurs prochains paiements \(seulement s'ils sont connecté à OFF\). Dans leur profil, ils peuvent également ajouter une carte ou en supprimer une.
+Quand les acheteurs utilisent Stripe, il peuvent cocher une case pour que leur carte de crédit soit enregistrée pour leurs prochains paiements \(seulement s'ils sont connecté à OFF\). Dans leur profil, ils peuvent également ajouter une carte ou en supprimer une.
 
 ## Commissions sur les méthodes de paiements
 
 ![](../../.gitbook/assets/image%20%2888%29.png)
 
-Vous pouvez associer une marge ouune commission à une méthode de paiement. Généralement c'est utilisé pour répercuter les frais des plateformes de paiement à l'acheteur. Sélectionnez un calculateur et indiquez un montant \(voir description ci-dessous\). 
+Vous pouvez associer une marge ou une commission à une méthode de paiement. Généralement c'est utilisé pour répercuter les frais des plateformes de paiement à l'acheteur. Sélectionnez un calculateur et indiquez un montant \(voir description ci-dessous\). 
 
 _Remarque : les commissions sur les méthodes de paiement n'incluent pas les taxes._
 
 ### Le calculateur
 
-**Pourcentage net** – This fee is charged as a percentage of the total amount charged in the order.
+**Pourcentage net** – Cette marge s'applique en pourcentage du montant total de la commande.
 
 **Taux net \(par commande\)** – Cette marge s'applique de manière standard à toutes les commandes, quelque soit leur taille ou leur unité.
 

@@ -84,11 +84,11 @@ Vous pouvez modifier les caractéristiques produits sur cette page. Toutes les m
 
 Cette colonne permet de revenir à un stock par défaut, par exemple au début de chaque nouveau cycle de vente. Le stock par défaut est à indiquer dans la colonne avoisinante à cette case à cocher. En cochant la case, vous indiquer que ces produits en particulier devront revenir à un stock par défaut au moment de votre choix. Pour actionner le stock par défaut, il suffit de vous rendre sur le bouton **Action** et cliquer sur **Réinitialiser les niveaux de stock par défaut.** Seul les produits avec une case cochés seront affectés par cette action.
 
-C'est utile par exemple pour les producteurs qui savent que chaque mois ils auront deux nouvelle quantités disponible par exemple.
+C'est utile par exemple pour les producteurs qui savent que chaque mois ils auront deux nouvelles quantités disponibles par exemple.
 
 ### **Héritage**
 
-SI vous n'avez rien modifié la case à cocher "hériter?" est sélectionnée par défaut. Cela signifie que les informations entrées par le producteur et visible en gris seront reprises et publiées sur la boutique. En modifiant tous les champs ou juste certains, cette case à cocher se dé-sélectionnera automatiquement.
+Si vous n'avez rien modifié, la case à cocher "hériter?" est sélectionnée par défaut. Cela signifie que les informations entrées par le producteur et visibles en gris seront reprises et publiées sur la boutique. En modifiant tous les champs ou juste certains, cette case à cocher se dé-sélectionnera automatiquement.
 
 Pour revenir aux informations producteurs, vous pouvez à tout moment re-sélectionner cette case.
 
@@ -108,7 +108,7 @@ Sur cette page, vous pouvez décider de rendre visible certains produits en cliq
 
 ## Catalogue et cycle de vente
 
-Dans le menu Cycle de vente &gt; Modifier un cycle de vente, si vous cliquez sur "paramètres avancés" vous autre une option pour choisir si sur ce cycle en particulier les informations viennent de votre catalogue ou directement des fournisseurs :
+Dans le menu Cycle de vente &gt; Modifier un cycle de vente, si vous cliquez sur "paramètres avancés" vous disposez d'une option pour choisir si - sur ce cycle en particulier - les informations viennent de votre catalogue ou directement des fournisseurs :
 
 ![](../../.gitbook/assets/image%20%2884%29.png)
 

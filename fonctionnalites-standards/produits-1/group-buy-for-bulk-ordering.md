@@ -1,8 +1,8 @@
 # Option d'achat par lot
 
-Cette fonctionnalité est à destination des entreprises qui achètent une partie de leur stock par lot. Cette décision dépend souvent de la quantité demandée par l'acheteur final \(est-elle suffisante pour justifier l'achat par lot ?\). Ce choix peut être justifié par des réductions de prix en fonction du volume ou des frais de livraisons \(plus faibles avec des quantités plus grandes\).
+Cette fonctionnalité est à destination des entreprises qui achètent une partie de leur stock par lot. Cette décision dépend souvent de la quantité demandée par l'acheteur final \(est-elle suffisante pour justifier l'achat par lot ?\). Ce choix peut être justifié par des réductions de prix en fonction du volume ou des frais de livraison \(plus faibles avec des quantités plus grandes\).
 
-Lorsqu'un produit est lié à une fonctionnalité d'achat par lot, la colonne quantité sera affichée différemment dans la boutique. Exemple ci-dessous avec deux produits, seul le premier est lité à la fonctionnalité d'achat par lot :
+Lorsqu'un produit est lié à une fonctionnalité d'achat par lot, la colonne quantité sera affichée différemment dans la boutique. Exemple ci-dessous avec deux produits, seul le premier est lié à la fonctionnalité d'achat par lot :
 
 ![](../../.gitbook/assets/image%20%2855%29.png)
 
@@ -17,7 +17,7 @@ Dans le menu de [gestion des commandes par lot](../commandes/visualisation-des-c
 
 ## Activer l'option d'achat par lot
 
-SUr l'interface d'administration, aller dans le menu Produits, modifiez un produits existants puis rendez-vous sur le sous-menu vertical "option d'achat par lot" :
+Sur l'interface d'administration, aller dans le menu Produits, modifiez un produit existant puis rendez-vous sur le sous-menu vertical "option d'achat par lot" :
 
 ![](../../.gitbook/assets/image%20%2861%29.png)
 
