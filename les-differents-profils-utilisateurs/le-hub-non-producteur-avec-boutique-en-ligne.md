@@ -13,7 +13,7 @@ Le consommateur peut accéder à chacun des profils des producteurs livrant des 
 Pour faciliter votre gestion au jour-le-jour, l'interface d'administration vous permet de suivre les commandes et d'accéder à un historique des commandes et des paiements.
 
 **Gestion des commandes périodiques**  
-Vous décidez des périodes d'ouvertures de votre boutique et vous gérez vos cycle de vente.
+Vous décidez des périodes d'ouverture de votre boutique et vous gérez vos cycle de vente.
 
 **Implique vos fournisseurs**  
 Vos fournisseurs peuvent se connecter directement à OFF et mettre à jour leurs stocks et leurs prix, vous permettant de gagner du temps.
@@ -35,13 +35,13 @@ L'avantage d'une plateforme en ligne, c'est que vous pouvez tester à tout momen
 
 6\) Définissez les [frais](../fonctionnalites-standards/mise-en-place-dune-boutique/frais-et-taxes.md) que vous souhaitez appliquer à votre boutique.
 
-7\) [Créer ou connecter vos producteurs](../fonctionnalites-standards/votre-profil/creez-ou-connectez-vos-producteurs.md). Vous devez réaliser cette étape avant de pouvoir ajouter vos produits.
+7\) [Créez ou connectez vos producteurs](../fonctionnalites-standards/votre-profil/creez-ou-connectez-vos-producteurs.md). Vous devez réaliser cette étape avant de pouvoir ajouter vos produits.
 
-8\) Gérer vos produits
+8\) Gérez vos produits
 
-Les instructions suivantes sont divisées en fonction des choix que vous avez réalisé à l'étape 7 : soit a\) vous avez créé des profils pour les producteurs avec qui vous travaillez \(car ils n'avaient pas encore de profil OFF\) ; ou b\) vous avez connecté votre profil avec des profils de producteurs existants.
+Les instructions suivantes sont divisées en fonction des choix que vous avez réalisés à l'étape 7 : soit a\) vous avez créé des profils pour les producteurs avec qui vous travaillez \(car ils n'avaient pas encore de profil OFF\) ; ou b\) vous avez connecté votre profil avec des profils de producteurs existants.
 
-8a\) Vous avez créé des profils pour les producteurs avec lesquels je travaille  
+8a\) Vous avez créé des profils pour les producteurs avec lesquels vous travaillez  
 Dans ce cas, vous aurez aussi besoin [d'ajouter leurs produits](../fonctionnalites-standards/produits-1/produits.md) à leurs profils, avant que vous puissiez gérer les stocks.
 
 8b\) Vous avez connecté votre profil à des profils de producteurs existants  

@@ -4,7 +4,7 @@
 
 * Il s'agit d'un espace où raconter votre histoire
 * Vous serez visible sur la carte Open Food France \(OFF\)
-* Si vous souhaitez par la suite vendre en ligne, vous pourrez toujours ajouter la fonctionnalité boutique par la suite
+* Si vous souhaitez par la suite vendre en ligne, vous pourrez toujours ajouter la fonctionnalité boutique ensuite
 
 ## Les atouts
 

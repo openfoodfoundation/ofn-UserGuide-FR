@@ -44,9 +44,9 @@ Il est possible d'avoir plusieurs managers qui auront les accès d'administratio
 
 Cette page présente les stratégies pour fixer les prix des produits comme les poulets ou les potirons, vendus au kilo mais dont le poids varie.
 
-[Appliquer des tags](../fonctionnalites-standards/mise-en-place-dune-boutique/customized-shopping-experience.md) à vos clients et personnaliser leur interaction avec le site durant leurs courses. Il est par exemple possible de ne pas afficher certains produits ou certaines méthodes de paiements à certains consommateurs, ce qui peut être utile si vous avez en client des distributeurs ou des acheteurs en gros.
+[Appliquer des tags](../fonctionnalites-standards/mise-en-place-dune-boutique/customized-shopping-experience.md) à vos clients et personnaliser leur interaction avec le site durant leurs courses. Il est par exemple possible de ne pas afficher certains produits ou certaines méthodes de paiements à certains consommateurs, ce qui peut être utile si vous avez pour client des distributeurs ou des acheteurs en gros.
 
-[Rendre votre boutique privée.](../fonctionnalites-standards/mise-en-place-dune-boutique/private-shopfront.md) Si vous souhaitez vérifier le fonctionnement de votre boutique avec un nombre de clients restreints, vous pouvez également rendre votre boutique privée en la protégeant par un mot de passe.
+[Rendre votre boutique privée.](../fonctionnalites-standards/mise-en-place-dune-boutique/private-shopfront.md) Si vous souhaitez vérifier le fonctionnement de votre boutique avec un nombre de clients restreint, vous pouvez également rendre votre boutique privée en la protégeant par un mot de passe.
 
 [Réaliser une tarification personnalisée en fonction des clients.](../fonctionnalites-standards/mise-en-place-dune-boutique/customer-specific-pricing.md) Il est possible configurer une boutique afin d'appliquer une politique de prix différente en fonction de vos groupes de clients.
 
