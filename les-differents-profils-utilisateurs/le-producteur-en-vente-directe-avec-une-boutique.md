@@ -3,8 +3,8 @@
 ## A quoi correspond ce profil ?
 
 * Ce profil vous permet de vous créer votre propre boutique en ligne afin de vendre vos produits
-* Lorsque vous créez votre boutique, vous avez égaement un profil en ligne, ce qui vous permet de raconter votre histoire
-* Avec ce profil, vous serez automatiquement visibles sur la carte OFF et sur le listing des producteurs
+* Lorsque vous créez votre boutique, vous avez également un profil en ligne, ce qui vous permet de raconter votre histoire
+* Avec ce profil, vous serez automatiquement visible sur la carte OFF et sur le listing des producteurs
 
 ## Les atouts
 
@@ -15,7 +15,7 @@ Une boutique en ligne inclue toutes les fonctionnalités vous permettant de vend
 Pour faciliter votre gestion au jour-le-jour, l'interface d'administration vous permet de suivre les commandes et d'accéder à un historique des commandes et des paiements.
 
 **Collaborer avec d'autres membres**  
-Open Food France \(OFF\) est un réseau : vous pouvez vous connecter à d'autres boutiques. Ainsi vous stocker vos produits dans votre propre boutique en ligne, mais vous pouvez également fournir les autres boutiques d'OFF.
+Open Food France \(OFF\) est un réseau : vous pouvez vous connecter à d'autres boutiques. Ainsi vous stockez vos produits dans votre propre boutique en ligne, mais vous pouvez également fournir les autres boutiques d'OFF.
 
 **Vous rendre visible**  
 La première étape avant de créer votre boutique en ligne, c'est la création de votre profil. En ayant un profil sur OFF, vous devez visible pour votre communauté locale. Les consommateurs peuvent vous contacter, et il en va de même pour toutes les autres entreprises présentes dans le réseau et souhaitant collaborer avec vous ou distribuer vos produits.
@@ -26,7 +26,7 @@ La première étape avant de créer votre boutique en ligne, c'est la création 
 
 2\) Sélectionnez le producteur en vente directe avec une boutique dans les [types de package](../fonctionnalites-standards/votre-profil/types-de-package.md).
 
-3\) Si vous souhaitez modifier votre profil, ou ajouter des détails vous pouvez modifier vos [Paramètres](../fonctionnalites-standards/votre-profil/parametres.md). A cet endroit, vous pouvez également choisir vos préférences, notamment si votre boutique est privée ou publique, mais aussi écrire un texte de bienvenue.
+3\) Si vous souhaitez modifier votre profil ou ajouter des détails, vous pouvez modifier vos [Paramètres](../fonctionnalites-standards/votre-profil/parametres.md). A cet endroit, vous pouvez également choisir vos préférences, notamment si votre boutique est privée ou publique, mais aussi écrire un texte de bienvenue.
 
 4\) Définissez et paramétrez vos [méthodes de livraison](../fonctionnalites-standards/mise-en-place-dune-boutique/types-de-livraisons.md).
 
@@ -36,9 +36,9 @@ La première étape avant de créer votre boutique en ligne, c'est la création 
 
 ### Ouvrez votre boutique !
 
-7\) [Ouvrez votre boutique en ouvrant un nouveau cycle de vente](). En créant le cycle de vente, vous allez pouvoir définir à quel moment votre boutique est ouverte et à quel moment elle ferme. Ce processus va ensutie ce répéter. C'est ce que nous appelons un cycle de vente. A chaque fois qu'un cycle de vente est créé, vous avez la possibilité de choisir les produits en stock.
+7\) [Ouvrez votre boutique en ouvrant un nouveau cycle de vente](../fonctionnalites-standards/mise-en-place-dune-boutique/cycle-de-vente-pour-les-fournisseurs.md#2-creer-un-nouveau-cycle-de-vente). En créant le cycle de vente, vous allez pouvoir définir à quel moment votre boutique est ouverte et à quel moment elle ferme. Ce processus va ensuite se répéter. C'est ce que nous appelons un cycle de vente. A chaque fois qu'un cycle de vente est créé, vous avez la possibilité de choisir les produits en stock.
 
-### Hourra ! Vous êtes prêts à vendre !
+### Hourra ! Vous êtes prêt à vendre !
 
 Vous pouvez désormais [voir vos commandes](../fonctionnalites-standards/commandes/visualisation-des-commandes.md), [observer des rapports détaillés](https://github.com/OFNUserguideFr/OFNUserGuide-France/tree/ba35ff4002c6dbbe2705dd144d265eef9973c6e7/reports.md) et explorer des fonctionnalités avancées afin de réaliser votre boutique sur mesure.
 
@@ -46,5 +46,5 @@ Vous pouvez désormais [voir vos commandes](../fonctionnalites-standards/command
 
 * [Intégrer](../fonctionnalites-standards/mise-en-place-dune-boutique/embedded-shops.md) votre boutique dans VOTRE site internet
 * [Fixer les prix de produits "irréguliers" comme la viande](../fonctionnalites-standards/produits-1/pricing-irregular-items-kg.md)
-* [Ouvrir plusieurs cycles de ventre simultanés](../fonctionnalites-standards/mise-en-place-dune-boutique/opening-more-than-one-order-cycle.md).
+* [Ouvrir plusieurs cycles de vente simultanés](../fonctionnalites-standards/mise-en-place-dune-boutique/opening-more-than-one-order-cycle.md).
 

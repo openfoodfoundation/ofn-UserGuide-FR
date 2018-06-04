@@ -14,11 +14,11 @@
 Lorsque vous vous créez un compte sur la plateforme Open Food France, vous devez visible dans la communauté locale et francophone. Les consommateurs peuvent commander vos produits, vous pouvez vendre vos produits au travers de diverses boutiques \(avec lesquelles vous travaillez peut-être déjà\) et d'autres entreprises peuvent vous contacter pour des partenariats éventuels.
 
 **Accéder à plusieurs boutiques qui pourront vendre vos produits**  
-Si vous travaillez déjà avec une boutique visible sur Open Food France, vous inscrire vous permettra de gérer vos produits et de les rendre visible à cette boutique. Par la suite, vous pourrez également choisir de vendre vo produits au travers d'autres boutiques du réseau Open Food France.
+Si vous travaillez déjà avec une boutique visible sur Open Food France, vous inscrire vous permettra de gérer vos produits et de les rendre visible à cette boutique. Par la suite, vous pourrez également choisir de vendre vos produits au travers d'autres boutiques du réseau Open Food France.
 
 ## Les étapes de création du profil
 
-1\) [Créez votre compte](../fonctionnalites-standards/inscription-et-creation-de-profil.md) on Open Food France. Cette étape vous demandera de renseigner des informations standards sur votre entreprise. Egalement un email vous sera envoyé afin que vous puissiez compléter votre adresse email.
+1\) [Créez votre compte](../fonctionnalites-standards/inscription-et-creation-de-profil.md) sur Open Food France. Cette étape vous demandera de renseigner des informations standards sur votre entreprise. Egalement un email vous sera envoyé afin que vous puissiez compléter votre adresse email.
 
 2\) Veuillez sélectionner un [type de package](../fonctionnalites-standards/votre-profil/types-de-package.md).
 

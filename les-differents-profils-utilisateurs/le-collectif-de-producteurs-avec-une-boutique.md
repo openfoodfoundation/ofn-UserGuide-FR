@@ -2,7 +2,7 @@
 
 ## A quoi correspond ce profil ?
 
-On parle ici d'un collectif de producteurs qui se rassemblent pour travailler ensemble et vendre au sein de la même boutique en ligne. Ce format assure aux clients une plus grande variété de produit, centralisé en un seul point de vente. Les livraisons et les frais annexes sont également mutualisés.
+On parle ici d'un collectif de producteurs qui se rassemblent pour travailler ensemble et vendre au sein de la même boutique en ligne. Ce format assure aux clients une plus grande variété de produit, centralisée en un seul point de vente. Les livraisons et les frais annexes sont également mutualisés.
 
 ## Les atouts
 
@@ -12,14 +12,14 @@ Vos clients ont donc la possibilité de voir des produits de producteurs différ
 **Administration centrale minimale**    
 Pour faciliter votre gestion au jour-le-jour, l'interface d'administration vous permet de suivre les commandes et d'accéder à un historique des commandes et des paiements.
 
-Par ailleurs chaque producteurs peut accéder et modifier ses informations directement. Cela facilite la gestion et permet un gain de temps.
+Par ailleurs chaque producteur peut accéder et modifier ses informations directement. Cela facilite la gestion et permet un gain de temps.
 
 **Améliore la communication entre les parties prenantes**   
 Il est possible d'utiliser les fonctions de rapports pour permettre aux producteurs de connaitre ce qui a été commandé et calculer les chiffres d'affaires globaux et individuels.
 
 ## Les étapes de création du profil
 
-Ces étapes sont très similaire avec la création d'un hub avec une boutique en ligne.
+Ces étapes sont très similaires avec la création d'un hub avec une boutique en ligne.
 
 1\) [Créez votre profil](../fonctionnalites-standards/inscription-et-creation-de-profil.md) sur Open Food France \(OFF\). Pour cette étape, il est nécessaire d'avoir vos coordonnées et un accès à votre boite mail à proximité afin de valider votre adresse.
 

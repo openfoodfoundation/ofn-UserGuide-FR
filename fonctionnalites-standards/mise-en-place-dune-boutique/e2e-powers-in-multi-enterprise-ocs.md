@@ -12,11 +12,11 @@
 
 * Le coordinateur peut ajouter des entreprises en tant que fournisseurs. Pour ce faire, l'entreprise doit :
 * être valide \(une adresse email confirmée\)
-* avoir donné les droits au coordinateur d'ajouter leurs produtis dans son cycle de vente
+* avoir donné les droits au coordinateur d'ajouter leurs produits dans son cycle de vente
 
 ## Sortant
 
-* Le coordinateur peut ajouter les entreprises comme distributeur \(sortant\) - lui-même inclut.
+* Le coordinateur peut ajouter les entreprises comme distributeur \(sortant\) - lui-même inclus.
 
 Pour faire ceci, le distributeur doit être :
 
