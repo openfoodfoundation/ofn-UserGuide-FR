@@ -34,7 +34,7 @@ Pour finaliser, cliquez sur "Mettre à jour". Une fois que la marge a été cré
 
 ![](../../.gitbook/assets/image%20%2857%29.png)
 
-**Pourcentage net** – This fee is charged as a percentage of the total amount charged in the order.
+**Pourcentage net** – Cette marge s'applique en pourcentage sur le montant total de la commande.
 
 **Poids \(au kg\)** – cette marge s'applique aux produits vendus par kg. Elle ne s'appliquera donc pas aux produits vendus à la pièce.
 
@@ -52,7 +52,7 @@ Exemple :  Si la marge du premier est de 2€, celle de l'objet supplémentaire 
 
 **Taux net \(par item\)** – Cette marge est constante et s'applique uniquement aux produits vendus à la pièce \(et non ceux vendus au poids\).
 
-**Price Sack** – Cette marge est utilisée pour appliquer une marge réduite à partir du moment où la commande atteind un certain montant.
+**Price Sack** – Cette marge est utilisée pour appliquer une marge réduite à partir du moment où la commande atteint un certain montant.
 
 * ‘Montant minimal’ : Si la commande est en-dessous de ce montant, le consommateur devra payer le ‘Montant normal'.
 * ‘Montant de la réduction’ : Si la commande est égale ou supérieure au montant minimal, le consommateur devra payer le ‘Montant de la réduction’.

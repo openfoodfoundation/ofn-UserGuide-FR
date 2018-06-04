@@ -27,8 +27,8 @@
     * [Catalogue boutique](fonctionnalites-standards/produits-1/inventory-tool.md)
     * [Option d'achat par lot](fonctionnalites-standards/produits-1/group-buy-for-bulk-ordering.md)
   * Boutique
-    * [Méthodes de paiements](fonctionnalites-standards/mise-en-place-dune-boutique/methodes-de-paiements.md)
-    * [Méthodes de livraisons](fonctionnalites-standards/mise-en-place-dune-boutique/types-de-livraisons.md)
+    * [Méthodes de paiement](fonctionnalites-standards/mise-en-place-dune-boutique/methodes-de-paiements.md)
+    * [Méthodes de livraison](fonctionnalites-standards/mise-en-place-dune-boutique/types-de-livraisons.md)
     * [Marges et commissions](fonctionnalites-standards/mise-en-place-dune-boutique/frais-et-taxes.md)
     * [Cycle de vente pour les hubs](fonctionnalites-standards/mise-en-place-dune-boutique/cycle-de-vente-pour-les-hub.md)
     * [Cycle de vente pour les fournisseurs](fonctionnalites-standards/mise-en-place-dune-boutique/cycle-de-vente-pour-les-fournisseurs.md)

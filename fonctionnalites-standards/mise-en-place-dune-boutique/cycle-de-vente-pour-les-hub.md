@@ -4,7 +4,7 @@
 
 _\*Vous êtes un producteur ? Rendez-vous sur_ [_Cycle de vente pour les fournisseurs_](cycle-de-vente-pour-les-fournisseurs.md)_._
 
-En ouvrant un cyclde de vente, vous définissez les périodes d'ouverture de votre boutique, les produits présents ainsi que les marges et commissions associées.
+En ouvrant un cycle de vente, vous définissez les périodes d'ouverture de votre boutique, les produits présents ainsi que les marges et commissions associées.
 
 **Pourquoi gérer par cycle de vente ?** Certaines entreprises préfèrent avoir une ouverture en continu et répondre ainsi aux commandes au fil de l'eau. D'autres fonctionnent par périodes. Par exemple, les ventes seront ouvertes pendant deux semaines \(un cycle de vente de deux semaines\) : à la fin de ces deux semaines, toutes les commandes seront emballées et distribuées en même temps. Une fois que ce lot de commandes a été géré, un nouveau cycle de vente redémarre. Cela permet d'optimiser l'emballage et le transport.
 
@@ -26,7 +26,7 @@ La première chose à faire est de sélectionner un coordinateur pour votre cycl
 
 ![](../../.gitbook/assets/image%20%2847%29.png)
 
-**Nom :** Choississez un nom pou le cycle. Il sera visible uniquement pour vous, donc indiquez quelque chose qui vous permettra de le retrouver facilement ensuite. Par exemple vous pouvez choisir un protocole du type _Commandesemaine26\_2018._
+**Nom :** Choississez un nom pour le cycle. Il sera visible uniquement pour vous, donc indiquez quelque chose qui vous permettra de le retrouver facilement ensuite. Par exemple vous pouvez choisir un protocole du type _Commandesemaine26\_2018._
 
 **Commandes à partir de :** La date à laquelle votre boutique commencera à accepter des commandes.
 
@@ -36,19 +36,19 @@ La première chose à faire est de sélectionner un coordinateur pour votre cycl
 
 ### 3. Produits entrants
 
-Ici vous pouvez sélectionner les producteurs et les produits qui seront accessibles durant le cycle de vente. Les producteurs visibles dans la liste déroulante sont uniquement les producteurs vous [ayant donné accès à leur catalogue](). Cliquez bien sur "ajouter un fournisseur" pour voir les produits associés à ce fournisseur. Cohez les produits que vous souahitez ajouter \(vous pouvez aussi les sélectionner tous\). **Attention** : les produits qui on une valeur "à volonté" à 0 s'afficheront également. Faites bien attention au stock disponible en les ajoutant. 
+Ici vous pouvez sélectionner les producteurs et les produits qui seront accessibles durant le cycle de vente. Les producteurs visibles dans la liste déroulante sont uniquement les producteurs vous [ayant donné accès à leur catalogue](../votre-profil/e2e-permissions.md). Cliquez bien sur "ajouter un fournisseur" pour voir les produits associés à ce fournisseur. Cochez les produits que vous souahitez ajouter \(vous pouvez aussi les sélectionner tous\). **Attention** : les produits qui ont une valeur "à volonté" à 0 s'afficheront également. Faites bien attention au stock disponible en les ajoutant. 
 
-Les **détails de livraison produits Details** sont facultatifs. 
+Les **détails de livraison produits** sont facultatifs. 
 
 Le bouton pour ajouter une marge ou commission vous permet de l'ajouter par fournisseur. Sélectionnez le nom de l'entreprise, puis le nom de la marge comme dans l'exemple ci-dessous. 
 
-Cette marge s'appliquera à tous les produits du fournisseur.La marge sera calculée en fonction du calculateur sélectionné précédemment, voir guide [Marges et commissions](frais-et-taxes.md).
+Cette marge s'appliquera à tous les produits du fournisseur. La marge sera calculée en fonction du calculateur sélectionné précédemment, voir guide [Marges et commissions](frais-et-taxes.md).
 
 ![Apply enterprise fee to incoming supplier](https://openfoodnetwork.org/wp-content/uploads/2015/05/Enterprise-Fee.png)
 
 ### 4. Produits sortants
 
-Le distributeur sélectionné dans cette catégorie aura une boutique ouverte avec ce cycle de vente. Dans un modèle simple, il n'y a qu'un seul distributeur, le hub. IL suffit de le sélectionner puis de sélectionner tous les produits associés. Dans un modèle plus complexe avec plusieurs hubs, vous avez ainsi la possibilité de sélectionner des produits différent pour chaque hub. 
+Le distributeur sélectionné dans cette catégorie aura une boutique ouverte avec ce cycle de vente. Dans un modèle simple, il n'y a qu'un seul distributeur, le hub. Il suffit de le sélectionner puis de sélectionner tous les produits associés. Dans un modèle plus complexe avec plusieurs hubs, vous avez ainsi la possibilité de sélectionner des produits différents pour chaque hub. 
 
 Les **tags** vous permettent de taguer le cycle de vente \(voir [Gestion des tags et comptes clients](customized-shopping-experience.md)\).
 

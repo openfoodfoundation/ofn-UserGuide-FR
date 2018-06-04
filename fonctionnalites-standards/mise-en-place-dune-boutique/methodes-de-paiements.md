@@ -1,6 +1,6 @@
-# Méthodes de paiements
+# Méthodes de paiement
 
-Vous devez créer des méthodes de paiements avant de pouvoir ouvrir votre boutique.
+Vous devez créer des méthodes de paiement avant de pouvoir ouvrir votre boutique.
 
 ## Paramétrer une méthode de paiement
 
@@ -137,7 +137,7 @@ _Remarque : les commissions sur les méthodes de paiement n'incluent pas les tax
 
 ![](../../.gitbook/assets/image%20%2810%29.png)
 
-Exemple :  Si la marge du premier est de 2€, celle de l'objet supplémentaire 1 € et le nombre maximum d'objet est de 3. Si un client en commande 5, il paiera 2 € pour le premier, 1€ pour le second et aucune commissions pour les objets 3 et 4.
+Exemple :  Si la marge du premier est de 2€, celle de l'objet supplémentaire 1 € et le nombre maximum d'objet est de 3. Si un client en commande 5, il paiera 2 € pour le premier, 1€ pour le second et aucune commission pour les objets 3 et 4.
 
 **Taux net \(par item\)** – Cette marge est constante et s'applique uniquement aux produits vendus à la pièce \(et non ceux vendus au poids\).
 
