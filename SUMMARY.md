@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Guide utilisateur Open Food France](README.md)
+* [Prise en main rapide](prise-en-main-rapide.md)
 * [Profils utilisateurs](les-differents-profils-utilisateurs/README.md)
   * [Le producteur sans boutique](les-differents-profils-utilisateurs/le-producteur-sans-boutique.md)
   * [Le producteur en vente directe avec une boutique](les-differents-profils-utilisateurs/le-producteur-en-vente-directe-avec-une-boutique.md)
