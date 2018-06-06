@@ -13,21 +13,21 @@
   * [Le marché virtuel avec boutique](les-differents-profils-utilisateurs/le-marche-virtuel-avec-boutique.md)
 * [Fonctionnalités](fonctionnalites-standards/README.md)
   * [Inscription et création de profil](fonctionnalites-standards/inscription-et-creation-de-profil.md)
-  * Profil utilisateur
+  * [Profil utilisateur](fonctionnalites-standards/votre-profil/README.md)
     * [Sélection du type de profil](fonctionnalites-standards/votre-profil/types-de-package.md)
     * [Paramètres du profil](fonctionnalites-standards/votre-profil/parametres.md)
     * [Créez ou connectez vos producteurs](fonctionnalites-standards/votre-profil/creez-ou-connectez-vos-producteurs.md)
     * [Rendre un profil producteur simple consultable par catégorie de produit](fonctionnalites-standards/votre-profil/making-a-producer-profile-searchable-by-product-category.md)
     * [Permissions inter-entreprises](fonctionnalites-standards/votre-profil/e2e-permissions.md)
     * [Transférer les accès d'un profil](fonctionnalites-standards/votre-profil/transfer-ownership.md)
-  * Produits
+  * [Produits](fonctionnalites-standards/produits-1/README.md)
     * [Ajouter des produits](fonctionnalites-standards/produits-1/produits.md)
     * [Les variantes](fonctionnalites-standards/produits-1/product-variants.md)
     * [Propriétés / labels](fonctionnalites-standards/produits-1/product-properties.md)
     * [Fixer un prix pour les produits irréguliers au kg](fonctionnalites-standards/produits-1/pricing-irregular-items-kg.md)
     * [Catalogue boutique](fonctionnalites-standards/produits-1/inventory-tool.md)
     * [Option d'achat par lot](fonctionnalites-standards/produits-1/group-buy-for-bulk-ordering.md)
-  * Boutique
+  * [Boutique](fonctionnalites-standards/mise-en-place-dune-boutique/README.md)
     * [Méthodes de paiement](fonctionnalites-standards/mise-en-place-dune-boutique/methodes-de-paiements.md)
     * [Méthodes de livraison](fonctionnalites-standards/mise-en-place-dune-boutique/types-de-livraisons.md)
     * [Marges et commissions](fonctionnalites-standards/mise-en-place-dune-boutique/frais-et-taxes.md)
@@ -41,11 +41,11 @@
     * [Gestion des tags et comptes clients](fonctionnalites-standards/mise-en-place-dune-boutique/customized-shopping-experience.md)
     * [Boutiques intégrées à votre site web](fonctionnalites-standards/mise-en-place-dune-boutique/embedded-shops.md)
     * [Imprimer les tickets de caisse](fonctionnalites-standards/mise-en-place-dune-boutique/thermally-printed-receipts.md)
-  * Commandes
+  * [Commandes](fonctionnalites-standards/commandes/README.md)
     * [Gestion des commandes](fonctionnalites-standards/commandes/visualisation-des-commandes.md)
     * [Création de commandes](fonctionnalites-standards/commandes/manual-orders.md)
   * [Tableau de Bord](fonctionnalites-standards/tableau-de-bord.md)
-  * Groupes
+  * [Groupes](fonctionnalites-standards/groupes/README.md)
     * [Créer une page groupe](fonctionnalites-standards/groupes/create-group-page.md)
     * [Intégrer une page groupe à un site web](fonctionnalites-standards/groupes/embed-a-group-page.md)
 * [FAQs](faqs/README.md)
