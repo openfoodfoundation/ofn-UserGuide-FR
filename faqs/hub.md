@@ -24,6 +24,10 @@
 
   OFF est une association collégiale. Notre ambition est de co-construire et co-gérer la plateforme ensemble. 
 
+**Combien ça coûte d'utiliser OFF ?**
+
+Aujourd'hui l'utilisation d'OFF repose sur donation libre. Nous avons entamé une réflexion sur la création d'une SCIC. Le modèle de prix commence à être discuté et nécessite le consement des membres, tout en assurant l'équilibre économique du projet. Nous rejoindre, c'est aussi avoir la possibilité de participer à notre gouvernance !
+
 ## La plateforme peut-elle vous convenir ?
 
 **Je vends déjà mes produits via une boutique en ligne que j'ai créé.**

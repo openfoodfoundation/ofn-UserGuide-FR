@@ -24,6 +24,10 @@
 
   OFF est une association collégiale. Notre ambition est de co-construire et co-gérer la plateforme ensemble. 
 
+**Combien ça coûte d'utiliser OFF ?**
+
+Aujourd'hui l'utilisation d'OFF repose sur donation libre. Nous avons entamé une réflexion sur la création d'une SCIC. Le modèle de prix commence à être discuté et nécessite le consement des membres, tout en assurant l'équilibre économique du projet. Nous rejoindre, c'est aussi avoir la possibilité de participer à notre gouvernance !
+
 ## La plateforme peut-elle vous convenir ?
 
 **Je suis un producteur et je souhaite vendre en direct aux consommateurs via ma propre boutique**
@@ -83,6 +87,14 @@ Vous pouvez ajouter un message d'accueil à votre boutique.
 **Je produis des oeufs, pourtant mon profil ne s'affiche pas lorsque je regarde la liste des producteurs d'oeufs sur la plateforme. Pourquoi ?**
 
 Si vous avez un profil uniquement, il faut créer des produits factices \(et invisibles\). Rendez-vous sur [cette page.](../fonctionnalites-standards/votre-profil/making-a-producer-profile-searchable-by-product-category.md)
+
+**Je vends de la viande et doit m’assurer de pré-commandes suffisantes avant d’envoyer l’animal à l’abattoir. Comment fixer une quantités minimale de produits commandés ?**
+
+Rendez-vous [sur cette page](../fonctionnalites-standards/produits-1/group-buy-for-bulk-ordering.md).
+
+**Peut-on intégrer la boutique dans un site internet existant ?**
+
+Oui tout à fait. Consultez [cette page](../fonctionnalites-standards/mise-en-place-dune-boutique/embedded-shops.md) pour suivre les instructions.
 
 ## Livraison et paiement
 

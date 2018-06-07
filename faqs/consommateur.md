@@ -48,6 +48,10 @@ En vous connectant à la plateforme \(en haut à droite sur la page d'accueil\),
 
 Les boutiques OFF sont très diverses, cela signifie qu'il y en a forcément une qui correspond à vos besoins. Vous pouvez utilisez la carte pour découvrir les boutiques à côté de chez vous. Sur chaque profil de boutique, vous pouvez connaitre le type de produits vendus, les méthodes de paiement et de livraison, et surtout, connaitre les producteurs à l'origine des produits vendus \(quelles sont leurs méthodes de production, etc\). Les tarifs sont transparents : pour chaque boutique vous connaissez le montant reversé à la boutique et le montant reversé au producteur.
 
+**Puis-je acheter dans toutes les boutiques ?**
+
+Certaines boutiques sont réservées à leurs membres. Vous les reconnaitrez car un mot de passe vous est demandé pour y accéder ou réaiser vos achats. Prenez contact avec les responsables de la boutique pour faire partie des membres.
+
 **Les produits vendus sont-ils bon marché ?**
 
 Notre objectif est de rendre accessible les bons produits aux bons prix \(bons pour les producteurs, bons pour les consommateurs\). En réduisant les intermédiaires et en affichant une meilleure transparence, les consommateurs peuvent savoir d'où viennent les produits achetés et à quoi sert leur argent.
