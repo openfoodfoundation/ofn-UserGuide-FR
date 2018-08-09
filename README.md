@@ -35,5 +35,5 @@ La Foire aux Questions en fin de guide peut vous aiguiller également.
 
 ## D'autres questions ? Des améliorations ?
 
-N'hésitez pas à nous écrire à l'adresse suivante : [CONTACT](http://nicolasf.synology.me/wordpress/support-formulaire/)
+N'hésitez pas à nous écrire à l'adresse suivante : support\[at\]openfoodfrance.org
 
