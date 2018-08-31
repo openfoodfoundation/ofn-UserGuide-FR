@@ -67,29 +67,15 @@ Vous pouvez aussi les ajouter à votre liste une fois leur compte créé. Dans t
 
 ## 5\) Les rythmes d'abonnement {#5-schedules}
 
-If you are new to OFN we encourage you to get familiar with setting up [order cycles](https://guide.openfoodnetwork.org/advanced-features/order-cycles) before setting up schedules.
+S'il s'agit de votre première utilisation d'OFF, nous vous conseillons de vous familiariser tout d'abord avec le concept de [cycle de vente](../mise-en-place-dune-boutique/cycle-de-vente-pour-les-hub.md).
 
 ### A propos {#about-schedules}
 
-Subscriptions are setup so that every time a shop opens an order cycle, orders are automatically generated for customers who have a subscription with that shop. However, the system has the added flexibility of allowing shops to decide _which_ order cycles the subscription will apply in. This allows shops to have some order cycles which trigger subscription orders to be created, and some which do not.
+Le module de commande récurrente fonctionne de manière à ce qu'a chaque réouverture de cycle de vente, les commandes sont générées automatiquement pour les acheteurs ayant une commande récurrente avec la boutique en question. Cependant il est important de noter que le système est suffisamment flexible pour autoriser les boutiques à décider _quel_ cycle de vente autorise des commandes récurrentes. Ainsi si vous disposez de plusieurs [cycles de ventes simultanés](../mise-en-place-dune-boutique/opening-more-than-one-order-cycle.md), tous ne sont pas obligés d'accepter les commandes récurrentes.
+
+Au delà de la simple actiation / désactivation de la fonctionnalité par cycle de vente, les commandes récurrentes suivent le paramètre des rythmes d'abonnement \(hebdomadaire, mensuel, bi-mensuel,...\). Lorsqu'un rythme d'abonnement a été créé et associé à des commandes récurrentes, ces commandes ne seront lancées que pour les nouveaux cycles de vente reliés à ce rythme d'abonnement.
 
 Which order cycles trigger subscriptions is controlled through an additional element in the Order Cycle setup process, called ‘schedules’. Schedules are groups that order cycle can be assigned to. Once a schedule has been created, customer subscriptions are applied to the schedule, so that an order for their subscription will only be generated for new order cycles in that schedule.
-
-Let’s clarify with some examples:
-
-**Exemple 1**
-
-Harvest Hub runs weekly order cycles. Customers are able to subscribe to either a weekly, or fortnightly order.
-
-In this case there will be two schedules. One that contains all order cycles- the weekly subscribers will have their subscription assigned to this schedule. The second schedule will contain only every second order cycle- the fortnightly subscribers will have their subscription assigned to this schedule.
-
-#### Exemple 2 {#example-2}
-
-Delta Farm runs two order cycle a week, one for a Monday delivery and one for a Thursday delivery.
-
-Most of their customers subscribe to one delivery a week, but some of their hospitality customers subscribe to both the Monday and Thursday delivery.
-
-In this case there will be two schedules, one for the Monday customers and one for the Thursday customers. Those customers who want a subscription on both days can have a subscription applied to both schedules.
 
 ### Créer un rythme {#create-a-schedule}
 
