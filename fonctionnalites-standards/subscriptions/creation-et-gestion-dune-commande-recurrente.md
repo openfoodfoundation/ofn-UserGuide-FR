@@ -34,29 +34,19 @@ Cliquez ensuite sur "Nouvel abonnement" :
 
 **Commence à :** Il s'agit de la date de début de la commande récurrente. Elle peut s'appliquer à un cycle de vente en cours comme à un cycle de vente futur.
 
-**Termine à :** Après cette date la commande récurrente ne sera plus générée. Ce champ peut être laissé vide et dans ce cas la commande se génèrera indéfiniment \(mais peut être modifié par la suite\).
+**Termine à :** Après cette date la commande récurrente ne sera plus générée. Ce champ peut être laissé vide et dans ce cas la commande se génèrera indéfiniment \(mais cela peut être modifié par la suite\).
 
-How exactly does the end date interact with the OC dates? If the customer's subscription end date is after the opening date of an OC in their schedule, but before the end date of the OC, there won't be an order generated. The last order will only be generated for the last order cycle which closes before their subscription end date.
+Si la date de fin de la commande récurrente de l'acheteur se situe après la date de début d'un cycle de vente et avant la date de fin de celui-ci, il n'y aura pas de génération de commande sur ce cycle de vente. La dernière commande ne sera générée que pour le dernier cycle de vente qui ferme avant la fermeture de leur commande récurrente.
 
-**Address:** Fill out the customer’s billing and shipping details. If there is saved customer shipping and billing details in your customers page, this information will load automatically.![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-L9rgoFPNHO-1OtFNdJD%2F-L9rgzD1kyo45SYhENKf%2FNew%20Subscription%20Address.png?generation=1523500449131034&alt=media)
+**Adresse :** Complétez les coordonnées de votre acheteur \(s'il était déjà connu de la plateforme, les champs seront pré-remplis\).
 
-**Add Products**
+**Ajouter des produits :** Vous pouvez ajouter des produits de cycle de vente futur, si la date correspond au rythme d'abonnement.
 
-You can add any products that are in future Order Cycles that are within the schedule. You can't add products to a subscription if they aren't in any future order cycles within the schedule that the customer is subscribing to.![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-L9rgoFPNHO-1OtFNdJD%2F-L9rgzDGblxfdeq1aeQG%2FNew%20subscription%20add%20products?generation=1523500449583522&alt=media)
+#### Vérifier et enregitrer : reliser le tout et cliquez sur créer un abonnement ou annuler. {#summary}
 
-#### Summary {#summary}
-
-Check that details are correct and then click **Create Subscription** or **Cancel**.
-
-Warning! If you have an order cycle which is open and assigned to a schedule, the moment you create a subscription for a customer to that schedule, an order will get created for them, and they'll be sent a confirmation email. If you're just setting up subscriptions, and don't want any orders to be triggered, make sure you don't have an open order cycle. See [8\) How subscriptions are processed](https://guide.openfoodnetwork.org/advanced-features/subscriptions/subscriptions-creating-and-managing-orders#8-how-subscriptions-are-processed) below for more details.
-
-**What happens if the price of a product changes after the subscription is made?**
-
-The prices of items within subscriptions will update and the customer will be charged according to the updated price.
-
-**What if a product in a subscription is not available in an order cycle?**
-
-When an item in a subscription is not available the customer will be alerted in their confirmation emails.
+{% hint style="info" %}
+Attention : si vous avez un cycle de vente en cours et assigné à un rythme d'abonnement, dès la création de la commande récurrente, une commande va être générée et l'acheteur recevra un email de confirmation.
+{% endhint %}
 
 ## 7\) Edit a customer’s subscription {#7-edit-a-customers-subscription}
 
