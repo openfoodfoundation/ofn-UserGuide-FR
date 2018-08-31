@@ -17,7 +17,7 @@ Activez le module en vous rendant sur les paramètres de votre profil :
 * Si vous permettez à l'acheteur de modifier la commande il va pouvoir modifier les quantités achetées et retirer des produits. Pour en ajouter, il devra faire une nouvelle commande
 * Dans le cas contraire, ils devront vous contacter pour réaliser des modifications. Ils pourront cependant toujours réaliser une nouvelle commande.
 
-## 2\) Vérification des méthodes de paiement et de livraison {#2-make-sure-you-have-shipping-and-payment-methods-setup}
+## 2\) Vérifiez des méthodes de paiement et de livraison {#2-make-sure-you-have-shipping-and-payment-methods-setup}
 
 Lorsque vous créez une commande récurrente pour un achteur, il faut que vous indiquez la méthode de paiement et de livraison choisie.
 

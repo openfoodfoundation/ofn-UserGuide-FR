@@ -6,7 +6,9 @@ Le module subscriptions est en version béta, c'est-à-dire qu'il s'agit d'une n
 
 ## A quoi sert ce module ? {#what-are-subscriptions}
 
-Ce module vous permet de mettre en place des commandes récurrentes pour vos clients. Une fois mis en place, ces commandes seront automatiquement traités à intervales définis. Cette fonctionnalité permet aux clients de ne pas avoir à renouveler une commande régulière.
+Ce module vous permet de mettre en place des commandes récurrentes pour vos clients. Une fois mises en place, ces commandes seront automatiquement traités à intervales définis. Cette fonctionnalité permet aux clients de ne pas avoir à renouveler une commande régulière.
+
+Dans la première version du module, seul les managers de boutique en ligne peuvent mettre en place les commandes récurrentes, l'acheteur n'a pas la main directement dessus pour générer la mise en place de la commande.
 
 En résumé :
 

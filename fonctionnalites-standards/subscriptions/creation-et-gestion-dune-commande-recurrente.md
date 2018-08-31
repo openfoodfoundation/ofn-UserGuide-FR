@@ -1,17 +1,18 @@
+---
+description: >-
+  Cette page décrit comment une boutique peut créer et gérer des commandes
+  récurrentes individuelles.
+---
+
 # Création et gestion d'une commande récurrente
 
-This page describes how shops can setup unique subscriptions for individual customers, including which items are in the subscription, which schedule the subscription applies to and pausing and editing the subscription.
+**Checklist des points à réaliser avant de réaliser les étapes décrites ici :**
 
- In this first version of the subscriptions feature, shops must setup subscriptions on behalf of their customers. There is no customer facing place where customers can setup their own subscription.
-
-**Checklist of things to do before you create subscriptions for you customers:**
-
-* Enable subscriptions in your [Enterprise Settings](https://guide.openfoodnetwork.org/basic-features/enterprise-settings#shop-preferences)​
-* Setup [shipping and payment methods](https://guide.openfoodnetwork.org/advanced-features/subscriptions/subscriptions-configuration#2-make-sure-you-have-shipping-and-payment-methods-setup)​
-* Have made contact with you customers to [get their details](https://guide.openfoodnetwork.org/advanced-features/subscriptions/subscriptions-configuration#3-gather-information-from-your-customers)​
-* Added your subscription customers to your [customer list](https://guide.openfoodnetwork.org/advanced-features/subscriptions/subscriptions-configuration#4-add-your-subscribers-to-your-customer-list).
-* Have contacted your customers to request that they [sign up for an account with OFN](https://guide.openfoodnetwork.org/advanced-features/subscriptions/subscriptions-the-customers-perspective#signing-up-to-ofn), and _if_ they will be billed with stripe, to request they [save their card and authorise your shop to charge it](https://guide.openfoodnetwork.org/advanced-features/subscriptions/subscriptions-the-customers-perspective#saving-credit-cards-and-authourising-charges).
-* Created at least one [Schedule](https://guide.openfoodnetwork.org/advanced-features/subscriptions/subscriptions-configuration#5-schedules)​
+* [Activez les commandes récurrentes dans votre profil](configuration.md#1-enable-subscriptions).​
+* Vérifiez les [méthodes de paiement et de livraison](configuration.md#2-make-sure-you-have-shipping-and-payment-methods-setup)​
+* [Contacter vos acheteurs pour connaitre leurs préférences et coordonnées](configuration.md#3-gather-information-from-your-customers) et afin qu'ils puissent réaliser [les étapes nécessaires de leur côté​](pour-lacheteur.md)
+* [Ajoutez vos acheter à votre liste d'acheteurs](configuration.md#4-add-your-subscribers-to-your-customer-list)
+* Créez au moins un [rythme d'abonnement​](configuration.md#create-a-schedule)
 
 ## 6\) Create subscriptions {#6-create-subscriptions}
 
