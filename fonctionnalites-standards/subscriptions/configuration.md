@@ -6,7 +6,7 @@ Pendant la durée du mode béta, contactez-nous si vous souhaitez utiliser le mo
 
 Activez le module en vous rendant sur les paramètres de votre profil :
 
-![](../../.gitbook/assets/image%20%2878%29.png)
+![](../../.gitbook/assets/image%20%2879%29.png)
 
 **Abonnements :** Pour activer, sélectionnez "Activée".
 
@@ -87,7 +87,7 @@ Une fois les premières étapes réalisées, vous allez voir apparaitre le bouto
 Attention, vous devez au moins avoir un cycle de vente ouvert pour pouvoir configurer un rythme d'abonnement.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2849%29.png)
+![](../../.gitbook/assets/image%20%2850%29.png)
 
 **Nom :** Pensez à donner un nom logique au rythme d'abonnemen. Par exemple : "hebdomadaire", "mensuel", "un jeudi sur deux"... Ce nom n'est pas visible pour les acheteurs.
 
@@ -95,19 +95,21 @@ Vous pouvez déplacer les cycles de ventes en utilisant les &lt; et &gt; boutons
 
 Cliquez sur "Créer" lorsque vous avez terminé.
 
-### Modifier ou supprimer un rythme {#edit-or-delete-a-schedule}
+### Modifier ou supprimer un rythme d'abonnement {#edit-or-delete-a-schedule}
 
-To edit or delete a schedule, click on the schedule’s name next to a corresponding order cycle, in the ‘schedules’ column.
+Pour modifier ou supprimer un rythme, cliquez sur son nom dans la colonne correpondante. Cette colonne doit peut-être être rendue visible grâce à ce menu sur la page Cycle de vente :
 
-Note: This column may need to be made visible in the columns setting dropdown.![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-L9rgoFPNHO-1OtFNdJD%2F-L9rgw9h4IRkrIIfpU8i%2FShow%20Schedules?generation=1523500442468990&alt=media)
+![](../../.gitbook/assets/image%20%2894%29.png)
 
-You can change the name of the schedule, add/remove order cycles from it or delete the schedule.![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-L9rgoFPNHO-1OtFNdJD%2F-L9rgw9mfT7_QlTdUE33%2FDelete%20Schedule?generation=1523500442452875&alt=media)
-
-> Note: You cannot delete a schedule if there are subscriptions associated with it.
+{% hint style="info" %}
+Vous ne pouvez pas supprimer un rythme d'abonnement si des commandes récurrentes y sont associés.
+{% endhint %}
 
 ### Ajouter ou supprimer un cycle de vente d'un rythme d'abonnement {#adding-or-removing-order-cycles-from-schedules}
 
-You can add and remove order cycles from schedules by either editing the schedule \(above\), or by editing the order cycle and adding/removing the schedule in the ‘schedules’ field \(below\).![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-L9rgoFPNHO-1OtFNdJD%2F-L9rgw9tiISA0a818ILu%2FOC%20Schedule?generation=1523500443109929&alt=media)
+Soit vous utilisez la fonctionnalité de modification d'un rythme décrite ci-dessus, soit vous pouvez utiliser la fonction présente dans la modification d'un cycle de vente :
 
-Order cycles may be in more than one schedule. For instance, in the Harvest Hub example above, every second order cycle will be in both the weekly schedule and the fortnightly schedule.
+![](../../.gitbook/assets/image%20%2822%29.png)
+
+N.B. : Un même cycle de vente peut se retrouver dans plusieurs rythmes d'abonnement !
 

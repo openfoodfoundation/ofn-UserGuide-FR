@@ -8,7 +8,7 @@ La définition des méthodes de livraison est obligatoire avant l'ouverture d'un
 
 En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez sur **gérer** et enfin sur **méthode de livraison** dans le menu vertical de gauche :
 
-![](../../.gitbook/assets/image%20%2871%29.png)
+![](../../.gitbook/assets/image%20%2872%29.png)
 
 **2\)** Cliquez sur **créer une nouvelle méthode de livraison.** Vous serez redirigé sur cette page :
 
@@ -32,7 +32,7 @@ En cliquant sur **Créer**, la méthode de livraison sera créée et vous aurez 
 
 ### Le calculateur
 
-![](../../.gitbook/assets/image%20%2859%29.png)
+![](../../.gitbook/assets/image%20%2860%29.png)
 
 **Pourcentage net** – Cette marge s'applique en pourcentage sur le montant total de la commande.
 

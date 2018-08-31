@@ -12,7 +12,7 @@ En ouvrant un cycle de vente, vous définissez les périodes d'ouverture de votr
 
 Connecté en administrateur, vous pouvez vous rendre sur le menu Cycle de vente ou depuis votre tableau de bord, cliquer sur le bouton suivant :
 
-![](../../.gitbook/assets/image%20%28101%29.png)
+![](../../.gitbook/assets/image%20%28103%29.png)
 
 Puis cliquez sur "Nouveau cycle de vente" :
 
@@ -24,7 +24,7 @@ Puis cliquez sur "Nouveau cycle de vente" :
 
 La première chose à faire est de sélectionner un coordinateur pour votre cycle de vente. Cette entreprise aura toutes les permissions pour modifier et gérer le cycle de vente. Les autres entreprises impliquées dans le cycle de vente \(les fournisseurs ou les autres hubs\) auront des accès restreints. Pour plus d'informations sur les gestions des droits entre entreprises, cliquez [ici](e2e-powers-in-multi-enterprise-ocs.md).
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2849%29.png)
 
 **Nom :** Choississez un nom pour le cycle. Il sera visible uniquement pour vous, donc indiquez quelque chose qui vous permettra de le retrouver facilement ensuite. Par exemple vous pouvez choisir un protocole du type _Commandesemaine26\_2018._
 
@@ -64,7 +64,7 @@ Cliquez sur "créer" pour créer le cycle de vente.
 
 Si votre cycle de vente se répète de manière périodique et régulière, vous pouvez dupliquer un cycle de vente passé afin d'aller plus vite \(bouton orange sur la capture, attention il n'est pas orange sur la plateforme\) :
 
-![](../../.gitbook/assets/image%20%2831%29.png)
+![](../../.gitbook/assets/image%20%2832%29.png)
 
 Les cycles de vente sont présentés en vert lorsqu'ils sont actifs, jaune lorsqu'ils sont indiqués pour une date dans le futur et gris lorsqu'ils sont fermés. Un mois après la fermeture d'un cycle de vente, il n'apparaitra plus dans cette liste, il faudra cliquer sur "voir plus" pour voir tous vos cycles de vente.
 
