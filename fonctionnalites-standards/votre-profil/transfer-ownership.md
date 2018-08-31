@@ -6,7 +6,7 @@ Voici les étapes à réaliser pour donner les accès :
 
 1. Sur l'interface d'administration, rendez-vous sur la page Managers :
 
-![](../../.gitbook/assets/image%20%2831%29.png)
+![](../../.gitbook/assets/image%20%2832%29.png)
 
 **2a. Si l'utilisateur en question a déjà un compte sur OFF :**
 

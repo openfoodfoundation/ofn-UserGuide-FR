@@ -4,7 +4,7 @@ Tous les acheteurs ayant passé une commande sur votre boutique se trouvent sur 
 
 Vous pouvez également ajouter manuellement un acheteur via le bouton "nouvel acheteur". Seul les acheteurs dans cette liste peuvent avoir un tag associé.
 
-![](../../.gitbook/assets/image%20%2871%29.png)
+![](../../.gitbook/assets/image%20%2873%29.png)
 
 ## Adresse de facturation et de livraison par défaut
 
@@ -34,7 +34,7 @@ Utiliser la fonctionnalité se réalise en deux étapes :
 
 Pour ajouter un tag, il vous suffit de taper un tag dans la colonne dédiée \(menu **Acheteurs**\). Un acheteur peut avoir plusieurs tags et bien évidemment un tag peut être lié à plusieurs acheteurs. Pour ce deuxième point, la seconde fois où vous taperez le tag dans la colonne correspondante, il vous sera suggéré via une liste déroulante. Faites bien attention à le sélectionner dans cette liste \(les tags sont sensibles à la casse\).
 
-![](../../.gitbook/assets/image%20%2823%29.png)
+![](../../.gitbook/assets/image%20%2824%29.png)
 
 Notez que les tags apparaissent également dans vos rapports. Vous pouvez donc les utilisez lors des exports excel pour filtrer rapidement les données.
 
@@ -42,7 +42,7 @@ Notez que les tags apparaissent également dans vos rapports. Vous pouvez donc l
 
 Paramétrer une règle de tag va vous permettre de définir le rôle du tag \(permettre à certaines variantes d'être invisibles pour les membres tagués etc\). Rendez-vous sur le menu **Entreprises** &gt; **Gérer** &gt; R**ègles de tag**
 
-![](../../.gitbook/assets/image%20%2828%29.png)
+![](../../.gitbook/assets/image%20%2829%29.png)
 
 #### Par défaut
 
@@ -50,7 +50,7 @@ Par défaut, tout est visible pour tout le monde, tagué ou pas. Ajouter un tag 
 
 ![](../../.gitbook/assets/image%20%286%29.png)
 
-![](../../.gitbook/assets/image%20%2865%29.png)
+![](../../.gitbook/assets/image%20%2867%29.png)
 
 #### Les règles de tags
 

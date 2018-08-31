@@ -6,7 +6,7 @@ Pendant la durée du mode béta, contactez-nous si vous souhaitez utiliser le mo
 
 Activez le module en vous rendant sur les paramètres de votre profil :
 
-![](../../.gitbook/assets/image%20%2876%29.png)
+![](../../.gitbook/assets/image%20%2878%29.png)
 
 **Abonnements :** Pour activer, sélectionnez "Activée".
 
@@ -79,15 +79,21 @@ Which order cycles trigger subscriptions is controlled through an additional ele
 
 ### Créer un rythme {#create-a-schedule}
 
-Once you have [enabled the subscription feature](https://guide.openfoodnetwork.org/advanced-features/subscriptions/subscriptions-configuration#1-enable-subscriptions), you will see the Schedule functionality in the order cycle interface. To create a schedule click on the **+ New Schedule** button.![](https://openfoodnetwork.org/wp-content/uploads/2017/02/New-order-cycle.png)
+Une fois les premières étapes réalisées, vous allez voir apparaitre le bouton "rythme d'abonnement" dans le menu Cycle de vente. Cliquez dessus pour créer un nouveau rythme d'abonnement :
 
-Note: You must have at least one order cycle that can be added to the schedule before you create it.![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-L9rgoFPNHO-1OtFNdJD%2F-L9rgw9U6xoWDx7jf9NH%2FNew%20Schedule?generation=1523500443050782&alt=media)
+![](../../.gitbook/assets/image%20%2819%29.png)
 
-**Name:** Give the schedule a logical name which describes this group of order cycles. E.g. ‘weekly’, ‘monthly’, ‘Tuesday Deliveries’, ‘wholesale’ or ‘retail’. This name is only visible to you in the backend, not to customers.
+{% hint style="info" %}
+Attention, vous devez au moins avoir un cycle de vente ouvert pour pouvoir configurer un rythme d'abonnement.
+{% endhint %}
 
-You can add existing order cycles into and out of the new schedule by clicking the &lt; and &gt; buttons.
+![](../../.gitbook/assets/image%20%2849%29.png)
 
-Click **create** when you are finished.
+**Nom :** Pensez à donner un nom logique au rythme d'abonnemen. Par exemple : "hebdomadaire", "mensuel", "un jeudi sur deux"... Ce nom n'est pas visible pour les acheteurs.
+
+Vous pouvez déplacer les cycles de ventes en utilisant les &lt; et &gt; boutons.
+
+Cliquez sur "Créer" lorsque vous avez terminé.
 
 ### Modifier ou supprimer un rythme {#edit-or-delete-a-schedule}
 
