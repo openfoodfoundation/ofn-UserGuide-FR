@@ -14,29 +14,27 @@ description: >-
 * [Ajoutez vos acheter à votre liste d'acheteurs](configuration.md#4-add-your-subscribers-to-your-customer-list)
 * Créez au moins un [rythme d'abonnement​](configuration.md#create-a-schedule)
 
-## 6\) Create subscriptions {#6-create-subscriptions}
+## 6\) Créer une commande récurrente {#6-create-subscriptions}
 
-Click on **Orders** in the blue horizontal menu and then select **Subscriptions** in the green sub-menu.
+Allez dans le menu général "Commandes" puis cliquez sur le sous-menu vert **Subscriptions**.
 
-Click **+ New Subscription** to setup a recurring order for your customer.![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-L9rgoFPNHO-1OtFNdJD%2F-L9rgzBfLKX7SSa9ud5Y%2Fnew%20subscription%20basic%20details.png?generation=1523500448627603&alt=media)
+![](../../.gitbook/assets/image%20%2818%29.png)
 
-**Customer:**
+Cliquez ensuite sur "Nouvel abonnement" :
 
-Select a customer from the drop-down list.
+![](../../.gitbook/assets/image%20%2890%29.png)
 
-\* You can only create a subscription for a customer who is on your [Customer List](https://guide.openfoodnetwork.org/advanced-features/shop-setup/customers).
+**Acheteur :** Sélectionnez un acheteur dans la liste déroulante \(seuls les acheteurs présents dans votre liste peuvent être sélectionnés\).
 
-**Schedule:** Select the schedule, or order cycle group, that this customer wants to subscribe to.
+**Rythme d'abonnement :** Sélectionnez le rythme correspondant pour l'acheteur en question.
 
-You must have created a schedule of order cycles before you can create a subscription. Instructions [here](https://guide.openfoodnetwork.org/advanced-features/subscriptions/subscriptions-configuration#2-schedules).
+**Méthode de paiement :** pour rappel seuls stripe et le paiement en espèce sont autorisés.
 
-**Payment method:** Select the customer’s preferred payment method. This must be either Stripe or a manual payment method such as cash. Paypal and Pin Payments are not supported for subscriptions.
+**Méthode de livraison :** Sélectionnez une méthode de livraison
 
-**Shipping method:** Select the customer’s preferred shipping method.
+**Commence à :** Il s'agit de la date de début de la commande récurrente. Elle peut s'appliquer à un cycle de vente en cours comme à un cycle de vente futur.
 
-**Begins at:** This is the date that the customer’s subscription will start to be generated. If this date is midway through an open order cycle in their schedule there will be an order generated for that order cycle. If not the first order will apply to the next order cycle which open in their schedule.
-
-**Ends at:** After this date the customer’s standing orders will no longer be generated. This field is optional, if left blank the order will continue to be generate indefinitely.
+**Termine à :** Après cette date la commande récurrente ne sera plus générée. Ce champ peut être laissé vide et dans ce cas la commande se génèrera indéfiniment \(mais peut être modifié par la suite\).
 
 How exactly does the end date interact with the OC dates? If the customer's subscription end date is after the opening date of an OC in their schedule, but before the end date of the OC, there won't be an order generated. The last order will only be generated for the last order cycle which closes before their subscription end date.
 

@@ -43,7 +43,7 @@ Dans la première colonne, sélectionnez votre entreprise et dans la seconde l'e
 
 Puis cliquez sur "Créer". Notez que vous pouvez supprimer ou modifier ces permissions à tout moment.
 
-![](../../.gitbook/assets/image%20%2885%29.png)
+![](../../.gitbook/assets/image%20%2886%29.png)
 
 ### Les permissions générées automatiquement
 

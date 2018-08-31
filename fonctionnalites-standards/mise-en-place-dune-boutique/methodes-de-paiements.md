@@ -14,7 +14,7 @@ Cliquez sur **Entreprises**, puis cliquez sur **Gérer**. Cliquez ensuite sur M�
 
 3\) Si ce n'est pas le cas sélectionnez votre entreprise dans la liste déroulante des hubs. Cela signifie que la méthode de paiement qui sera créé le sera pour cette entreprise. **Vous pouvez sélectionner plusieurs entreprises**.
 
-![](../../.gitbook/assets/image%20%2842%29.png)
+![](../../.gitbook/assets/image%20%2843%29.png)
 
 4\) **Nom :** Choisissez un nom pour cette méthode de paiement. \(par exemple : "Payez par carte de crédit en utilisant Paypal" etc\). Ce nom s'affichera au moment du paiement pour l'acheteur, ainsi que dans les emails de confirmation qui lui seront envoyés.
 
@@ -22,7 +22,7 @@ Cliquez sur **Entreprises**, puis cliquez sur **Gérer**. Cliquez ensuite sur M�
 
 Un exemple de message au moment du paiement :
 
-![](../../.gitbook/assets/image%20%2857%29.png)
+![](../../.gitbook/assets/image%20%2858%29.png)
 
  6\) **Active :** Indiquez si vous souhaitez que cette méthode soit visible et utilisable
 
@@ -67,7 +67,7 @@ Pour permettre un paiement par Paypal, vous devez avoir un compte Paypal profess
 
 **Signature :** Indiquez le contenu du champ Signature.
 
-![](../../.gitbook/assets/image%20%2896%29.png)
+![](../../.gitbook/assets/image%20%2898%29.png)
 
 **Serveur :** Indiquez " live "sans les guillemets à la place de "sandbox".
 
@@ -93,7 +93,7 @@ Si vous souhaitez utiliser la fonctionnalité d'**abonnements**, la seule métho
 
 Avant d'utiliser Stripe, il faut le connecter. Cliquez sur ce bouton \(menu Entreprises &gt; Gérer &gt; Méthode de paiements\) :
 
-![](../../.gitbook/assets/image%20%2818%29.png)
+![](../../.gitbook/assets/image%20%2819%29.png)
 
 Vous serez redirigé vers un formulaire : soit vous avez déjà un compte Stripe et il suffit de vous connecter, soit vous devrez vous créer un compte.
 
@@ -117,7 +117,7 @@ Quand les acheteurs utilisent Stripe, il peuvent cocher une case pour que leur c
 
 ## Commissions sur les méthodes de paiements
 
-![](../../.gitbook/assets/image%20%2892%29.png)
+![](../../.gitbook/assets/image%20%2894%29.png)
 
 Vous pouvez associer une marge ou une commission à une méthode de paiement. Généralement c'est utilisé pour répercuter les frais des plateformes de paiement à l'acheteur. Sélectionnez un calculateur et indiquez un montant \(voir description ci-dessous\). 
 

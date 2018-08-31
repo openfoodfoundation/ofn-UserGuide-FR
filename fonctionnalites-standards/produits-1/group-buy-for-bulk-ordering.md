@@ -4,7 +4,7 @@ Cette fonctionnalité est à destination des entreprises qui achètent une parti
 
 Lorsqu'un produit est lié à une fonctionnalité d'achat par lot, la colonne quantité sera affichée différemment dans la boutique. Exemple ci-dessous avec deux produits, seul le premier est lié à la fonctionnalité d'achat par lot :
 
-![](../../.gitbook/assets/image%20%2858%29.png)
+![](../../.gitbook/assets/image%20%2859%29.png)
 
 Les acheteurs doivent indiquer :
 
@@ -19,7 +19,7 @@ Dans le menu de [gestion des commandes par lot](../commandes/visualisation-des-c
 
 Sur l'interface d'administration, aller dans le menu Produits, modifiez un produit existant puis rendez-vous sur le sous-menu vertical "option d'achat par lot" :
 
-![](../../.gitbook/assets/image%20%2864%29.png)
+![](../../.gitbook/assets/image%20%2865%29.png)
 
 Sélectionnez "oui". La quantité totale du lot est le montant minimal que la commande collective doit atteindre **en GRAMMES pour les produits vendus au poids et en LITRES pour les produits vendus au volume.**
 
@@ -34,7 +34,7 @@ Dans le menu commandes &gt; gestion des commandes par lot :
 5. Grâce à l'information dans la colonne "nombre max d'unité commandées", vous pouvez augmenter le max de chaque commande
 6. Sauvegardez vos modifications
 
-![](../../.gitbook/assets/image%20%2893%29.png)
+![](../../.gitbook/assets/image%20%2895%29.png)
 
 
 
