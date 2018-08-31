@@ -42,7 +42,7 @@ Sur l'interface d'administration, rendez-vous sur le menu "Produits" et modifiez
 
 Une fois sur cette page cliquez sur "**Propriété du produit**" sur le menu vertical de droite :
 
-![](../../.gitbook/assets/image%20%2879%29.png)
+![](../../.gitbook/assets/image%20%2880%29.png)
 
 **Nom du label** **:** A sélectionner dans la liste déroulante. C'est le nom qui s'affichera à l'acheteur final.
 

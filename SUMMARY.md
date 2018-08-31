@@ -44,6 +44,10 @@
   * [Commandes](fonctionnalites-standards/commandes/README.md)
     * [Gestion des commandes](fonctionnalites-standards/commandes/visualisation-des-commandes.md)
     * [Création de commandes](fonctionnalites-standards/commandes/manual-orders.md)
+  * [Subscriptions / commandes récurrentes](fonctionnalites-standards/subscriptions/README.md)
+    * [Configuration](fonctionnalites-standards/subscriptions/configuration.md)
+    * [Création et gestion d'une commande récurrente](fonctionnalites-standards/subscriptions/creation-et-gestion-dune-commande-recurrente.md)
+    * [Pour l'acheteur](fonctionnalites-standards/subscriptions/pour-lacheteur.md)
   * [Tableau de Bord](fonctionnalites-standards/tableau-de-bord.md)
   * [Groupes](fonctionnalites-standards/groupes/README.md)
     * [Créer une page groupe](fonctionnalites-standards/groupes/create-group-page.md)
@@ -52,4 +56,5 @@
   * [Acheteur](faqs/consommateur.md)
   * [Producteur](faqs/producteur.md)
   * [Hub](faqs/hub.md)
+  * [Commandes récurrentes](faqs/commandes-recurrentes.md)
 
