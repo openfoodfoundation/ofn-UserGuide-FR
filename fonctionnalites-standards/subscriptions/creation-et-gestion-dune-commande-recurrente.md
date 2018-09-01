@@ -70,53 +70,39 @@ Si vous supprimer une commande alors qu'un cycle de vente toujours ouvert, un me
 
 ### Mettre en pause une commande récurrente {#pause-a-subscription}
 
-From the subscriptions page, click on the **pause** button next to the subscriptions you wish to pause. This will prevent all future orders in the subscription from being generated, until it is activated again. To un-pause a subscriptions, click on the play button.
+Depuis la page **subscription**, cliquez sur le bouton pause. Cela stopera les commandes récurrentes jusqu'à ce que vous cliquiez sur le bouton play \(qui a remplacé le bouton pause une fois que vous avez cliqué dessus\).
 
- If you pause a subscription while an order cycle is still open, you'll be asked whether you'd like to keep the current order or not.
+Si vous mettez en pause une commande alors qu'un cycle de vente est toujours ouvert, un message vous avertira afin de vous laisser l'option de garder la commande liée ou de la mettre en pause également. Et inversement si vous relancer la commande récurrente alors qu'un cycle de vente est ouvert.
 
-If you un-pause a subscription while an OC is open an order will be generated for this customer if they're subscribed to that schedule.![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-L9rgoFPNHO-1OtFNdJD%2F-L9rgzEM-l1yT3rWCm0s%2FPause%20subscription?generation=1523500449629468&alt=media)
+## 8\) Comment sont gérées les commandes récurrentes ? {#8-how-subscriptions-are-processed}
 
-## 8\) How subscriptions are processed {#8-how-subscriptions-are-processed}
+Une fois la mise en place effectuée, que se passe-t-il ?
 
-So once subscriptions are setup, how are they processed each time an order cycle opens and closes?
+**1\) Un cycle de vente compatible avec un rythme d'abonnement est ouvert :**
 
-**1\) An OC within a schedule opens:**
+* Une commande est générées pour tous les acheteurs liés à ce rythme d'abonnement. Un email de confirmation de la commande leur est adressé.
+* Le stock des produits commandés va diminuer
+* Un email résumant toutes les commandes passés ainsi que celle qui on eu des problème \(stock insuffisant\) est envoyé au responsable de la boutique en ligne
+* Les acheteurs peuvent modifier leur commande si vous leur en avez laissé la possibilité dan vos [paramètres de boutique](../votre-profil/parametres.md#preferences-boutique).
 
-* This triggers the creation of subscription orders for your customers who are subscribed to the schedule.
+**2\) Un cycle de vente ferme**
 
-**BEWARE! The moment you open an order cycle within a schedule, an order will be created for each of your subscribers and they'll be emailed, so make sure you're ready! Double check you've setup your OC correctly and have updated your product availability before you open an order cycle.**
+* Les commandes seront confirmées
+* Si l'acheteur paye par carte de crédit il sera débité
+* L'acheteur reçoit un email de confirmation
+* Le responsable de la boutique reçoit un email récapitulatif des commandes et des erreurs qui ont pu avoir lieu comme par exemple des carte de crédit qui n'ont pas pu être débtées
 
-* The stocks level will be deducted accordingly at this time
-* Each customer with a subscription order will get an email telling them that their order has been prepared.
-* An email will be sent to the shop's notification email summarising how many subscription orders there are, and how many had issues \(e.g. insufficient stock\).
-* During the time when the OC is open the customers may be able to edit their order \(depending on your [shop preferences](https://guide.openfoodnetwork.org/basic-features/enterprise-settings#shop-preferences)\)
+### Plannier les commandes récurrentes {#planning-for-future-subscriptions}
 
-Note, if you create a subscription while there's an open order cycle in the schedule, an order will be immediately created for that subscriber.
+Il y a deux manières de plannifier les commandes récurrentes. Quelque soit celle choisie n'oubliez pas que la fréquence à laquelle vous ouvrez un nouveau cycle de vente avec commande récurrente correspondra à la fréquence à laquelle les commandes seront générées.
 
-**2\) The OC closes**
+**De manière manuelle**
 
-* When the Order cycle closes the subscription orders will be confirmed.
-* If customers are paying with Stripe, their credit card will be billed at this time
-* The customer will receive an email confirming that their order is complete.
-* The shop notification email will get an email confirming how many subscription orders were processed. It will also mention any errors - such as a credit card that couldn't be billed.
+Vous pouvez créer des commandes par rythme d'abonnement une à une en ouvrant un cycle de vente à chaque besoin.
 
-### Planning for future subscriptions {#planning-for-future-subscriptions}
+**De manière automatique**
 
-There's two ways for planning the opening and closing of order cycles in your schedules.
+Vous pouvez créer vos cycles de vente en avance et faire correspondre les dates à chaque date de commande. Vous pouvez utiliser la fonction de clonage d'un cycle de vente pour aller plus vite.
 
-Regardless of which option you use, remember that the frequency that you create order cycles in your schedule will dictate how often the subscription reoccurs. E.g. If you create an order cycle for each week opening on a Monday, your customers will get weekly subscriptions.
-
-**Manual option**
-
-You can create order cycles in your schedule\(s\) on a one by one basis. How this would work is that when you're ready to open and order cycle you'll check that you've updated everything outside of order cycles, such as your product availability, and any shipping method descriptions etc.
-
-Then, you're ready you create the order cycle, either by cloning an existing one or creating a new one. You'll add in the product range and check the text fields of the order cycle \(such as the 'ready for' date\). Also check that you've updated product availability. Then you can create the open order cycle.
-
-**Automatic option**
-
-You can create future order cycles in advance, and set their opening and closing dates to correspond with each subscription date. To do this you can create a series of order cycles through cloning, and adjusting the opening/closing dates, and the text fields \(such as the 'ready for' dates\).
-
-Then, as time passes your order cycles will open and close, triggering the creation and confirmation of your subscriptions.
-
-Just make sure that before the opening date of each order cycle you double check your product availability etc.
+Pensez cependant à vérifier les stocks de vos produits régulièrement pour qu'il n'y ait pas de problème de disponibilité.
 
