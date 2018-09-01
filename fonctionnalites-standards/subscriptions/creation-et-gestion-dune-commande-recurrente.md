@@ -22,7 +22,7 @@ Allez dans le menu général "Commandes" puis cliquez sur le sous-menu vert **Su
 
 Cliquez ensuite sur "Nouvel abonnement" :
 
-![](../../.gitbook/assets/image%20%2890%29.png)
+![](../../.gitbook/assets/image%20%2891%29.png)
 
 **Acheteur :** Sélectionnez un acheteur dans la liste déroulante \(seuls les acheteurs présents dans votre liste peuvent être sélectionnés\).
 

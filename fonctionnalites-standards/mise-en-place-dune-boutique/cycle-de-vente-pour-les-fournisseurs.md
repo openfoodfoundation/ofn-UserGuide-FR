@@ -8,7 +8,7 @@ Beaucoup de fournisseurs, qui vendent leurs produits en petites quantités, pré
 
 Connecté sur l'interface d'administration, sélectionnez le dernier menu sur votre droite :
 
-![](../../.gitbook/assets/image%20%2891%29.png)
+![](../../.gitbook/assets/image%20%2892%29.png)
 
 ## 2. Créer un nouveau cycle de vente
 
@@ -20,7 +20,7 @@ Connecté sur l'interface d'administration, sélectionnez le dernier menu sur vo
 
 **Commandes à partir de :** La date à laquelle votre boutique commencera à accepter des commandes.
 
-**Orders Close :** La date à laquelle la boutique arrêtera d'accepter des commandes. Si vous souhaitez laisser votre boutique ouverte en continue, indiquer une date dans un futur très lointain.
+**Commandes jusqu'au :** La date à laquelle la boutique arrêtera d'accepter des commandes. Si vous souhaitez laisser votre boutique ouverte en continue, indiquer une date dans un futur très lointain.
 
 **Le message lié aux instructions de réception de la commande** sera inclus dans l'email de confirmation de commande envoyé au client, juste en-dessous de la méthode de livraison. Ils seront les seuls à obtenir cette information donc vous pouvez y inclure des informations comme des adresses ou numéros de téléphone.
 
@@ -36,7 +36,7 @@ Cliquez sur "créer" pour sauvegarder votre cycle de vente.
 
 Si votre cycle de vente se répète de manière périodique et régulière, vous pouvez dupliquer un cycle de vente passé afin d'aller plus vite \(bouton orange sur la capture, attention il n'est pas orange sur la plateforme\) :
 
-![](../../.gitbook/assets/image%20%2833%29.png)
+![](../../.gitbook/assets/image%20%2834%29.png)
 
 Les cycles de vente sont présentés en vert lorsqu'ils sont actifs, jaune lorsqu'ils sont indiqués pour une date dans le futur et gris lorsqu'ils sont fermés. Un mois après la fermeture d'un cycle de vente, il n'apparaitra plus dans cette liste, il faudra cliquer sur "voir plus" pour voir tous vos cycles de vente.
 

@@ -26,7 +26,7 @@ Les entreprises doivent obtenir les bonnes [permissions inter-entreprises](../vo
 
 Pour y accéder, rendez-vous sur **Entreprises**, puis "**gérer**" et enfin "**Catalogue boutique**" dans le menu vertical de gauche :
 
-![](../../.gitbook/assets/image%20%2867%29.png)
+![](../../.gitbook/assets/image%20%2868%29.png)
 
 Vous avez deux options : soit vous choisissez l'option selon laquelle les nouveaux produits ajoutés par vos fournisseurs doivent être préalablement ajoutés à votre catalogue \(de cette manière vous pourrez choisir de les ajouter ou non à vos cycles de vente en cours\), soit - si vous ne pensez pas utiliser le catalogue - sélectionnez l'option recommandée. Les produits ajoutés par les fournisseurs seront ainsi ajoutés directement à votre boutique en ligne.
 
@@ -34,7 +34,7 @@ Vous avez deux options : soit vous choisissez l'option selon laquelle les nouvea
 
 Cliquez sur le menu **Produits** dans l'interface d'administration, puis sur **Catalogue** **boutique** dans le sous menu vert. Si vous gérez plusieurs boutiques, il vous sera demandé d'en sélectionner une car chaque catalogue est géré indépendemment.
 
-![](../../.gitbook/assets/image%20%2840%29.png)
+![](../../.gitbook/assets/image%20%2841%29.png)
 
 Lors de votre première visite, un message vous alertera sur le fait que vous avez de nouveaux produits disponibles à l'ajout dans votre catalogue. Tant que ce ne sera pas fait, ils resteront dans la catégorie "**Nouveaux produits**".
 
@@ -44,7 +44,7 @@ En cliquant sur "**vérifier maintenant**" vous serez redirigé vers la liste de
 
 ## Nouveaux produits
 
-![](../../.gitbook/assets/image%20%2830%29.png)
+![](../../.gitbook/assets/image%20%2831%29.png)
 
 Les nouveaux produis peuvent être soit **ajoutés** à votre catalogue, soit **masqués**. Si vous souhaitez écraser les caractéristiques d'un produit de la liste ou indiquer le niveau du stock, vous devrez l'ajouter à votre catalogue. S'il s'agit d'un produit que vous ne voudrez jamais vendre dans votre boutique ou en tout cas pas à court terme, vous pouvez choisir de le masquer.
 
@@ -54,11 +54,11 @@ Poursuivez la lecture pour comprendre le traitement manuel du masquage et de l'a
 
 ## Produits du Catalogue Boutique
 
-![](../../.gitbook/assets/image%20%2881%29.png)
+![](../../.gitbook/assets/image%20%2882%29.png)
 
 Via le bouton colonnes, si vous affichez toutes les colonnes, toutes les fonctionnalités du catalogue s'afficheront à vous.
 
-![](../../.gitbook/assets/image%20%2863%29.png)
+![](../../.gitbook/assets/image%20%2864%29.png)
 
 ### Ecraser des caractéristiques produits
 
@@ -104,11 +104,11 @@ N'oubliez pas de sauvegarder vos modifications.
 
 Sur cette page, vous pouvez décider de rendre visible certains produits en cliquant sur le bouton "Ajouter" :
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2849%29.png)
 
 ## Catalogue et cycle de vente
 
 Dans le menu Cycle de vente &gt; Modifier un cycle de vente, si vous cliquez sur "paramètres avancés" vous disposez d'une option pour choisir si - sur ce cycle en particulier - les informations viennent de votre catalogue ou directement des fournisseurs :
 
-![](../../.gitbook/assets/image%20%2889%29.png)
+![](../../.gitbook/assets/image%20%2890%29.png)
 

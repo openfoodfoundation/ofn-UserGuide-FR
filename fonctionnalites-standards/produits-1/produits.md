@@ -2,11 +2,11 @@
 
 Une fois connecté sur l'interface d'adminsitration, cliquez sur le menu **Produits**, puis sur le bouton **Nouveau Produit**.
 
-![](../../.gitbook/assets/image%20%28101%29.png)
+![](../../.gitbook/assets/image%20%28102%29.png)
 
 Vous serez redirigé vers la page suivante :
 
-![](../../.gitbook/assets/image%20%2870%29.png)
+![](../../.gitbook/assets/image%20%2871%29.png)
 
  **Fournisseurs**
 

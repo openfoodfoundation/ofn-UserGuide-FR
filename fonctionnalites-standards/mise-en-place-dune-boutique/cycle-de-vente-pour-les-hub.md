@@ -12,7 +12,7 @@ En ouvrant un cycle de vente, vous définissez les périodes d'ouverture de votr
 
 Connecté en administrateur, vous pouvez vous rendre sur le menu Cycle de vente ou depuis votre tableau de bord, cliquer sur le bouton suivant :
 
-![](../../.gitbook/assets/image%20%28105%29.png)
+![](../../.gitbook/assets/image%20%28106%29.png)
 
 Puis cliquez sur "Nouveau cycle de vente" :
 
@@ -24,13 +24,13 @@ Puis cliquez sur "Nouveau cycle de vente" :
 
 La première chose à faire est de sélectionner un coordinateur pour votre cycle de vente. Cette entreprise aura toutes les permissions pour modifier et gérer le cycle de vente. Les autres entreprises impliquées dans le cycle de vente \(les fournisseurs ou les autres hubs\) auront des accès restreints. Pour plus d'informations sur les gestions des droits entre entreprises, cliquez [ici](e2e-powers-in-multi-enterprise-ocs.md).
 
-![](../../.gitbook/assets/image%20%2850%29.png)
+![](../../.gitbook/assets/image%20%2851%29.png)
 
 **Nom :** Choississez un nom pour le cycle. Il sera visible uniquement pour vous, donc indiquez quelque chose qui vous permettra de le retrouver facilement ensuite. Par exemple vous pouvez choisir un protocole du type _Commandesemaine26\_2018._
 
 **Commandes à partir de :** La date à laquelle votre boutique commencera à accepter des commandes.
 
-**Orders Close :** La date à laquelle la boutique arrêtera d'accepter des commandes. Si vous souhaitez laisser votre boutique ouverte en continue, indiquer une date dans un futur très lointain.
+**Commandes jusqu'au :** La date à laquelle la boutique arrêtera d'accepter des commandes. Si vous souhaitez laisser votre boutique ouverte en continue, indiquer une date dans un futur très lointain.
 
 **Ajouter commission coordinateur :** En tant que Hub, le coordinateur est certainement vous. La marge sera calculée en fonction du calculateur sélectionné précédemment, voir guide [Marges et commissions](frais-et-taxes.md).
 
@@ -43,8 +43,6 @@ Les **détails de livraison produits** sont facultatifs.
 Le bouton pour ajouter une marge ou commission vous permet de l'ajouter par fournisseur. Sélectionnez le nom de l'entreprise, puis le nom de la marge comme dans l'exemple ci-dessous. 
 
 Cette marge s'appliquera à tous les produits du fournisseur. La marge sera calculée en fonction du calculateur sélectionné précédemment, voir guide [Marges et commissions](frais-et-taxes.md).
-
-![Apply enterprise fee to incoming supplier](https://openfoodnetwork.org/wp-content/uploads/2015/05/Enterprise-Fee.png)
 
 ### 4. Produits sortants
 
@@ -64,7 +62,7 @@ Cliquez sur "créer" pour créer le cycle de vente.
 
 Si votre cycle de vente se répète de manière périodique et régulière, vous pouvez dupliquer un cycle de vente passé afin d'aller plus vite \(bouton orange sur la capture, attention il n'est pas orange sur la plateforme\) :
 
-![](../../.gitbook/assets/image%20%2833%29.png)
+![](../../.gitbook/assets/image%20%2834%29.png)
 
 Les cycles de vente sont présentés en vert lorsqu'ils sont actifs, jaune lorsqu'ils sont indiqués pour une date dans le futur et gris lorsqu'ils sont fermés. Un mois après la fermeture d'un cycle de vente, il n'apparaitra plus dans cette liste, il faudra cliquer sur "voir plus" pour voir tous vos cycles de vente.
 

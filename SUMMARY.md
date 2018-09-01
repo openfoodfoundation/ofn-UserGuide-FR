@@ -56,5 +56,4 @@
   * [Acheteur](faqs/consommateur.md)
   * [Producteur](faqs/producteur.md)
   * [Hub](faqs/hub.md)
-  * [Commandes récurrentes](faqs/commandes-recurrentes.md)
 

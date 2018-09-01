@@ -14,7 +14,7 @@ Sur l'interface d'administration, rendez-vous sur le menu **Enterprises**, puis 
 
 ## Ajouter des marges et commissions
 
-![](../../.gitbook/assets/image%20%2882%29.png)
+![](../../.gitbook/assets/image%20%2883%29.png)
 
 **Entreprise :** Dans la première colonne, sélectionnez l'entreprise qui recevra la marge.
 
@@ -28,17 +28,17 @@ Sur l'interface d'administration, rendez-vous sur le menu **Enterprises**, puis 
 
 Pour finaliser, cliquez sur "Mettre à jour". Une fois que la marge a été créée, vous pouvez indiquer comment la marge sera calculée dans la colonne "Montant pour calculs".
 
-![](../../.gitbook/assets/image%20%2839%29.png)
+![](../../.gitbook/assets/image%20%2840%29.png)
 
 ### Le calculateur
 
-![](../../.gitbook/assets/image%20%2861%29.png)
+![](../../.gitbook/assets/image%20%2862%29.png)
 
 **Pourcentage net** – Cette marge s'applique en pourcentage sur le montant total de la commande.
 
 **Poids \(au kg\)** – cette marge s'applique aux produits vendus par kg. Elle ne s'appliquera donc pas aux produits vendus à la pièce.
 
-**Flat Rate \(per order\)** – Cette marge s'applique de manière standard à toutes les commandes, quelque soit leur taille ou leur unité.
+ ****– Cette marge s'applique de manière standard à toutes les commandes, quelque soit leur taille ou leur unité.
 
 **Taux flexible** – Ce calcul est utilisé pour les remises promotionnelles \(quand vous appliquez une marge réduite lorsque le consommateur achète en gros\).
 

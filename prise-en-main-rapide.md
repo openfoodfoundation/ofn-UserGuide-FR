@@ -23,5 +23,5 @@ Dès vos premièrez commandes reçues vous pouvez [voir ces commandes](fonctionn
 Nous améliorons la plateforme en permanence – si vous avez un besoin spécifique non couvert par la plateforme, n’hésitez pas à nous en faire part via le forum \(lien\) pour que nous puissions co-designer ensemble les réponses à vos besoins !  
 
 
-Pour toute question, rdv sur la rubrique support \(lien\).
+Pour toute question,écrivez nous à support\[at\]openfoodfrance.org.
 

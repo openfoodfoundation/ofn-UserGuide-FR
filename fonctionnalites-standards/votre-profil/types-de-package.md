@@ -6,7 +6,7 @@ Open Food France \(OFF\) offre 5 types de profils, qui vont différer en fonctio
 
 Les différents profils :
 
-![](../../.gitbook/assets/image%20%2856%29.png)
+![](../../.gitbook/assets/image%20%2857%29.png)
 
 1. **Création d'un profil simple** : ****
 
@@ -22,7 +22,7 @@ Les différents profils :
 
 ## Pour les non-producteurs \(Les hubs\)
 
-![](../../.gitbook/assets/image%20%2837%29.png)
+![](../../.gitbook/assets/image%20%2838%29.png)
 
 1. **Création un profil simple :**
 
@@ -38,5 +38,5 @@ SI vous souhaitez modifier des informations sur votre profil rendez-vous sur la 
 
 Vous pouvez toujours changer de profil \(package\) par la suite. Vous avez deux options : soit vous utilisez le bouton ‘**Modifier le package** sur le [Tableau de Bord](../tableau-de-bord.md). Or via le menu "Entreprises" en modifiant les colonnes dédiées comme sur la capture ci-dessous : 
 
-![](../../.gitbook/assets/image%20%2841%29.png)
+![](../../.gitbook/assets/image%20%2842%29.png)
 

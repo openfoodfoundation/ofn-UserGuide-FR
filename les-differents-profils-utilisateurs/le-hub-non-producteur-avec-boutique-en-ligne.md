@@ -51,7 +51,7 @@ Si votre fournisseur a un profil, mais n'a pas ajouté de produits, vous devrez 
 
 **Une fois toutes ces étapes effectuées, vous pouvez ouvrir votre boutique en suivant cette dernière étape :** 
 
-9\) [Ouvrez votre boutique en créant un nouveau cycle de vente]().
+9\)[ Ouvrez votre boutique en créant un nouveau cycle de vente](../fonctionnalites-standards/mise-en-place-dune-boutique/cycle-de-vente-pour-les-hub.md).
 
 **Une fois que les premières commandes auront été effectuées, vous pouvez consulter l'historique des commandes et accéder aux rapport.**    
   

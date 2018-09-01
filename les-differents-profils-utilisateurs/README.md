@@ -9,9 +9,13 @@ Nous vous proposons des “profils types” ci-dessous. Bien sûr, les acteurs s
 | Producteur revendeur   | Le producteur vend en direct ses produits, mais également des produits d'autres producteurs ou  grossistes | [Profil producteur](le-producteur-sans-boutique.md) | [Hub producteur](https://ofnuserguidefr.gitbook.io/guide-utilisateur-open-food-france/les-differents-profils-utilisateurs/le-producteur-revendeur-avec-une-boutique) |
 | Marchés physiques | Un marché physique existant | [Profil marché](le-marche-virtuel-sans-boutique.md) | [Boutique marché](le-marche-virtuel-avec-boutique.md) |
 
-  
-  
+{% hint style="info" %}
 **A noter** :  
 - Sachez qu'il est également possible d'ouvrir une boutique privée. Pour ce faire, rendez-vous sur la page suivante.  
 - OFF ne gère pour l'instant pas les abonnements en ligne, mais la fonctionnalité est actuellement en développement !
+{% endhint %}
+
+  
+  
+
 
