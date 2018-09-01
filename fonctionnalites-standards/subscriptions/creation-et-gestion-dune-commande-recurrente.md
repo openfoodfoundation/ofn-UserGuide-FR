@@ -48,31 +48,27 @@ Si la date de fin de la commande récurrente de l'acheteur se situe après la da
 Attention : si vous avez un cycle de vente en cours et assigné à un rythme d'abonnement, dès la création de la commande récurrente, une commande va être générée et l'acheteur recevra un email de confirmation.
 {% endhint %}
 
-## 7\) Edit a customer’s subscription {#7-edit-a-customers-subscription}
+## 7\) Modifier la commande récurrente d'un acheteur {#7-edit-a-customers-subscription}
 
-### Edit the base subscription {#edit-the-base-subscription}
+### Modifier tout l'abonnement {#edit-the-base-subscription}
 
-From the **Subscriptions** page, click on the **edit** button next to the subscription you want to edit.![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-L9rgoFPNHO-1OtFNdJD%2F-L9rgzDfMHoBEuCKnYZd%2FEdit%20subscription?generation=1523500449584185&alt=media)
+Depuis la page **Subscriptions**, cliquez sur le bouton "modifier" à côté de la commande que vous souhaitez modifier.
 
-From here you can edit which products are in the subscription, the preferred shipping and payment methods, the starting and ending dates and the customer’s details.
+A partir de là vous pouvez modifier quels produits sont dans l'abonnement, la méthode de livraison ou de paiement, ainsi que les dates de début et de fin. 
 
- You cannot change a subscription’s schedule. Instead the subscription must be recreated in the new preferred schedule.
+**Vous ne pouvez pas modifier le rythme d'abonnement**. Pour cela vous devez recrez une commande récurrente avec unnouveau rythme et supprimer l'ancienne.
 
-​
+### Modifier une commande en particulier {#edit-one-specific-order}
 
-### Edit one specific order {#edit-one-specific-order}
+Dans la colonne "commandes", cliquez sur le numéro. Vous accéderez ainsi à la liste de toutes les commandes et vous pourrez en modifier une en particulier.
 
-If you want to change a single upcoming order in a subscription you can click on the number in the customers’ orders column.
+### Supprimer une commande récurrente {#delete-a-subscription}
 
-This will reveal all upcoming orders in the schedule, and you can then edit a specific order.![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-L9rgoFPNHO-1OtFNdJD%2F-L9rgzE72IstX9nFu03p%2FEdit%20single%20subscription%20order?generation=1523500450571937&alt=media)
+Depuis la page **subscription**, cliquez sur la croix à côté de la commande récurrente. Cela supprimera définitivement la commande.
 
-### Delete a subscription {#delete-a-subscription}
+Si vous supprimer une commande alors qu'un cycle de vente toujours ouvert, un message vous avertira afin de vous laisser l'option de garder la commande liée ou de la supprimer également.
 
-From the **subscription** page, click the **cross** button next to the subscription you wish to delete. This will prevent any future subscriptions from being generated and delete this subscription permanently.![](https://openfoodnetwork.org/wp-content/uploads/2017/03/Delete-standing-order.png)Delete standing order
-
- If you delete a subscription while there is an open order cycle you'll be asked whether you want to keep the customer's open order, or if they want to delete the current order.
-
-### Pause a subscription {#pause-a-subscription}
+### Mettre en pause une commande récurrente {#pause-a-subscription}
 
 From the subscriptions page, click on the **pause** button next to the subscriptions you wish to pause. This will prevent all future orders in the subscription from being generated, until it is activated again. To un-pause a subscriptions, click on the play button.
 
