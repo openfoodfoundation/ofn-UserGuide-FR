@@ -4,7 +4,7 @@ Tous les acheteurs ayant passé une commande sur votre boutique se trouvent sur 
 
 Vous pouvez également ajouter manuellement un acheteur via le bouton "nouvel acheteur". Seul les acheteurs dans cette liste peuvent avoir un tag associé.
 
-![](../../.gitbook/assets/image%20%2876%29.png)
+![](../../.gitbook/assets/image%20%2877%29.png)
 
 ## Adresse de facturation et de livraison par défaut
 
@@ -50,7 +50,7 @@ Par défaut, tout est visible pour tout le monde, tagué ou pas. Ajouter un tag 
 
 ![](../../.gitbook/assets/image%20%286%29.png)
 
-![](../../.gitbook/assets/image%20%2870%29.png)
+![](../../.gitbook/assets/image%20%2871%29.png)
 
 #### Les règles de tags
 

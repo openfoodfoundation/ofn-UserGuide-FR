@@ -26,7 +26,7 @@ _Avant de pouvoir créer plusieurs profils différents, nous devons activer une 
 
 Une fois connecté à l'interface d'administration, rendez-vous dans le menu "entreprises" et cliquez sur "nouvelle entreprise" :
 
-![](../../.gitbook/assets/image%20%2888%29.png)
+![](../../.gitbook/assets/image%20%2889%29.png)
 
 Cette action vous amenera sur une page similaire à[ l'édition de votre profil.](parametres.md#acceder-aux-parametres) Quelques remarques cependant :
 

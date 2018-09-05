@@ -19,7 +19,7 @@ Dans le menu de [gestion des commandes par lot](../commandes/visualisation-des-c
 
 Sur l'interface d'administration, aller dans le menu Produits, modifiez un produit existant puis rendez-vous sur le sous-menu vertical "option d'achat par lot" :
 
-![](../../.gitbook/assets/image%20%2866%29.png)
+![](../../.gitbook/assets/image%20%2867%29.png)
 
 Sélectionnez "oui". La quantité totale du lot est le montant minimal que la commande collective doit atteindre **en GRAMMES pour les produits vendus au poids et en LITRES pour les produits vendus au volume.**
 
@@ -34,7 +34,7 @@ Dans le menu commandes &gt; gestion des commandes par lot :
 5. Grâce à l'information dans la colonne "nombre max d'unité commandées", vous pouvez augmenter le max de chaque commande
 6. Sauvegardez vos modifications
 
-![](../../.gitbook/assets/image%20%2896%29.png)
+![](../../.gitbook/assets/image%20%2897%29.png)
 
 
 
