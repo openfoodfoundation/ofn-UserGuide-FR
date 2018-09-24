@@ -1,9 +1,3 @@
----
-description: >-
-  Cette page décrit comment une boutique peut créer et gérer des commandes
-  récurrentes individuelles.
----
-
 # Création et gestion d'une commande récurrente
 
 **Checklist des choses à faire avant de passer aux étapes décrites ici :**

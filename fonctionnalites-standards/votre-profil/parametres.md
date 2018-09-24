@@ -1,7 +1,3 @@
----
-description: Utilisez ce menu pour gérer les informations de votre profil
----
-
 # Paramètres du profil
 
 ## Accéder aux paramètres

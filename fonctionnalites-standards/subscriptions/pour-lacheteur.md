@@ -1,10 +1,3 @@
----
-description: >-
-  Cette page présente les fonctionnalités actuelles pour les acheteurs disposant
-  d'un commande récurrente. Elle est également utile pour les responsables de
-  boutique proposant cette offre.
----
-
 # Pour l'acheteur
 
 ## S'inscrire sur Open Food France {#signing-up-to-ofn}
