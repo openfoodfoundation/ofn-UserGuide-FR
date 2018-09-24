@@ -34,27 +34,25 @@ En cliquant sur **Créer**, la méthode de livraison sera créée et vous aurez 
 
 ![](../../.gitbook/assets/image%20%2862%29.png)
 
-**Pourcentage net** – Cette marge s'applique en pourcentage sur le montant total de la commande.
+**Pourcentage net** – Cette marge/commission correspond à un pourcentage pris sur le montant total de la commande.
 
-**Poids \(au kg\)** – cette marge s'applique aux produits vendus par kg. Elle ne s'appliquera donc pas aux produits vendus à la pièce.
+**Montant fixe par commande** – La commission correspond à un montant fixe pris pour l'ensemble de la commande, quelle que soit sa taille ou le nombre d'articles commandés.
 
-**Flat Rate \(per order\)** – Cette marge s'applique de manière standard à toutes les commandes, quelque soit leur taille ou leur unité.
+**Montant variable selon nb article** – La commission correspond à un montant donné par commande, mais qui varie selon le nombre d'articles commandés. Il peut s'agir par exemple d'une remise promotionnelle pour des achats en grosses quantités, "si l'acheteur commande plus de X articles les frais de gestion passent de Y à Z euros". 
 
-**Taux flexible** – Ce calcul est utilisé pour les remises promotionnelles \(quand vous appliquez une marge réduite lorsque le consommateur achète en gros\).
-
-* ‘Coût du premier item’ : La marge appliquée au premier produit
-* ‘Coût d'item additionnel’ : La marge appliquée aux produits suivants
-* ‘Nombre maximum d'objets’ : Le nombre maximum d'objets sur lesquels la marge va s'appliquer. Les objets après ce nombre n'auront pas de marge associée.
+* ‘Coût du premier item’ : Le montant de commission pris au premier article commandé
+* ‘Coût d'item additionnel’ : Le montant de commission pris pour les articles suivants
+* ‘Nombre maximum d'objets’ : Le nombre maximum d'articles dans le panier sur lesquel la commission va s'appliquer. Aucune commission ne sera prise sur les articles suivants.
 
 ![](../../.gitbook/assets/image%20%2810%29.png)
 
-Exemple :  Si la marge du premier est de 2€, celle de l'objet supplémentaire 1 € et le nombre maximum d'objet est de 3. Si un client en commande 5, il paiera 2 € pour le premier, 1€ pour le second et aucune commissions pour les objets 3 et 4.
+Exemple :  Si la commission prise pour le premier article est de 2€, celle de l'article supplémentaire 1 € et le nombre maximum d'article est de 3. Si un client en commande 5, il paiera 2 € pour le premier, 1€ pour le 2ème et 3ème et aucune commission pour les articles 4 et 5.
 
-**Taux net \(par item\)** – Cette marge est constante et s'applique uniquement aux produits vendus à la pièce \(et non ceux vendus au poids\).
+**Montant fixe par article (hors articles au poids/volume)** – Cette commission est constante et s'applique pour chaque article commandé, mais uniquement aux articles vendus à la pièce \(et non ceux vendus au poids\).
 
-**Price Sack** – Cette marge est utilisée pour appliquer une marge réduite à partir du moment où la commande atteint un certain montant.
+**Montant variable selon total commande** – Cette marge est utilisée pour appliquer une marge réduite à partir du moment où la commande atteint un certain montant.
 
-* ‘Montant minimal’ : Si la commande est en-dessous de ce montant, le consommateur devra payer le ‘Montant normal'.
+* ‘Montant minimal’ : Si la commande est en-dessous de ce montant, l'acheteur devra payer le ‘Montant normal'.
 * ‘Montant de la réduction’ : Si la commande est égale ou supérieure au montant minimal, le consommateur devra payer le ‘Montant de la réduction’.
 * 'Currency' : La monnaie utilisée \(généralement "EUR"\).
 
