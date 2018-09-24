@@ -32,7 +32,7 @@ En cliquant sur **Créer**, la méthode de livraison sera créée et vous aurez 
 
 ### Le calculateur
 
-![](../../.gitbook/assets/image%20%2862%29.png)
+![](../../.gitbook/assets/calculator-shipping.png)
 
 **Pourcentage net** – Cette marge/commission correspond à un pourcentage pris sur le montant total de la commande.
 
