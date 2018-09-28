@@ -11,20 +11,20 @@ description: >-
 Cette fonctionnalité arrive bientôt !
 {% endhint %}
 
-The product and inventory import tool lets you upload a csv file to add and update your stock.
+Cet outil vous permet de téléverser un fichier csv pour ajouter ou mettre à jour votre stock.
 
-The product and inventory import tool can be found by clicking **Products** in the horizontal blue menu, and **product import** in the green menu.
+Pour vous rendre sur la fonctionnalité, cliquez sur le menu principal **Produits** puis le sous-menu **import produit**. 
 
-Product import can be used in relation to [products](https://guide.openfoodnetwork.org/basic-features/products) and [inventory](https://guide.openfoodnetwork.org/advanced-features/products/inventory-tool). There's four ways you can use the tool:
+Les 4 fonctionnalité principalses de l'outil :
 
-1. Import new products
-2. Update existing product details
-3. Import new inventory
-4. Update existing inventory details
+1. Importer de nouveau produits
+2. Mettre à jour des caractéristiques produits existantes
+3. Importer un nouveau catalogue
+4. Mettre à jour les caractéristiques d'un catalogue
 
-In all cases the process involves downloading a csv template, filling in the fields and then uploading your csv file back into OFN.
+Dans chacun des cas, il vous faudra télécharger un exemple de fichier csv sur la plateforme, le remplir et le téléverser ensuite sur la plateforme.
 
-## Import New Products {#import-new-products}
+## Importer de nouveaux produits {#import-new-products}
 
 Use these instructions if you want to add new products to a producer's profile.
 
@@ -51,7 +51,7 @@ Note that all fields are case sensitive. E.g. you must use mL not ml , or Dairy 
 | shipping\_category | N | Leave blank | ​ |
 | tax\_category | Y | If the price of your product includes tax type GST, if not leave blank | GST |
 
-### Variants {#variants}
+### Les variantes {#variants}
 
 ​[Variants](https://guide.openfoodnetwork.org/advanced-features/products/product-variants) are distinguished by the units \(such as salad sold in 2 size variants\) and display\_name fields \(such as a yoghurt sold in multiple flavours\) and grouped by product name. The example below shows a salad that comes in 500g and 750g variants, and a yoghurt that comes in multiple flavours.
 
@@ -64,7 +64,7 @@ Note that all fields are case sensitive. E.g. you must use mL not ml , or Dairy 
 
 Here's how these products will display in the shop:![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LMe5IWuVbnKm1KswdEL%2F-LMe6pI63pK_lVJb5Ans%2Fimage.png?alt=media&token=d46c1309-54cd-4697-8386-b863024d77db)
 
-### Unit type examples {#variants-1}
+### Exemple d'unités {#variants-1}
 
 Below are some examples to show how products with different units should be uploaded.
 
@@ -75,7 +75,7 @@ Below are some examples to show how products with different units should be uplo
 | Fernwell Produce | Potatoes | Vegetables | 9.50 | 5 | kg |  |
 | Tom's Bakery | Wholemeal Bread | Baked goods | 3.00 | 1 |  | loaf |
 
-## Update Existing Product Details {#update-existing-product-details}
+## Mettre à jour des caractéristiques produits existantes {#update-existing-product-details}
 
 The instructions below relate to updating the details of an existing product.
 
@@ -98,11 +98,11 @@ The green columns are required, the orange are able to be updated, the white can
 
 What if I leave an updateable field blank? Will it become zero/erase the previous content?![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LLDUKuu6UjZDCUMXfpB%2F-LLDUOq-PTriZTyQ5JIA%2Fimage.png?alt=media&token=370263f2-b1cc-4ca4-8b53-4f75fe3f33ac)
 
-## Import New Inventory {#import-new-inventory}
+## Importer un catalogue {#import-new-inventory}
 
-Coming soon
+A compléter
 
-## Update Existing Inventory Details {#update-existing-inventory-details}
+## Mettre à jour un catalogue produit existant {#update-existing-inventory-details}
 
-Coming soon
+A compléter
 
