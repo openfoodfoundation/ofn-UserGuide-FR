@@ -4,7 +4,7 @@ Il est possible d'avoir plusieurs cycles de vente simultanés. Cela a pour effet
 
 Exemple ci-dessous avec des boutiques par date de livraison :
 
-![](../../.gitbook/assets/image%20%2899%29.png)
+![](../../.gitbook/assets/image%20%28100%29.png)
 
 A la sélection du cycle de vente, l 'acheteur aura à l'affichage les produits et paramètres du cycle de vente sélectionné.
 

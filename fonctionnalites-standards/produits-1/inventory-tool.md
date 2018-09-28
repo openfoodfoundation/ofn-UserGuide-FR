@@ -110,5 +110,5 @@ Sur cette page, vous pouvez décider de rendre visible certains produits en cliq
 
 Dans le menu Cycle de vente &gt; Modifier un cycle de vente, si vous cliquez sur "paramètres avancés" vous disposez d'une option pour choisir si - sur ce cycle en particulier - les informations viennent de votre catalogue ou directement des fournisseurs :
 
-![](../../.gitbook/assets/image%20%2891%29.png)
+![](../../.gitbook/assets/image%20%2892%29.png)
 

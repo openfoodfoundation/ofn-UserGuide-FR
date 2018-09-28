@@ -67,7 +67,7 @@ Pour permettre un paiement par Paypal, vous devez avoir un compte Paypal profess
 
 **Signature :** Indiquez le contenu du champ Signature.
 
-![](../../.gitbook/assets/image%20%28100%29.png)
+![](../../.gitbook/assets/image%20%28101%29.png)
 
 **Serveur :** Indiquez " live "sans les guillemets à la place de "sandbox".
 
@@ -117,7 +117,7 @@ Quand les acheteurs utilisent Stripe, il peuvent cocher une case pour que leur c
 
 ## Commissions sur les méthodes de paiements
 
-![](../../.gitbook/assets/image%20%2896%29.png)
+![](../../.gitbook/assets/image%20%2897%29.png)
 
 Vous pouvez associer une marge ou une commission à une méthode de paiement. Généralement c'est utilisé pour répercuter les frais des plateformes de paiement à l'acheteur. Sélectionnez un calculateur et indiquez un montant \(voir description ci-dessous\). 
 

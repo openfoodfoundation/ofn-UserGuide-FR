@@ -163,7 +163,7 @@ Nous allons prendre l'exemple d'une caisse de viande de 10 kg :
 4. Modifiez les valeurs de poids \(le prix changera automatiquement\)
 5. Cliquez sur "mettre à jour".
 
-![](../../.gitbook/assets/image%20%28102%29.png)
+![](../../.gitbook/assets/image%20%28103%29.png)
 
 
 

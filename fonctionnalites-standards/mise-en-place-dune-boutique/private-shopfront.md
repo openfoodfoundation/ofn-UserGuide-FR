@@ -4,7 +4,7 @@ Si vous ne souhaitez pas que votre boutique soit visible pour le public, vous po
 
 Pour réaliser cette opération, vous devez tout d'abord maintenir une liste de vos acheteurs à jour. Pour cela, rendez-vous sur l'interface d'administration, sur le menu "Acheteurs" :
 
-![](../../.gitbook/assets/image%20%2890%29.png)
+![](../../.gitbook/assets/image%20%2891%29.png)
 
 Cette liste présente tous les acheteurs qui ont déjà placé une commande avec vous. Vous pouvez également ajouter des acheteurs manuellement via le bouton "nouvel acheteur".
 

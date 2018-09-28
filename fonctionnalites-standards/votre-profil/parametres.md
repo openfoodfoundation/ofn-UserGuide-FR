@@ -60,7 +60,7 @@ L'adresse nous permet de vous géolocaliser sur une carte. Si vous disposez d'un
 
 Un exemple de profil :
 
-![](../../.gitbook/assets/image%20%28101%29.png)
+![](../../.gitbook/assets/image%20%28102%29.png)
 
 ### Propriétés / Labels \(visible seulement par les producteurs\)
 

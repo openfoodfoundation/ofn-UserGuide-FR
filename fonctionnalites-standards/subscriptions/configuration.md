@@ -97,7 +97,7 @@ Cliquez sur "Créer" lorsque vous avez terminé.
 
 Pour modifier ou supprimer un rythme, cliquez sur son nom dans la colonne correspondante. Cette colonne doit peut-être être rendue visible grâce à ce menu sur la page Cycle de vente :
 
-![](../../.gitbook/assets/image%20%2898%29.png)
+![](../../.gitbook/assets/image%20%2899%29.png)
 
 {% hint style="info" %}
 Vous ne pouvez pas supprimer un rythme d'abonnement si des commandes récurrentes y sont associés.

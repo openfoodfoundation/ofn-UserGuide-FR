@@ -51,35 +51,35 @@ Attention à la casse : il faut utiliser par exemple mL et non ml :
 
 ### Les variantes {#variants}
 
-​[Variants](https://guide.openfoodnetwork.org/advanced-features/products/product-variants) are distinguished by the units \(such as salad sold in 2 size variants\) and display\_name fields \(such as a yoghurt sold in multiple flavours\) and grouped by product name. The example below shows a salad that comes in 500g and 750g variants, and a yoghurt that comes in multiple flavours.
+​[Les variantes](product-variants.md) peuvent être distinguée par les unitées \(par exemple un produit vendu par 500 g ou 1 kg\) ainsi que le champ display\_name \(exemple : Yaourt à la myrtille, fraise...\). Chaque variante est regroupée sous le même nom produit. Exemple :
 
 | name | display\_name | price | units | unit\_type |
 | :--- | :--- | :--- | :--- | :--- |
-| Salad Bag | ​ | 3.50 | 500 | g |
-| Salad Bag | ​ | 5.50 | 750 | g |
-| Yoghurt | Banana | 4 | 500 | g |
-| Yoghurt | Strawberry | 4 | 500 | g |
+| Farine de sarasin | ​ | 3.50 | 500 | g |
+| Farine de sarasin | ​ | 5.50 | 750 | g |
+| Yaourt | Fraise | 4 | 200 | g |
+| Yaourt | Myrtille | 4 | 200 | g |
 
-Here's how these products will display in the shop:![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LMe5IWuVbnKm1KswdEL%2F-LMe6pI63pK_lVJb5Ans%2Fimage.png?alt=media&token=d46c1309-54cd-4697-8386-b863024d77db)
+Pour rappel exemple d'affichage pour l'acheteur d'un produit avec 3 variantes :
+
+![](../../.gitbook/assets/image%20%2889%29.png)
 
 ### Exemple d'unités {#variants-1}
 
-Below are some examples to show how products with different units should be uploaded.
+Un exemple d'import avec des unités différentes :
 
 | supplier | **name** | **category** | **price** | **units** | **unit\_type** | **variant\_unit\_name** |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Sue's Salads | Salad Bag | Salads | 3.50 | 500 | g |  |
-| Henry Orchards | Fruit Juice | Drinks | 3.50 | 300 | ml |  |
-| Fernwell Produce | Potatoes | Vegetables | 9.50 | 5 | kg |  |
-| Tom's Bakery | Wholemeal Bread | Baked goods | 3.00 | 1 |  | loaf |
+| Producteur A | Patate douce | Légumineuses | 3.50 | 500 | g |  |
+| Producteur B | Bar | Poisson | 3.50 | 300 | ml |  |
+| Producteur C | Pommes | Fruits & légumes | 9.50 | 5 | kg |  |
+| Producteur D | Persil | Herbes & épices | 3.00 | 1 |  | botte |
 
 ## Mettre à jour des caractéristiques produits existantes {#update-existing-product-details}
 
-The instructions below relate to updating the details of an existing product.
+Comment mettre à jour des produits existants ?
 
-This tool is intended as a quick way to update product prices and stock levels.
-
-The process for updating product details is similar to uploading new products. The first step is to download the **Product List Template** and fill in the product names and the supplier. If you have this spreadsheet on hand from a previous upload even better.
+Le processus est similaire à la création de produit. The first step is to download the **Product List Template** and fill in the product names and the supplier. If you have this spreadsheet on hand from a previous upload even better.
 
 The system requires six fields, which it uses to locate the correct product to update. There are also 6 fields which can be updated. Some fields cannot be updated with the upload tool.
 
@@ -91,10 +91,6 @@ The system requires six fields, which it uses to locate the correct product to u
 | units | on\_hand | ​ |
 | unit\_type \(if applicable\) | on\_demand | ​ |
 | variant\_unit\_name \(if applicable\) | ​ | ​ |
-
-The green columns are required, the orange are able to be updated, the white cannot be updated and aren't required.
-
-What if I leave an updateable field blank? Will it become zero/erase the previous content?![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LLDUKuu6UjZDCUMXfpB%2F-LLDUOq-PTriZTyQ5JIA%2Fimage.png?alt=media&token=370263f2-b1cc-4ca4-8b53-4f75fe3f33ac)
 
 ## Importer un catalogue {#import-new-inventory}
 
