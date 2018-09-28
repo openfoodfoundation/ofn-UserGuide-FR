@@ -79,11 +79,9 @@ Un exemple d'import avec des unités différentes :
 
 Comment mettre à jour des produits existants ?
 
-Le processus est similaire à la création de produit. The first step is to download the **Product List Template** and fill in the product names and the supplier. If you have this spreadsheet on hand from a previous upload even better.
+Le processus est similaire à la création de produit.  6 champs sont obligatoires pour que l'import fonctionne et seul 5 champs sont modifiables via l'import :
 
-The system requires six fields, which it uses to locate the correct product to update. There are also 6 fields which can be updated. Some fields cannot be updated with the upload tool.
-
-| Required fields \(you can't update\) | Fields you can update | Fields that won't update and aren't required |
+| Champs obligatoires \(non modifiables\) | Champs modifiables | Champs non modifiables et non obligatoires |
 | :--- | :--- | :--- |
 | supplier | sku | variant\_unit\_name |
 | name | display\_name | tax\_category |
