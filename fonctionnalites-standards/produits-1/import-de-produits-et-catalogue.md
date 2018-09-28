@@ -26,30 +26,28 @@ Dans chacun des cas, il vous faudra télécharger un exemple de fichier csv sur 
 
 ## Importer de nouveaux produits {#import-new-products}
 
-Use these instructions if you want to add new products to a producer's profile.
+Tout d'abord, téléchargez le modèle sur OFF et ouvrez-le avec Libre Office \(ou Excel ou équivalent\).
 
-Firstly, download the **Product List Template CSV** file from the **Product Import** page and open it with excel \(or equivalent\)
+Le modèle indique les colonnes à remplir pour réussir l'import. Consultez les informations ci-dessous pour bien remplir le fichier.
 
-You'll see that the template gives all the column headings required to successfully import a product. Below is a description of how to fill in each column.![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LLD9YyGAvDINJ-BEyZX%2F-LLCqGAxgK4IgQvi7juD%2Fimage.png?alt=media&token=4debaf15-9927-4df4-8cff-ff75b28d215a)
+Attention à la casse : il faut utiliser par exemple mL et non ml :
 
-Note that all fields are case sensitive. E.g. you must use mL not ml , or Dairy not dairy.
-
-| Column Title | Required? | Description | Example |
+| Titre de colonne | Obligatoire? | Description | Exemple |
 | :--- | :--- | :--- | :--- |
-| supplier | Y | This is the name of the producer profile that this product will be assigned to | Four Mile Farm |
-| sku | N | The SKU code for this product | AD001265 |
-| name | Y | This is the name of the product | Yoghurt |
-| display name | N | This field applies if you are creating variants \(see instructions below\). If you're not creating a variant leave this field blank. | Rasberry Yoghurt |
-| category | Y | Which category does this product sit in? The categories available are listed on the Product Import page | Dairy |
-| units | Y | The weight, volume or quantity value | 500 |
-| unit\_type | Maybe | What unit is it sold in \(g, kg, T, mL, L\)? If sold as an item \(e.g. bunch\) leave blank | g |
-| variant\_unit\_name | Maybe | If the product is sold as an item \(e.g loaf, bunch, pumpkin\) write the item type here | Bunch |
-| price | Y | The price of the product. If the item carries tax, this must be the tax inclusive price. | 3.70 |
-| on\_hand | Maybe | If you have limited stock for the product type the stock level here. If you have infinite stock available \(you can always source it\) leave this field blank and use the on\_demand column | 40 |
-| available\_on | N | Leave blank | ​ |
-| on\_demand | Maybe | If you have infinite stock available for this product, type 1, if you're using on\_hand leave blank | 1 |
-| shipping\_category | N | Leave blank | ​ |
-| tax\_category | Y | If the price of your product includes tax type GST, if not leave blank | GST |
+| supplier | Oui | Le nom du producteur des produits que vous souhaitez importer | Four Mile Farm |
+| sku | Non | Le code SKU pour ce produit | AD001265 |
+| name | Oui | Le nom du produit | Carotte |
+| display name | Non | Ce champ s'applique uniquement si vous importez des variantes \(voir plus bas\) | Carotte rouge |
+| category | Oui | Les catégories disponibles sont listées sur la page d'import produit | Poisson |
+| units | Oui | Le poids, le volume ou la quantité | 500 |
+| unit\_type | ? | Sous quelle unité est vendu le produit ? \(grammes, litres,... ?\) S'il est vendu en tant que lot, laissez vide | g |
+| variant\_unit\_name | ? | Si le produit est vendu en lot, indiquez le type de lot ici | Botte |
+| price | Oui | Le prix du produit TTC | 3.70 |
+| on\_hand | ? | Si le stock du produit est limité, indiquez la limite ici, sinon laissez vide et renseingez la colonne on\_demand | 40 |
+| available\_on | Non | Laissez vide | ​ |
+| on\_demand | ? | Si vous avez un stock infini du produit, indiquez 1 et si vous utilisez la colonne on\_hand laissez vide | 1 |
+| shipping\_category | Non | Laissez vide | ​ |
+| tax\_category | Oui | Si le prix de votre produit inclus de la TVA, indquez TVA sinon laissez vide | TVA |
 
 ### Les variantes {#variants}
 
