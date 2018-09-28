@@ -27,6 +27,7 @@
     * [Fixer un prix pour les produits irréguliers au kg](fonctionnalites-standards/produits-1/pricing-irregular-items-kg.md)
     * [Catalogue boutique](fonctionnalites-standards/produits-1/inventory-tool.md)
     * [Option d'achat par lot](fonctionnalites-standards/produits-1/group-buy-for-bulk-ordering.md)
+  * [Import de produits et catalogue](fonctionnalites-standards/import-de-produits-et-catalogue.md)
   * [Boutique](fonctionnalites-standards/mise-en-place-dune-boutique/README.md)
     * [Méthodes de paiement](fonctionnalites-standards/mise-en-place-dune-boutique/methodes-de-paiements.md)
     * [Méthodes de livraison](fonctionnalites-standards/mise-en-place-dune-boutique/types-de-livraisons.md)
