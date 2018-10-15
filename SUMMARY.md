@@ -45,6 +45,7 @@
   * [Commandes](fonctionnalites-standards/commandes/README.md)
     * [Gestion des commandes](fonctionnalites-standards/commandes/visualisation-des-commandes.md)
     * [Création de commandes](fonctionnalites-standards/commandes/manual-orders.md)
+    * [Rapports](fonctionnalites-standards/commandes/rapports.md)
   * [Subscriptions / commandes récurrentes](fonctionnalites-standards/subscriptions/README.md)
     * [Configuration](fonctionnalites-standards/subscriptions/configuration.md)
     * [Création et gestion d'une commande récurrente](fonctionnalites-standards/subscriptions/creation-et-gestion-dune-commande-recurrente.md)
