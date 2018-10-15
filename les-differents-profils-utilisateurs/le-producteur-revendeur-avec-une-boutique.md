@@ -35,7 +35,7 @@ Pour cela, il suffit de suivre les instructions de [cette page](le-producteur-sa
 
 \*\*\*\*[**Les marges et commissions**](https://ofnuserguidefr.gitbook.io/guide-utilisateur-open-food-france/~/edit/drafts/-LOtZV-X0_lFJz4UZCJk/fonctionnalites-standards/mise-en-place-dune-boutique/frais-et-taxes) ****: les boutiques avec des fournisseurs variés peuvent souhaiter faire varier leurs marges selon le fournisseur, ceux-ci n'ayant pas les mêmes coûts logistiques associés par exemple. 
 
-**Managers multiples** : il est possible d'avoir plusieurs managers qui auront les accès d'administration du profil et de la boutique \(connexion, modification, lecture\). Les managers peuvent être ajoutés directement depuis le profil du producteur revendeur.
+\*\*\*\*[**Managers multiples**](https://ofnuserguidefr.gitbook.io/guide-utilisateur-open-food-france/fonctionnalites-standards/votre-profil/parametres#managers) ****: il est possible d'avoir plusieurs managers qui auront les accès d'administration du profil et de la boutique \(connexion, modification, lecture\). Les managers peuvent être ajoutés directement depuis le profil du producteur revendeur.
 
 [**Les prix "irréguliers" \(pièce de viandes indivisible par exemple\)**](../fonctionnalites-standards/produits-1/pricing-irregular-items-kg.md): cette page présente les stratégies pour fixer les prix des produits comme les poulets ou les potirons, vendus au kilo mais dont le poids varie.
 
