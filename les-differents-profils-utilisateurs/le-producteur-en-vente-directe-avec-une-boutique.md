@@ -40,7 +40,7 @@ La première étape avant de créer votre boutique en ligne, c'est la création 
 
 ### Hourra ! Vous êtes prêt à vendre !
 
-Vous pouvez désormais [voir vos commandes](../fonctionnalites-standards/commandes/visualisation-des-commandes.md), [observer des rapports détaillés](https://github.com/OFNUserguideFr/OFNUserGuide-France/tree/ba35ff4002c6dbbe2705dd144d265eef9973c6e7/reports.md) et explorer des fonctionnalités avancées afin de réaliser votre boutique sur mesure.
+Vous pouvez désormais [voir vos commandes](../fonctionnalites-standards/commandes/visualisation-des-commandes.md), [générer des rapports détaillés](https://ofnuserguidefr.gitbook.io/guide-utilisateur-open-food-france/fonctionnalites-standards/commandes/rapports) pour faciliter le traitement des commandes et explorer des fonctionnalités avancées afin de mettre en place votre boutique sur mesure.
 
 ## Fonctionnalités avancées
 
