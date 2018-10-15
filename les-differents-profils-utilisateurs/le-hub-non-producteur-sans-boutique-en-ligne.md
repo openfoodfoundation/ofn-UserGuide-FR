@@ -8,16 +8,16 @@
 
 ## Les atouts
 
-**Vous rend visible**  
-Lors que vous disposez d'un profil sur Open Food France \(OFF\), vous devenez visible pour votre communauté locale et le secteur alimentaire global. Vos clients et futurs partenaires peuvent vous contacter pour lancer de nouveau projet de collaboration.
+**Augmenter votre visibilité**  
+Lors que vous disposez d'un profil sur Open Food France \(OFF\), vous devenez visible pour votre communauté locale et l'ensemble du réseau OFF. Vos acheteurs et futurs partenaires peuvent vous contacter pour lancer de nouveaux projets de collaboration.
 
 ## Les étapes de création du profil
 
 1\) [Créez votre profil](../fonctionnalites-standards/inscription-et-creation-de-profil.md) sur Open Food France \(OFF\). Pour cette étape, il est nécessaire d'avoir vos coordonnées et un accès à votre boite mail à proximité afin de valider votre adresse.
 
-2\) Sélectionnez le 'hub non producteur sans boutique en ligne' dans les [type de package](../fonctionnalites-standards/votre-profil/types-de-package.md).
+2\) Sélectionnez le "Profil hub" dans les [type de package](../fonctionnalites-standards/votre-profil/types-de-package.md).
 
-### Votr**re profil est désormais créé !**
+### Votr**e profil est désormais créé !**
 
 **Si vous souhaitez modifier votre profil, ou ajouter plus de détails vous pouvez :**
 
