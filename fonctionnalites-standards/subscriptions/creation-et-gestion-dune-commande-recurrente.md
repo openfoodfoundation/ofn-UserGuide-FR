@@ -8,7 +8,7 @@
 * [Ajoutez vos acheteurs à votre liste d'acheteurs](configuration.md#4-add-your-subscribers-to-your-customer-list)
 * Créez au moins un [rythme d'abonnement​](configuration.md#create-a-schedule)
 
-## 6\) Créer une commande récurrente {#6-create-subscriptions}
+## 6\) Créer une commande récurrente <a id="6-create-subscriptions"></a>
 
 Allez dans le menu général "Commandes" puis cliquez sur le sous-menu vert **Subscriptions**.
 
@@ -36,15 +36,15 @@ Si la date de fin de la commande récurrente de l'acheteur se situe après la da
 
 **Ajouter des produits :** Vous pouvez ajouter des produits de cycles de vente futurs, si la date correspond au rythme d'abonnement.
 
-#### Vérifier et enregistrer : relisez le tout et cliquez sur créer un abonnement ou annuler. {#summary}
+#### Vérifier et enregistrer : relisez le tout et cliquez sur créer un abonnement ou annuler. <a id="summary"></a>
 
 {% hint style="info" %}
 Attention : si vous avez un cycle de vente en cours et assigné à un rythme d'abonnement, dès la création de la commande récurrente, une commande va être générée et l'acheteur recevra un email de confirmation.
 {% endhint %}
 
-## 7\) Modifier la commande récurrente d'un acheteur {#7-edit-a-customers-subscription}
+## 7\) Modifier la commande récurrente d'un acheteur <a id="7-edit-a-customers-subscription"></a>
 
-### Modifier tout l'abonnement {#edit-the-base-subscription}
+### Modifier tout l'abonnement <a id="edit-the-base-subscription"></a>
 
 Depuis la page **Subscriptions**, cliquez sur le bouton "modifier" à côté de la commande que vous souhaitez modifier.
 
@@ -52,23 +52,23 @@ A partir de là vous pouvez modifier les produits de son abonnement, la méthode
 
 **Vous ne pouvez pas modifier le rythme d'abonnement**. Pour cela vous devez recréer une commande récurrente avec un nouveau rythme et supprimer l'ancienne.
 
-### Modifier une commande en particulier {#edit-one-specific-order}
+### Modifier une commande en particulier <a id="edit-one-specific-order"></a>
 
 Dans la colonne "commandes", cliquez sur le numéro. Vous accéderez ainsi à la liste de toutes les commandes et vous pourrez en modifier une en particulier.
 
-### Supprimer une commande récurrente {#delete-a-subscription}
+### Supprimer une commande récurrente <a id="delete-a-subscription"></a>
 
 Depuis la page **subscription**, cliquez sur la croix à côté de la commande récurrente. Cela supprimera définitivement la commande.
 
 Si vous supprimez une commande alors qu'un cycle de vente est toujours ouvert, un message vous avertira afin de vous laisser l'option de garder la commande liée ou de la supprimer également.
 
-### Mettre en pause une commande récurrente {#pause-a-subscription}
+### Mettre en pause une commande récurrente <a id="pause-a-subscription"></a>
 
 Depuis la page **subscription**, cliquez sur le bouton pause. Cela stoppera les commandes récurrentes jusqu'à ce que vous cliquiez sur le bouton play \(qui a remplacé le bouton pause une fois que vous avez cliqué dessus\).
 
 Si vous mettez en pause une commande alors qu'un cycle de vente est toujours ouvert, un message vous avertira afin de vous laisser l'option de garder la commande liée ou de la mettre en pause également. Et inversement si vous relancez la commande récurrente alors qu'un cycle de vente est ouvert.
 
-## 8\) Comment sont gérées les commandes récurrentes ? {#8-how-subscriptions-are-processed}
+## 8\) Comment sont gérées les commandes récurrentes ? <a id="8-how-subscriptions-are-processed"></a>
 
 Une fois la mise en place effectuée, que se passe-t-il ?
 
@@ -86,7 +86,7 @@ Une fois la mise en place effectuée, que se passe-t-il ?
 * L'acheteur reçoit un email de confirmation
 * Le responsable de la boutique reçoit un email récapitulatif des commandes et des erreurs qui ont pu avoir lieu comme par exemple des carte de crédit qui n'ont pas pu être débitées
 
-### Planifier les commandes récurrentes {#planning-for-future-subscriptions}
+### Planifier les commandes récurrentes <a id="planning-for-future-subscriptions"></a>
 
 Il y a deux manières de planifier les commandes récurrentes. Quelle que soit celle choisie n'oubliez pas que la fréquence à laquelle vous ouvrez un nouveau cycle de vente avec commande récurrente correspondra à la fréquence à laquelle les commandes seront générées.
 

@@ -4,7 +4,7 @@
 Le module subscriptions est en version béta, c'est-à-dire qu'il s'agit d'une nouvelle fonctionnalité qui peut avoir encore certains défauts. N'hésitez pas à nous contacter afin de nous dire ce qui a fonctionné / pas fonctionné pour vous et ce que vous aimeriez pouvoir réaliser avec cette fonctionnalité - info@openfoodfrance.org
 {% endhint %}
 
-## A quoi sert ce module ? {#what-are-subscriptions}
+## A quoi sert ce module ? <a id="what-are-subscriptions"></a>
 
 Ce module vous permet de mettre en place des commandes récurrentes pour vos acheteurs. Une fois mises en place, ces commandes seront automatiquement traitées selon le rythme prévu : toutes les semaines, toutes les deux semaines, etc. Cette fonctionnalité permet aux clients de ne pas avoir à repasser manuellement une commande qu'il font régulièrement.
 
@@ -16,7 +16,7 @@ En résumé :
 * Vous pouvez donner le choix à l'acheteur de mettre en pause cet abonnement, ajouter / supprimer des produits ou tout simplement l'annuler
 * Les acheteurs peuvent autoriser votre boutique à prélever automatiquement à chaque nouvelle commande récurrente passée en leur nom le montant correspondant sur leur carte de crédit, via [Stripe](../inscription-et-creation-de-profil.md).
 
-## Les grandes étapes de la mise en place {#steps-to-set-up-subscriptions}
+## Les grandes étapes de la mise en place <a id="steps-to-set-up-subscriptions"></a>
 
 La page [**configuration**](configuration.md) **décrit les éléments à préparer et les étapes de mise en place :**
 

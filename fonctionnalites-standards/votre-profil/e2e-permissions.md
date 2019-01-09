@@ -29,7 +29,7 @@ Le fournisseur permet à une entreprise \(hub ou producteur\) de créer, supprim
 
 Une entreprise permet à une autre de modifier les détails de son profil \(coordonnées, adresse, description, ...\)
 
-### Donner et gérer les permissions {#grantingandmanagingE2Es}
+### Donner et gérer les permissions <a id="grantingandmanagingE2Es"></a>
 
 Pour modifier, ajouter ou supprimer des permissions, rendez-vous sur l'interface d'administration puis dans le menu **Entreprises**, puis sous-menu **Permissions inter-entreprises** \(voir capture ci-dessous\).
 

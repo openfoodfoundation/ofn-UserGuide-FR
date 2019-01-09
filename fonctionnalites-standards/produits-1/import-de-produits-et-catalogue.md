@@ -24,7 +24,7 @@ Les 4 fonctionnalité principalses de l'outil :
 
 Dans chacun des cas, il vous faudra télécharger un exemple de fichier csv sur la plateforme, le remplir et le téléverser ensuite sur la plateforme.
 
-## Importer de nouveaux produits {#import-new-products}
+## Importer de nouveaux produits <a id="import-new-products"></a>
 
 Tout d'abord, téléchargez le modèle sur OFF et ouvrez-le avec Libre Office \(ou Excel ou équivalent\).
 
@@ -49,7 +49,7 @@ Attention à la casse : il faut utiliser par exemple mL et non ml :
 | shipping\_category | Non | Laissez vide | ​ |
 | tax\_category | Oui | Si le prix de votre produit inclus de la TVA, indquez TVA sinon laissez vide | TVA |
 
-### Les variantes {#variants}
+### Les variantes <a id="variants"></a>
 
 ​[Les variantes](product-variants.md) peuvent être distinguée par les unitées \(par exemple un produit vendu par 500 g ou 1 kg\) ainsi que le champ display\_name \(exemple : Yaourt à la myrtille, fraise...\). Chaque variante est regroupée sous le même nom produit. Exemple :
 
@@ -64,7 +64,7 @@ Pour rappel exemple d'affichage pour l'acheteur d'un produit avec 3 variantes :
 
 ![](../../.gitbook/assets/image%20%2889%29.png)
 
-### Exemple d'unités {#variants-1}
+### Exemple d'unités <a id="variants-1"></a>
 
 Un exemple d'import avec des unités différentes :
 
@@ -75,7 +75,7 @@ Un exemple d'import avec des unités différentes :
 | Producteur C | Pommes | Fruits & légumes | 9.50 | 5 | kg |  |
 | Producteur D | Persil | Herbes & épices | 3.00 | 1 |  | botte |
 
-## Mettre à jour des caractéristiques produits existantes {#update-existing-product-details}
+## Mettre à jour des caractéristiques produits existantes <a id="update-existing-product-details"></a>
 
 Comment mettre à jour des produits existants ?
 
@@ -90,11 +90,11 @@ Le processus est similaire à la création de produit.  6 champs sont obligatoir
 | unit\_type \(if applicable\) | on\_demand | ​ |
 | variant\_unit\_name \(if applicable\) | ​ | ​ |
 
-## Importer un catalogue {#import-new-inventory}
+## Importer un catalogue <a id="import-new-inventory"></a>
 
 A compléter
 
-## Mettre à jour un catalogue produit existant {#update-existing-inventory-details}
+## Mettre à jour un catalogue produit existant <a id="update-existing-inventory-details"></a>
 
 A compléter
 

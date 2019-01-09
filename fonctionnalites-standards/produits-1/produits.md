@@ -54,7 +54,7 @@ Lorsque vous créez un produit, vous êtes redirigé sur la page "catalogue bout
 
 Si vous créez deux produits similaires dont seul le prix ou la taille ou les ingrédients varient, le mieux est de créer une "variante" du produit plutôt qu'un deuxième produit entier. Pour créer une variante, veuillez suivre le processus indiqué [ici](product-variants.md).
 
-## Fonctionnalités avancées {#fonctionnalites-avancees}
+## Fonctionnalités avancées <a id="fonctionnalites-avancees"></a>
 
 * [Les variantes produits](product-variants.md)
 * [Indiquer un prix pour un produit "irrégulier" ou indivisible comme la viande](pricing-irregular-items-kg.md)

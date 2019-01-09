@@ -24,11 +24,13 @@ La première étape est de nous contacter afin que nous puissions autoriser votr
 
 **2\) Ajouter un bout de code HTML à votre site**
 
-Voici le bout de code HTML à ajouter à l'endroit où vous souhaitez que la page groupe s'affiche :
+Voici le bout de code HTML à ajouter à l'endroit où vous souhaitez que la boutique s'affiche :
 
-![](../../.gitbook/assets/embedded-group-code.png)
+```text
+<iframe src=" https://www.openfoodfrance.org/permalien/shop?embedded_shopfront=true"style="width:100%;min-height:35em"></iframe>
+```
 
-**Attention**, à la place ‘flavour-crusader’ vous devrez indiquer le permalien de votre boutique.
+**Attention**, à la place ‘permalien’ vous devrez indiquer le permalien de votre boutique.
 
 A partir de là, vous devriez voir votre boutique OFF dans votre site.
 

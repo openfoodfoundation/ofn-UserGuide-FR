@@ -36,7 +36,7 @@ Cette action vous amenera sur une page similaire à[ l'édition de votre profil.
 
 **Email et téléphone :** Ces informations sont publiques. Si le producteur ne souhaite pas les indiquer, ajoutez les votre.
 
-## 2\) Le producteur a déjà un profil sur OFF {#supplyingproducer}
+## 2\) Le producteur a déjà un profil sur OFF <a id="supplyingproducer"></a>
 
 Dans ce cas, vous devez lui demander sa permission pour ajouter ses produits à votre profil et les rendre visible sur votre boutique. Pour les contacter, vous trouverez leurs coordonnées sur leur profil. N'oubliez pas que l'utilisateur manager du profil peut aussi être un autre hub ;\) Mais deux hubs peuvent vendre les produits d'un même producteur, il n'y a donc pas de problème.
 

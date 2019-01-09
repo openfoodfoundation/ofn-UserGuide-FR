@@ -16,31 +16,31 @@ The picture below shows the information contained in an Order Cycle Customer Tot
 
 ![](../../.gitbook/assets/order-cycle-customer-totals%20%281%29.png)
 
-## Order Cycle Supplier Totals {#order-cycle-supplier-totals}
+## Order Cycle Supplier Totals <a id="order-cycle-supplier-totals"></a>
 
 The picture below shows the information contained in an Order Cycle Supplier Totals report. Like the above report, this report can also be generated to reflect a particular order cycle by selecting an order cycle from the dropdown menu. As you can see, you may also select to download a CSV copy of this report \(an excel file\). In the report, the supplier is listed on the left. Next is listed all of the **products** and their **variants**, and the **amount** of each that sold. At the closing of an order cycle, this report clearly shows you how much of each product you will need on hand to successfully pack and fulfill all of the orders placed.
 
 ![](../../.gitbook/assets/order-cycle-supplier-totals%20%281%29.png)
 
-## Mailing List {#mailing-list}
+## Mailing List <a id="mailing-list"></a>
 
 The mailing list report shows the names and email addresses of customers who have placed orders in your store. You can filter the report according to order cycle, allowing you to alert customers if there are stock outs or changes to the delivery shedule. See below for an example. As with all reports, the list can be downloaded as a CSV file.
 
 ![](../../.gitbook/assets/mailing-list.png)
 
-## Addresses {#addresses}
+## Addresses <a id="addresses"></a>
 
 The Addresses report details your customer’s names, addresses, emails, phone numbers and the hub, or store, they shopped with. Again, this report can be filtered by order cycle.
 
 ![](../../.gitbook/assets/addresses.png)
 
-## All Products and Inventory \(on hand\) {#all-products-and-inventory-on-hand}
+## All Products and Inventory \(on hand\) <a id="all-products-and-inventory-on-hand"></a>
 
 The All Products and Inventory \(on hand\) reports can be used as a paper copy ordering sheet, for any customers who prefer to order on paper. It lists all of your products and their prices \(see below\). The**All Products**report lists all of your products regardless of whether they have on hand quantities above 0. The**Inventory \(on hand\)**report shows only products which have a positive on hand value.
 
 ![](../../.gitbook/assets/all-products%20%281%29.png)
 
-## Packing Reports {#packing-reports}
+## Packing Reports <a id="packing-reports"></a>
 
 Some enterprises use their order confirmation emails as packing sheets, and others will create their own by modifying the Order Cycle Customer Totals report \(above\) to suit their desired format. These packing reports offer two additional options for packing slips.
 
@@ -52,13 +52,13 @@ This report lists each customer who placed an order. It included each item order
 
 This report lists each supplier and their products. Next to each product is the name of the customers who ordered this product, and the quantity they ordered. This report is useful for shops who pack orders according to supplier.
 
-## Sales Tax {#sales-tax}
+## Sales Tax <a id="sales-tax"></a>
 
 This report is useful to separate the tax component of sales, delivery and fees.
 
 ![](../../.gitbook/assets/sales-tax-report.png)
 
-## Bulk Co-op Totals By Suppliers Report {#bulk-co-op-totals-by-suppliers-report}
+## Bulk Co-op Totals By Suppliers Report <a id="bulk-co-op-totals-by-suppliers-report"></a>
 
 This report tells shop managers whether they have reached their bulk ordering threshold, and by how much they have exceeded or fallen short of this amount. Note you need to setup bulk sizes for your products before using this feature, see the [Group Buy](https://openfoodnetwork.org/user-guide/advanced-features/group-buy/)advanced feature for instructions.
 
