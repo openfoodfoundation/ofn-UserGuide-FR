@@ -10,7 +10,7 @@ Cette fonctionnalité est assez récente, nous sommes toujours en phase de test.
 
 ### Sécurité
 
-Open Food France est une place de marché, ainsi nos standards de sécurité sont hauts afin de permettre des paiements sur la plateforme. Ainsi, si vous ne l'avez pas déjà fait, vous devrez installer un certificat SSL/TLS sur votre site pour que l'intégration fonctionne.
+Open Food France est une place de marché, ainsi nos standards de sécurité sont hauts afin de permettre des paiements sur la plateforme. **Ainsi, si vous ne l'avez pas déjà fait, vous devrez installer un certificat SSL/TLS sur votre site pour que l'intégration fonctionne.**
 
 ### Créer une boutique OFF
 
