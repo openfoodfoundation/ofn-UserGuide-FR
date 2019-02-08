@@ -32,6 +32,8 @@ La première chose à faire est de sélectionner un coordinateur pour votre cycl
 
 **Commandes jusqu'au :** La date à laquelle la boutique arrêtera d'accepter des commandes. Si vous souhaitez laisser votre boutique ouverte en continue, indiquer une date dans un futur très lointain.
 
+**Prêt pour :** La date à laquelle cette commande sera disponible (ou livrée) pour le client. Vous pouvez indiquer ici un texte libre qui sera utilisé pour nommer ce cycle de vente, par exemple _Vendredi prochain_.
+
 **Ajouter commission coordinateur :** En tant que Hub, le coordinateur est certainement vous. La marge sera calculée en fonction du calculateur sélectionné précédemment, voir guide [Marges et commissions](frais-et-taxes.md).
 
 ### 3. Produits entrants
