@@ -20,7 +20,7 @@ Cette opération se déroule une fois connecté à cette adresse :[https://www.o
 
 Il est possible de sauvegarder une ou plusieurs carte de crédit dans l'onglet cartes bancaires :
 
-![](../../.gitbook/assets/image%20%2865%29.png)
+![](../../.gitbook/assets/image%20%2867%29.png)
 
 Si plusieurs cartes bancaires sont enregistrées, la carte bancaire indiquée "par défaut" sera celle choisie par Stripe pour prélever le montant correspondant à la commande récurrente. Si aucune carte bancaire est sélectionnée "par défaut", le paiement ne pourra pas avoir lieu.
 

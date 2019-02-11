@@ -62,7 +62,7 @@ Attention à la casse : il faut utiliser par exemple mL et non ml :
 
 Pour rappel exemple d'affichage pour l'acheteur d'un produit avec 3 variantes :
 
-![](../../.gitbook/assets/image%20%2889%29.png)
+![](../../.gitbook/assets/image%20%2891%29.png)
 
 ### Exemple d'unités <a id="variants-1"></a>
 

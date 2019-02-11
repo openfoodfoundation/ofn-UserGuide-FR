@@ -6,7 +6,7 @@ _Pendant la durée du mode béta, contactez-nous si vous souhaitez utiliser le m
 
 Activez le module en vous rendant sur les paramètres de votre profil :
 
-![](../../.gitbook/assets/image%20%2882%29.png)
+![](../../.gitbook/assets/image%20%2884%29.png)
 
 **Abonnements :** Pour activer, sélectionnez "Activée".
 
@@ -97,7 +97,7 @@ Cliquez sur "Créer" lorsque vous avez terminé.
 
 Pour modifier ou supprimer un rythme, cliquez sur son nom dans la colonne correspondante. Cette colonne doit peut-être être rendue visible grâce à ce menu sur la page Cycle de vente :
 
-![](../../.gitbook/assets/image%20%2899%29.png)
+![](../../.gitbook/assets/image%20%28101%29.png)
 
 {% hint style="info" %}
 Vous ne pouvez pas supprimer un rythme d'abonnement si des commandes récurrentes y sont associés.

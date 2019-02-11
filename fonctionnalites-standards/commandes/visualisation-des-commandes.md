@@ -36,7 +36,7 @@ Les filtres présents sur la page peuvent vous aider à accéder plus rapidement
 
 _Remarque_ _: Vous ne pouvez pas indiquer une commande à "envoyée" si le statut de paiement n'est PAS "Payé"._
 
-![](../../.gitbook/assets/image%20%2866%29.png)
+![](../../.gitbook/assets/image%20%2868%29.png)
 
 **Email acheteur** **:** L'email du client. Une liste complète des emails clients peut être téléchargée dans les [rapports](https://github.com/ofnuserguidefr/guide-utilisateur-open-food-france/tree/f72c4e0a78bb6dc0c5b39249e706b0dbac84df5f/reports.md).
 
@@ -98,17 +98,27 @@ Cliquez sur le bouton "annuler" depuis la page de modification d'une commande.
 
 Cliquez sur "détails clients" dans la liste en bas à droite pour accéder à toutes les coordonnées :
 
-![](../../.gitbook/assets/image%20%2878%29.png)
+![](../../.gitbook/assets/image%20%2880%29.png)
 
 **Ajouter ou supprimer un montant à la commande**
 
 Cliquez sur "ajustements" \(cf capture ci-dessus\). Sur cette page vous pouvez ajouter ou supprimer des commissions. Pour ajouter, cliquez sur "nouvel ajustement".
 
+#### Impression des factures par lot
+
+Il est possible de sélectionner les commandes visibles sur la page \(utilisez l'outil de sélection pour afficher jusqu'à 100 commandes\) afin de générer un PDF via le bouton "imprimer les factures" :
+
+![](../../.gitbook/assets/image%20%2865%29.png)
+
+Après clic sur le bouton une fenêtre avec un chargement souvrira. Lorsque le chargement est terminé un bouton sera affiché afin d'ouvrir dans une nouvelle page un fichier PDF avec toutes les factures des commandes sélectionnées :
+
+![](../../.gitbook/assets/image%20%2859%29.png)
+
 ## Gestion des commandes par lot
 
 La liste des commandes présente les commandes alors que cette page liste les produits commandés. Cela permet de modifier en masse plusieurs commandes qui contiennent le même produit \(changement de quantité, produit en rupture, etc\). La page se présente la manière suivante :
 
-![](../../.gitbook/assets/image%20%2870%29.png)
+![](../../.gitbook/assets/image%20%2872%29.png)
 
 **Date de début et de fin** **:** Vous pouvez filtrer l'affichage des produts en fonction des dates de commandes.
 
@@ -163,7 +173,7 @@ Nous allons prendre l'exemple d'une caisse de viande de 10 kg :
 4. Modifiez les valeurs de poids \(le prix changera automatiquement\)
 5. Cliquez sur "mettre à jour".
 
-![](../../.gitbook/assets/image%20%28103%29.png)
+![](../../.gitbook/assets/image%20%28105%29.png)
 
 
 
