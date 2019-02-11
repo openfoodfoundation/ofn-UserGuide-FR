@@ -104,7 +104,7 @@ Cliquez sur "détails clients" dans la liste en bas à droite pour accéder à t
 
 Cliquez sur "ajustements" \(cf capture ci-dessus\). Sur cette page vous pouvez ajouter ou supprimer des commissions. Pour ajouter, cliquez sur "nouvel ajustement".
 
-#### Impression des factures par lot
+### Impression des factures par lot
 
 Il est possible de sélectionner les commandes visibles sur la page \(utilisez l'outil de sélection pour afficher jusqu'à 100 commandes\) afin de générer un PDF via le bouton "imprimer les factures" :
 
