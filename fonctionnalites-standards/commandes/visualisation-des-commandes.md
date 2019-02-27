@@ -64,7 +64,7 @@ Pour modifier le statut de livraison ou de paiement, cliquez simplement sur le b
 
 ### **Modifier une commande**
 
-En cliquant sur le bouton modifier vous êtes amener à consulter la page suivante :
+En cliquant sur le bouton modifier vous êtes amené à consulter la page suivante :
 
 ![](../../.gitbook/assets/image%20%2830%29.png)
 
@@ -103,6 +103,10 @@ Cliquez sur "détails clients" dans la liste en bas à droite pour accéder à t
 **Ajouter ou supprimer un montant à la commande**
 
 Cliquez sur "ajustements" \(cf capture ci-dessus\). Sur cette page vous pouvez ajouter ou supprimer des commissions. Pour ajouter, cliquez sur "nouvel ajustement".
+
+#### Effectuer un remboursement
+
+Selon la méthode de paiement choisie, la gestion des remboursements ne sera pas la même. [Consultez la page dédier à ce sujet.](https://ofnuserguidefr.gitbook.io/guide-utilisateur-open-food-france/fonctionnalites-standards/commandes/ajustements-de-paiement)
 
 ### Impression des factures par lot
 

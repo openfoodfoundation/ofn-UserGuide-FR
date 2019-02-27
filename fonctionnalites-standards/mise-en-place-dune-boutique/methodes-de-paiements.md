@@ -147,3 +147,7 @@ Exemple :  Si la marge du premier est de 2€, celle de l'objet supplémentaire 
 * ‘Montant de la réduction’ : Si la commande est égale ou supérieure au montant minimal, le consommateur devra payer le ‘Montant de la réduction’.
 * 'Currency' : La monnaie utilisée \(généralement "EUR"\).
 
+## Gestion des remboursements
+
+Selon la méthode de paiement choisie, la gestion des remboursements ne sera pas la même. [Consultez la page dédier à ce sujet.](https://ofnuserguidefr.gitbook.io/guide-utilisateur-open-food-france/fonctionnalites-standards/commandes/ajustements-de-paiement)
+
