@@ -10,7 +10,7 @@ A la sélection du cycle de vente, l 'acheteur aura à l'affichage les produits 
 
 Notez que vous pouvez aussi gérer les paramètres et marges par produits. Mais cette solution peut être utile.
 
-**Attention : les méthodes de livraison ne sont pas paramétrés aux niveau du cycle de vente** ! Tous vos cycles de vente auront donc les mêmes options de livraison.
+**Attention : les méthodes de livraison ne sont pas paramétrées au niveau du cycle de vente** ! Tous vos cycles de vente auront donc les mêmes options de livraison. Vous pouvez en revanche choisir d'afficher ou masquer des méthodes de livraisons à certains acheteurs grâce [aux tags.](customized-shopping-experience.md)
 
 ### **Définir l'ordre d'affichage de vos cycles de vente dans la liste déroulante**
 

@@ -5,11 +5,11 @@ Nous vous proposons des “profils types” ci-dessous. Bien sûr, les acteurs s
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>Vous êtes</b>
+      <th style="text-align:left"><b>Vous &#xEA;tes</b>
       </th>
       <th style="text-align:left"><b>Description</b>
       </th>
-      <th style="text-align:left"><b>Je veux juste être visible</b>
+      <th style="text-align:left"><b>Je veux juste &#xEA;tre visible</b>
       </th>
       <th style="text-align:left"><b>Je veux organiser des ventes</b>
       </th>
@@ -17,22 +17,24 @@ Nous vous proposons des “profils types” ci-dessous. Bien sûr, les acteurs s
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">- Groupement d’achats
-        <br />- Magasin/épicerie coopérative et participative
+      <td style="text-align:left">- Groupement d&#x2019;achats
+        <br />- Magasin/&#xE9;picerie coop&#xE9;rative et participative
         <br />- Magasin de producteurs
-        <br />- Vente groupée de producteurs type “drive fermier”- <a href="http://www.reseau-amap.org/amap.php">AMAP</a> (si
-        plusieurs producteurs)
-        <br />- Grossistes/import-export en circuit court</td>
-      <td style="text-align:left">Organisations ne produisant pas directement mais dont les membres se rassemblent
-        pour grouper et optimiser leurs achats./ ventes (pré-commande, organisation
-        de nouveaux services type “drive” ou “livraison à domicile” en complément
-        de ventes physiques, etc.)</td>
-      <td style="text-align:left"><a href="le-hub-non-producteur-sans-boutique-en-ligne.md">Profil distributeur</a>
-      </td>
-      <td style="text-align:left"><a href="le-hub-non-producteur-avec-boutique-en-ligne.md">Hub distributeur</a> ou
+        <br />- Vente group&#xE9;e de producteurs type &#x201C;drive fermier&#x201D;-
         <a
-        href="le-collectif-de-producteurs-avec-une-boutique.md">Collectif de producteurs</a>
-      </td>
+        href="http://www.reseau-amap.org/amap.php">AMAP</a>(si plusieurs producteurs)
+          <br />- Grossistes/import-export en circuit court</td>
+      <td style="text-align:left">Organisations ne produisant pas directement mais dont les membres se rassemblent
+        pour grouper et optimiser leurs achats./ ventes (pr&#xE9;-commande, organisation
+        de nouveaux services type &#x201C;drive&#x201D; ou &#x201C;livraison &#xE0;
+        domicile&#x201D; en compl&#xE9;ment de ventes physiques, etc.)</td>
+      <td
+      style="text-align:left"><a href="le-hub-non-producteur-sans-boutique-en-ligne.md">Profil distributeur</a>
+        </td>
+        <td style="text-align:left"><a href="le-hub-non-producteur-avec-boutique-en-ligne.md">Hub distributeur</a> ou
+          <a
+          href="le-collectif-de-producteurs-avec-une-boutique.md">Collectif de producteurs</a>
+        </td>
     </tr>
     <tr>
       <td style="text-align:left">- Producteur en vente directe
@@ -54,20 +56,20 @@ Nous vous proposons des “profils types” ci-dessous. Bien sûr, les acteurs s
         <br />
         <br />
       </td>
-      <td style="text-align:left">Le producteur vend en direct ses produits, mais également des produits
-        d'autres producteurs ou grossistes</td>
+      <td style="text-align:left">Le producteur vend en direct ses produits, mais &#xE9;galement des produits
+        d&apos;autres producteurs ou grossistes</td>
       <td style="text-align:left"><a href="le-producteur-sans-boutique.md">Profil producteur</a>
       </td>
       <td style="text-align:left"><a href="https://ofnuserguidefr.gitbook.io/guide-utilisateur-open-food-france/les-differents-profils-utilisateurs/le-producteur-revendeur-avec-une-boutique">Hub producteur</a>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Marchés physiques</td>
-      <td style="text-align:left">Un marché physique existant souhaite profiter de la venue des producteurs
-        pour organiser des ventes en ligne complémentaires</td>
-      <td style="text-align:left"><a href="le-marche-virtuel-sans-boutique.md">Profil marché</a>
+      <td style="text-align:left">March&#xE9;s physiques</td>
+      <td style="text-align:left">Un march&#xE9; physique existant souhaite profiter de la venue des producteurs
+        pour organiser des ventes en ligne compl&#xE9;mentaires</td>
+      <td style="text-align:left"><a href="le-marche-virtuel-sans-boutique.md">Profil march&#xE9;</a>
       </td>
-      <td style="text-align:left"><a href="le-marche-virtuel-avec-boutique.md">Boutique marché</a>
+      <td style="text-align:left"><a href="le-marche-virtuel-avec-boutique.md">Boutique march&#xE9;</a>
       </td>
     </tr>
   </tbody>
