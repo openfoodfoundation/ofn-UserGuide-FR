@@ -1,12 +1,12 @@
-# Rapports
+# Rapports \(export de données\)
 
-Vous pouvez accéder à la page de génération de rapport via le menu **Rapports**
+Vous pouvez accéder à la page de génération de rapport via le menu **Rapports.** Ce qu'on appelle "rapport" est en réalisé une liste prédéfinie d'exports de données.
 
-![](../../.gitbook/assets/capture-du-2018-10-15-22-53-38.png)
+![](../.gitbook/assets/capture-du-2018-10-15-22-53-38.png)
 
 Vous arrivez sur une page avec une liste de rapports prédéfinis.
 
-![](../../.gitbook/assets/capture-du-2018-10-15-22-56-12.png)
+![](../.gitbook/assets/capture-du-2018-10-15-22-56-12.png)
 
 Les deux rapports les plus utilisés sont les rapports **Totaux cycle de vente par producteur** et **Totaux cycle de vente par acheteur**. Si en tant que hub vous organiser l'approvisionnement des produits en gros par le producteur puis la mise en panier sur site, le premier rapport vous permettra de gérer vos commandes, le second la préparation des paniers individuels. La **Liste de mails** et les **Adresses** vous serons utiles pour gérer votre communication avec vos acheteurs. Les rapports de **TVA** vous permettront de gérer vos déclarations de TVA. Les **Rapports des paiements** et **Rapport méthodes de paiement** vous permet de savoir ce qui a été payé et comment, et ce qui est dû sur chaque méthode de paiement choisie.
 
