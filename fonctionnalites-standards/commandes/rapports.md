@@ -28,7 +28,7 @@ Retrouvez dans ce rapport toutes les coordonnées de vos acheteurs.
 
 ## Produits et catalogue <a id="all-products-and-inventory-on-hand"></a>
 
-The All Products and Inventory \(on hand\) reports can be used as a paper copy ordering sheet, for any customers who prefer to order on paper. It lists all of your products and their prices \(see below\). The**All Products**report lists all of your products regardless of whether they have on hand quantities above 0. The**Inventory \(on hand\)**report shows only products which have a positive on hand value.
+Ce rapport présente la liste des produits ainsi que leur prix. Attention la partie catalogue ne présente que les produits pour lesquels vous disposez d'un stock positif.
 
 ## Préparation des commandes <a id="packing-reports"></a>
 
