@@ -8,17 +8,17 @@ La définition des méthodes de livraison est obligatoire avant l'ouverture d'un
 
 En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez sur **gérer** et enfin sur **méthode de livraison** dans le menu vertical de gauche :
 
-![](../../.gitbook/assets/image%20%2877%29.png)
+![](../../.gitbook/assets/image%20%2878%29.png)
 
 **2\)** Cliquez sur **créer une nouvelle méthode de livraison.** Vous serez redirigé sur cette page :
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2813%29.png)
 
 **3\)** Cochez la case correspondant à votre entreprise dans l'encart à droite intitulé "Hubs". Cela permettra à la méthode de bien s'appliquer à votre entreprise.
 
 **4\) Nom :** Choisissez un nom pour la méthode. Ce nom sera affiché au client durant son processus d'achat et sur les emails de confirmation de commande. Exemple :
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 
 **5\) Description :** Ici vous pouvez ajouter des détails supplémentaires. Ces détails seront visibles pour les clients en gris à côté du nom \(cf. capture ci-dessus\).
 
@@ -44,7 +44,7 @@ En cliquant sur **Créer**, la méthode de livraison sera créée et vous aurez 
 * ‘Coût d'item additionnel’ : Le montant de commission pris pour les articles suivants
 * ‘Nombre maximum d'objets’ : Le nombre maximum d'articles dans le panier sur lesquel la commission va s'appliquer. Aucune commission ne sera prise sur les articles suivants.
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
 Exemple : Si la commission prise pour le premier article est de 2€, celle de l'article supplémentaire 1 € et le nombre maximum d'article est de 3. Si un client en commande 5, il paiera 2 € pour le premier, 1€ pour le 2ème et 3ème et aucune commission pour les articles 4 et 5.
 

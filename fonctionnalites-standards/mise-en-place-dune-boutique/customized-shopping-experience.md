@@ -4,7 +4,7 @@ Tous les acheteurs ayant passé une commande sur votre boutique se trouvent sur 
 
 Vous pouvez également ajouter manuellement un acheteur via le bouton "nouvel acheteur". Seul les acheteurs dans cette liste peuvent avoir un tag associé.
 
-![](../../.gitbook/assets/image%20%2879%29.png)
+![](../../.gitbook/assets/image%20%2880%29.png)
 
 ## Adresse de facturation et de livraison par défaut
 
@@ -12,7 +12,7 @@ Chaque acheteur peut avoir une adresse de livraison et facturation par défaut. 
 
 Si un acheteur change d'adresse, ils peuvent aussi modifier cette adresse par défaut durant la commande en cochant la case "Sauvegarde comme adresse par défaut" :
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](../../.gitbook/assets/image%20%289%29.png)
 
 ## Gestion des tags
 
@@ -34,7 +34,7 @@ Utiliser la fonctionnalité se réalise en deux étapes :
 
 Pour ajouter un tag, il vous suffit de taper un tag dans la colonne dédiée \(menu **Acheteurs**\). Un acheteur peut avoir plusieurs tags et bien évidemment un tag peut être lié à plusieurs acheteurs. Pour ce deuxième point, la seconde fois où vous taperez le tag dans la colonne correspondante, il vous sera suggéré via une liste déroulante. Faites bien attention à le sélectionner dans cette liste \(les tags sont sensibles à la casse\).
 
-![](../../.gitbook/assets/image%20%2826%29.png)
+![](../../.gitbook/assets/image%20%2827%29.png)
 
 Notez que les tags apparaissent également dans vos rapports. Vous pouvez donc les utilisez lors des exports excel pour filtrer rapidement les données.
 
@@ -42,15 +42,15 @@ Notez que les tags apparaissent également dans vos rapports. Vous pouvez donc l
 
 Paramétrer une règle de tag va vous permettre de définir le rôle du tag \(permettre à certaines variantes d'être invisibles pour les membres tagués etc\). Rendez-vous sur le menu **Entreprises** &gt; **Gérer** &gt; R**ègles de tag**
 
-![](../../.gitbook/assets/image%20%2832%29.png)
+![](../../.gitbook/assets/image%20%2833%29.png)
 
 #### Par défaut
 
 Par défaut, tout est visible pour tout le monde, tagué ou pas. Ajouter un tag va réaliser des exceptions à cette règle. Si vous souhaitez changer la règle par défaut, vous pouvez cliquer sur "Ajouter une règle par défaut". Ainsi les règles ajoutés ensuite, seront des exceptions à cette règle par défaut.
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![](../../.gitbook/assets/image%20%287%29.png)
 
-![](../../.gitbook/assets/image%20%2873%29.png)
+![](../../.gitbook/assets/image%20%2874%29.png)
 
 #### Les règles de tags
 

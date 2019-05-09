@@ -4,17 +4,17 @@ Cette fonctionnalité est utile pour les producteurs et les hubs travaillant ens
 
 Lorsqu'une marge est appliquée, le consommateur est capable de voir la constitution du prix sur la boutique en cliquant sur le camembert. Exemple ci-dessous :
 
-![](../../.gitbook/assets/image%20%2825%29.png)
+![](../../.gitbook/assets/image%20%2826%29.png)
 
 ## Accéder au menu marge et commissions
 
 Sur l'interface d'administration, rendez-vous sur le menu **Enterprises**, puis cliquez sur **Gérer** et enfin sur "marges et commissions" dans le menu de gauche.
 
-![](../../.gitbook/assets/image%20%287%29.png)
+![](../../.gitbook/assets/image%20%288%29.png)
 
 ## Ajouter des marges et commissions
 
-![](../../.gitbook/assets/image%20%2886%29.png)
+![](../../.gitbook/assets/image%20%2887%29.png)
 
 **Entreprise :** Dans la première colonne, sélectionnez l'entreprise qui recevra la marge.
 
@@ -28,11 +28,11 @@ Sur l'interface d'administration, rendez-vous sur le menu **Enterprises**, puis 
 
 Pour finaliser, cliquez sur "Mettre à jour". Une fois que la marge a été créée, vous pouvez indiquer comment la marge sera calculée dans la colonne "Montant pour calculs".
 
-![](../../.gitbook/assets/image%20%2840%29.png)
+![](../../.gitbook/assets/image%20%2841%29.png)
 
 ### Le calculateur
 
-![](../../.gitbook/assets/image%20%2863%29.png)
+![](../../.gitbook/assets/image%20%2864%29.png)
 
 **Pourcentage net** – Cette marge s'applique en pourcentage sur le montant total de la commande.
 
@@ -46,7 +46,7 @@ Pour finaliser, cliquez sur "Mettre à jour". Une fois que la marge a été cré
 * ‘Coût d'item additionnel’ : La marge appliquée aux produits suivants
 * ‘Nombre maximum d'objets’ : Le nombre maximum d'objets sur lesquels la marge va s'appliquer. Les objets après ce nombre n'auront pas de marge associée.
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
 Exemple :  Si la marge du premier est de 2€, celle de l'objet supplémentaire 1 € et le nombre maximum d'objet est de 3. Si un client en commande 5, il paiera 2 € pour le premier, 1€ pour le second et aucune commissions pour les objets 3 et 4.
 

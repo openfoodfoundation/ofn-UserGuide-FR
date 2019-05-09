@@ -2,11 +2,11 @@
 
 Une fois connecté sur l'interface d'adminsitration, cliquez sur le menu **Produits**, puis sur le bouton **Nouveau Produit**.
 
-![](../../.gitbook/assets/image%20%28106%29.png)
+![](../../.gitbook/assets/image%20%28107%29.png)
 
 Vous serez redirigé vers la page suivante :
 
-![](../../.gitbook/assets/image%20%2874%29.png)
+![](../../.gitbook/assets/image%20%2875%29.png)
 
  **Fournisseurs**
 
@@ -48,7 +48,7 @@ N'oubliez pas de bien cliquer sur le bouton "créer" une fois tous les champs ob
 
 Lorsque vous créez un produit, vous êtes redirigé sur la page "catalogue boutique" où vous retrouvez tous vos produits :
 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/image%20%2810%29.png)
 
 ### Créer un produit similaire
 

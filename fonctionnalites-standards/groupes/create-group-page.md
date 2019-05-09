@@ -10,7 +10,7 @@
 
 Une fois administrateur du groupe, vous aurez accès au menu groupe. Rendez-vous alors dans l'édition :
 
-![](../../.gitbook/assets/image%20%2850%29.png)
+![](../../.gitbook/assets/image%20%2851%29.png)
 
 ### Informations de base
 

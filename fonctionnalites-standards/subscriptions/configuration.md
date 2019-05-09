@@ -6,7 +6,7 @@ _Pendant la durée du mode béta, contactez-nous si vous souhaitez utiliser le m
 
 Activez le module en vous rendant sur les paramètres de votre profil :
 
-![](../../.gitbook/assets/image%20%2884%29.png)
+![](../../.gitbook/assets/image%20%2885%29.png)
 
 **Abonnements :** Pour activer, sélectionnez "Activée".
 
@@ -79,13 +79,13 @@ Au delà de la simple activation / désactivation de la fonctionnalité par cycl
 
 Une fois les premières étapes réalisées, vous allez voir apparaître le bouton "rythme d'abonnement" dans le menu Cycle de vente. Cliquez dessus pour créer un nouveau rythme d'abonnement :
 
-![](../../.gitbook/assets/image%20%2820%29.png)
+![](../../.gitbook/assets/image%20%2821%29.png)
 
 {% hint style="info" %}
 Attention, vous devez au moins avoir un cycle de vente ouvert pour pouvoir configurer un rythme d'abonnement.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2852%29.png)
+![](../../.gitbook/assets/image%20%2853%29.png)
 
 **Nom :** Pensez à donner un nom logique au rythme d'abonnement. Par exemple : "hebdomadaire", "mensuel", "un jeudi sur deux"... Ce nom n'est pas visible pour les acheteurs.
 
@@ -97,7 +97,7 @@ Cliquez sur "Créer" lorsque vous avez terminé.
 
 Pour modifier ou supprimer un rythme, cliquez sur son nom dans la colonne correspondante. Cette colonne doit peut-être être rendue visible grâce à ce menu sur la page Cycle de vente :
 
-![](../../.gitbook/assets/image%20%28101%29.png)
+![](../../.gitbook/assets/image%20%28102%29.png)
 
 {% hint style="info" %}
 Vous ne pouvez pas supprimer un rythme d'abonnement si des commandes récurrentes y sont associés.
@@ -107,7 +107,7 @@ Vous ne pouvez pas supprimer un rythme d'abonnement si des commandes récurrente
 
 Soit vous utilisez la fonctionnalité de modification d'un rythme décrite ci-dessus, soit vous pouvez utiliser la fonction présente dans la modification d'un cycle de vente :
 
-![](../../.gitbook/assets/image%20%2823%29.png)
+![](../../.gitbook/assets/image%20%2824%29.png)
 
 N.B. : Un même cycle de vente peut se retrouver dans plusieurs rythmes d'abonnement !
 

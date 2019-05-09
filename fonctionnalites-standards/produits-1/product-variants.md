@@ -4,7 +4,7 @@ Si vous créez deux produits similaires dont seul le prix ou la taille ou les in
 
 Exemple d'affichage boutique d'un produit avec 3 variantes :
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
 ### Comment créer une variante d'un produit ?
 
@@ -12,11 +12,11 @@ Tout d'abord, il est nécessaire de créer un produit représentant une des vari
 
 Toujours sur votre interface d'administration, rendez-vous sur la page produits où vous pouvez observer une liste des produits et le produit que vous avez ajouté. Cliquez sur l'angle "&gt;" dans la première colonne de gauche puis sur le petit plus qui s'affichera juste en-dessous comme sur cet écran :
 
-![](../../.gitbook/assets/image%20%2858%29.png)
+![](../../.gitbook/assets/image%20%2859%29.png)
 
 Il faudra cliquer une seconde fois sur ce petit plus. En effet, la première fois, il créer la première variante avec les informations du produit original, la deuxième fois permettra de créer la seconde variante. Vous serez ensuite sur l'écran suivant :
 
-![](../../.gitbook/assets/image%20%2887%29.png)
+![](../../.gitbook/assets/image%20%2888%29.png)
 
 La première ligne correspond au titre du regroupement des variantes. On peut le laisser tel quel.
 

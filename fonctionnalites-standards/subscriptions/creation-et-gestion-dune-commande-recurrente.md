@@ -12,11 +12,11 @@
 
 Allez dans le menu général "Commandes" puis cliquez sur le sous-menu vert **Subscriptions**.
 
-![](../../.gitbook/assets/image%20%2818%29.png)
+![](../../.gitbook/assets/image%20%2819%29.png)
 
 Cliquez ensuite sur "Nouvel abonnement" :
 
-![](../../.gitbook/assets/image%20%2895%29.png)
+![](../../.gitbook/assets/image%20%2896%29.png)
 
 **Acheteur :** Sélectionnez un acheteur dans la liste déroulante \(seuls les acheteurs présents dans votre liste peuvent être sélectionnés\).
 
