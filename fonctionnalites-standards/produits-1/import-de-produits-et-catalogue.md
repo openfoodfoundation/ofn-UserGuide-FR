@@ -15,7 +15,7 @@ Cet outil vous permet de téléverser un fichier csv pour ajouter ou mettre à j
 
 Pour vous rendre sur la fonctionnalité, cliquez sur le menu principal **Produits** puis le sous-menu **import produit**. 
 
-Les 4 fonctionnalité principalses de l'outil :
+Les 4 fonctionnalité principales de l'outil :
 
 1. Importer de nouveau produits
 2. Mettre à jour des caractéristiques produits existantes
@@ -24,30 +24,39 @@ Les 4 fonctionnalité principalses de l'outil :
 
 Dans chacun des cas, il vous faudra télécharger un exemple de fichier csv sur la plateforme, le remplir et le téléverser ensuite sur la plateforme.
 
+{% hint style="info" %}
+**Important** : Microsoft Excel ne permet pas l'ouverture "directe" d'un tableur en csv. Si vous le pouvez, nous vous conseillons d'utiliser les tableurs libres de LIbres Office [https://www.libreoffice.org/download/download/](https://www.libreoffice.org/download/download/) Avec Libre Office Calc, vous pourrez ouvrir directement le fichier csv et l'enregistrer au bon format d'encodage UTF-8. Si vous préférez tout de même utiliser Microsoft Excel, veuillez suivre la procédure suivante pour ouvrir un fichier csv: [https://support.office.com/fr-fr/article/Importer-ou-exporter-des-fichiers-texte-txt-ou-csv-5250ac4c-663c-47ce-937b-339e391393ba](https://support.office.com/fr-fr/article/Importer-ou-exporter-des-fichiers-texte-txt-ou-csv-5250ac4c-663c-47ce-937b-339e391393ba)
+{% endhint %}
+
 ## Importer de nouveaux produits <a id="import-new-products"></a>
 
 Tout d'abord, téléchargez le modèle sur OFF et ouvrez-le avec Libre Office \(ou Excel ou équivalent\).
 
 Le modèle indique les colonnes à remplir pour réussir l'import. Consultez les informations ci-dessous pour bien remplir le fichier.
 
-Attention à la casse : il faut utiliser par exemple mL et non ml :
+{% hint style="info" %}
+**Attention à la casse** : il faut utiliser par exemple mL et non ml !
+{% endhint %}
+
+Par ailleurs, certains champs ne sont pas encore disponibles via l'import produit \(les images, les labels...\).
 
 | Titre de colonne | Obligatoire? | Description | Exemple |
 | :--- | :--- | :--- | :--- |
-| supplier | Oui | Le nom du producteur des produits que vous souhaitez importer | Four Mile Farm |
-| sku | Non | Le code SKU pour ce produit | AD001265 |
+| producer | Oui | Le nom du producteur des produits que vous souhaitez importer | La belle ferme |
+| sku | Non | La référence produit | AD001265 |
 | name | Oui | Le nom du produit | Carotte |
-| display name | Non | Ce champ s'applique uniquement si vous importez des variantes \(voir plus bas\) | Carotte rouge |
-| category | Oui | Les catégories disponibles sont listées sur la page d'import produit | Poisson |
+| display name | Non | Ce champ s'applique uniquement si vous importez des variantes \(voir plus bas\). Dans le cas contraire vous pouvez le laisser vide. | Carotte rouge |
+| category | Oui | Les catégories disponibles sont listées sur la page d'import produit. Veuillez indiquer ici la catégorie du produit | Poisson |
 | units | Oui | Le poids, le volume ou la quantité | 500 |
-| unit\_type | ? | Sous quelle unité est vendu le produit ? \(grammes, litres,... ?\) S'il est vendu en tant que lot, laissez vide | g |
+| unit\_type | Oui | Sous quelle unité est vendu le produit ? \(grammes, litres,... ?\) S'il est vendu en tant que lot, laissez vide | g |
 | variant\_unit\_name | ? | Si le produit est vendu en lot, indiquez le type de lot ici | Botte |
 | price | Oui | Le prix du produit TTC | 3.70 |
-| on\_hand | ? | Si le stock du produit est limité, indiquez la limite ici, sinon laissez vide et renseingez la colonne on\_demand | 40 |
+| on\_hand | Non | Si le stock du produit est limité, indiquez la limite ici, sinon laissez vide et renseingez la colonne on\_demand | 40 |
 | available\_on | Non | Laissez vide | ​ |
-| on\_demand | ? | Si vous avez un stock infini du produit, indiquez 1 et si vous utilisez la colonne on\_hand laissez vide | 1 |
-| shipping\_category | Non | Laissez vide | ​ |
-| tax\_category | Oui | Si le prix de votre produit inclus de la TVA, indquez TVA sinon laissez vide | TVA |
+| on\_demand | Non | Si vous avez un stock infini du produit, indiquez 1 et si vous utilisez la colonne on\_hand laissez vide | 1 |
+| shipping\_category | Oui | Les catégories de livraison disponibles sont listées sur la page d'import produit. Veuillez indiquer ici la catégorie de livraison du produit \(réfrigéré, ...\) | ​ |
+| tax\_category | Non | Si le prix de votre produit inclus de la TVA, indquez TVA sinon laissez vide | TVA |
+| description | Non | Vous pouvez créer une description mais pas la mettre à jour pour l'instant. | Ces carottes sont lavées par nos soins avant la livraison |
 
 ### Les variantes <a id="variants"></a>
 
@@ -83,12 +92,13 @@ Le processus est similaire à la création de produit.  6 champs sont obligatoir
 
 | Champs obligatoires \(non modifiables\) | Champs modifiables | Champs non modifiables et non obligatoires |
 | :--- | :--- | :--- |
-| supplier | sku | variant\_unit\_name |
-| name | display\_name | tax\_category |
-| category | price | shipping\_category |
-| units | on\_hand | ​ |
-| unit\_type \(if applicable\) | on\_demand | ​ |
-| variant\_unit\_name \(if applicable\) | ​ | ​ |
+| producer | sku | variant\_unit\_name |
+| name | price | tax\_category |
+| category | on\_hand | shipping\_category |
+| units | on\_demand | ​description |
+| unit\_type \(si applicable\) |  | ​ |
+| variant\_unit\_name \(si applicable\) | ​ | ​ |
+| display\_name |  |  |
 
 ## Importer un catalogue <a id="import-new-inventory"></a>
 

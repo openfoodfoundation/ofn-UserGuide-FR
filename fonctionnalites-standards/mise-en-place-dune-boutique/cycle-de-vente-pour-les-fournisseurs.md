@@ -1,6 +1,6 @@
 # Cycle de vente pour les fournisseurs
 
-_\*Vous ne produisez pas ? Rendez-vous sur_ [_Cycle de vente pour les hubs_](cycle-de-vente-pour-les-hub.md)_._ 
+_\*Vous ne produisez pas ? Rendez-vous sur_ [_Cycle de vente pour les hubs_](cycle-de-vente-pour-les-hub.md)_._
 
 Beaucoup de fournisseurs, qui vendent leurs produits en petites quantités, préfèrent avoir un cycle de vente ouvert en continu et répondre aux commandes au fil de l'eau. D'autres, bien souvent ceux qui vendent des produits en grande quantité à un nombre important de consommateurs vont préférer réaliser des cycles de vente plus périodiques. Par exemple, les ventes seront ouvertes pendant deux semaines \(un cycle de vente de deux semaines\) : à la fin de ces deux semaines, toutes les commandes seront emballées et distribuées en même temps. Une fois que ce lot de commandes a été géré, un nouveau cycle de vente redémarre. Cela permet d'optimiser l'emballage et le transport.
 
@@ -32,7 +32,7 @@ Connecté sur l'interface d'administration, sélectionnez le dernier menu sur vo
 
 Cliquez sur "créer" pour sauvegarder votre cycle de vente.
 
-\*Remarque : Si l'intervalle de dates choisi pour les commandes couvre le moment présent votre boutique sera automatiquement ouverte sur la plateforme. Si vous n'êtes pas prêt à l'ouvrir tout de suite, indiquez des dates dans le passé, que vous pourrez changer ensuite. 
+\*Remarque : Si l'intervalle de dates choisi pour les commandes couvre le moment présent votre boutique sera automatiquement ouverte sur la plateforme. Si vous n'êtes pas prêt à l'ouvrir tout de suite, indiquez des dates dans le passé, que vous pourrez changer ensuite.
 
 Si votre cycle de vente se répète de manière périodique et régulière, vous pouvez dupliquer un cycle de vente passé afin d'aller plus vite \(bouton orange sur la capture, attention il ne devient orange que lorsque vous le survolez\) :
 
@@ -43,6 +43,4 @@ Les cycles de vente sont présentés en vert lorsqu'ils sont actifs, jaune lorsq
 ### Fonctionnalités avancées
 
 * [Créer des cycles de vente en affichage seul](display-only-order-cycles.md)
-
-
 

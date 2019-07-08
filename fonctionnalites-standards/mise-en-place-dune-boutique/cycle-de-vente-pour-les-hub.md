@@ -32,23 +32,23 @@ La première chose à faire est de sélectionner un coordinateur pour votre cycl
 
 **Commandes jusqu'au :** La date à laquelle la boutique arrêtera d'accepter des commandes. Si vous souhaitez laisser votre boutique ouverte en continue, indiquer une date dans un futur très lointain.
 
-**Prêt pour :** La date à laquelle cette commande sera disponible (ou livrée) pour le client. Vous pouvez indiquer ici un texte libre qui sera utilisé pour nommer ce cycle de vente, par exemple _Vendredi prochain_.
+**Prêt pour :** La date à laquelle cette commande sera disponible \(ou livrée\) pour le client. Vous pouvez indiquer ici un texte libre qui sera utilisé pour nommer ce cycle de vente, par exemple _Vendredi prochain_.
 
 **Ajouter commission coordinateur :** En tant que Hub, le coordinateur est certainement vous. La marge sera calculée en fonction du calculateur sélectionné précédemment, voir guide [Marges et commissions](frais-et-taxes.md).
 
 ### 3. Produits entrants
 
-Ici vous pouvez sélectionner les producteurs et les produits qui seront accessibles durant le cycle de vente. Les producteurs visibles dans la liste déroulante sont uniquement les producteurs vous [ayant donné accès à leur catalogue](../votre-profil/e2e-permissions.md). Cliquez bien sur "ajouter un fournisseur" pour voir les produits associés à ce fournisseur. Cochez les produits que vous souahitez ajouter \(vous pouvez aussi les sélectionner tous\). **Attention** : les produits qui ont une valeur "à volonté" à 0 s'afficheront également. Faites bien attention au stock disponible en les ajoutant. 
+Ici vous pouvez sélectionner les producteurs et les produits qui seront accessibles durant le cycle de vente. Les producteurs visibles dans la liste déroulante sont uniquement les producteurs vous [ayant donné accès à leur catalogue](../votre-profil/e2e-permissions.md). Cliquez bien sur "ajouter un fournisseur" pour voir les produits associés à ce fournisseur. Cochez les produits que vous souahitez ajouter \(vous pouvez aussi les sélectionner tous\). **Attention** : les produits qui ont une valeur "à volonté" à 0 s'afficheront également. Faites bien attention au stock disponible en les ajoutant.
 
-Les **détails de livraison produits** sont facultatifs. 
+Les **détails de livraison produits** sont facultatifs.
 
-Le bouton pour ajouter une marge ou commission vous permet de l'ajouter par fournisseur. Sélectionnez le nom de l'entreprise, puis le nom de la marge comme dans l'exemple ci-dessous. 
+Le bouton pour ajouter une marge ou commission vous permet de l'ajouter par fournisseur. Sélectionnez le nom de l'entreprise, puis le nom de la marge comme dans l'exemple ci-dessous.
 
 Cette marge s'appliquera à tous les produits du fournisseur. La marge sera calculée en fonction du calculateur sélectionné précédemment, voir guide [Marges et commissions](frais-et-taxes.md).
 
 ### 4. Produits sortants
 
-Le distributeur sélectionné dans cette catégorie aura une boutique ouverte avec ce cycle de vente. Dans un modèle simple, il n'y a qu'un seul distributeur, le hub. Il suffit de le sélectionner puis de sélectionner tous les produits associés. Dans un modèle plus complexe avec plusieurs hubs, vous avez ainsi la possibilité de sélectionner des produits différents pour chaque hub. 
+Le distributeur sélectionné dans cette catégorie aura une boutique ouverte avec ce cycle de vente. Dans un modèle simple, il n'y a qu'un seul distributeur, le hub. Il suffit de le sélectionner puis de sélectionner tous les produits associés. Dans un modèle plus complexe avec plusieurs hubs, vous avez ainsi la possibilité de sélectionner des produits différents pour chaque hub.
 
 Les **tags** vous permettent de taguer le cycle de vente \(voir [Gestion des tags et comptes clients](customized-shopping-experience.md)\).
 
@@ -60,7 +60,7 @@ Les **tags** vous permettent de taguer le cycle de vente \(voir [Gestion des tag
 
 Cliquez sur "créer" pour créer le cycle de vente.
 
-\*Remarque : lorsque vous créez un cycle de vente, si une des deux dates indiquées se situe dans le moment présent, la boutique sera automatiquement ouverte sur la plateforme. Si vous n'êtes pas prêt à ouvrir tout de suite, indiquez des dates dans le passé, que vous pourrez changer ensuite. 
+\*Remarque : lorsque vous créez un cycle de vente, si une des deux dates indiquées se situe dans le moment présent, la boutique sera automatiquement ouverte sur la plateforme. Si vous n'êtes pas prêt à ouvrir tout de suite, indiquez des dates dans le passé, que vous pourrez changer ensuite.
 
 Si votre cycle de vente se répète de manière périodique et régulière, vous pouvez dupliquer un cycle de vente passé afin d'aller plus vite \(bouton orange sur la capture, attention il n'est pas orange sur la plateforme\) :
 
@@ -78,6 +78,4 @@ Ces fonctionnalités sont à destination des cycles de vente avec plusieurs hubs
 
 * [Créer des cycles de vente en affichage seul](display-only-order-cycles.md)
 * [Gestions des droits pour les cycles de vente à plusieurs entreprises](e2e-powers-in-multi-enterprise-ocs.md)
-
-
 
