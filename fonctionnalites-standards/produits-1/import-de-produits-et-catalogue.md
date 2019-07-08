@@ -5,7 +5,7 @@ description: >-
   une seule fois !
 ---
 
-# Import de produits et catalogue
+# Import produits et catalogue
 
 {% hint style="info" %}
 Cette fonctionnalité arrive bientôt !
