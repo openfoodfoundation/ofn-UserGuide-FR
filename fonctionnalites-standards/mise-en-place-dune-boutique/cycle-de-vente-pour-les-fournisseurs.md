@@ -16,11 +16,11 @@ Connecté sur l'interface d'administration, sélectionnez le dernier menu sur vo
 
 ![](../../.gitbook/assets/image%20%2828%29.png)
 
-**Nom :** Choississez un nom pou le cycle. Il sera visible uniquement pour vous, donc indiquez quelque chose qui vous permettra de le retrouver facilement ensuite. Par exemple vous pouvez choisir un protocole du type _Commandesemaine26\_2018._
+**Nom :** Choississez un nom pour le cycle. Il sera visible uniquement pour vous, indiquez donc quelque chose qui vous permettra de le retrouver facilement, par exemple: _CommandeSemaine26\_2018._
 
 **Commandes à partir de :** La date à laquelle votre boutique commencera à accepter des commandes.
 
-**Commandes jusqu'au :** La date à laquelle la boutique arrêtera d'accepter des commandes. Si vous souhaitez laisser votre boutique ouverte en continue, indiquer une date dans un futur très lointain.
+**Commandes jusqu'au :** La date à laquelle la boutique arrêtera d'accepter des commandes pour ce cycle. Si vous souhaitez laisser votre boutique ouverte en continu, indiquer une date dans un futur très lointain.
 
 **Le message lié aux instructions de réception de la commande** sera inclus dans l'email de confirmation de commande envoyé au client, juste en-dessous de la méthode de livraison. Ils seront les seuls à obtenir cette information donc vous pouvez y inclure des informations comme des adresses ou numéros de téléphone.
 
@@ -32,13 +32,13 @@ Connecté sur l'interface d'administration, sélectionnez le dernier menu sur vo
 
 Cliquez sur "créer" pour sauvegarder votre cycle de vente.
 
-\*Remarque : lorsque vous créez un cycle de vente, si une des deux dates indiquées se situe dans le moment présent, la boutique sera automatiquement ouverte sur la plateforme. Si vous n'êtes pas prêt à ouvrir tout de suite, indiquez des dates dans le passé, que vous pourrez changer ensuite. 
+\*Remarque : Si l'intervalle de dates choisi pour les commandes couvre le moment présent votre boutique sera automatiquement ouverte sur la plateforme. Si vous n'êtes pas prêt à l'ouvrir tout de suite, indiquez des dates dans le passé, que vous pourrez changer ensuite. 
 
-Si votre cycle de vente se répète de manière périodique et régulière, vous pouvez dupliquer un cycle de vente passé afin d'aller plus vite \(bouton orange sur la capture, attention il n'est pas orange sur la plateforme\) :
+Si votre cycle de vente se répète de manière périodique et régulière, vous pouvez dupliquer un cycle de vente passé afin d'aller plus vite \(bouton orange sur la capture, attention il ne devient orange que lorsque vous le survolez\) :
 
 ![](../../.gitbook/assets/image%20%2835%29.png)
 
-Les cycles de vente sont présentés en vert lorsqu'ils sont actifs, jaune lorsqu'ils sont indiqués pour une date dans le futur et gris lorsqu'ils sont fermés. Un mois après la fermeture d'un cycle de vente, il n'apparaitra plus dans cette liste, il faudra cliquer sur "voir plus" pour voir tous vos cycles de vente.
+Les cycles de vente sont présentés en vert lorsqu'ils sont actifs, jaune lorsqu'ils sont indiqués pour une date future et gris lorsqu'ils sont fermés. Un mois après la fermeture d'un cycle de vente, il n'apparaitra plus dans cette liste, il faudra cliquer sur "voir plus" pour voir tous vos cycles de vente.
 
 ### Fonctionnalités avancées
 
