@@ -30,7 +30,7 @@ Dans chacun des cas, il vous faudra télécharger un exemple de fichier csv sur 
 
 ## Importer de nouveaux produits <a id="import-new-products"></a>
 
-Tout d'abord, téléchargez le modèle sur OFF et ouvrez-le avec Libre Office \(ou Excel ou équivalent\).
+Tout d'abord, téléchargez le modèle sur la page d'import et ouvrez-le avec Libre Office \(ou Excel ou équivalent\).
 
 Le modèle indique les colonnes à remplir pour réussir l'import. Consultez les informations ci-dessous pour bien remplir le fichier.
 
@@ -84,6 +84,20 @@ Un exemple d'import avec des unités différentes :
 | Producteur C | Pommes | Fruits & légumes | 9.50 | 5 | kg |  |
 | Producteur D | Persil | Herbes & épices | 3.00 | 1 |  | botte |
 
+#### Import the CSV
+
+Une fois votre fichier csv prêt, vous pouvez le téléverser sur Open Food Network.
+
+Allez sur **Produits** &gt; **Import produit**
+
+**Sélectionnez "import catalogue produit"**
+
+**Sélectionnez votre fichier.**
+
+Cliquez sur **Importer**.
+
+Avant que l'import ne se lance, vous verrez un récapitulatif. C'est le moment de vérifier si une erreur ne s'est pas glissée dans votre fichier !
+
 ## Mettre à jour des caractéristiques produits existantes <a id="update-existing-product-details"></a>
 
 Comment mettre à jour des produits existants ?
@@ -100,11 +114,45 @@ Le processus est similaire à la création de produit.  6 champs sont obligatoir
 | variant\_unit\_name \(si applicable\) | ​ | ​ |
 | display\_name |  |  |
 
-## Importer un catalogue <a id="import-new-inventory"></a>
+## Importer un catalogue ou le mettre à jour <a id="import-new-inventory"></a>
 
-A compléter
+Tout d'abord, téléchargez le modèle sur la page d'import et ouvrez-le avec Libre Office \(ou Excel ou équivalent\).
 
-## Mettre à jour un catalogue produit existant <a id="update-existing-inventory-details"></a>
+Le modèle indique les colonnes à remplir pour réussir l'import. Consultez les informations ci-dessous pour bien remplir le fichier.
 
-A compléter
+{% hint style="info" %}
+**Attention à la casse** : il faut utiliser par exemple mL et non ml !
+{% endhint %}
+
+Par ailleurs, certains champs ne sont pas encore disponibles via l'import produit \(les images, les labels...\).
+
+| Titre de colonne | Obligatoire? | Description | Exemple |
+| :--- | :--- | :--- | :--- |
+| producer | Oui | Le nom du producteur des produits que vous souhaitez importer | La belle ferme |
+| distributor | Oui | Le nom du hub qui va vendre le produit | Hub demo |
+| sku | Non | La référence produit | AD001265 |
+| name | Oui | Le nom du produit | Carotte |
+| display name | Non | Ce champ s'applique uniquement si vous importez des variantes \(voir plus bas\). Dans le cas contraire vous pouvez le laisser vide. | Carotte rouge |
+| category | Oui | Les catégories disponibles sont listées sur la page d'import produit. Veuillez indiquer ici la catégorie du produit | Poisson |
+| units | Oui | Le poids, le volume ou la quantité | 500 |
+| unit\_type | Oui | Sous quelle unité est vendu le produit ? \(grammes, litres,... ?\) S'il est vendu en tant que lot, laissez vide | g |
+| variant\_unit\_name | Oui | Si le produit est vendu en lot, indiquez le type de lot ici | Botte |
+| price | Oui | Le prix du produit TTC | 3.70 |
+| on\_hand | Non | Si le stock du produit est limité, indiquez la limite ici, sinon laissez vide et renseingez la colonne on\_demand | 40 |
+| available\_on | Non | Laissez vide | ​ |
+| on\_demand | Non | Si vous avez un stock infini du produit, indiquez 1 et si vous utilisez la colonne on\_hand laissez vide | 1 |
+
+#### Import the CSV
+
+Une fois votre fichier csv prêt, vous pouvez le téléverser sur Open Food Network.
+
+Allez sur **Produits** &gt; **Import produit**
+
+**Sélectionnez "import catalogue produit"**
+
+**Sélectionnez votre fichier.**
+
+Cliquez sur **Importer**.
+
+Avant que l'import ne se lance, vous verrez un récapitulatif. C'est le moment de vérifier si une erreur ne s'est pas glissée dans votre fichier !
 
