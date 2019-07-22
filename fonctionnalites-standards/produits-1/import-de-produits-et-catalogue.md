@@ -48,14 +48,14 @@ Par ailleurs, certains champs ne sont pas encore disponibles via l'import produi
 | display name | Non | Ce champ s'applique uniquement si vous importez des variantes \(voir plus bas\). Dans le cas contraire vous pouvez le laisser vide. | Carotte rouge |
 | category | Oui | Les catégories disponibles sont listées sur la page d'import produit. Veuillez indiquer ici la catégorie du produit | Poisson |
 | units | Oui | Le poids, le volume ou la quantité | 500 |
-| unit\_type | Oui | Sous quelle unité est vendu le produit ? \(grammes, litres,... ?\) S'il est vendu en tant que lot, laissez vide | g |
-| variant\_unit\_name | ? | Si le produit est vendu en lot, indiquez le type de lot ici | Botte |
+| unit\_type | Oui | Sous quelle unité est vendu le produit ? \(grammes, litres,... ?\) S'il est vendu à la pièce, laissez vide | g |
+| variant\_unit\_name | ? | Si le produit est vendu à la pièce, indiquez le nom de la pièce ici | Botte |
 | price | Oui | Le prix du produit TTC | 3.70 |
-| on\_hand | Non | Si le stock du produit est limité, indiquez la limite ici, sinon laissez vide et renseingez la colonne on\_demand | 40 |
+| on\_hand | Non | Si le stock du produit est limité, indiquez la limite ici, sinon laissez vide et renseignez la colonne on\_demand | 40 |
 | available\_on | Non | Laissez vide | ​ |
 | on\_demand | Non | Si vous avez un stock infini du produit, indiquez 1 et si vous utilisez la colonne on\_hand laissez vide | 1 |
-| shipping\_category | Oui | Les catégories de livraison disponibles sont listées sur la page d'import produit. Veuillez indiquer ici la catégorie de livraison du produit \(réfrigéré, ...\) | ​Produits réfrigérés |
-| tax\_category | Non | Si le prix de votre produit inclus de la TVA, indquez TVA sinon laissez vide | TVA |
+| shipping\_category | Oui | Les conditions de transport disponibles sont listées sur la page d'import produit. Veuillez indiquer ici les conditions de transport du produit \(réfrigéré, ...\) | ​Produits réfrigérés |
+| tax\_category | Non | Si le prix de votre produit inclus de la TVA, indiquez TVA sinon laissez vide | TVA |
 | description | Non | Vous pouvez créer une description mais pas la mettre à jour pour l'instant. | Ces carottes sont lavées par nos soins avant la livraison |
 
 ### Les variantes <a id="variants"></a>
@@ -135,8 +135,8 @@ Par ailleurs, certains champs ne sont pas encore disponibles via l'import produi
 | display name | Non | Ce champ s'applique uniquement si vous importez des variantes \(voir plus bas\). Dans le cas contraire vous pouvez le laisser vide. | Carotte rouge |
 | category | Oui | Les catégories disponibles sont listées sur la page d'import produit. Veuillez indiquer ici la catégorie du produit | Poisson |
 | units | Oui | Le poids, le volume ou la quantité | 500 |
-| unit\_type | Oui | Sous quelle unité est vendu le produit ? \(grammes, litres,... ?\) S'il est vendu en tant que lot, laissez vide | g |
-| variant\_unit\_name | Oui | Si le produit est vendu en lot, indiquez le type de lot ici | Botte |
+| unit\_type | Oui | Sous quelle unité est vendu le produit ? \(grammes, litres,... ?\) S'il est vendu à la pièce, laissez vide | g |
+| variant\_unit\_name | Oui | Si le produit est vendu à la pièce, indiquez le nom de la pièce ici | Botte |
 | price | Oui | Le prix du produit TTC | 3.70 |
 | on\_hand | Non | Si le stock du produit est limité, indiquez la limite ici, sinon laissez vide et renseingez la colonne on\_demand | 40 |
 | available\_on | Non | Laissez vide | ​ |
