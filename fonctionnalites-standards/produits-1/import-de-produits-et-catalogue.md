@@ -54,7 +54,7 @@ Par ailleurs, certains champs ne sont pas encore disponibles via l'import produi
 | on\_hand | Non | Si le stock du produit est limité, indiquez la limite ici, sinon laissez vide et renseingez la colonne on\_demand | 40 |
 | available\_on | Non | Laissez vide | ​ |
 | on\_demand | Non | Si vous avez un stock infini du produit, indiquez 1 et si vous utilisez la colonne on\_hand laissez vide | 1 |
-| shipping\_category | Oui | Les catégories de livraison disponibles sont listées sur la page d'import produit. Veuillez indiquer ici la catégorie de livraison du produit \(réfrigéré, ...\) | ​ |
+| shipping\_category | Oui | Les catégories de livraison disponibles sont listées sur la page d'import produit. Veuillez indiquer ici la catégorie de livraison du produit \(réfrigéré, ...\) | ​Produits réfrigérés |
 | tax\_category | Non | Si le prix de votre produit inclus de la TVA, indquez TVA sinon laissez vide | TVA |
 | description | Non | Vous pouvez créer une description mais pas la mettre à jour pour l'instant. | Ces carottes sont lavées par nos soins avant la livraison |
 
@@ -64,8 +64,8 @@ Par ailleurs, certains champs ne sont pas encore disponibles via l'import produi
 
 | name | display\_name | price | units | unit\_type |
 | :--- | :--- | :--- | :--- | :--- |
-| Farine de sarasin | ​ | 3.50 | 500 | g |
-| Farine de sarasin | ​ | 5.50 | 750 | g |
+| Farine de sarrasin | ​ | 3.50 | 500 | g |
+| Farine de sarrasin | ​ | 5.50 | 750 | g |
 | Yaourt | Fraise | 4 | 200 | g |
 | Yaourt | Myrtille | 4 | 200 | g |
 
