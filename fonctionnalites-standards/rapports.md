@@ -34,7 +34,7 @@ Ce rapport présente la liste des produits ainsi que leur prix. Attention la par
 
 Les entreprises peuvent paramétrer des [marges et commissions](mise-en-place-dune-boutique/frais-et-taxes.md) pour spécifier sur quels types de dépenses sont utilisées les marges et commissions collectées.  Cela permet au vendeur/distributer de communiquer avec transparence sur les marges pour que l'acheteur comprenne ce qui revient au producteur et pourquoi le distributeur prend un marge. Ce rapport permet d'avoir une vision agrégée et détaillée des marges et commissions collectées.  Il contient des filtres par dates, hub, producteur et cycle de vente, type de marges et commissions à inclure dans le rapport \(selon leur nom\), méthode de livraison et méthode de paiement.
 
-![Image des filtres du rapport \(version anglaise, version fran&#xE7;aise prochainement disponible\)](../.gitbook/assets/feesummary.png)
+![Image des filtres du rapport](../.gitbook/assets/capture-du-2019-07-24-14-45-00.png)
 
 Exemple 1: une boutique collecte sur chaque commande une marge de 2% de type "Levée de fonds" pour soutenir l'installation de nouveaux producteurs. Elle peut utiliser ce rapport pour connaître facilement le total collecté sur un cycle de vente particulier. 
 
@@ -42,7 +42,7 @@ Exemple 2: un hub collecte des frais de transport sur les produits du producteur
 
 Exemple 3: un hub a paramétré une marge pour refléter de façon transparente à ses acheteurs le montant payé à la plateforme Open Food France. Il peut utiliser se rapport pour savoir combien il va devoir verser à Open Food France sur un cycle de vente ou une période donnée \(voir image ci-dessous, en Anglais pour le moment\).
 
-![](../.gitbook/assets/ofnfee.png)
+![](../.gitbook/assets/capture-du-2019-07-24-14-48-06.png)
 
 ## Préparation des commandes <a id="packing-reports"></a>
 
