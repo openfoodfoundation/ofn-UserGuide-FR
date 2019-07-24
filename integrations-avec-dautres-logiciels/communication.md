@@ -4,7 +4,7 @@ Pour votre communication auprès de vos acheteurs ou potentiels acheteurs, vous 
 - une lettre d'information mensuelle sur l'évolution du projet, les nouveaux produits, les nouvelles des producteurs, etc.  
 - un email de notification à chaque fois qu'un nouveau cycle de vente est lancé.
 
-Un des outils les plus courants aujourd'hui est Mailchimp, nous vous proposons donc ici quelques "trucs et astuces" pour utiliser Mailchimp pour l'envoi de vos lettres d'information.
+Un des outils les plus courants aujourd'hui est [Mailchimp](https://mailchimp.com/fr/help/), nous vous proposons donc ici quelques "trucs et astuces" pour utiliser Mailchimp pour l'envoi de vos lettres d'information.
 
 ## Automatiser l'extraction des emails de vos acheteurs Open Food France vers votre liste de destinataires sur Mailchimp
 
