@@ -2,41 +2,26 @@
 
 ## Introduction
 
-La page catalogue permet d'aller plus loin dans la gestion des produits. 
+La fonctionnalité catalogue boutique permet à un hub-distributeur A de modifier uniquement pour sa boutique les informations de prix et stock des produits pour lesquels il a la [permission](../votre-profil/e2e-permissions.md) adéquate, et de faire sa sous-sélection de produits en masquant les produits qu'il ne souhaite pas distribuer, sans que cela n'affecte le catalogue d'origine du producteur. Ainsi, si un autre hub-distributeur B offre dans sa boutique les mêmes produits du même producteur, il ne sera pas affecté par les changements effectués par A dans son catalogue boutique.
 
-Les 3 avantages principaux de la page :
+## Paramètres du profil concernant le catalogue boutique
 
-1. **Ecraser les caractéristiques par défaut du produit**
-
-   Cela peut être intéressant si vous souhaitez modifier les prix pour certains produits par exemple. La page catalogue permet aux entreprises de modifier des détails produits et de les appliquer à leur boutique uniquement. Toutes caractéristique présente en catalogue sera prioritaire aux caractéristiques produits présentent dans le listing produit. Cependant, si d'autres entreprises vendent également ce produit, le changement effectué en catalogue ne changera pas. 
-
-2. **Masquer des produits.**
-
-   La page catalogue permet de masquer des produits, soit volontairement soit par défaut de considérer qu'ils ne sont pas visible tant que le hub ne les a pas approuvé.
-
-3. **Gérer les stocks disponibles à la vente pour chaque produit et en masse.** 
-
-   C'est idéal pour tous les produits dont le stock se renouvelle rapidement et régulièrement.
-
-### Permissions nécessaires
-
-Les entreprises doivent obtenir les bonnes [permissions inter-entreprises](../votre-profil/e2e-permissions.md) de la part de leurs fournisseurs avant de pouvoir voir les catalogues produits des fournisseurs sur cette page.
-
-## 1\) Les paramètres de votre catalogue
-
-Pour y accéder, rendez-vous sur **Entreprises**, puis "**gérer**" et enfin "**Catalogue boutique**" dans le menu vertical de gauche :
+Pour y accéder, rendez-vous sur **Entreprises**, puis "**paramètres**" et enfin "c**atalogue boutique**" dans le menu vertical de gauche :
 
 ![](../../.gitbook/assets/image%20%2872%29.png)
 
-Vous avez deux options : soit vous choisissez l'option selon laquelle les nouveaux produits ajoutés par vos fournisseurs doivent être préalablement ajoutés à votre catalogue \(de cette manière vous pourrez choisir de les ajouter ou non à vos cycles de vente en cours\), soit - si vous ne pensez pas utiliser le catalogue - sélectionnez l'option recommandée. Les produits ajoutés par les fournisseurs seront ainsi ajoutés directement à votre boutique en ligne.
+Vous avez deux options : 
 
-## 2\) Accéder au catalogue boutique
+1. Les nouveaux produits ajoutés par vos fournisseurs doivent être préalablement ajoutés à votre catalogue boutique avant de pouvoir être ajoutés à vos cycle de vente. Quand vous créerez un cycle de vente, vous ne verrez dans les produits "entrants" que les produits préalablement ajoutés à votre catalogue boutique. 
+2. Les produits ajoutés par vos fournisseurs peuvent être ajoutés à votre boutique en ligne sans que vous n'ayez à les ajouter au préalable dans votre catalogue boutique. Quand vous créerez un cycle de vente, vous verrez dans les produits "entrants" l'ensemble des produits des producteurs sélectionnés. Bien sûr, si vous avez modifié dans votre catalogue boutiques les prix ou stock de certains de ces produits, ce sont bien ces informations là qui seront affichées dans votre boutique. Si vous ne pensez pas utiliser le catalogue, sélectionnez cette option recommandée. 
 
-Cliquez sur le menu **Produits** dans l'interface d'administration, puis sur **Catalogue** **boutique** dans le sous menu vert. Si vous gérez plusieurs boutiques, il vous sera demandé d'en sélectionner une car chaque catalogue est géré indépendemment.
+## Accéder au catalogue boutique
+
+Cliquez sur le menu **Produits** dans l'interface d'administration, puis sur **Catalogue** **boutique** dans le sous menu vert. Si vous gérez plusieurs boutiques, il vous sera demandé d'en sélectionner une car chaque catalogue est géré indépendamment. 
 
 ![](../../.gitbook/assets/image%20%2842%29.png)
 
-Lors de votre première visite, un message vous alertera sur le fait que vous avez de nouveaux produits disponibles à l'ajout dans votre catalogue. Tant que ce ne sera pas fait, ils resteront dans la catégorie "**Nouveaux produits**".
+Lors de chaque visite de ce catalogue boutique, si de nouveaux produits ont été ajoutés par vos fournisseurs, un message vous alertera sur le fait que vous avez de nouveaux produits disponibles pouvant être ajoutés à votre catalogue. Tant que ce ne sera pas fait, ils resteront dans la catégorie "**Nouveaux produits**".
 
 ![](../../.gitbook/assets/image%20%2825%29.png)
 
@@ -46,67 +31,56 @@ En cliquant sur "**vérifier maintenant**" vous serez redirigé vers la liste de
 
 ![](../../.gitbook/assets/image%20%2832%29.png)
 
-Les nouveaux produis peuvent être soit **ajoutés** à votre catalogue, soit **masqués**. Si vous souhaitez écraser les caractéristiques d'un produit de la liste ou indiquer le niveau du stock, vous devrez l'ajouter à votre catalogue. S'il s'agit d'un produit que vous ne voudrez jamais vendre dans votre boutique ou en tout cas pas à court terme, vous pouvez choisir de le masquer.
+Les nouveaux produits peuvent être soit **ajoutés** à votre catalogue, soit **masqués**. Si vous souhaitez modifier pour votre boutique les caractéristiques prix/stock d'un produit de la liste, vous devez l'ajouter à votre catalogue boutique. S'il s'agit d'un produit que vous ne voudrez jamais vendre dans votre boutique ou en tout cas pas à court terme, vous pouvez choisir de le masquer.
 
-Pour rappel, si l'option choisie dans les [paramètres](inventory-tool.md#1-les-parametres-de-votre-catalogue) est l'option selon laquelle les produits doivent être ajoutés à votre catalogue pour apparaitre sur le boutique en ligne, tous les produits que vous laissez dans la liste "nouveaux produits" seront par défaut masqués, c'est-à-dire absents de la boutique en ligne. Dans l'autre cas ils apparaitront automatiquement dans le cycle de vente en cours. 
-
-Poursuivez la lecture pour comprendre le traitement manuel du masquage et de l'ajout.
+Pour rappel, si l'option choisie dans les [paramètres](inventory-tool.md#1-les-parametres-de-votre-catalogue) est que les produits doivent être ajoutés à votre catalogue pour pouvoir être ajoutés dans un cycle de vente et donc mis en vente dans votre boutique en ligne, tous les produits que vous laissez dans la liste "nouveaux produits" seront par défaut masqués, c'est-à-dire qu'ils ne pourront pas être sélectionnés dans vos cycles de vente. Si l'autre option a été choisie, ils pourront être ajoutés dans vos cycles de vente. 
 
 ## Produits du Catalogue Boutique
 
 ![](../../.gitbook/assets/image%20%2886%29.png)
 
-Via le bouton colonnes, si vous affichez toutes les colonnes, toutes les fonctionnalités du catalogue s'afficheront à vous.
+Via le bouton colonnes à droite, vous pouvez choisir les éléments de paramétrage que vous souhaitez pouvoir voir et modifier lorsque cela est permis. 
 
 ![](../../.gitbook/assets/image%20%2867%29.png)
 
-### Ecraser des caractéristiques produits
+### Modifier pour votre boutique les prix, stocks et références produits
 
-Vous pouvez modifier les caractéristiques produits sur cette page. Toutes les modifications que vous ferez ici seront visibles sur votre boutique. Vous pouvez modifier les champs suivants \(mais pas les autres, c'est-à-dire le nom du produits, les conditionnements, ou encore la description ou l'image\) :
+Toutes les modifications que vous ferez ici seront visibles sur votre boutique. Vous pouvez modifier les champs suivants \(mais pas les autres, c'est-à-dire le nom du produit, le conditionnement, ou encore la description ou l'image\) :
 
-* **Référence produit**
-
-  – vous pouvez ici indiquer une autre référence produit que celle du producteur
-
-* **Prix**
-
-  – Le prix est modifiable mais n'oubliez pas que les quantités unitaires associées ne le sont pas
-
-* **En stock**
-
-  – Vos produits ne seront plus visibles une fois que cette valeur atteint zéro \(tous les quantités indiquées ont été vendues\)
-
-* **A volonté**
-
-  – Vous pouvez sélectionner si le produit est vendu à la demande ou suivant un stock défini
+* **Référence produit :** vous pouvez ici indiquer une autre référence produit que celle du producteur
+* **Prix :** le prix est modifiable mais n'oubliez pas que les quantités unitaires associées ne le sont pas
+* **En stock :** si votre stock disponible pour ce produit diffère du stock disponible proposé par le producteurs, vous pouvez indiquer votre stock. Vos produits ne seront plus visibles dans la boutique une fois que cette valeur atteint zéro.
+* **A volonté :** vous pouvez sélectionner si le produit est vendu à la demande ou suivant un stock défini, ou si vous souhaitez garder le même paramètre que celui figurant au catalogue producteur.
 
 ### Réinitialiser les niveaux de stock par défaut
 
-Cette colonne permet de revenir à un stock par défaut, par exemple au début de chaque nouveau cycle de vente. Le stock par défaut est à indiquer dans la colonne avoisinante à cette case à cocher. En cochant la case, vous indiquer que ces produits en particulier devront revenir à un stock par défaut au moment de votre choix. Pour actionner le stock par défaut, il suffit de vous rendre sur le bouton **Action** et cliquer sur **Réinitialiser les niveaux de stock par défaut.** Seul les produits avec une case cochés seront affectés par cette action.
+Cette colonne permet de revenir à un stock par défaut, par exemple au début de chaque nouveau cycle de vente, selon votre stratégie de réassort. Si vous souhaitez utiliser cette fonctionnalité, cochez la case et renseignez le stock par défaut dans la case avoisinante pour les produits concernés. Pour réinitialiser le stock par défaut pour ces produits, cliquez sur **Action** puis **Réinitialiser les niveaux de stock par défaut.** Seuls les produits avec une case cochée seront affectés par cette action.
 
-C'est utile par exemple pour les producteurs qui savent que chaque mois ils auront deux nouvelles quantités disponibles par exemple.
+C'est utile par exemple pour les hubs-distributeurs qui savent que chaque mois ils auront de nouveaux arrivages définis pour certains produits pour remettre leur stock défini à niveau avant la prochaine vente.
 
-### **Héritage**
+### **Hériter ?**
 
-Si vous n'avez rien modifié, la case à cocher "hériter?" est sélectionnée par défaut. Cela signifie que les informations entrées par le producteur et visibles en gris seront reprises et publiées sur la boutique. En modifiant tous les champs ou juste certains, cette case à cocher se dé-sélectionnera automatiquement.
+Si vous n'avez rien modifié sur un produit, la case à cocher "hériter?" est sélectionnée par défaut. Cela signifie que les informations entrées par le producteur et visibles en gris seront reprises et publiées sur la boutique. En modifiant tous les champs ou juste certains, cette case à cocher se dé-sélectionnera automatiquement.
 
 Pour revenir aux informations producteurs, vous pouvez à tout moment re-sélectionner cette case.
 
 ### Masquer des produits
 
-En cliquant sur le bouton masquer, les produits en question disparaitront de la liste des nouveaux produits au profit de la liste des produits masqués. Ils ne seront plus visibles dans votre cycle de vente et vous ne pourrez pas les ajouter à votre catalogue \(mais il est toujours possible de les faire apparaitre plus tard, voir paragraphe suivant\).
+En cliquant sur le bouton masquer, les produits en question disparaîtront de la liste des nouveaux produits ou du catalogue boutique et seront basculés vers la liste des produits masqués. Ils ne font plus partie de votre catalogue boutique, et ne pourront donc pas être ajoutés à vos cycles de vente si vous avez choisi l'option vous obligeant à ajouter les produits à votre catalogue avant de pouvoir les vendre dans votre boutique.
 
-N'oubliez pas de sauvegarder vos modifications.
+{% hint style="warning" %}
+N'oubliez pas de sauvegarder vos modifications !
+{% endhint %}
 
 ## Les Produits Masqués
 
 ![](../../.gitbook/assets/image%20%2823%29.png)
 
-Sur cette page, vous pouvez décider de rendre visible certains produits en cliquant sur le bouton "Ajouter" :
+Sur cette page, vous pouvez décider d'ajouter à votre catalogue boutique certains produits préalablement masqués en cliquant sur le bouton "Ajouter" :
 
 ![](../../.gitbook/assets/image%20%2850%29.png)
 
-## Catalogue et cycle de vente
+## Catalogue boutique et cycle de vente
 
 Dans le menu Cycle de vente &gt; Modifier un cycle de vente, si vous cliquez sur "paramètres avancés" vous disposez d'une option pour choisir si - sur ce cycle en particulier - les informations viennent de votre catalogue ou directement des fournisseurs :
 

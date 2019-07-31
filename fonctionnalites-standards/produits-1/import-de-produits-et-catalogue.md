@@ -1,34 +1,34 @@
 ---
 description: >-
-  Cette page vous permet de découvrir la fonctionnalité d'import de produits ou
-  de cataogue : en quelques clis, créez ou mettez à jour plusieurs produits en
-  une seule fois !
+  Cette page explique la fonctionnalité d'import de produits en masse dans le
+  catalogue producteur ou catalogue boutique. En quelques clics, créez ou mettez
+  à jour plusieurs produits à la fois !
 ---
 
-# Import produits et catalogue
+# Import produits en masse
 
 {% hint style="info" %}
-Cette fonctionnalité arrive bientôt !
+Cette fonctionnalité arrive bientôt ! Contactez-nous pour accéder dès maintenant à la version béta.
 {% endhint %}
 
-Cet outil vous permet de téléverser un fichier csv pour ajouter ou mettre à jour votre stock.
+Cet outil vous permet de téléverser un fichier csv pour ajouter en une seule manipulation une liste de produits au catalogue d'un producteur ou dans un catalogue boutique, ou mettre à jour des informations en masse comme les stocks. Cela évite les ajouts ou mise à jour sur chaque produit un par un. Pour un producteur qui met à jour son catalogue dans un tableur type Excel régulièrement, cela peut lui faire gagner beaucoup de temps !
 
-Pour vous rendre sur la fonctionnalité, cliquez sur le menu principal **Produits** puis le sous-menu **import produit**. 
+Pour accéder à la fonctionnalité, cliquez sur le menu principal **Produits** puis le sous-menu **import produits**. 
 
-Les 4 fonctionnalité principales de l'outil :
+Les 4 possibilités principales offertes par cette fonctionnalité sont :
 
-1. Importer de nouveau produits
-2. Mettre à jour des caractéristiques produits existantes
-3. Importer un nouveau catalogue
-4. Mettre à jour les caractéristiques d'un catalogue
+1. Importer de nouveaux produits dans des catalogues producteurs
+2. Mettre à jour les caractéristiques de produits existants dans des catalogues producteurs
+3. Importer des produits dans des catalogues boutiques
+4. Mettre à jour les caractéristiques de produits existants dans des catalogues boutiques
 
-Dans chacun des cas, il vous faudra télécharger un exemple de fichier csv sur la plateforme, le remplir et le téléverser ensuite sur la plateforme.
+Dans chacun des cas, il vous faudra télécharger le modèle de fichier csv sur la plateforme, le remplir et le téléverser ensuite sur la plateforme.
 
 {% hint style="info" %}
-**Important** : Microsoft Excel ne permet pas l'ouverture "directe" d'un tableur en csv. Si vous le pouvez, nous vous conseillons d'utiliser les tableurs libres de LIbres Office [https://www.libreoffice.org/download/download/](https://www.libreoffice.org/download/download/) Avec Libre Office Calc, vous pourrez ouvrir directement le fichier csv et l'enregistrer au bon format d'encodage UTF-8. Si vous préférez tout de même utiliser Microsoft Excel, veuillez suivre la procédure suivante pour ouvrir un fichier csv: [https://support.office.com/fr-fr/article/Importer-ou-exporter-des-fichiers-texte-txt-ou-csv-5250ac4c-663c-47ce-937b-339e391393ba](https://support.office.com/fr-fr/article/Importer-ou-exporter-des-fichiers-texte-txt-ou-csv-5250ac4c-663c-47ce-937b-339e391393ba)
+**Important** : Microsoft Excel ne permet pas l'ouverture "directe" d'un tableur en csv. Si vous le pouvez, nous vous conseillons d'utiliser les tableurs libres de Libres Office [https://www.libreoffice.org/download/download/](https://www.libreoffice.org/download/download/) Avec Libre Office Calc, vous pourrez ouvrir directement le fichier csv et l'enregistrer au bon format d'encodage UTF-8. Si vous préférez tout de même utiliser Microsoft Excel, veuillez suivre la procédure suivante pour ouvrir un fichier csv : [https://support.office.com/fr-fr/article/Importer-ou-exporter-des-fichiers-texte-txt-ou-csv-5250ac4c-663c-47ce-937b-339e391393ba](https://support.office.com/fr-fr/article/Importer-ou-exporter-des-fichiers-texte-txt-ou-csv-5250ac4c-663c-47ce-937b-339e391393ba)
 {% endhint %}
 
-## Importer de nouveaux produits <a id="import-new-products"></a>
+## Importer de nouveaux produits dans un catalogue producteur <a id="import-new-products"></a>
 
 Tout d'abord, téléchargez le modèle sur la page d'import et ouvrez-le avec Libre Office \(ou Excel ou équivalent\).
 
@@ -60,7 +60,7 @@ Par ailleurs, certains champs ne sont pas encore disponibles via l'import produi
 
 ### Les variantes <a id="variants"></a>
 
-​[Les variantes](product-variants.md) peuvent être distinguée par les unitées \(par exemple un produit vendu par 500 g ou 1 kg\) ainsi que le champ display\_name \(exemple : Yaourt à la myrtille, fraise...\). Chaque variante est regroupée sous le même nom produit. Exemple :
+​[Les variantes](product-variants.md) peuvent être distinguées par les unités \(par exemple un produit vendu par 500 g ou 1 kg\) ainsi que le champ display\_name \(exemple : Yaourt à la myrtille, fraise...\). Chaque variante est regroupée sous le même nom produit. Exemple :
 
 | name | display\_name | price | units | unit\_type |
 | :--- | :--- | :--- | :--- | :--- |
@@ -84,21 +84,18 @@ Un exemple d'import avec des unités différentes :
 | Producteur C | Pommes | Fruits & légumes | 9.50 | 5 | kg |  |
 | Producteur D | Persil | Herbes & épices | 3.00 | 1 |  | botte |
 
-#### Import the CSV
+### Téléverser le fichier csv
 
 Une fois votre fichier csv prêt, vous pouvez le téléverser sur Open Food Network.
 
-Allez sur **Produits** &gt; **Import produit**
-
-**Sélectionnez "import catalogue produit"**
-
-**Sélectionnez votre fichier.**
-
-Cliquez sur **Importer**.
+Allez sur **Produits** &gt; **Import produit**  
+Sélectionnez **"catalogues produits des producteurs"**  
+Sélectionnez votre fichier  
+****Cliquez sur **Téléverser**
 
 Avant que l'import ne se lance, vous verrez un récapitulatif. C'est le moment de vérifier si une erreur ne s'est pas glissée dans votre fichier !
 
-## Mettre à jour des caractéristiques produits existantes <a id="update-existing-product-details"></a>
+## Mettre à jour les caractéristiques de produits existants dans des catalogues producteurs <a id="update-existing-product-details"></a>
 
 Comment mettre à jour des produits existants ?
 
@@ -114,7 +111,7 @@ Le processus est similaire à la création de produit.  6 champs sont obligatoir
 | variant\_unit\_name \(si applicable\) | ​ | ​ |
 | display\_name |  |  |
 
-## Importer un catalogue ou le mettre à jour <a id="import-new-inventory"></a>
+## Importer ou mettre à jour des produits dans des catalogues boutiques <a id="import-new-inventory"></a>
 
 Tout d'abord, téléchargez le modèle sur la page d'import et ouvrez-le avec Libre Office \(ou Excel ou équivalent\).
 
@@ -142,17 +139,16 @@ Par ailleurs, certains champs ne sont pas encore disponibles via l'import produi
 | available\_on | Non | Laissez vide | ​ |
 | on\_demand | Non | Si vous avez un stock infini du produit, indiquez 1 et si vous utilisez la colonne on\_hand laissez vide | 1 |
 
-#### Import the CSV
+### Téléverser le fichier csv
 
 Une fois votre fichier csv prêt, vous pouvez le téléverser sur Open Food Network.
 
-Allez sur **Produits** &gt; **Import produit**
-
-**Sélectionnez "import catalogue produit"**
-
-**Sélectionnez votre fichier.**
-
-Cliquez sur **Importer**.
+Allez sur **Produits** &gt; **Import produit**  
+Sélectionnez **"catalogues boutiques des hubs distributeurs"**  
+Sélectionnez votre fichier  
+****Cliquez sur **Téléverser**
 
 Avant que l'import ne se lance, vous verrez un récapitulatif. C'est le moment de vérifier si une erreur ne s'est pas glissée dans votre fichier !
+
+##  <a id="update-existing-product-details"></a>
 
