@@ -4,13 +4,13 @@ Il est possible d'avoir plusieurs cycles de vente simultanés. Cela a pour effet
 
 Exemple ci-dessous avec des boutiques par date de livraison :
 
-![](../../.gitbook/assets/image%20%28103%29.png)
+![](../../../.gitbook/assets/image%20%28103%29.png)
 
 A la sélection du cycle de vente, l 'acheteur aura à l'affichage les produits et paramètres du cycle de vente sélectionné.
 
 Notez que vous pouvez aussi gérer les paramètres et marges par produits. Mais cette solution peut être utile.
 
-**Attention : les méthodes de livraison ne sont pas paramétrées au niveau du cycle de vente** ! Tous vos cycles de vente auront donc les mêmes options de livraison. Vous pouvez en revanche choisir d'afficher ou masquer des méthodes de livraisons à certains acheteurs grâce [aux tags.](customized-shopping-experience.md)
+**Attention : les méthodes de livraison ne sont pas paramétrées au niveau du cycle de vente** ! Tous vos cycles de vente auront donc les mêmes options de livraison. Vous pouvez en revanche choisir d'afficher ou masquer des méthodes de livraisons à certains acheteurs grâce [aux tags.](../affichages-et-prix-differencies-par-categorie-dacheteur/customized-shopping-experience.md)
 
 ### **Définir l'ordre d'affichage de vos cycles de vente dans la liste déroulante**
 
@@ -18,5 +18,5 @@ Vous pouvez choisir si vous souhaitez les afficher par date de fermeture ou par 
 
 Il suffit de vous rendre dans le menu Entreprises &gt; Gérer &gt; Préférences boutique :
 
-![](../../.gitbook/assets/image%20%2877%29.png)
+![](../../../.gitbook/assets/image%20%2877%29.png)
 

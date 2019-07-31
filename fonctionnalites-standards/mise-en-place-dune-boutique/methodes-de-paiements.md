@@ -1,50 +1,50 @@
 # Méthodes de paiement
 
-Vous devez créer des méthodes de paiement avant de pouvoir ouvrir votre boutique.
+La définition d'au moins une méthode de paiement est obligatoire avant l'ouverture d'une boutique !
 
-## Paramétrer une méthode de paiement
+## Définir une méthode de paiement
 
-1\) Accéder à la page traitant des méthodes de paiement
+**1\) Allez sur la page méthodes de paiement**
 
-Cliquez sur **Entreprises**, puis cliquez sur **Gérer**. Cliquez ensuite sur Méthodes de paiement sur le menu vertical de gauche :
+En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez sur **paramètres** et enfin sur **méthodes de paiement** dans le menu vertical de gauche :
 
 ![](../../.gitbook/assets/image%20%2817%29.png)
 
-2\) Cliquez sur "**En créer une maintenant**".
+**2\)** Cliquez sur "**En créer une maintenant**". 
 
-3\) Si ce n'est pas le cas sélectionnez votre entreprise dans la liste déroulante des hubs. Cela signifie que la méthode de paiement qui sera créé le sera pour cette entreprise. **Vous pouvez sélectionner plusieurs entreprises**.
+**3\)** Sélectionnez votre entreprise dans la liste des hubs dans l'encart à droite. Cela signifie que la méthode de paiement sera créée pour cette entreprise. **Vous pouvez sélectionner plusieurs entreprises**.
 
 ![](../../.gitbook/assets/image%20%2845%29.png)
 
-4\) **Nom :** Choisissez un nom pour cette méthode de paiement. \(par exemple : "Payez par carte de crédit en utilisant Paypal" etc\). Ce nom s'affichera au moment du paiement pour l'acheteur, ainsi que dans les emails de confirmation qui lui seront envoyés.
+**4\)** **Nom :** Choisissez un nom pour cette méthode de paiement. \(par exemple : "Payez par carte de crédit via Paypal"\). Ce nom s'affichera au moment du paiement pour l'acheteur, ainsi que dans les emails de confirmation qui lui seront envoyés.
 
-5\) **Description :** ajoutez des détails pour la méthode de paiement. Par exemple, pour un virement, vous pouvez indiquez les détails du RIB. Cette description s'affichera au moment du paiement pour l'acheteur, ainsi que dans les emails de confirmation qui lui seront envoyés.
+**5\) Description :** ajoutez les détails associés la méthode de paiement. Par exemple, pour un virement, vous pouvez indiquez les détails du RIB. Cette description s'affichera au moment du paiement pour l'acheteur, ainsi que dans les emails de confirmation qui lui seront envoyés.
 
-Un exemple de message au moment du paiement :
+Un exemple de message au moment du choix de la méthode de paiement :
 
 ![](../../.gitbook/assets/image%20%2861%29.png)
 
- 6\) **Active :** Indiquez si vous souhaitez que cette méthode soit visible et utilisable
+ **6\) Active :** Indiquez si vous souhaitez que cette méthode soit visible et utilisable.
 
-7\) **Tags :** Utilisez les tags si vous souhaitez rendre certaines méthodes de paiements accessibles ou non pour certains types d'acheteurs \(voir [la page suivante](customized-shopping-experience.md#customer-tagging) pour l'utilisation de cette fonctionnalité\).
+**7\) Tags :** Utilisez les tags si vous souhaitez rendre certaines méthodes de paiements accessibles ou non pour certains types d'acheteurs \(voir le détail de la fonctionnalité [ici](affichages-et-prix-differencies-par-categorie-dacheteur/)\).
 
-8\) **Fournisseurs** : Sélectionnez celui qui concerne la méthode que vous créez
+**8\)** **Fournisseurs** : Sélectionnez celui qui concerne la méthode que vous êtes en train de créer. Vous pouvez accepter les paiements de 5 "fournisseurs" de systèmes de paiement :
 
-Vous pouvez accepter les paiements de 5 façons :
-
-* Cash/EFT/etc. \(dans ce cas pas de validation automatique\)
+* Cash/EFT/etc. \(il s'agit de liquide ou chèque ou virement bancaires, ne nécessitant pas de passer par un portail de paiement en ligne et n'impliquant pas de validation automatique\)
 * MasterCard Internet Gateway Service \(MIGS\)
 * PayPal Express
-* Pin Payments **\(ne fonctionne pas en France\)**
+* Pin Payments **\(fonctionne uniquement en Australie\)**
 * Stripe
 
-Si vous avez séletionné ‘Cash/EFT/etc..’, cliquez sur **Créer** en base de page.
+**9\) Calculateur :** Sélectionnez comment les frais éventuels associés à la méthode de paiement vont s'appliquer sur la commande. Notez que ces frais peuvent être équivalent à zéro. Voir ci-dessous les [options du calculateur](methodes-de-paiements.md#commissions-sur-les-methodes-de-paiements).
 
-Pour les autres méthodes, les instructions sont dans les paragraphes ci-dessous.
+En cliquant sur **Créer**, la méthode de paiement sera créée et vous aurez de nouveaux champs pour définir les frais associés au calculateur choisi. Ces champs dépendent de la sélection effectuée dans le calculateur. Ainsi, si par la suite vous changez la sélection de calculateur, il faut d'abord sauvegarder votre modification \(mettre à jour\) et ensuite les champs associés apparaissent. 
+
+## Les portails de paiement intégrés
 
 ### PayPal Express
 
-Pour permettre un paiement par Paypal, vous devez avoir un compte Paypal professionnel au préalable. Vous pouvez en créer un [ici](https://www.paypal.com/fr/home). Ensuite il est nécessaire de paramétrer l'API. C'est elle qui vous permettra de connecter votre compte Paypal à Open Food France \(OFF\).
+Pour permettre un paiement par Paypal, vous devez avoir créé au préalable un compte Paypal professionnel. Vous pouvez en créer un [ici](https://www.paypal.com/fr/home). Ensuite il est nécessaire de paramétrer l'API. C'est elle qui vous permettra de connecter votre compte Paypal à Open Food Network.
 
 1. Connectez-vous à votre compte Paypal
 2. Cliquez sur Tools / Outils puis API credentials / Paramètres :
@@ -55,9 +55,7 @@ Pour permettre un paiement par Paypal, vous devez avoir un compte Paypal profess
 
 ![API Access](https://openfoodnetwork.org/wp-content/uploads/2015/05/API-Access.png)
 
-2. Sur OFF, assurez-vous d'être connecté en tant qu'entreprise. Allez dans l'interface d'administration, puis dans le menu Entreprises et créez un méthode de paiement \(voir ci-dessus\). Sélectionnez Paypal et intégrer les informations :
-
-
+2. Sur Open Food Network, assurez-vous d'être connecté en tant que manager de l'entreprise concernée. Allez dans l'interface d'administration, puis dans le menu **Entreprises** et créez un méthode de paiement \(voir ci-dessus\). Sélectionnez Paypal et intégrer les informations :
 
 ![Api Signature](https://openfoodnetwork.org/wp-content/uploads/2015/05/Api-Signature.png)
 
@@ -77,77 +75,69 @@ Pour permettre un paiement par Paypal, vous devez avoir un compte Paypal profess
 
 ### MasterCard Internet Gateway Service \(MIGS\)
 
-Ce paramétrage ne peut être fait que via votre banque.
+Ce paramétrage ne peut être fait que via votre banque si c'est le système qu'elle utilise.
 
 ### Stripe
 
-[Stripe ](https://stripe.com/au)est une plateforme de paiement en ligne similaire à PayPal. Cette plateforme acceptera les paiements par carte bleue également.
+[Stripe ](https://stripe.com/au)est une plateforme de paiement en ligne similaire à PayPal. Cette plateforme acceptera les paiements par carte bleue également. Contrairement à Paypal, l'acheteur final n'a pas besoin de compte. 
 
-Contrairement à Paypal, l'acheteur final n'a pas besoin de compte. 
-
-Si vous souhaitez utiliser la fonctionnalité d'**abonnements**, la seule méthode de paiement possible est d'utiliser Stripe \(aucun autre ne permet le règlement d'abonnements\).
-
-#### Paramétrage
+Si vous souhaitez utiliser la fonctionnalité d'[abonnement](../subscriptions/), Stripe est la seule méthode de paiement en ligne utilisable \(en dehors de méthode de paiement ne passant pas par un portail en ligne bien sûr\).
 
 **Connecter avec Stripe**
 
-Avant d'utiliser Stripe, il faut le connecter. Cliquez sur ce bouton \(menu Entreprises &gt; Gérer &gt; Méthode de paiements\) :
+Avant d'utiliser Stripe, il faut connecter votre compte marchand Stripe à votre entreprise sur Open Food Network. Cliquez sur ce bouton \(menu Entreprises &gt; Gérer &gt; Méthodes de paiements\) :
 
 ![](../../.gitbook/assets/image%20%2820%29.png)
 
-Vous serez redirigé vers un formulaire : soit vous avez déjà un compte Stripe et il suffit de vous connecter, soit vous devrez vous créer un compte.
-
-Les informations demandées incluent votre pays, votre activité, votre numéro SIREN, de TVA, votre adresse...
+Vous serez redirigé vers un formulaire : soit vous avez déjà un compte Stripe et il suffit de vous connecter, soit vous devrez vous créer un compte. Les informations demandées incluent votre pays, votre activité, votre numéro SIREN, de TVA, votre adresse...
 
 **Créer une nouvelle méthode de paiement**
 
-Une fois connecté avec Stripe, créer votre méthode de paiement comme indiqué ci-dessus.
-
-Sélectionnez Stripe dans la liste des fournisseurs
+Une fois connecté avec Stripe, créer votre méthode de paiement comme indiqué ci-dessus. Sélectionnez Stripe dans la liste des fournisseurs
 
 **Stripe Account Owner :** sélectionnez l'entreprise avec laquelle vous avez créé le compte Stripe ou réalisé la connexion.
 
-Si vous sélectionnez une entreprise qui n'a pas de compte Stripe connecté, vous aurez le message d'erreur ci-dessous. Soit cliquez sur "En connecter un", soit répétez les opération ci-dessusà partir du bouton "connecter avec stripe"
+Si vous sélectionnez une entreprise qui n'a pas de compte Stripe connecté, vous aurez le message d'erreur ci-dessous. Le cas échéant, cliquez sur "en connecter un", ou répétez les opérations ci-dessus à partir du bouton "connecter avec stripe"
 
 ![](../../.gitbook/assets/image%20%284%29.png)
 
-#### Les paiements stripe pour les acheteurs
+#### Le paiement via Stripe pour les acheteurs
 
-Quand les acheteurs utilisent Stripe, il peuvent cocher une case pour que leur carte de crédit soit enregistrée pour leurs prochains paiements \(seulement s'ils sont connecté à OFF\). Dans leur profil, ils peuvent également ajouter une carte ou en supprimer une.
+Quand les acheteurs paient en ligne via Stripe, il peuvent cocher une case pour que leur carte de crédit soit enregistrée pour leurs prochains paiements \(seulement s'ils sont connecté à la plateforme Open Food Network\). Dans leur profil, ils peuvent également ajouter une carte ou en supprimer une \(Profil &gt; Compte\).
 
-## Commissions sur les méthodes de paiements
+## Frais associés aux méthodes de paiements
 
-![](../../.gitbook/assets/image%20%28100%29.png)
+![](../../.gitbook/assets/capture-du-2019-07-31-23-07-24.png)
 
-Vous pouvez associer une marge ou une commission à une méthode de paiement. Généralement c'est utilisé pour répercuter les frais des plateformes de paiement à l'acheteur. Sélectionnez un calculateur et indiquez un montant \(voir description ci-dessous\). 
+Vous pouvez associer une commission à une méthode de paiement. Généralement cette fonctionnalité est utilisée pour répercuter les frais des portails de paiement sur l'acheteur. 
 
-_Remarque : les commissions sur les méthodes de paiement n'incluent pas les taxes._
+_Remarque : les commissions sur les méthodes de paiement n'incluent pas les taxes \(TVA\)._
 
 ### Le calculateur
 
-**Pourcentage net** – Cette marge s'applique en pourcentage du montant total de la commande.
+**Pourcentage net** – Cette commission correspond à un pourcentage pris sur le montant total de la commande.
 
-**Taux net \(par commande\)** – Cette marge s'applique de manière standard à toutes les commandes, quelque soit leur taille ou leur unité.
+**Montant fixe par commande** – La commission correspond à un montant fixe pris pour l'ensemble de la commande, quelle que soit sa taille ou le nombre d'articles commandés.
 
-**Taux flexible** – Ce calcul est utilisé pour les remises promotionnelles \(quand vous appliquez une marge réduite lorsque le consommateur achète en gros\).
+**Montant variable selon nb article** – La marge/commission correspond à un montant donné par commande, mais qui varie selon le nombre d'articles commandés. Il peut s'agir par exemple d'une remise promotionnelle pour des achats en grosses quantités, "si l'acheteur commande plus de X articles les frais de gestion passent de Y à Z euros".
 
-* ‘Coût du premier item’ : La marge appliquée au premier produit
-* ‘Coût d'item additionnel’ : La marge appliquée aux produits suivants
-* ‘Nombre maximum d'objets’ : Le nombre maximum d'objets sur lesquels la marge va s'appliquer. Les objets après ce nombre n'auront pas de marge associée.
+* ‘Coût du premier produit’ : Le montant de commission pris au premier article commandé
+* ‘Coût des produits suivants’ : Le montant de commission pris pour les articles suivants
+* 'Produits max’ : Le nombre maximum d'articles dans le panier sur lesquels la commission va s'appliquer. Aucune commission ne sera prise sur les articles suivants.
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/capture-du-2019-07-31-23-12-15.png)
 
 Exemple :  Si la marge du premier est de 2€, celle de l'objet supplémentaire 1 € et le nombre maximum d'objet est de 3. Si un client en commande 5, il paiera 2 € pour le premier, 1€ pour le second et aucune commission pour les objets 3 et 4.
 
-**Taux net \(par item\)** – Cette marge est constante et s'applique uniquement aux produits vendus à la pièce \(et non ceux vendus au poids\).
+**Montant fixe par article** – Cette commission est un montant fixe qui s'applique pour chaque article commandé, mais uniquement aux articles vendus à la pièce \(et non ceux vendus au poids/volume\).
 
-**Price Sack** – Cette marge est utilisée pour appliquer une marge réduite à partir du moment où la commande atteind un certain montant.
+**Montant variable selon total commande** – Cette marge/commission est utilisée pour appliquer une marge réduite à partir du moment où la commande atteint un certain montant.
 
-* ‘Montant minimal’ : Si la commande est en-dessous de ce montant, le consommateur devra payer le ‘Montant normal'.
+* ‘Montant minimal’ : Si la commande est en-dessous de ce montant, l'acheteur devra payer le ‘Montant normal'.
 * ‘Montant de la réduction’ : Si la commande est égale ou supérieure au montant minimal, le consommateur devra payer le ‘Montant de la réduction’.
-* 'Currency' : La monnaie utilisée \(généralement "EUR"\).
+* 'Devise' : La monnaie utilisée \(généralement "EUR"\).
 
 ## Gestion des remboursements
 
-Selon la méthode de paiement choisie, la gestion des remboursements ne sera pas la même. [Consultez la page dédier à ce sujet.](https://ofnuserguidefr.gitbook.io/guide-utilisateur-open-food-france/fonctionnalites-standards/commandes/ajustements-de-paiement)
+Selon la méthode de paiement choisie, la gestion des remboursements ne sera pas la même. [Consultez la page dédiée à ce sujet](../commandes/ajustements-de-paiement.md).
 

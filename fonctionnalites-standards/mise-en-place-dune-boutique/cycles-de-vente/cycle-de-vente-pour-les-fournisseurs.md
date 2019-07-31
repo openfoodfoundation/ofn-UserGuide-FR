@@ -8,13 +8,13 @@ Beaucoup de fournisseurs, qui vendent leurs produits en petites quantités, pré
 
 Connecté sur l'interface d'administration, sélectionnez le dernier menu sur votre droite :
 
-![](../../.gitbook/assets/image%20%2897%29.png)
+![](../../../.gitbook/assets/image%20%2897%29.png)
 
 ## 2. Créer un nouveau cycle de vente
 
-* **Attention !** Vous ne pouvez pas créer de cycle de vente tant que vous n'avez pas indiqué de [méthode de livraison ](types-de-livraisons.md)ni de[ méthodes de paiement](methodes-de-paiements.md).
+* **Attention !** Vous ne pouvez pas créer de cycle de vente tant que vous n'avez pas indiqué de [méthode de livraison ](../types-de-livraisons.md)ni de[ méthodes de paiement](../methodes-de-paiements.md).
 
-![](../../.gitbook/assets/image%20%2828%29.png)
+![](../../../.gitbook/assets/image%20%2828%29.png)
 
 **Nom :** Choississez un nom pour le cycle. Il sera visible uniquement pour vous, indiquez donc quelque chose qui vous permettra de le retrouver facilement, par exemple: _CommandeSemaine26\_2018._
 
@@ -26,7 +26,7 @@ Connecté sur l'interface d'administration, sélectionnez le dernier menu sur vo
 
 **Produits :** Afin que les produits soient visibles sur la boutique en ligne, il est nécesssaire de les ajouter ici. Attention, si vous ajouter des produits après la date de démarrage du cycle de vente, pensez-bien à les ajouter ici aussi pour qu'ils apparaissent en ligne !
 
-**Commission** **:** Vous pouvez ajouter une marge que vous avez défini préalablement. La marge sera calculée en fonction du calculateur sélectionné précédemment, voir guide [Marges et commissions](frais-et-taxes.md). Cette fonctionnalité est particulièrement intéressante pour les producteurs et les hubs travaillant en partenariat, peut-être moins pour les producteurs travaillant en vente directe.
+**Commission** **:** Vous pouvez ajouter une marge que vous avez défini préalablement. La marge sera calculée en fonction du calculateur sélectionné précédemment, voir guide [Marges et commissions](../frais-et-taxes.md). Cette fonctionnalité est particulièrement intéressante pour les producteurs et les hubs travaillant en partenariat, peut-être moins pour les producteurs travaillant en vente directe.
 
 ## 3. Ouvrez votre boutique
 
@@ -36,11 +36,11 @@ Cliquez sur "créer" pour sauvegarder votre cycle de vente.
 
 Si votre cycle de vente se répète de manière périodique et régulière, vous pouvez dupliquer un cycle de vente passé afin d'aller plus vite \(bouton orange sur la capture, attention il ne devient orange que lorsque vous le survolez\) :
 
-![](../../.gitbook/assets/image%20%2835%29.png)
+![](../../../.gitbook/assets/image%20%2835%29.png)
 
 Les cycles de vente sont présentés en vert lorsqu'ils sont actifs, jaune lorsqu'ils sont indiqués pour une date future et gris lorsqu'ils sont fermés. Un mois après la fermeture d'un cycle de vente, il n'apparaitra plus dans cette liste, il faudra cliquer sur "voir plus" pour voir tous vos cycles de vente.
 
 ### Fonctionnalités avancées
 
-* [Créer des cycles de vente en affichage seul](display-only-order-cycles.md)
+* [Créer des cycles de vente en affichage seul](../display-only-order-cycles.md)
 

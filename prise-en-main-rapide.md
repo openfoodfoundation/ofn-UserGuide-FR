@@ -12,7 +12,7 @@
 
 5. Ajoutez [des marges ou commissions ](fonctionnalites-standards/mise-en-place-dune-boutique/frais-et-taxes.md)\(optionnel\)
 
-6. [Ouvrez votre boutique](fonctionnalites-standards/mise-en-place-dune-boutique/cycle-de-vente-pour-les-hub.md) !  
+6. [Ouvrez votre boutique](fonctionnalites-standards/mise-en-place-dune-boutique/cycles-de-vente/cycle-de-vente-pour-les-hub.md) !  
 
 
 Bravo, vous êtes prêt à démarrer :-\)  

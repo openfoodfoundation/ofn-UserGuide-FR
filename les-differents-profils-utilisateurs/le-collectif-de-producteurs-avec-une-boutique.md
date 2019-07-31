@@ -45,7 +45,7 @@ Chaque producteur devra vous donner accès à son catalogue produit.
 
 Si votre fournisseur a un profil, mais n'a pas ajouté de produits, vous devrez tout d'abord avoir la permission de "gérer leur catalogue produits". Ensuite, vous pourrez [ajouter des produits](../fonctionnalites-standards/produits-1/produits.md).
 
-9\) [Ouvrez votre boutique en créant un nouveau cycle de vente](../fonctionnalites-standards/mise-en-place-dune-boutique/cycle-de-vente-pour-les-hub.md).
+9\) [Ouvrez votre boutique en créant un nouveau cycle de vente](../fonctionnalites-standards/mise-en-place-dune-boutique/cycles-de-vente/cycle-de-vente-pour-les-hub.md).
 
 **Une fois que les premières commandes auront été effectuées, vous pourrez consulter l'historique des commandes et accéder aux rapports.**    
   
@@ -66,8 +66,8 @@ Les prix et les montants à allouer à chaque producteur peuvent également êtr
 * [**Les marges et commissions**](../fonctionnalites-standards/mise-en-place-dune-boutique/frais-et-taxes.md). Les boutiques avec des sources variées peuvent être intéressées par une répartition des charges entre les différentes parties qui proposent un service \(ex : la livraison ou l'emballage\), dont profite les autres parties.
 * [**Multiples managers**](https://ofnuserguidefr.gitbook.io/guide-utilisateur-open-food-france/fonctionnalites-standards/votre-profil/parametres#managers). Il est possible d'avoir plusieurs managers qui auront les accès d'administration de la boutique \(connexion, modification, lecture\). Les managers peuvent être ajoutés directement depuis le profil du producteur.
 * \*\*\*\*[**Les prix "irréguliers" \(pièce de viandes indivisible par exemple\).**](../fonctionnalites-standards/produits-1/pricing-irregular-items-kg.md) Cette page présente les stratégies pour fixer les prix des produits comme les poulets ou les potirons, vendus au kilo mais dont le poids varie.
-* [**Appliquer des tags**](../fonctionnalites-standards/mise-en-place-dune-boutique/customized-shopping-experience.md) aux acheteurs et personnaliser leur interaction avec le site durant leurs courses. Il est par exemple possible de ne pas afficher certains produits ou certaines méthodes de paiements à certains acheteurs, ce qui peut être utile si vous vendez à des distributeurs / acheteurs en gros.
+* [**Appliquer des tags**](../fonctionnalites-standards/mise-en-place-dune-boutique/affichages-et-prix-differencies-par-categorie-dacheteur/customized-shopping-experience.md) aux acheteurs et personnaliser leur interaction avec le site durant leurs courses. Il est par exemple possible de ne pas afficher certains produits ou certaines méthodes de paiements à certains acheteurs, ce qui peut être utile si vous vendez à des distributeurs / acheteurs en gros.
 * \*\*\*\*[**Rendre votre boutique privée.**](../fonctionnalites-standards/mise-en-place-dune-boutique/private-shopfront.md) Si vous souhaitez réserver l'accès de votre boutique à une liste définie d'acheteurs.
-* [**Mettre en place une tarification différenciée**.](../fonctionnalites-standards/mise-en-place-dune-boutique/customer-specific-pricing.md) Il est possible configurer une boutique afin d'appliquer une politique de prix différente en fonction de vos groupes de clients. La fonctionnalité demande à être améliorée, la réflexion est en cours !
+* [**Mettre en place une tarification différenciée**.](../fonctionnalites-standards/mise-en-place-dune-boutique/affichages-et-prix-differencies-par-categorie-dacheteur/customer-specific-pricing.md) Il est possible configurer une boutique afin d'appliquer une politique de prix différente en fonction de vos groupes de clients. La fonctionnalité demande à être améliorée, la réflexion est en cours !
 * [**Saisir des commandes manuelles** ](../fonctionnalites-standards/commandes/manual-orders.md)pour les clients préférant utiliser les sms ou le téléphone.
 

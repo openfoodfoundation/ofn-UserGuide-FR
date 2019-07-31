@@ -36,7 +36,7 @@ La première étape avant de créer votre boutique en ligne, c'est la création 
 
 ### Ouvrez votre boutique !
 
-7\) [Ouvrez votre boutique en ouvrant un nouveau cycle de vente](../fonctionnalites-standards/mise-en-place-dune-boutique/cycle-de-vente-pour-les-fournisseurs.md#2-creer-un-nouveau-cycle-de-vente). En créant le cycle de vente, vous allez pouvoir définir à quel moment votre boutique est ouverte et à quel moment elle ferme. Ce processus va ensuite se répéter. C'est ce que nous appelons un cycle de vente. Pour chaque cycle de vente vous avez la possibilité de choisir les produits distribués.
+7\) [Ouvrez votre boutique en ouvrant un nouveau cycle de vente](../fonctionnalites-standards/mise-en-place-dune-boutique/cycles-de-vente/cycle-de-vente-pour-les-fournisseurs.md#2-creer-un-nouveau-cycle-de-vente). En créant le cycle de vente, vous allez pouvoir définir à quel moment votre boutique est ouverte et à quel moment elle ferme. Ce processus va ensuite se répéter. C'est ce que nous appelons un cycle de vente. Pour chaque cycle de vente vous avez la possibilité de choisir les produits distribués.
 
 ### Hourra ! Vous êtes prêt à vendre !
 
@@ -46,5 +46,5 @@ Vous pouvez désormais [voir vos commandes](../fonctionnalites-standards/command
 
 * [Intégrer](../fonctionnalites-standards/mise-en-place-dune-boutique/embedded-shops.md) votre boutique dans VOTRE site internet
 * [Fixer les prix de produits "irréguliers" comme la viande](../fonctionnalites-standards/produits-1/pricing-irregular-items-kg.md)
-* [Ouvrir plusieurs cycles de vente simultanés](../fonctionnalites-standards/mise-en-place-dune-boutique/opening-more-than-one-order-cycle.md).
+* [Ouvrir plusieurs cycles de vente simultanés](../fonctionnalites-standards/mise-en-place-dune-boutique/cycles-de-vente/opening-more-than-one-order-cycle.md).
 

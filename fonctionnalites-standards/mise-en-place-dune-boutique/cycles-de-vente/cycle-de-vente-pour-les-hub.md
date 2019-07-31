@@ -12,19 +12,19 @@ En ouvrant un cycle de vente, vous définissez les périodes d'ouverture de votr
 
 Connecté en administrateur, vous pouvez vous rendre sur le menu Cycle de vente ou depuis votre tableau de bord, cliquer sur le bouton suivant :
 
-![](../../.gitbook/assets/image%20%28111%29.png)
+![](../../../.gitbook/assets/image%20%28111%29.png)
 
 Puis cliquez sur "Nouveau cycle de vente" :
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](../../../.gitbook/assets/image%20%2815%29.png)
 
 ### 2. Créer un nouveau cycle de vente
 
-* **Attention !** Vous ne pouvez pas créer de cycle de vente tant que vous n'avez pas indiqué de [méthode de livraison ](types-de-livraisons.md)ni de[ méthodes de paiement](methodes-de-paiements.md).
+* **Attention !** Vous ne pouvez pas créer de cycle de vente tant que vous n'avez pas indiqué de [méthode de livraison ](../types-de-livraisons.md)ni de[ méthodes de paiement](../methodes-de-paiements.md).
 
 La première chose à faire est de sélectionner un coordinateur pour votre cycle de vente. Cette entreprise aura toutes les permissions pour modifier et gérer le cycle de vente. Les autres entreprises impliquées dans le cycle de vente \(les fournisseurs ou les autres hubs\) auront des accès restreints. Pour plus d'informations sur les gestions des droits entre entreprises, cliquez [ici](e2e-powers-in-multi-enterprise-ocs.md).
 
-![](../../.gitbook/assets/image%20%2852%29.png)
+![](../../../.gitbook/assets/image%20%2852%29.png)
 
 **Nom :** Choississez un nom pour le cycle. Il sera visible uniquement pour vous, donc indiquez quelque chose qui vous permettra de le retrouver facilement ensuite. Par exemple vous pouvez choisir un protocole du type _Commandesemaine26\_2018._
 
@@ -34,23 +34,23 @@ La première chose à faire est de sélectionner un coordinateur pour votre cycl
 
 **Prêt pour :** La date à laquelle cette commande sera disponible \(ou livrée\) pour le client. Vous pouvez indiquer ici un texte libre qui sera utilisé pour nommer ce cycle de vente, par exemple _Vendredi prochain_.
 
-**Ajouter commission coordinateur :** En tant que Hub, le coordinateur est certainement vous. La marge sera calculée en fonction du calculateur sélectionné précédemment, voir guide [Marges et commissions](frais-et-taxes.md).
+**Ajouter commission coordinateur :** En tant que Hub, le coordinateur est certainement vous. La marge sera calculée en fonction du calculateur sélectionné précédemment, voir guide [Marges et commissions](../frais-et-taxes.md).
 
 ### 3. Produits entrants
 
-Ici vous pouvez sélectionner les producteurs et les produits qui seront accessibles durant le cycle de vente. Les producteurs visibles dans la liste déroulante sont uniquement les producteurs vous [ayant donné accès à leur catalogue](../votre-profil/e2e-permissions.md). Cliquez bien sur "ajouter un fournisseur" pour voir les produits associés à ce fournisseur. Cochez les produits que vous souahitez ajouter \(vous pouvez aussi les sélectionner tous\). **Attention** : les produits qui ont une valeur "à volonté" à 0 s'afficheront également. Faites bien attention au stock disponible en les ajoutant.
+Ici vous pouvez sélectionner les producteurs et les produits qui seront accessibles durant le cycle de vente. Les producteurs visibles dans la liste déroulante sont uniquement les producteurs vous [ayant donné accès à leur catalogue](../../votre-profil/e2e-permissions.md). Cliquez bien sur "ajouter un fournisseur" pour voir les produits associés à ce fournisseur. Cochez les produits que vous souahitez ajouter \(vous pouvez aussi les sélectionner tous\). **Attention** : les produits qui ont une valeur "à volonté" à 0 s'afficheront également. Faites bien attention au stock disponible en les ajoutant.
 
 Les **détails de livraison produits** sont facultatifs.
 
 Le bouton pour ajouter une marge ou commission vous permet de l'ajouter par fournisseur. Sélectionnez le nom de l'entreprise, puis le nom de la marge comme dans l'exemple ci-dessous.
 
-Cette marge s'appliquera à tous les produits du fournisseur. La marge sera calculée en fonction du calculateur sélectionné précédemment, voir guide [Marges et commissions](frais-et-taxes.md).
+Cette marge s'appliquera à tous les produits du fournisseur. La marge sera calculée en fonction du calculateur sélectionné précédemment, voir guide [Marges et commissions](../frais-et-taxes.md).
 
 ### 4. Produits sortants
 
 Le distributeur sélectionné dans cette catégorie aura une boutique ouverte avec ce cycle de vente. Dans un modèle simple, il n'y a qu'un seul distributeur, le hub. Il suffit de le sélectionner puis de sélectionner tous les produits associés. Dans un modèle plus complexe avec plusieurs hubs, vous avez ainsi la possibilité de sélectionner des produits différents pour chaque hub.
 
-Les **tags** vous permettent de taguer le cycle de vente \(voir [Gestion des tags et comptes clients](customized-shopping-experience.md)\).
+Les **tags** vous permettent de taguer le cycle de vente \(voir [Gestion des tags et comptes clients](../affichages-et-prix-differencies-par-categorie-dacheteur/customized-shopping-experience.md)\).
 
 **Le message lié aux instructions de réception de la commande** sera inclus dans l'email de confirmation de commande envoyé au client, juste en-dessous de la méthode de livraison. Ils seront les seuls à obtenir cette information donc vous pouvez y inclure des informations comme des adresses ou numéros de téléphone.
 
@@ -64,7 +64,7 @@ Cliquez sur "créer" pour créer le cycle de vente.
 
 Si votre cycle de vente se répète de manière périodique et régulière, vous pouvez dupliquer un cycle de vente passé afin d'aller plus vite \(bouton orange sur la capture, attention il n'est pas orange sur la plateforme\) :
 
-![](../../.gitbook/assets/image%20%2835%29.png)
+![](../../../.gitbook/assets/image%20%2835%29.png)
 
 Les cycles de vente sont présentés en vert lorsqu'ils sont actifs, jaune lorsqu'ils sont indiqués pour une date dans le futur et gris lorsqu'ils sont fermés. Un mois après la fermeture d'un cycle de vente, il n'apparaitra plus dans cette liste, il faudra cliquer sur "voir plus" pour voir tous vos cycles de vente.
 
@@ -74,8 +74,8 @@ En utilisant ce bouton, tous les producteurs liés à ce cycle de vente seront n
 
 ## **Fonctionnalités avancées**
 
-Ces fonctionnalités sont à destination des cycles de vente avec plusieurs hubs. Rendez-vous sur la page [Catalogue](../produits-1/inventory-tool.md) pour plus de détails.
+Ces fonctionnalités sont à destination des cycles de vente avec plusieurs hubs. Rendez-vous sur la page [Catalogue](../../produits-1/inventory-tool.md) pour plus de détails.
 
-* [Créer des cycles de vente en affichage seul](display-only-order-cycles.md)
+* [Créer des cycles de vente en affichage seul](../display-only-order-cycles.md)
 * [Gestions des droits pour les cycles de vente à plusieurs entreprises](e2e-powers-in-multi-enterprise-ocs.md)
 

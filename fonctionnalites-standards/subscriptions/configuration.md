@@ -67,11 +67,11 @@ Vous pouvez aussi les ajouter à votre liste une fois leur compte créé. Dans t
 
 ## 5\) Les rythmes d'abonnement <a id="5-schedules"></a>
 
-S'il s'agit de votre première utilisation d'OFF, nous vous conseillons de vous familiariser tout d'abord avec le concept de [cycle de vente](../mise-en-place-dune-boutique/cycle-de-vente-pour-les-hub.md).
+S'il s'agit de votre première utilisation d'OFF, nous vous conseillons de vous familiariser tout d'abord avec le concept de [cycle de vente](../mise-en-place-dune-boutique/cycles-de-vente/cycle-de-vente-pour-les-hub.md).
 
 ### A propos <a id="about-schedules"></a>
 
-Le module de commande récurrente fonctionne de manière à ce qu'a chaque réouverture de cycle de vente, les commandes sont générées automatiquement pour les acheteurs ayant une commande récurrente avec la boutique en question. Cependant il est important de noter que le système est suffisamment flexible pour autoriser les boutiques à décider _quel_ cycle de vente autorise des commandes récurrentes. Ainsi si vous disposez de plusieurs [cycles de ventes simultanés](../mise-en-place-dune-boutique/opening-more-than-one-order-cycle.md), tous ne sont pas obligés d'accepter les commandes récurrentes.
+Le module de commande récurrente fonctionne de manière à ce qu'a chaque réouverture de cycle de vente, les commandes sont générées automatiquement pour les acheteurs ayant une commande récurrente avec la boutique en question. Cependant il est important de noter que le système est suffisamment flexible pour autoriser les boutiques à décider _quel_ cycle de vente autorise des commandes récurrentes. Ainsi si vous disposez de plusieurs [cycles de ventes simultanés](../mise-en-place-dune-boutique/cycles-de-vente/opening-more-than-one-order-cycle.md), tous ne sont pas obligés d'accepter les commandes récurrentes.
 
 Au delà de la simple activation / désactivation de la fonctionnalité par cycle de vente, les commandes récurrentes sont associées à des rythmes d'abonnement \(hebdomadaire, mensuel, bi-mensuel,...\). Lorsqu'un rythme d'abonnement a été créé et associé à des commandes récurrentes, ces commandes ne seront lancées que pour les nouveaux cycles de vente reliés à ce rythme d'abonnement.
 

@@ -110,7 +110,7 @@ Veuillez vous rendre sur la page [catalogue boutique](../produits-1/inventory-to
 
 _\* non visible pour les profils simples_
 
-Ici sont gérés les tags que vous attribuez à vos clients, et qui vous permettent de grouper ces derniers par catégorie d'acheteurs pour leur ofrrire des accès, tarifs, conditions spécifiques. Pour plus d'information rendez-vous sur la page [gestion des tags et comptes clients](../mise-en-place-dune-boutique/customized-shopping-experience.md).
+Ici sont gérés les tags que vous attribuez à vos clients, et qui vous permettent de grouper ces derniers par catégorie d'acheteurs pour leur ofrrire des accès, tarifs, conditions spécifiques. Pour plus d'information rendez-vous sur la page [gestion des tags et comptes clients](../mise-en-place-dune-boutique/affichages-et-prix-differencies-par-categorie-dacheteur/customized-shopping-experience.md).
 
 ### Préférences boutique
 
@@ -126,7 +126,7 @@ _\* non visible pour les profils simples_
 
 **Ordre d'affichage des catégories :** Par défaut, les produits sont rangés par ordre alphabétique dans votre boutique. Vous pouvez choisir d'afficher les produits par ordre de catégorie selon votre souhait. Le cas échéant, les produits seront affichés par ordre de catégorie puis par ordre alphabétique au sein de leur catégorie. 
 
-**Trier les cycles de vente par** : Si votre boutique aura [plus d'un cycle de vente ouvert en même temps](../mise-en-place-dune-boutique/opening-more-than-one-order-cycle.md) vous pouvez choisir l'ordre d'apparition des cycles dans le champ de sélection du cycle de vente à afficher : soit par date de fermeture, soit par date d'ouverture.
+**Trier les cycles de vente par** : Si votre boutique aura [plus d'un cycle de vente ouvert en même temps](../mise-en-place-dune-boutique/cycles-de-vente/opening-more-than-one-order-cycle.md) vous pouvez choisir l'ordre d'apparition des cycles dans le champ de sélection du cycle de vente à afficher : soit par date de fermeture, soit par date d'ouverture.
 
 **Boutique visible par tous** **?** : Si vous sélectionnez "visible par tous", n'importe quel internaute pourra accéder votre boutique. Si vous sélectionnez "visible uniquement par les acheteurs logués", seuls les utilisateurs que vous aurez préalablement ajoutés à votre liste d'acheteurs pourront accéder à votre boutique, et devront pour cela se connecter. [En savoir plus sur la fonctionnalité boutique privée.](../mise-en-place-dune-boutique/private-shopfront.md)
 

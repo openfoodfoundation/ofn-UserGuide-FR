@@ -51,7 +51,7 @@ Si votre fournisseur a un profil, mais n'a pas ajouté de produits, vous devrez 
 
 **Une fois toutes ces étapes effectuées, vous pouvez ouvrir votre boutique en suivant cette dernière étape :** 
 
-9\)[ Ouvrez votre boutique en créant un nouveau cycle de vente](../fonctionnalites-standards/mise-en-place-dune-boutique/cycle-de-vente-pour-les-hub.md).
+9\)[ Ouvrez votre boutique en créant un nouveau cycle de vente](../fonctionnalites-standards/mise-en-place-dune-boutique/cycles-de-vente/cycle-de-vente-pour-les-hub.md).
 
 **Une fois que les premières commandes auront été effectuées, vous pouvez consulter l'historique des commandes et accéder aux rapport.**    
   
@@ -63,7 +63,7 @@ Si votre fournisseur a un profil, mais n'a pas ajouté de produits, vous devrez 
 
 * [Intégrer](../fonctionnalites-standards/mise-en-place-dune-boutique/embedded-shops.md) votre boutique dans VOTRE site internet
 * [Fixer les prix de produits "irréguliers" comme la viande](../fonctionnalites-standards/produits-1/pricing-irregular-items-kg.md)
-* [Ouvrir plusieurs cycles de ventre simultanés](../fonctionnalites-standards/mise-en-place-dune-boutique/opening-more-than-one-order-cycle.md).
+* [Ouvrir plusieurs cycles de ventre simultanés](../fonctionnalites-standards/mise-en-place-dune-boutique/cycles-de-vente/opening-more-than-one-order-cycle.md).
 
 
 
