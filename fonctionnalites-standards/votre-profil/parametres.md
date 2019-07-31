@@ -2,12 +2,24 @@
 
 ## Accéder aux paramètres
 
-1. Une fois connecté, cliquez sur "Entreprises"
-2. Cliquez ensuite sur le bouton bleu "Gérer"
+1. Une fois connecté, et après avoir rejoint l'espace d'administration, cliquez sur "Entreprises"
+2. Cliquez ensuite sur le bouton bleu "Paramètres"
 
-![](../../.gitbook/assets/image%20%2818%29.png)
+![](../../.gitbook/assets/capture-du-2019-07-30-22-34-39.png)
 
-> Rappel : pour sauvegarder vos modifications, il vous faut cliquer sur "sauvegarder" en bas de page.
+{% hint style="info" %}
+Attention : pour sauvegarder un changement de type de profils, n'oubliez pas de cliquer sur "enregistrer" en bas de la fenêtre à droite.
+{% endhint %}
+
+Vous accédez ensuite à différents menus de paramétrage de votre entreprise, qui ressemblent à ça \(comme rappelé précédemment, les menus proposés vont dépendre du type de profil choisi pour l'entreprise\) : 
+
+![](../../.gitbook/assets/capture-du-2019-07-30-22-38-39.png)
+
+{% hint style="info" %}
+Attention : pour sauvegarder vos modifications, il vous faut cliquer sur "mettre à jour" en bas de page. Il est recommandé de sauvegarder chaque page avant de changer de page.
+{% endhint %}
+
+## Détails des paramètres
 
 ### Informations de base
 
@@ -15,27 +27,29 @@
 
 **Producteur ? :** Cochez cette case uniquement si vous êtes un producteur.
 
-\*_Remarque : seuls les producteurs peuvent ajouter des produits sur la plateforme. Les hubs doivent sélectionner cette option lorsqu'ils vendent des paniers avec des produits de différents fournisseurs._ 
+\*_Remarque : seuls les producteurs peuvent ajouter des produits sur la plateforme. Les hubs doivent sélectionner cette option lorsqu'ils vendent des paniers avec des produits de différents fournisseurs pour pouvoir créer les paniers comme des produits qu'ils "assemblent / fournissent" eux-mêmes._ 
 
-**Apparait sur la plateforme ?** **:** Si votre profil est prêt, cochez "visible" et il sera visible sur la plateforme ainsi que sur la carte. Vous pouvez le laisser invisible tant que vous modifiez encore ses paramètres \(contenu, images...\).
+**Apparaît sur la plateforme ?** **:** Si votre profil est prêt, cochez "visible" et il sera visible sur la plateforme ainsi que sur la carte. Vous pouvez le laisser invisible tant que vous modifiez encore ses paramètres \(contenu, images...\).
 
 **Nom pour URL** **:** Vous pouvez personnaliser l'adresse web menant jusqu'à votre profil.
 
 **Lien URL de la boutique :** Il s'agit du lien vers votre boutique \(si vous avez choisi d'en avoir une\). Ce lien est personnalisable comme vu au paragraphe précédent.
 
+**ID OFN :** Cet identifiant permet de reconnaître sans aucune ambiguité votre entreprise même si vous décidez de changer son nom par exemple, et simplifie le travail de l'équipe de support en cas de besoin.
+
 ### Adresse
 
-L'adresse nous permet de vous géolocaliser sur une carte. Si vous disposez d'un profil simple, votre adresse complète ne s'affichera pas. En revanche, si vous disposez d'une boutique, votre adresse sera visible dans le menu "contact" de la boutique.
+L'adresse nous permet de géolocaliser votre entreprise sur une carte. Si vous disposez d'un profil simple, votre adresse complète ne s'affichera pas. En revanche, si vous disposez d'une boutique, votre adresse sera visible dans le menu "contact" de la boutique.
 
 ### Contact
 
-**Nom :** Ce nom ne s'affichera pas sur votre profil, mais dans les emails de confirmation de commande uniquement si vous disposez d'une boutique.
+**Nom :** Ce nom ne s'affichera pas sur votre profil, mais dans les emails de confirmation de commande, uniquement si vous disposez d'une boutique et vendez via la plateforme donc.
 
-**Email, téléphone et site internet :** Ces informations seront visibles sur votre profil afin que les internautes puissent vous contacter.
+**Email public, téléphone et site internet :** Ces informations seront visibles sur votre profil afin que les internautes puissent vous contacter.
 
 ### Réseaux sociaux
 
-**Facebook address, Instagram, LinkedIn, Twitter :** Ce menu vous permet d'ajouter à votre profil les liens vers vos pages sur ces réseaux sociaux.
+**Facebook, Instagram, LinkedIn, Twitter :** Ce menu vous permet d'ajouter à votre profil les liens vers vos pages sur ces réseaux sociaux.
 
 ### A propos
 
@@ -51,26 +65,40 @@ L'adresse nous permet de vous géolocaliser sur une carte. Si vous disposez d'un
 
 **Soumis à la TVA ?** – Si vous êtes soumis à la TVA, sélectionnez "oui".
 
+**Afficher le logo sur la facture :** Vous pouvez choisir d'afficher ou pas le logo de votre entreprise sur les factures émises depuis la plateforme.
+
+**Ajouter une mention spécifique en bas des factures :** Vous pouvez ajouter une mention spécifique que vous auriez l'obligation ou le souhait d'ajouter sur vos factures.
+
 ### Images
 
-**Logo :** Le logo sera viisble lorsque votre profil est affiché en mode réduit, mais également en version complète. L'image d'origine doit être carrée, sinon elle peut se faire couper lors du téléchargement.
+**Logo :** Le logo sera visible lorsque votre profil est affiché en mode réduit, mais également en version complète. L'image d'origine doit être carrée \(100 x 100 par exemple\), sinon elle peut se faire couper lors du téléchargement.
 
 **Promo image :** Votre bannière doit mesurer 1200 x 260, toute image non conforme sera rognée.  
  La bannière est affichée en haut de la page de votre entreprise et dans sa version condensée \(pop-up\).
 
-Un exemple de profil :
+Un exemple de profil en version condensée \(depuis la page "producteurs"\) :
 
-![](../../.gitbook/assets/image%20%28105%29.png)
+![](../../.gitbook/assets/capture-du-2019-07-30-23-05-31.png)
 
-### Propriétés / Labels \(visible seulement par les producteurs\)
+Et en version complète \(depuis la carte, ou les pages boutiques\):
 
-Vous pouvez ajouter les labels qui vous correspondent \(Bio, Label Rouge...\) à cet endroit. Ils seront affichés par la suite sur tous vos produits.
+![](../../.gitbook/assets/capture-du-2019-07-30-23-01-12.png)
 
-### Méthodes de livraison, de paiement et marges/commissions
+### Propriétés / Labels 
+
+_\* visible seulement par les producteurs_
+
+Vous pouvez ajouter les labels ou "mentions/propriétés" qui vous correspondent \(Bio, Label Rouge...\) à cet endroit. Ils seront affichés par la suite sur tous vos produits. Vous pouvez aussi les renseigner au niveau du produit si ces labelrs ou propriétés ne s'appliquent qu'à certains produits.
+
+### Méthodes de livraison, de paiement et marges/commissions 
 
 _\* non visible pour les profils simples_
 
-Les [Méthodes de livraison](../mise-en-place-dune-boutique/types-de-livraisons.md), [les méthodes de paiement](https://github.com/ofnuserguidefr/guide-utilisateur-open-food-france/tree/f72c4e0a78bb6dc0c5b39249e706b0dbac84df5f/payment-methods-2.md) ainsi que [les marges et commissions](../mise-en-place-dune-boutique/frais-et-taxes.md) sont mieux détaillées dans chacun de ces liens respectifs.
+Les [Méthodes de livraison](../mise-en-place-dune-boutique/types-de-livraisons.md), [les méthodes de paiement](https://github.com/ofnuserguidefr/guide-utilisateur-open-food-france/tree/f72c4e0a78bb6dc0c5b39249e706b0dbac84df5f/payment-methods-2.md) ainsi que [les marges et commissions](../mise-en-place-dune-boutique/frais-et-taxes.md) sont mieux détaillées dans chacun de ces liens respectifs. 
+
+{% hint style="info" %}
+Au moins une méthode de paiement et de livraison doit impérativement être renseignée pour pouvoir utiliser la fonctionnalité de boutique et vendre en ligne.
+{% endhint %}
 
 ### Catalogue boutique
 
@@ -82,7 +110,7 @@ Veuillez vous rendre sur la page [catalogue boutique](../produits-1/inventory-to
 
 _\* non visible pour les profils simples_
 
-Ici sont gérés les tags que vous attribuez à vos clients. Pour plus d'information rendez-vous sur la page [personnalisation du parcours consommateur](../mise-en-place-dune-boutique/customized-shopping-experience.md).
+Ici sont gérés les tags que vous attribuez à vos clients, et qui vous permettent de grouper ces derniers par catégorie d'acheteurs pour leur ofrrire des accès, tarifs, conditions spécifiques. Pour plus d'information rendez-vous sur la page [gestion des tags et comptes clients](../mise-en-place-dune-boutique/customized-shopping-experience.md).
 
 ### Préférences boutique
 
@@ -94,23 +122,23 @@ _\* non visible pour les profils simples_
 
 **Message d'accueil boutique fermée** : Ce message s'affiche lorsque votre boutique est fermée. L'occasion d'indiquer la date de la réouverture !
 
-![](../../.gitbook/assets/image%20%2840%29.png)
+![](../../.gitbook/assets/capture-du-2019-07-30-23-16-32.png)
 
-**Ordre d'affichage des catégories :** Les produits sont rangés par ordre alphabétique dans votre boutique, au sein de leur catégorie. Vous pouvez changer l'ordre des catégories par celui qui vous convient le mieux.
+**Ordre d'affichage des catégories :** Par défaut, les produits sont rangés par ordre alphabétique dans votre boutique. Vous pouvez choisir d'afficher les produits par ordre de catégorie selon votre souhait. Le cas échéant, les produits seront affichés par ordre de catégorie puis par ordre alphabétique au sein de leur catégorie. 
 
-**Trier les cycles de vente par** : Si votre boutique aura [plus d'un cycle de vente ouvert en même temps](../mise-en-place-dune-boutique/opening-more-than-one-order-cycle.md) vous pouvez sélectionner l'ordre d'apparition des cycles sur la boutique en ligne : soit par date de fermeture, soit par date d'ouverture.
+**Trier les cycles de vente par** : Si votre boutique aura [plus d'un cycle de vente ouvert en même temps](../mise-en-place-dune-boutique/opening-more-than-one-order-cycle.md) vous pouvez choisir l'ordre d'apparition des cycles dans le champ de sélection du cycle de vente à afficher : soit par date de fermeture, soit par date d'ouverture.
 
-**Boutique visible par tous** **?** : Si vous sélectionnez "visible par tous", n'importe quel internaute pourra voir votre boutique. Si vous sélectionnez "visible uniquement par les acheteurs logués’, vos clients seront ceux que vous aurez pré-invités avec le mot de passe pour accéder à votre boutique.
+**Boutique visible par tous** **?** : Si vous sélectionnez "visible par tous", n'importe quel internaute pourra accéder votre boutique. Si vous sélectionnez "visible uniquement par les acheteurs logués", seuls les utilisateurs que vous aurez préalablement ajoutés à votre liste d'acheteurs pourront accéder à votre boutique, et devront pour cela se connecter. [En savoir plus sur la fonctionnalité boutique privée.](../mise-en-place-dune-boutique/private-shopfront.md)
 
-**Commandes des invités** : Si vous sélectionnez "autoriser les commandes en mode invité" les internautes pourront commander vos produits sans être connectés à la plateforme. Si vous souhaitez qu'ils soient connectés sélectionnez "demander que l'acheteur se connecte pour pouvoir commander". Ce menu n'est pas applicable si vous avez mis en place une boutique avec mot de passe \(paragraphe précédent\).
+**Commandes des invités** : Si vous sélectionnez "autoriser les commandes en mode invité" les visiteurs pourront commander vos produits sans être connectés à la plateforme donc sans avoir de compte utilisateur. Si vous souhaitez "forcer" la création de compte par vos acheteurs et qu'ils doivent se connecter pour pouvoir acheter, sélectionnez "demander que l'acheteur se connecte pour pouvoir commander". L'intérêt est que vous avez une garantie à minima que votre acheteur a certifié son email donc utilise un email actif. Cela peut contribuer à limiter le nombre de commandes finalement jamais récupérées, l'acheteur ne pouvant pas être complètement anonyme... Ce menu n'est pas applicable si vous avez mis en place une boutique privée \(paragraphe précédent\).
 
-### Managers
+### Utilisateurs
 
-**Manager principal :** L'email de l'utilisateur principal de la plateforme chez vous.
+**Gestionnaire principal :** L'email de l'utilisateur principal en charge de gérer l'activité de l'entreprise sur la plateforme chez vous. Seul le gestionnaire principal peut désigner un autre gestionnaire principal, parmi les gestionnaires actuels.
 
-**Notifications :** L'email auquel toutes les correspondances seront redirigés \(confirmation de commandes,...\). Si cet email est différent de l'email vous permettant de vous connecter, vous devrez valider l'adresse grâce à l'email reçu une fois l'adresse renseignée dans le champ. Une fois l'adresse email confirmée, cette adresse email aura les droits de manager également \(voir paragraphe suivant\).
+**Notifications :** L'email de l'utilisateur vers qui toutes les correspondances seront redirigées \(confirmation de commandes,...\). Seul le gestionnaire principal peut désigner l'utilisateur recevant les notifications, parmi les gestionnaires actuels.
 
-**Manager :** Ajoutez d'autres utilisateurs en tant que managers. Il est nécessaire qu'ils aient tout d'abord créé un compte sur la plateforme.
+**Gestionnaires :** Ajoutez d'autres utilisateurs en tant que gestionnaires de l'entreprise. Il est nécessaire qu'ils aient tout d'abord créé un compte sur la plateforme. Si ce n'est pas le cas, vous devrez les inviter \(cf menu ci-dessous\).
 
-_\* Remarque : Ces champs sont disponibles uniquement aux utilisateurs avec boutique en ligne._
+**Inviter un gestionnaire :** Si vous voulez ajouter un gestionnaire mais que vous ne trouvez pas d'utilisateur correspondant à l'adresse email de la personne concernée, vous pouvez l'inviter comme gestionnaire. La personne recevra alors un email avec un lien de confirmation qui la renverra vers le choix d'un mot de passe et lui permettra de créer son compte. Dès le compte créé elle aura accès à la plateforme comme gestionnaire de l'entreprise concernée.
 

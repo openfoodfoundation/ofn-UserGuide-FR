@@ -1,55 +1,38 @@
 # Permissions inter-entreprises
 
-## Permissions inter-entreprises
-
-Ce sont des permissions nécessaires avant qu'une entreprise deviennent fournisseur d'une autre ou inversement qu'une entreprise ne puisse distribuer les produits d'une autre.
+Ces permissions doivent être octroyées pour qu'une entreprise deviennent fournisseur d'une autre ou inversement qu'une entreprise puisse distribuer les produits d'une autre. Un "droit" est accordé par une entreprise à une autre concernant l'accès / la modification des produits et du profil.
 
 Cette page détaille les différentes permissions possibles et la manière de les allouer. Ensuite deux paragraphes vont plus loin en présentant les permissions depuis deux points de vue différents :
 
 * [**Celui du hub**](e2e-permissions.md#E2Es-from-a-hubs-perspective)
 * [**Celui du producteur**](e2e-permissions.md#E2Es-from-a-producers-perspective)
 
-### Les différentes permissions
+## Les différentes permissions
 
 Il existe 4 différentes permissions. Elles peuvent se combiner de différentes manières afin de donner aux entreprises plus ou moins de droits suivant leurs profils. 
 
-**Permission d'ajouter un cycle de vente**
+![](../../.gitbook/assets/capture-du-2019-07-31-09-30-03.png)
 
-Le fournisseur permet au hub d'ajouter ses produits à leurs cycles de vente
+* **Permission de vendre les produits \(= ajouter au cycle de vente\) :** le fournisseur autorise le hub à ajouter ses produits à ses cycles de vente, donc à la vendre.
+* **Permission d'ajouter les produits au catalogue boutique :** le fournisseur autorise le hub à ajouter ses produits au catalogue boutique du hub. Le hub pourra alors modifier les prix et stock des produits _uniquement pour sa boutique à lui_, cela n'affectera pas le catalogue du fournisseur.
+* **Permission de modifier les produits :** le fournisseur autorise une entreprise \(hub ou producteur\) à créer, supprimer et modifier ses produits directement dans son catalogue fournisseur. Cela peut potentiellement impacter toutes les entreprises ayant accès au catalogue fournisseur car toute modification du catalogue du fournisseur se répercutera sur les distributions qui en sont faites.
+* **Permission de modifier le profil :** une entreprise permet à une autre de modifier les détails de son profil \(coordonnées, adresse, description, ...\)
 
-**Permission d'ajouter un catalogue boutique**
+## Donner et gérer les permissions
 
-Le fournisseur permet au hub d'ajouter ses produits au catalogue boutique du hub.
+Pour modifier, ajouter ou supprimer des permissions, rendez-vous sur l'interface d'administration puis dans le menu **Entreprises**, puis sous-menu **Permissions** \(voir capture ci-dessous\). Si vous avez besoin qu'une autre entreprise vous donne des permissions, vous devez les contacter par email ou téléphone. Il n'y a pas de fonctionnalité en ligne pour contacter une autre entreprise à ce sujet.
 
-**Permission de gérer les produits**
+{% hint style="info" %}
+**Attention** : vous ne pouvez pas gérer les permissions de votre entreprise si vous n'êtes pas gestionnaire de l'entreprise.
+{% endhint %}
 
-Le fournisseur permet à une entreprise \(hub ou producteur\) de créer, supprimer et modifier ses produits en ligne.
+Pour accorder une permission, dans la première colonne, sélectionnez votre entreprise et dans la seconde l'entreprise à qui vous donnez des droits. Cliquez ensuite sur le type de permissions que vous souhaitez accorder. Vous pouvez sélectionner plusieurs permissions ou les sélectionner toutes en cliquant sur "TOUT". Puis cliquez sur "Créer". Notez que vous pouvez supprimer ou modifier ces permissions à tout moment.
 
-**Permission de modifier le profil**
+![](../../.gitbook/assets/capture-du-2019-07-31-09-41-17.png)
 
-Une entreprise permet à une autre de modifier les détails de son profil \(coordonnées, adresse, description, ...\)
+## Les permissions générées automatiquement
 
-### Donner et gérer les permissions <a id="grantingandmanagingE2Es"></a>
-
-Pour modifier, ajouter ou supprimer des permissions, rendez-vous sur l'interface d'administration puis dans le menu **Entreprises**, puis sous-menu **Permissions inter-entreprises** \(voir capture ci-dessous\).
-
-Si vous avez besoin qu'une autre entreprise vous donne des permissions, vous devez les contacter par email ou téléphone. Il n'y a pas de fonctionnalité en ligne pour contacter une autre entreprise à ce sujet.
-
-**Attention** : vous ne pouvez pas gérer les permissions de votre entreprises si vous n'êtes pas administrateur ou manager du profil de votre entreprise.
-
-**Donner une permission**
-
-Dans la première colonne, sélectionnez votre entreprise et dans la seconde l'entreprise à qui vous donnez des droits. Cliquez ensuite sur le type de permissions que vous souhaitez ajouter. Vous pouvez sélectionner plusieurs permissions ou les sélectionner toutes en cliquant sur "TOUT".
-
-Puis cliquez sur "Créer". Notez que vous pouvez supprimer ou modifier ces permissions à tout moment.
-
-![](../../.gitbook/assets/image%20%2891%29.png)
-
-### Les permissions générées automatiquement
-
-Lorsqu'un utilisateur administre plusieurs entreprises sur la plateforme, les permissions sont créées automatiquement entre chaque entreprise. 
-
-Ce n'est pas le cas entre des entreprises administrées par des utilisateurs différents.
+Lorsqu'un utilisateur est gestionnaire principal de plusieurs entreprises sur la plateforme, les 4v permissions sont créées automatiquement entre chaque entreprise. Ce n'est pas le cas entre des entreprises administrées par des utilisateurs différents.
 
 
 

@@ -2,8 +2,7 @@
 
 Ce guide a pour objet de vous accompagner dans l'utilisation des plateformes reposant sur le logiciel Open Food Network et opérant en Français. Trois plateformes utilisent le logiciel en Français aujourd'hui :  
 - Open Food France \(OFF\) : [https://www.openfoodfrance.org/](https://www.openfoodfrance.org/)  
-- Open Food Network Canada : [https://openfoodnetwork.ca/](https://openfoodnetwork.ca/)
-
+- Open Food Network Canada : [https://openfoodnetwork.ca/](https://openfoodnetwork.ca/)  
 - Open Food Network Belgique : [https://www.openfoodnetwork.be](https://www.openfoodnetwork.be)
 
 ## Deux entrées possibles

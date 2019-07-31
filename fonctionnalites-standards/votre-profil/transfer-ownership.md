@@ -1,23 +1,27 @@
-# Transférer les accès d'un profil
+# Modifier les accès en gestion d'un profil entreprise
 
-Dans certains cas, un utilisateur doit transférer les accès de son compte à d'autres utilisateurs. C'est le cas assez fréquemment lors de la création d'un groupe par le responsable du hub, qui souhaite ensuite donner accès aux producteurs dont il a créé les profils.
+Il est fréquent que le profil entreprise d'un producteur soit créé par un hub, puis que le hub ajoute le producteur comme gestionnaire de ce profil entreprise, voire transfère la "propriété" \(gestionnaire principal\) du profil au producteur, lorsque ce dernier accepte de gérer lui même son profil et son catalogue produits. 
 
-Voici les étapes à réaliser pour donner les accès :
+Pour ce faire, voici la marche à suivre :
 
-1. Sur l'interface d'administration, rendez-vous sur la page Utilisateurs des paramètres de votre entreprise \(Menu Entreprises &gt; Paramètres &gt; Utilisateurs\) : 
+* Sur l'interface d'administration, rendez-vous sur la page Utilisateurs des paramètres de votre entreprise \(Menu Entreprises &gt; Paramètres &gt; Utilisateurs\) : 
 
 ![](../../.gitbook/assets/image%20%282%29.png)
 
-**2a. Si l'utilisateur en question a déjà un compte sur OFF :**
+* Dans "gestionnaire", recherchez l'email de la personne que vous souhaitez ajouter \(le producteur ici\)
 
-* Recherchez le profil dans la liste déroulante _Gestionnaires_ \(vous pouvez recherchez par adresse email en copie-collante l'adresse email **entière** - en effet, vous pourrez trouver ainsi _exactement_  un compte déjà créé en particulier, la liste ne vous fournira jamais tous les comptes de la plateforme ****\)
-* A vous de voir si vous l'ajoutez en gestionnaire principal également et si vous souhaitez vous supprimer de la liste des managers. N'oubliez pas de mettre à jour pour que la modification soit prise en compte  !
+**Cas 1 : la personne \(producteur\) en question a déjà un compte utilisateur sur la plateforme,** vous allez trouver son email et vous pourrez le sélectionner pour l'ajouter à la liste des gestionnaires.
 
-**2.b. Si l'utilisateur n'a pas encore de compte OFF :**
+{% hint style="info" %}
+Attention : vous devez rechercher l'email exact **entier**, le menu ne vous affiche par les adresses emails de façon visible. Nous recommandons de rechercher dans la liste en copiant-collant l'adresse email **entière.**
+{% endhint %}
 
-* Cliquez sur le bouton _Ajouter un nouvel utilisateur_
-* Cette action génèrera un email de confirmation pour l'utilisateur. Une fois que l'utilisateur aura confirmé son adresse email, la plateforme lui demandera de choisir un mot de passe. A la confirmation, il sera automatiquement manager d'une entreprise et recevra une notification email.
-* A vous de voir si vous l'ajoutez en gestionnaire principal également et si vous souhaitez vous supprimer de la liste des managers. N'oubliez pas de mettre à jour pour que la modification soit prise en compte  ! 
+**Cas 2 : la personne \(producteur\) en question n'a pas encore de compte utilisateur sur la plateforme.** Dans ce cas, vous ne trouvez pas son email. Vous devez alors cliquer sur "Ajouter un nouvel utilisateur" juste en dessous, champ "inviter un gestionnaire". La personne recevra alors un email avec un lien de confirmation qui la renverra vers le choix d'un mot de passe et lui permettra de créer son compte. Dès le compte créé elle aura accès à la plateforme comme gestionnaire de l'entreprise concernée.
 
-\***Remarque** : les utilisateurs ayant accès à plusieurs profils en tant que manager ou administrateur sont **limités en nombre de profils simultanés**. Si vous recevez un message indiquant que le nouvel utilisateur a atteint sa limite, contactez-nous et nous lui ajouterons la possibilité d'avoir d'autres accès.
+* Une fois le producteur en gestionnaire de son profil, vous pouvez choisir de le nommer gestionnaire principal et contact de réception des notifications, et de vous supprimer vous-mêmes, ou pas, de la liste de gestionnaires. 
+* N'oubliez pas de mettre à jour pour que la modification soit prise en compte  !
+
+{% hint style="info" %}
+**Remarque** : par défaut, un utilisateur ne peut pas être gestionnaire / gestionnaire principal de plus de 5 entreprises. Si vous recevez un message indiquant que le nouvel utilisateur a atteint sa limite, contactez-nous et nous augmenterons son plafond d'entreprises. Cette mesure a pour but d'éviter la création massive de profils par des robots, manoeuvre qui pourrait faire sauter notre serveur et rendre la plateforme indisponible. C'est une mesure de prévention classique.
+{% endhint %}
 

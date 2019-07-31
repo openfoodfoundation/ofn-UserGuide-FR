@@ -1,6 +1,6 @@
 # Fonctionnalités
 
-Vous trouverez dans les pages qui suivent toutes les fonctionnalités qui vont sont proposées. 
+Vous trouverez dans les pages qui suivent toutes les fonctionnalités offertes par le logiciel Open Food Network. 
 
 Nous précisons au début de chaque page dans quel type de situation vous pouvez avoir besoin de cette fonctionnalité. 
 
