@@ -1,4 +1,4 @@
-# Gestion des tags et comptes clients
+# Affichages relatifs aux catégories d'acheteurs \(tags\)
 
 Tous les acheteurs ayant passé une commande sur votre boutique se trouvent sur la page **Acheteurs** \(menu principal sur l'interface d'adminsitration\).
 

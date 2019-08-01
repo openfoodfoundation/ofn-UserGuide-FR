@@ -1,46 +1,54 @@
 # Cycle de vente pour les fournisseurs
 
-_\*Vous ne produisez pas ? Rendez-vous sur_ [_Cycle de vente pour les hubs_](cycle-de-vente-pour-les-hub.md)_._
+_\*Vous n'êtes pas producteurs, ou vous êtes producteurs mais avec choisi un type de profil 'Hub producteur" ? Rendez-vous sur_ [_Cycle de vente pour les hubs_](cycle-de-vente-pour-les-hub.md)_._
 
-Beaucoup de fournisseurs, qui vendent leurs produits en petites quantités, préfèrent avoir un cycle de vente ouvert en continu et répondre aux commandes au fil de l'eau. D'autres, bien souvent ceux qui vendent des produits en grande quantité à un nombre important de consommateurs vont préférer réaliser des cycles de vente plus périodiques. Par exemple, les ventes seront ouvertes pendant deux semaines \(un cycle de vente de deux semaines\) : à la fin de ces deux semaines, toutes les commandes seront emballées et distribuées en même temps. Une fois que ce lot de commandes a été géré, un nouveau cycle de vente redémarre. Cela permet d'optimiser l'emballage et le transport.
+En créant un cycle de vente, vous définissez les périodes d'ouverture de votre boutique, les produits pouvant être achetés ainsi que les marges et commissions ajoutées sur les prix de base des produits pour couvrir les frais liés à la distribution \(ex: vos frais de transport\).
 
-## 1. Accéder aux cycles de vente
+**Pourquoi gérer par cycle de vente ?** Certains producteurs / fournisseurs préfèrent avoir une ouverture en continu et répondre à chaque commande au fil de l'eau. D'autres fonctionnent par périodes de commande correspondant à un jour de livraison/retrait donné. Par exemple, les ventes seront ouvertes pendant deux semaines \(un cycle de vente de deux semaines\) : à la fin de ces deux semaines, toutes les commandes seront emballées et livrées/réceptionnées en même temps le mercredi suivant. Une fois que ce lot de commandes a été réceptionné, un nouveau cycle de vente redémarre. Cela permet d'optimiser la préparation des commande et le transport, réduisant aussi les frais associés grâce à une logique de massification.
 
-Connecté sur l'interface d'administration, sélectionnez le dernier menu sur votre droite :
+### 1. Créer un nouveau cycle de vente
+
+Connecté en administrateur, rendez-vous sur le menu Cycle de vente ou depuis votre tableau de bord, cliquer sur le bouton suivant :
+
+![](../../../.gitbook/assets/image%20%28111%29.png)
+
+Puis cliquez sur "Nouveau cycle de vente" :
 
 ![](../../../.gitbook/assets/image%20%2897%29.png)
 
-## 2. Créer un nouveau cycle de vente
+{% hint style="info" %}
+**Attention !** Vos cycles de vente seront inactifs tant que vous n'aurez pas créé au moins une [méthode de livraison ](../types-de-livraisons.md)et une[ méthode de paiement](../methodes-de-paiements.md)
+{% endhint %}
 
-* **Attention !** Vous ne pouvez pas créer de cycle de vente tant que vous n'avez pas indiqué de [méthode de livraison ](../types-de-livraisons.md)ni de[ méthodes de paiement](../methodes-de-paiements.md).
+Vous êtes alors redirigé vers l'écran suivant :
 
-![](../../../.gitbook/assets/image%20%2828%29.png)
+![](../../../.gitbook/assets/capture-du-2019-08-01-09-24-17.png)
 
-**Nom :** Choississez un nom pour le cycle. Il sera visible uniquement pour vous, indiquez donc quelque chose qui vous permettra de le retrouver facilement, par exemple: _CommandeSemaine26\_2018._
+**Nom :** Choisissez un nom pour le cycle de vente. Il sera visible uniquement de vous, donc indiquez quelque chose qui vous permettra de le retrouver facilement ensuite. Par exemple vous pouvez choisir une dénomination type _Semaine26\_2018._
 
-**Commandes à partir de :** La date à laquelle votre boutique commencera à accepter des commandes.
+**Commandes à partir de :** La date à laquelle votre boutique commencera à accepter des commandes pour ce cycle de vente.
 
-**Commandes jusqu'au :** La date à laquelle la boutique arrêtera d'accepter des commandes pour ce cycle. Si vous souhaitez laisser votre boutique ouverte en continu, indiquer une date dans un futur très lointain.
+**Commandes jusqu'au :** La date à laquelle votre boutique arrêtera d'accepter des commandes pour ce cycle de vente. Si vous souhaitez laisser votre boutique ouverte en continue, indiquer une date dans un futur très lointain.
 
-**Le message lié aux instructions de réception de la commande** sera inclus dans l'email de confirmation de commande envoyé au client, juste en-dessous de la méthode de livraison. Ils seront les seuls à obtenir cette information donc vous pouvez y inclure des informations comme des adresses ou numéros de téléphone.
+**Prêt pour :** La date à laquelle cette commande sera disponible \(ou livrée\) pour les acheteurs. Vous pouvez indiquer ici un texte libre qui sera utilisé pour nommer ce cycle de vente, par exemple _Vendredi prochain_. Certains hubs "hackent" un peu ce fonctionnement et saisissent ici la nature de la commande concernée par ce cycle de vente, par exemple \(Commande viande pour 23 juillet\).
 
-**Produits :** Afin que les produits soient visibles sur la boutique en ligne, il est nécesssaire de les ajouter ici. Attention, si vous ajouter des produits après la date de démarrage du cycle de vente, pensez-bien à les ajouter ici aussi pour qu'ils apparaissent en ligne !
+**Précisions pour l'acheteur :** Les indications précisées ici seront incluses dans l'email de confirmation de commande envoyé au client, juste en-dessous de la méthode de livraison. Ils seront les seuls à obtenir cette information donc vous pouvez y inclure des informations comme des adresses ou numéros de téléphone.
 
-**Commission** **:** Vous pouvez ajouter une marge que vous avez défini préalablement. La marge sera calculée en fonction du calculateur sélectionné précédemment, voir guide [Marges et commissions](../frais-et-taxes.md). Cette fonctionnalité est particulièrement intéressante pour les producteurs et les hubs travaillant en partenariat, peut-être moins pour les producteurs travaillant en vente directe.
+**Produits :** Choisissez ici les produits de votre catalogue que vous souhaitez mettre à la vente dans ce cycle de vente. 
 
-## 3. Ouvrez votre boutique
+{% hint style="info" %}
+Attention, si vous ajouter des produits après la date de démarrage du cycle de vente, pensez-bien à les ajouter ici aussi pour qu'ils apparaissent en ligne !
+{% endhint %}
 
-Cliquez sur "créer" pour sauvegarder votre cycle de vente.
+**Ajouter commission coordinateur :** Si vous souhaitez appliquer une marge ou commission sur tous les produits figurant dans ce cycle de vente, vous pouvez choisir ici la marge souhaitée parmi les marges et commission prédéfinies \(voir page [Marges et commissions](../frais-et-taxes.md)\).
 
-\*Remarque : Si l'intervalle de dates choisi pour les commandes couvre le moment présent votre boutique sera automatiquement ouverte sur la plateforme. Si vous n'êtes pas prêt à l'ouvrir tout de suite, indiquez des dates dans le passé, que vous pourrez changer ensuite.
+### 2. Ouvrir la boutique
 
-Si votre cycle de vente se répète de manière périodique et régulière, vous pouvez dupliquer un cycle de vente passé afin d'aller plus vite \(bouton orange sur la capture, attention il ne devient orange que lorsque vous le survolez\) :
+Cliquez sur "créer" pour créer le cycle de vente. Si la date d'ouverture est déjà passée, votre boutique est instantanément ouverte ! Si vous n'êtes pas prêt à ouvrir tout de suite, indiquez des dates dans le passé ou le futur, que vous pourrez changer ensuite.
+
+Si votre cycle de vente se répète de manière périodique et régulière, vous pouvez dupliquer un cycle de vente passé afin d'aller plus vite \(bouton orange sur la capture, attention il n'est pas orange sur la plateforme\) :
 
 ![](../../../.gitbook/assets/image%20%2835%29.png)
 
-Les cycles de vente sont présentés en vert lorsqu'ils sont actifs, jaune lorsqu'ils sont indiqués pour une date future et gris lorsqu'ils sont fermés. Un mois après la fermeture d'un cycle de vente, il n'apparaitra plus dans cette liste, il faudra cliquer sur "voir plus" pour voir tous vos cycles de vente.
-
-### Fonctionnalités avancées
-
-* [Créer des cycles de vente en affichage seul](../display-only-order-cycles.md)
+Les cycles de vente sont présentés en vert lorsqu'ils sont actifs, jaune lorsqu'ils sont en attente d'ouverture \(date de début pas encore passée\) et gris lorsqu'ils sont fermés. Un mois après sa fermeture le cycle de vente n’apparaîtra plus dans cette liste, il faudra cliquer sur "voir plus" pour voir tous vos cycles de vente.
 
