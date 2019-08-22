@@ -1,4 +1,4 @@
-# Factures et tickets de caisse
+# Tickets de caisse
 
 ## Imprimante
 
