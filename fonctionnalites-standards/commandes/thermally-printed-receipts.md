@@ -1,34 +1,34 @@
-# Tickets de caisse
+# Impression de tickets de caisse
 
-## Imprimante
+{% hint style="info" %}
+Cette fonctionnalité n'est pour l'instant disponible que sur l'instance française d'Open Food Network \(Open Food France\). Contactez le fournisseur local de la plateforme Open Food Network pour plus d'informations, ou pour demander l'accès à cette fonctionnalité.
+{% endhint %}
 
-What printer do I need to print a “receipt”, like the one you usually get in a store? You need a thermal printer that talks ESC/P control language \(most of them do\).
+## Quelle imprimante ?
 
-For instance:
+Pour imprimer un ticket de caisse, vous avez besoin d'une imprimante spécifique dite "imprimante thermique", capable de parler le langage de contrôle ESC/P \(la plupart des imprimantes thermiques parlent ce langage\). 
 
-Epson one \(most common in shops\). Available on Amazon for approx USD $135 Low cost no-name one \(USD $33\): Available on Amazon for approx USD $33 Setup
+Par exemple :  
+-  Epson one \(utilisée communément par les commerçants\)\). Disponible sur Amazon pour environ 150€  
+- Une imprimante thermique premier prix coute entre 15€ et 50€ sur internet. 
 
-## Comment paramétrer mon imprimante ?
+## Paramétrage du système
 
-Tout
+Comment paramétrer ma machine pour pouvoir imprimer un ticket de caisse depuis le site Open Food Network ?
 
-Linux instructions Windows instructions OSX instructions For USB printer you might not have to precise the URI, just make sure you use the relevant driver.
+Vous devez d'abord installer l'imprimante thermique en suivant les instructions correspondantes à votre système d'exploitation données par le fournisseur \(pour les imprimantes USB, vous n'aurez peut-être pas à préciser l'URI, mais assurez-vous d'avoir les drivers nécessaires\).
 
-Then you need to install QZ Tray which is a plug-in for printers that will launch the printing of the receipt without you having to select the printer and click on “print”.
+Ensuite, vous devez installer QZ Tray qui est un plug-in pour imprimante qui lancera automatiquement l'impression du ticket sans que vous n'ayez à sélectionner l'imprimante et cliquer sur "imprimer" à chaque fois que vous lancer une impression. Vous pouvez télécharger QZ Tray [depuis ce site](https://qz.io/download/#).
 
-Download and execute the installer for your OS here.
+Lancer QZ Tray s'il ne se lance pas automatiquement, puis ouvrez la page "print\_ticket.html” dans votre navigateur. Les certificats ne fonctionneront pas mais vous pourrez imprimer une page test. 
 
-Launch QZ Tray if it didn’t launch automatically.
+## Imprimer un ticket
 
-Then open the page “print\_ticket.html” in your browser, digital certificates will crash but you will be able to print a test page \(like this one\)
+Rendez-vous dans le menu "Commandes" et cliquez sur le bouton vous permettant de modifier une commande. Ensuite sous le bouton "actions" vous trouverez l'action "imprimer le ticket de caisse". Cliquez dessus.
 
-## Imprimer
-
-Connecté en administrateur, rendez-vous dans le menu "Commandes" et cliquez sur le bouton vou spermettant de modifier une commande. Ensuite sur le bouton "action" vous trouverez l'action "imprimer le ticket de caisse" :
-
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/capture-du-2019-08-23-00-09-46.png)
 
 Une nouvelle fenêtre va s'ouvrir et vous pourrez sélectionner votre imprimante.
 
-L'imprimante sélectionnée sera sauvegardée dans votre navigateur.  Si vous souhaitez modifier ce choix, au sein du même bouton action vous trouverez toujours pas la suite le menu "Choisir l'imprimante tickets", afin de modifier votre choix d'imprimante.
+L'imprimante sélectionnée sera sauvegardée dans votre navigateur.  Si vous souhaitez modifier ce choix, au sein du même bouton actions vous trouverez toujours pas la suite le menu "Choisir l'imprimante tickets", afin de modifier votre choix d'imprimante.
 
