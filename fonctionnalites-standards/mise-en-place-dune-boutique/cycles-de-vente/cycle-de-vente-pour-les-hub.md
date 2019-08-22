@@ -1,4 +1,4 @@
-# Cycle de vente pour les hubs
+# Cycle de vente géré par un hub
 
 _\*Vous êtes un producteur  et avez choisi un type de profil "Boutique producteur" ? Rendez-vous sur_ [_Cycle de vente pour les fournisseurs_](cycle-de-vente-pour-les-fournisseurs.md)_._
 
