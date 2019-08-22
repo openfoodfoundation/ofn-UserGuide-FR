@@ -1,28 +1,39 @@
-# Boutiques intégrées à votre site web
+# Boutique intégrée à votre site web
 
-Cette fonctionnalité vous permet de naviguer au sein de votre boutique Open Food France, sur votre propre site.
+Cette fonctionnalité vous permet d'offrir la possibilité à vos acheteurs d'acheter directement dans votre site web sur votre boutique Open Food Network.
+
+{% hint style="warning" %}
+Cette fonctionnalité va être prochainement complètement repensée. En effet, elle est actuellement basée sur un "iframe" qui permet d'intégrer la boutique dans votre site comme vous intégreriez une video Youtube par exemple. Nous avons constaté les limites de cette approche technique, notamment :  
+- si vous avez beaucoup de produits dans votre boutique, la navigation depuis votre site internet dans la boutique sera très lente  
+- si vos acheteurs se connectent depuis un ipad/iphone, ils ne verront pas l'intégralité de la liste des produits car la boutique n'est pas "scrollable" depuis ces terminaux.  
+Nous sommes donc en réflexion pour remplacer cette fonctionnalité via une logique de type "plugin" utilisant notre API, qui vous permettrait d'intégrer facilement votre boutique dans un site wordpress par exemple.
+
+D'ici là, nous ne pouvons garantir l'absence de bugs sur cette fonctionnalité et recommandons donc de ne pas l'utiliser.
+{% endhint %}
 
 ## Pré-requis
 
-### Site web
+### Technologie utilisée pour construire votre site web
 
-Cette fonctionnalité est assez récente, nous sommes toujours en phase de test. En revanche, cela devrait bien fonctionner tant que vous pouvez ajouter du html personnalisé à l'endroit où vous souhaitez afficher la page groupe.
+La fonctionnalité fonctionne \(avec les limites évoquées ci-dessus\) sur différents types de site internet, à partir du moment où la technologie utilisée vous permet d'ajouter du code html dans la page où vous souhaitez intégrer la boutique. Wordpress, Wix, Squarespace par exemple permettent cela.
 
 ### Sécurité
 
-Open Food France est une place de marché, ainsi nos standards de sécurité sont hauts afin de permettre des paiements sur la plateforme. **Ainsi, si vous ne l'avez pas déjà fait, vous devrez installer un certificat SSL/TLS sur votre site pour que l'intégration fonctionne.**
+Open Food Network est une place de marché ce qui implique que des transactions sont effectuées via la plateforme. Cela implique que nos standards de sécurité sont bien plus élevés que pour un site informationnel basique. **Ainsi, si vous ne l'avez pas déjà fait, vous devrez installer un certificat SSL/TLS sur votre site pour que l'intégration fonctionne.**
 
-### Créer une boutique OFF
+Vous pouvez obtenir ce type de certificat gratuitement via [Let’s Encrypt](https://letsencrypt.org/), ou aux alentours de 10-30€ via d'autres prestataires commerciaux.
 
-Cela parait évident mais c'est toujours mieux en le disant : il faut créer une boutique avant de pouvoir l'intégrer \(cf. page précédente\). En effet, vous allez avoir besoin de votre URL dans les étapes suivantes :
+### Boutique Open Food Network
+
+Cela parait évident mais c'est toujours mieux en le disant : il faut [créer une boutique](./) sur la plateforme avant de pouvoir l'intégrer dans votre site web. En effet, vous allez avoir besoin de l'URL de cette boutique dans les étapes suivantes.
 
 ## Mise en place
 
-**1\) Contactez votre antenne OFF locale**
+**1\) Contactez le fournisseur local de la plateforme Open Food Network**
 
-La première étape est de nous contacter afin que nous puissions autoriser votre site à appeler une page d'Open Food France. Nous aurons besoin de l'URL de votre site \(ex : monpanierpaysanpointcom\).
+La première étape est de nous contacter afin que nous puissions autoriser votre site à appeler une page depuis la plateforme Open Food Network. Nous aurons besoin de l'URL de votre site internet \(ex : monpanierpaysan.com\).
 
-**2\) Ajouter un bout de code HTML à votre site**
+**2\) Ajoutez un bout de code HTML à votre site**
 
 Voici le bout de code HTML à ajouter à l'endroit où vous souhaitez que la boutique s'affiche :
 
@@ -30,21 +41,23 @@ Voici le bout de code HTML à ajouter à l'endroit où vous souhaitez que la bou
 <iframe src=" https://www.openfoodfrance.org/permalien/shop?embedded_shopfront=true"style="width:100%;min-height:35em"></iframe>
 ```
 
-**Attention**, à la place ‘permalien’ vous devrez indiquer le permalien de votre boutique.
+**Attention**, à la place ‘permalien’ vous devrez indiquer le permalien de votre boutique \(accessible sur les [informations de base](../votre-profil/parametres.md#informations-de-base) de votre entreprise\), et vous devez remplacer "www.openfoodfrance.org" par l'url du fournisseur local de la plateforme Open Food Network.
 
-A partir de là, vous devriez voir votre boutique OFF dans votre site.
+A partir de là, vous devriez voir votre boutique Open Food Network dans votre site.
 
 **3\) Personnalisation**
 
-En fonction de votre site, il est possible que vous ayiez besoin \(ou envie\) d'ajouter des touches de CSS pour paufiner l'intégration à votre site. Cela peut permettre de changer la taille de la fenêtre d'intégration par exemple.
+En fonction de votre site, il est possible que vous ayez besoin \(ou envie\) d'ajouter des touches de CSS pour paufiner le rendu visuel de l'intégration. Cela peut permettre de changer la taille de la fenêtre d'intégration par exemple, éviter d'avoir deux barres de "scrolling", ou autre.
 
-N'oubliez pas de bien tester l'intégration sur une navigation mobile !
+N'oubliez pas de bien tester l'intégration sur une navigation mobile ! Si votre intégration n'apparait pas bien sur mobile, vous aurez peut-être besoin de quelques adaptations CSS supplémentaires.
+
+Vous pouvez voir un [exemple de rendu sur l'intégration réalisée par Micromarché](https://www.micromarche.fr/la-ville-en-bois/), à Nantes. Attention, il s'agit d'une boutique active, ne faites pas de tests dessus !
 
 ## Instructions pour vos visiteurs
 
 ### Cookies
 
-Attention, si vos visiteurs n'ont pas activé leurs cookies, ils ne verront pas la page intégrée ! 
+Attention, si vos visiteurs n'ont pas accepté les cookies \(nécessaires au fonctionnement de l'intégration\), ils ne verront pas la page intégrée ! 
 
 
 

@@ -1,12 +1,18 @@
-# Vitrine produits sans possibilités d’achat
+# Boutique vitrine sans possibilité d’achat
 
-Dans certains cas, les détenteurs de boutique vont souhaiter afficher les produits qu'ils vendent, sans permettre aux acheteurs de les acquérir, mais uniquement pour montrer les produits qui seront bientôt en vente dans le prochain cycle de vente.
+Il arrive qu'un gestionnaire de boutique souhaite afficher les produits qu'il vend sur une logique de "vitrine", pour faire savoir ce qu'il propose à la vente, mais sans vendre à proprement parler. Par exemple, pour montrer les produits qui seront bientôt en vente dans le prochain cycle de vente.
 
-Pour réaliser cette opération il faut ouvrir un cycle de vente normal \(voir menu fonctionnalité standard\) et vous rendre ensuite dans vos méthodes de paiement \(menu Entreprises &gt; Gérer &gt; Méthode de paiements\) et désactiver tous vos moyens de paiement.
+Pour paramétrer votre boutique en mode "vitrine sans achat possible", il faut ouvrir un [cycle de vente](cycles-de-vente/) incluant les produits que vous souhaitez afficher, et pour la période souhaitée. Puis allez dans **Entreprises &gt; Gérer &gt; Méthode de paiements** et désactiver toutes les méthodes de paiement en décochant la case "active?" comme dans l'image ci-dessous.
 
-Et le tour est joué ! Vos produits s'affichent sur votre boutique, mais la boutique est bien affichée comme fermée. Exemple ci-dessous :
+![](../../.gitbook/assets/capture-du-2019-08-22-18-01-55.png)
 
-![display only shopfront](https://openfoodnetwork.org/wp-content/uploads/2015/05/display-only.png)
+Et le tour est joué ! Vos produits s'affichent sur votre boutique, mais la boutique est bien affichée comme fermée à la commande. Exemple ci-dessous :
+
+![](../../.gitbook/assets/capture-du-2019-08-22-18-16-01.png)
 
 **N'oubliez pas de réactiver vos méthodes de paiements à la réouverture de la boutique !**
+
+{% hint style="warning" %}
+Pour pouvoir  créé le cycle de vente, le distributeur doit avoir au moins une méthode de paiement active. Donc vous devez créé le cycle "vitrine" avant de désactiver la méthode de paiement, sans quoi vous ne pourrez pas créé le cycle vitrine.
+{% endhint %}
 
