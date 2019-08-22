@@ -43,7 +43,7 @@ Pour cela, il suffit de suivre les instructions de [cette page](le-producteur-sa
 
 [**Rendre votre boutique privée**.](../fonctionnalites-standards/mise-en-place-dune-boutique/private-shopfront.md) Si vous souhaitez réserver l'accès à votre boutique à une liste spécifique d'acheteurs.
 
-[**Réaliser une tarification personnalisée en fonction des clients.**](../fonctionnalites-standards/mise-en-place-dune-boutique/affichages-et-prix-differencies-par-categorie-dacheteur/customer-specific-pricing.md) Il est possible configurer une boutique afin d'appliquer une politique de prix différente en fonction de vos groupes de clients. Cette fonctionnalité demande à être améliorée, une réflexion est en cours.
+[**Réaliser une tarification personnalisée en fonction des clients.**]() Il est possible configurer une boutique afin d'appliquer une politique de prix différente en fonction de vos groupes de clients. Cette fonctionnalité demande à être améliorée, une réflexion est en cours.
 
 [**Saisir des commandes manuelles** ](../fonctionnalites-standards/commandes/manual-orders.md)pour les acheteurs préférant utiliser les sms ou le téléphone.
 
