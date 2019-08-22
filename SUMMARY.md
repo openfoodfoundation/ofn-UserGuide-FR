@@ -48,7 +48,7 @@
     * [Création de commande](fonctionnalites-standards/commandes/manual-orders.md)
     * [Ajustements de paiement](fonctionnalites-standards/commandes/ajustements-de-paiement.md)
     * [Impression de tickets de caisse](fonctionnalites-standards/commandes/thermally-printed-receipts.md)
-  * [Subscriptions / commandes récurrentes](fonctionnalites-standards/subscriptions/README.md)
+  * [Abonnements / commandes récurrentes](fonctionnalites-standards/subscriptions/README.md)
     * [Configuration](fonctionnalites-standards/subscriptions/configuration.md)
     * [Création et gestion d'une commande récurrente](fonctionnalites-standards/subscriptions/creation-et-gestion-dune-commande-recurrente.md)
     * [Pour l'acheteur](fonctionnalites-standards/subscriptions/pour-lacheteur.md)

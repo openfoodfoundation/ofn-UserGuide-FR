@@ -1,7 +1,7 @@
-# Subscriptions / commandes récurrentes
+# Abonnements / commandes récurrentes
 
 {% hint style="info" %}
-Le module subscriptions est en version béta, c'est-à-dire qu'il s'agit d'une nouvelle fonctionnalité qui peut avoir encore certains défauts. N'hésitez pas à nous contacter afin de nous dire ce qui a fonctionné / pas fonctionné pour vous et ce que vous aimeriez pouvoir réaliser avec cette fonctionnalité - info@openfoodfrance.org
+Le module abonnements est en version béta, c'est-à-dire qu'il s'agit d'une nouvelle fonctionnalité qui peut avoir encore certains défauts. N'hésitez pas à nous contacter afin de nous dire ce qui a fonctionné / pas fonctionné pour vous et ce que vous aimeriez pouvoir réaliser avec cette fonctionnalité - support@openfoodfrance.org
 {% endhint %}
 
 ## A quoi sert ce module ? <a id="what-are-subscriptions"></a>
