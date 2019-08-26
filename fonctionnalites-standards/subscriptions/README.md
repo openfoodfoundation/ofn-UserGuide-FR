@@ -8,7 +8,9 @@ Le module abonnements est en version béta, c'est-à-dire qu'il s'agit d'une nou
 
 Ce module vous permet de mettre en place des commandes récurrentes pour vos acheteurs. Une fois mises en place, ces commandes seront automatiquement traitées selon le rythme prévu : toutes les semaines, toutes les deux semaines, etc. Cette fonctionnalité permet aux clients de ne pas avoir à repasser manuellement une commande qu'ils font régulièrement.
 
-Dans la première version du module, seul les gestionnaires de boutiques en ligne peuvent mettre en place des commandes récurrentes, l'acheteur n'a pas la main directement dessus pour générer la mise en place de la commande récurrente.
+{% hint style="warning" %}
+Dans la première version du module, seuls les gestionnaires de boutiques en ligne peuvent mettre en place des commandes récurrentes, l'acheteur n'a pas la main directement dessus pour générer la mise en place de la commande récurrente.
+{% endhint %}
 
 En résumé :
 

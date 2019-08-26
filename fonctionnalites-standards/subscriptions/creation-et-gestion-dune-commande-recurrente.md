@@ -1,46 +1,78 @@
 # Création et gestion d'une commande récurrente
 
-**Checklist des choses à faire avant de passer aux étapes décrites ici :**
+Cette page explique comment mettre en place une commande récurrente pour un acheteur donné, incluant : la sélection des produits qui devront être automatiquement commandés pour l'acheteur, le rythme de ces commandes automatiques. Mais aussi, comment mettre en pause ou supprimer une commande récurrente.
 
-* [Activez les commandes récurrentes dans votre profil](configuration.md#1-enable-subscriptions).​
-* Vérifiez les [méthodes de paiement et de livraison](configuration.md#2-make-sure-you-have-shipping-and-payment-methods-setup)​
-* [Contacter vos acheteurs pour connaître leurs préférences et coordonnées](configuration.md#3-gather-information-from-your-customers) et afin qu'ils puissent réaliser [les étapes nécessaires de leur côté​](pour-lacheteur.md)
+{% hint style="warning" %}
+Rappel : dans la première version du module, seuls les gestionnaires de boutiques en ligne peuvent mettre en place des commandes récurrentes, l'acheteur n'a pas la main directement dessus pour générer la mise en place de la commande récurrente.
+{% endhint %}
+
+**Rappel des choses à faire avant de passer aux étapes décrites ici :**
+
+* [Activez les commandes récurrentes dans les paramètres de l'entreprise](configuration.md#1-enable-subscriptions)
+* Vérifiez ou mettez en place les [méthodes de paiement et de livraison](configuration.md#2-make-sure-you-have-shipping-and-payment-methods-setup) pour l'entreprise​
+* [Contactez vos acheteurs pour connaître leurs coordonnées et préférences \(option de paiement choisie, produits à commander et rythme de commande, ](configuration.md#3-gather-information-from-your-customers)etc.\) et leur rappeler [ce qu'ils doivent faire de leur côté \(création d'un compte utilisateurs, enregistrement d'une carte de crédit le cas échéant, etc.\)​](pour-lacheteur.md)
 * [Ajoutez vos acheteurs à votre liste d'acheteurs](configuration.md#4-add-your-subscribers-to-your-customer-list)
 * Créez au moins un [rythme d'abonnement​](configuration.md#create-a-schedule)
 
 ## 6\) Créer une commande récurrente <a id="6-create-subscriptions"></a>
 
-Allez dans le menu général "Commandes" puis cliquez sur le sous-menu vert **Subscriptions**.
+Allez dans le menu général "Commandes" puis cliquez sur le sous-menu vert **Abonnements**.
 
-![](../../.gitbook/assets/image%20%2819%29.png)
+![](../../.gitbook/assets/capture-du-2019-08-27-00-29-13.png)
 
 Cliquez ensuite sur "Nouvel abonnement" :
 
-![](../../.gitbook/assets/image%20%2896%29.png)
+![](../../.gitbook/assets/capture-du-2019-08-27-00-30-07.png)
 
-**Acheteur :** Sélectionnez un acheteur dans la liste déroulante \(seuls les acheteurs présents dans votre liste peuvent être sélectionnés\).
+**Acheteur :** Sélectionnez un acheteur dans la liste déroulante \(seuls les acheteurs présents dans votre liste d'acheteurs peuvent être sélectionnés\).
 
 **Rythme d'abonnement :** Sélectionnez le rythme correspondant pour l'acheteur en question.
 
-**Méthode de paiement :** pour rappel seuls stripe et le paiement manuel \(espèce, chèque\) sont autorisés.
+**Méthode de paiement :** pour rappel seuls Stripe et le paiement manuel \(espèce, chèque, virement bancaire\) peuvent être utilisés pour la mise en place de commandes récurrentes.
 
-**Méthode de livraison :** Sélectionnez une méthode de livraison
+**Méthode de livraison :** Sélectionnez une méthode de livraison.
 
-**Commence à :** Il s'agit de la date de début de la commande récurrente. Elle peut s'appliquer à un cycle de vente en cours comme à un cycle de vente futur.
+**Commence :** Il s'agit de la date de démarrage de la commande récurrente. 
 
-**Termine à :** Après cette date la commande récurrente ne sera plus générée. Ce champ peut être laissé vide et dans ce cas la commande se générera indéfiniment \(mais cela peut être modifié par la suite\).
+{% hint style="danger" %}
+Si cette date est postérieure à la date d'ouverture d'un cycle de vente en cours \(non encore terminée\) correspondant au rythme d'abonnement défini pour la commande récurrente, une commande sera automatiquement générée pour l'acheteur pour le cycle de vente en cours. Dans le cas contraire, la première commande automatique sera passée à l'ouverture du prochain cycle de vente correspondant au rythme d'abonnement choisi. 
+{% endhint %}
 
+**Termine :** Après cette date la commande récurrente ne sera plus générée. Ce champ peut être laissé vide et dans ce cas la commande se générera indéfiniment \(mais cela peut être modifié par la suite\).
+
+{% hint style="danger" %}
 Si la date de fin de la commande récurrente de l'acheteur se situe après la date de début d'un cycle de vente et avant la date de fin de celui-ci, il n'y aura pas de génération de commande sur ce cycle de vente. La dernière commande ne sera générée que pour le dernier cycle de vente qui ferme avant la fermeture de leur commande récurrente.
+{% endhint %}
 
-**Adresse :** Complétez les coordonnées de votre acheteur \(s'il était déjà connu de la plateforme, les champs seront pré-remplis\).
+**Adresse :** Complétez les coordonnées de votre acheteur \(s'il était déjà connu de la plateforme, donc si l'acheteur a un compte et à déjà passé commande et rempli son adresse donc, les champs seront pré-remplis\).
 
-**Ajouter des produits :** Vous pouvez ajouter des produits de cycles de vente futurs, si la date correspond au rythme d'abonnement.
+![](../../.gitbook/assets/capture-du-2019-08-27-00-39-00.png)
+
+{% hint style="danger" %}
+Attention : si vous mettez à jour les coordonnées d'un acheteur depuis votre liste d'acheteurs, ces modifications ne seront pas répercutées sur les commandes récurrentes paramétrées. Vous devrez donc aussi préciser ces changements ici.
+{% endhint %}
+
+**Ajouter des produits :** Vous pouvez ajouter des produits proposé par le distributeur à condition que ces produits soient planifiés à la vente dans un cycle de vente à venir, et que ce cycle de vente corresponde au rythme d'abonnement choisi par l'acheteur. 
+
+![](../../.gitbook/assets/capture-du-2019-08-27-00-41-47.png)
+
+{% hint style="danger" %}
+Vous ne pouvez pas ajouter un produit si ce dernier n'est pas proposé à la vente dans un cycle de vente futur correspondant au rythme d'abonnement de l'acheteur ! Un message d'erreur s'affichera le cas échéant.
+{% endhint %}
 
 #### Vérifier et enregistrer : relisez le tout et cliquez sur créer un abonnement ou annuler. <a id="summary"></a>
 
 {% hint style="info" %}
-Attention : si vous avez un cycle de vente en cours et assigné à un rythme d'abonnement, dès la création de la commande récurrente, une commande va être générée et l'acheteur recevra un email de confirmation.
+Attention : si vous avez un cycle de vente en cours correspondant au rythme d'abonnement de la nouvelle commande récurrente saisie, dès la création de la commande récurrente, une commande va être générée et l'acheteur recevra un email de confirmation. Si vous ne souhaitez pas que la première commande automatique soit générée sur le cycle de vente en cours, assurez-vous de ne pas avoir de cycle de vente ouvert, ou mettez une date de début de commande récurrent postérieure à la fin du cycle de vente en cours.
 {% endhint %}
+
+**Que se passe-t-il si le prix d'un produit figurant dans une commande récurrente change ?** 
+
+Les prix des produits dans les commandes récurrentes seront mis à jour selon les prix en vigeur dans le cycle de vente correspondant au déclenchement d'une nouvelle commande automatique. L'acheteur sera donc, à chaque nouvelle commande passée automatiquement en son nom, notifié de la commande passée pour lui et des prix appliqués. 
+
+**Que se pass-t-il si un produit figurant dans une commande récurrente n'est pas disponible pour un cycle de vente donné ?** 
+
+Dans ce cas, l'acheteur sera alerté de l'indisponibilité de certains produits dans sa confirmation de commande. 
 
 ## 7\) Modifier la commande récurrente d'un acheteur <a id="7-edit-a-customers-subscription"></a>
 
