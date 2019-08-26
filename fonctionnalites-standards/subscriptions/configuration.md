@@ -81,9 +81,11 @@ S'il s'agit de votre première utilisation d'Open Food Network, nous vous consei
 
 ### A propos <a id="about-schedules"></a>
 
-Le module de commande récurrente fonctionne de manière à ce qu'a chaque réouverture de cycle de vente, les commandes sont générées automatiquement pour les acheteurs ayant une commande récurrente avec la boutique en question. Cependant il est important de noter que le système est suffisamment flexible pour autoriser les boutiques à décider _quel_ cycle de vente autorise des commandes récurrentes. Ainsi si vous disposez de plusieurs [cycles de ventes simultanés](../mise-en-place-dune-boutique/cycles-de-vente/opening-more-than-one-order-cycle.md), tous ne sont pas obligés d'accepter les commandes récurrentes.
+Une commande récurrente consiste à la passation automatique par la plateforme d'une commande prédéfinie pour un acheteur donné à chaque nouveau cycle de vente d'un distributeur donné, selon une régularité convenue entre l'acheteur et le distributeur \(dite "rythme d'abonnement"\). La fonctionnalité offre beaucoup de flexibilité, permettant au distributeur de proposer des "abonnements" hebdomadaires, ou bimensuels par exemple pour proposer des offres correspondant au mieux aux besoins de leurs acheteurs. Ainsi si vous disposez de plusieurs [cycles de ventes simultanés](../mise-en-place-dune-boutique/cycles-de-vente/opening-more-than-one-order-cycle.md), un pour les particuliers et un pour les pro, peut-être n'activerez-vous pas la possibilité de commandes récurrentes pour les professionnels. Ou alors, si vous avez des cycles de ventes hebdomadaires mais permettez la commande d'un "panier produits laitiers" hebdomadaire ou bimensuel, vous pourrez définir les semaines sur lesquels seront livrées les commandes récurrentes du rythme bimensuel \(cycles des semaines paires, ou cycles des semaines impaires, par exemple\).
 
-Au delà de la simple activation / désactivation de la fonctionnalité par cycle de vente, les commandes récurrentes sont associées à des rythmes d'abonnement \(hebdomadaire, mensuel, bi-mensuel,...\). Lorsqu'un rythme d'abonnement a été créé et associé à des commandes récurrentes, ces commandes ne seront lancées que pour les nouveaux cycles de vente reliés à ce rythme d'abonnement.
+{% hint style="success" %}
+Lorsqu'un rythme d'abonnement a été créé et associé à des commandes récurrentes, ces commandes ne seront lancées que pour les nouveaux cycles de vente reliés à ce rythme d'abonnement.
+{% endhint %}
 
 ### Créer un rythme d'abonnement <a id="create-a-schedule"></a>
 
@@ -92,12 +94,16 @@ Une fois les premières étapes réalisées, vous allez voir apparaître le bout
 ![](../../.gitbook/assets/image%20%2821%29.png)
 
 {% hint style="info" %}
-Attention, vous devez au moins avoir un cycle de vente ouvert pour pouvoir configurer un rythme d'abonnement.
+Attention, vous devez au moins avoir un cycle de vente ouvert ou à venir pour pouvoir configurer un rythme d'abonnement.
 {% endhint %}
 
 ![](../../.gitbook/assets/image%20%2853%29.png)
 
 **Nom :** Pensez à donner un nom logique au rythme d'abonnement. Par exemple : "hebdomadaire", "mensuel", "un jeudi sur deux"... Ce nom n'est pas visible pour les acheteurs.
+
+{% hint style="info" %}
+Attention, si vous êtes manager sur plusieurs boutiques et souhaite utiliser la fonctionnalité de commande récurrente sur plusieurs boutiques, vous devrez créé un ou plusieurs rythme\(s\) d'abonnement pour chaque boutique. Pensez dans ce cas à mettre des noms clairs, car tous les rythmes vous serons proposés de façon mélangés lorsque vous mettrez en place une commande récurrente. Par exemple : hebdo-quartierZ, hebdo-quartierY, etc.
+{% endhint %}
 
 Vous pouvez déplacer les cycles de ventes en utilisant les &lt; et &gt; boutons.
 
@@ -105,19 +111,21 @@ Cliquez sur "Créer" lorsque vous avez terminé.
 
 ### Modifier ou supprimer un rythme d'abonnement <a id="edit-or-delete-a-schedule"></a>
 
-Pour modifier ou supprimer un rythme, cliquez sur son nom dans la colonne correspondante. Cette colonne doit peut-être être rendue visible grâce à ce menu sur la page Cycle de vente :
+Pour modifier ou supprimer un rythme, cliquez sur son nom dans la colonne correspondante du tableau des cycles de vente. Cette colonne peut être être rendue visible grâce à ce menu sur la page Cycle de vente :
 
-![](../../.gitbook/assets/image%20%28102%29.png)
+![](../../.gitbook/assets/capture-du-2019-08-27-00-16-31.png)
 
 {% hint style="info" %}
-Vous ne pouvez pas supprimer un rythme d'abonnement si des commandes récurrentes y sont associés.
+Vous ne pouvez pas supprimer un rythme d'abonnement si des commandes récurrentes y sont associées.
 {% endhint %}
 
 ### Ajouter ou supprimer un cycle de vente d'un rythme d'abonnement <a id="adding-or-removing-order-cycles-from-schedules"></a>
 
-Soit vous utilisez la fonctionnalité de modification d'un rythme décrite ci-dessus, soit vous pouvez utiliser la fonction présente dans la modification d'un cycle de vente :
+Soit vous utilisez la fonctionnalité de modification d'un rythme décrite ci-dessus, soit vous pouvez utiliser la fonction présente dans la modification d'un cycle de vente, en ajoutant ou supprimant un rythme d'abonnement :
 
 ![](../../.gitbook/assets/image%20%2824%29.png)
 
-N.B. : Un même cycle de vente peut se retrouver dans plusieurs rythmes d'abonnement !
+{% hint style="info" %}
+Un même cycle de vente peut se retrouver dans plusieurs rythmes d'abonnement !
+{% endhint %}
 
