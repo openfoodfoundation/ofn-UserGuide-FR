@@ -4,70 +4,80 @@
 
 _Pendant la durée du mode béta, contactez-nous si vous souhaitez utiliser le module pour que nous puissions l'activer sur votre profil._
 
-Activez le module en vous rendant sur les paramètres de votre profil :
+Activez le module en vous rendant sur les paramètres de votre profil &gt; préférences boutique :
 
 ![](../../.gitbook/assets/image%20%2885%29.png)
 
-**Abonnements :** Pour activer, sélectionnez "Activée".
+**Abonnements \(= commande récurrente\) :** Pour activer, sélectionnez "Activée".
 
-**Commandes des invités** : Nous vous recommandons de désactiver cette option afin de ne pas risquer des doublons de commandes.
+**Commandes des invités** : Nous vous recommandons de désactiver cette option afin de ne pas risquer des doublons de commandes une fois les commandes récurrentes rendues possibles.
 
 **Modifier la commande** : 
 
-* Si vous permettez à l'acheteur de modifier la commande il va pouvoir à chaque nouvelle commande automatique modifier les quantités achetées et retirer des produits. Pour en ajouter, il devra faire une nouvelle commande.
+* Si vous permettez à l'acheteur de modifier la commande il va pouvoir à chaque nouvelle commande automatiquement passée en son nom modifier les quantités achetées et retirer des produits. Pour en ajouter, il devra faire une nouvelle commande.
 * Dans le cas contraire, ils devront vous contacter pour réaliser des modifications. Ils pourront cependant toujours réaliser une nouvelle commande.
 
 ## 2\) Vérifiez les méthodes de paiement et de livraison <a id="2-make-sure-you-have-shipping-and-payment-methods-setup"></a>
 
-Lorsque vous créez une commande récurrente pour un acheteur, il faut que vous indiquiez la méthode de paiement et de livraison choisie.
+Lorsque vous créez une commande récurrente pour un acheteur, il faut que vous indiquiez les méthodes de paiement et de livraison choisies, qui s'appliqueront donc automatiquement à chaque commande passée en leur nom par le système.
 
 #### **Méthodes de livraison** <a id="shipping-methods"></a>
 
 Il n'y a pas de restriction sur les méthodes de livraison utilisées. Pour la configuration des méthodes de livraison consultez[ la page suivante](../mise-en-place-dune-boutique/types-de-livraisons.md). 
 
-#### **Méthode de paiement** <a id="payment-methods"></a>
+#### **Méthodes de paiement** <a id="payment-methods"></a>
 
-**Vous ne pouvez utiliser que deux méthodes de paiement pour les commandes récurrentes**. Consultez [cette page](configuration.md#payment-methods) pour la configuration des méthodes de paiement.
+**Vous ne pouvez utiliser que deux méthodes de paiement pour les commandes récurrentes**. Consultez [cette page](../mise-en-place-dune-boutique/methodes-de-paiements.md) pour la configuration générale des méthodes de paiement.
 
-**1\) Méthode manuelle** : Espèce ou virement.
+**1\) Méthode manuelle** : Espèce, chèque ou virement bancaire \(sans validation automatique sur la plateforme\).
 
-**2\) Stripe :** Stripe est un outil de paiement par carte bancaire équivalent à Paypal \(l'obligation de créer un compte pour l'acheteur en moins\). A chaque commande, la carte bancaire va être débitée du montant de la commande \(modifications incluses\), sauf si la commande récurrents a été mise en pause ou annulée.
+**2\) Stripe :** Stripe est un portail de paiement par carte bancaire équivalent à Paypal \(l'obligation de créer un compte pour l'acheteur en moins\). Pour voir le détail de la configuration Stripe sur une boutique, [cliquez ici](../mise-en-place-dune-boutique/methodes-de-paiements.md#stripe). A chaque commande, la carte bancaire va être débitée du montant de la commande, et reflètera toute modification apportée à la commande. Rien ne sera débité si la commande récurrente a été mise en pause ou annulée.
 
 {% hint style="info" %}
-Pour que l'acheteur soit correctement débité, il est nécessaire qu'il dispose d'un compte sur la plateforme Open Food France, qu'il ait enregistré une carte de crédit par défaut et donné l'autorisation à votre boutique de réaliser des prélèvements automatiques. Pour plus d'informations consultez la page [Pour l'acheteur](pour-lacheteur.md).
+Pour que l'acheteur soit correctement débité, il est nécessaire qu'il dispose d'un compte utilisateur sur la plateforme Open Food France, qu'il ait enregistré une carte de crédit par défaut et donné l'autorisation à votre boutique de réaliser des prélèvements automatiques. Pour plus d'informations consultez la page [Pour l'acheteur](pour-lacheteur.md).
 {% endhint %}
 
 Également, si vous utilisez Stripe, pensez à bien nommer cette méthode de paiement dans votre interface d'administration.
 
-Par exemple, au lieu de l'appeler "Paiement par carte bancaire", vous pouvez l'appeler "paiement automatique pour commande récurrente". Une description possible à ajouter : "Votre carte de crédit par défaut sera utilisée pour chaque commande récurrente non mise en pause ou annulée".
+Par exemple, au lieu de l'appeler "Paiement par carte bancaire", vous pouvez l'appeler "paiement automatique pour commande récurrente". Une description possible à ajouter : "Votre carte de crédit par défaut sera utilisée pour chaque commande récurrente non mise en pause ou annulée". Ce nom et la description associée à la méthode de paiement seront affichés sur l'email de confirmation reçu par l'acheteur, donc il est important que le bon niveau de détail soit inscrit pour que tout soit clair et que l'acheteur soit rassuré sur l'utilisation de sa carte bancaire. 
+
+![](../../.gitbook/assets/capture-du-2019-08-26-19-33-38.png)
 
 ## 3\) Récupérer les informations auprès de vos acheteurs <a id="3-gather-information-from-your-customers"></a>
 
 Pour créer un abonnement pour vos acheteurs, vous allez avoir besoin de certaines informations :
 
-**Nom**, **numéro de téléphone** et **adresse e-mail.** Comme précisé dans le paragraphe suivant, tout acheteur souhaitant bénéficier de commandes récurrentes a l'obligation de se créer un compte sur OFF. Pour créer leur compte, vous aurez besoin de ces informations.
+**Nom**, **numéro de téléphone** et **adresse e-mail :** rappelons que tout acheteur souhaitant bénéficier de commandes récurrentes a l'obligation de se créer un compte sur la plateforme. Et comme précisé dans le paragraphe suivant, vous devez l'ajouter à votre [liste d'acheteurs](../mise-en-place-dune-boutique/affichages-et-prix-differencies-par-categorie-dacheteur/).
 
-**Adresse de facturation et de livraison**
+**Adresse de facturation et de livraison :** vous aurez besoin de ces informations pour mettre en place la commande récurrente.
 
-**Produits :** pour quels produits souhaitent-ils bénéficier d'une commande récurrente ?
+**Produits :** quels produits souhaitent-ils commander de manière récurrente et automatique ?
 
-**Méthode de livraison** 
+**Méthode de livraison** : vous devez associer une méthode de livraison à la commande récurrente.
 
-**Méthode de paiement** 
+**Méthode de paiement : vous devez associer une méthode de paiement à la commande récurrente \(paiement en liquide ou chèque à réception, paiement par prélèvement automatique via Stripe\).** Voir [point précédent](configuration.md#2-make-sure-you-have-shipping-and-payment-methods-setup) pour les paiements automatiques via Stripe.
 
-**Dates** : la date de début et de fin de la commande récurrente. Pour rappel, les dates de début peuvent être situées avant ou après la date de début du cycle de vente, en revanche les dates de fin doivent obligatoirement se situer après la date de fin du cycle de vente.
+**Dates** : la date de début et de fin de la commande récurrente. Pour rappel, pour qu'une commande récurrente soit passée pour un acheteur sur un cycle de vente donné, la date de début de la commande récurrente peut être située avant ou après la date de début du cycle de vente, en revanche la date de fin de la commande récurrente doit obligatoirement se situer après la date de fin du cycle de vente.
 
 ## 4\) Ajoutez les nouveaux acheteurs à votre liste <a id="4-add-your-subscribers-to-your-customer-list"></a>
 
-Avant de démarrer une commande récurrente pour un utilisateur, vous devez l'ajouter à votre liste d'acheteurs. 
+Avant de mettre en place une commande récurrente pour un utilisateur, vous devez l'ajouter à votre [liste d'acheteurs](../mise-en-place-dune-boutique/affichages-et-prix-differencies-par-categorie-dacheteur/). 
 
-**Une fois ajouté à votre liste,** demandez-leur de se créer un compte sur OFF. Toutes les étapes à réaliser de leur côté sont disponibles à la page [Pour l'acheteur](pour-lacheteur.md).
+**Une fois ajouté à votre liste,** demandez-leur de se créer un compte sur la plateforme. Si vous planifier d'utiliser un prélèvement automatique via Stripe pour les commandes récurrentes, vous devrez aussi leur demander de sauvegarder une carte de paiement sur leur compte et de vous autoriser à prélever sur cette carte. Toutes les étapes à réaliser de leur côté sont disponibles à la page [Pour l'acheteur](pour-lacheteur.md).  
 
-Vous pouvez aussi les ajouter à votre liste une fois leur compte créé. Dans tous les cas, il est nécessaire pour l'acheteur de disposer d'un compte sur la plateforme est de valider son adresse email. Par ailleurs, si vous utilisez Stripe en tant que méthode de paiement, il est nécessaire de les ajouter à votre liste d'acheteurs **AVANT qu'ils autorisent votre boutique à réaliser des prélèvements**.
+Vous pouvez aussi les ajouter à votre liste une fois leur compte créé. Dans tous les cas, il est nécessaire pour l'acheteur de disposer d'un compte valide sur la plateforme, donc il doit bien avoir confirmé son adresse email. Par ailleurs, si vous utilisez Stripe en tant que méthode de paiement, il est nécessaire de les ajouter à votre liste d'acheteurs **AVANT qu'ils autorisent votre boutique à réaliser des prélèvements**.
+
+Ainsi, nous recommandons le processus suivant :  
+1- Contactez l'acheteur pour obtenir les informations listées ci-dessus  
+2- Ajoutez le à votre liste d'acheteur  
+3- Ecrivez-lui en lui demandant de se créer un compte sur la plateforme \(et si vous utilisez le prélèvement automatique par Stripe d'enregistrer une carte et vous autoriser à prélever dessus\)  
+4- [Créer ensuite seulement leur commande récurrente](creation-et-gestion-dune-commande-recurrente.md#6-create-subscriptions) 
 
 ## 5\) Les rythmes d'abonnement <a id="5-schedules"></a>
 
-S'il s'agit de votre première utilisation d'OFF, nous vous conseillons de vous familiariser tout d'abord avec le concept de [cycle de vente](../mise-en-place-dune-boutique/cycles-de-vente/cycle-de-vente-pour-les-hub.md).
+{% hint style="info" %}
+S'il s'agit de votre première utilisation d'Open Food Network, nous vous conseillons de vous familiariser tout d'abord avec le concept de [cycle de vente](../mise-en-place-dune-boutique/cycles-de-vente/).
+{% endhint %}
 
 ### A propos <a id="about-schedules"></a>
 
