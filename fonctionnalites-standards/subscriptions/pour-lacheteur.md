@@ -1,34 +1,38 @@
-# Pour l'acheteur
+# Commande récurrente côté acheteur
+
+Cette page décrit ce qui se passe pour l'acheteur qui a une commande récurrent dans une boutique, et met en exergue les points d'attention pour la boutique proposant à ses acheteurs des commandes récurrentes.
 
 ## S'inscrire sur Open Food France <a id="signing-up-to-ofn"></a>
 
 Détenir un compte sur la plateforme est obligatoire pour bénéficier de la fonctionnalité : les commandes récurrentes en mode "invité" \(sans se connecter\) sont donc impossibles.
 
-Pour vous inscrire en tant qu'acheteur, il suffit de se rendre sur [https://www.openfoodfrance.org/\#/login](https://www.openfoodfrance.org/#/login)​
+Pour créer un compte en tant qu'acheteur, cliquez en haut à droite sur le bouton "se connecter" depuis la page d'accueil, selon le processus [décrit ici](../inscription-et-creation-de-profil.md#creation-de-votre-compte-utilisateur).​ Vous aurez juste besoin de saisir une adresse email valide et un mot de passe, un message de vérification de l'email avec un lien de confirmation sera envoyé à l'utilisateur, et une fois l'email confirmé, son compte sera créé et il pourra se connecter à la plateforme.
 
-Il est nécessaire d'avoir une adresse email valide et de choisir un mot de passe unique.
+## Enregistrer sa carte bancaire et autoriser les prélèvements automatiques <a id="saving-credit-cards-and-authourising-charges"></a>
 
-Une fois les champs complétés et le formulaire d'inscription envoyé, un email sera reçu afin de valider l'adresse email. Une fois l'adresse email validée il est possible de se connecter à la plateforme.
-
-## Enregistrer sa carte banquaire <a id="saving-credit-cards-and-authourising-charges"></a>
-
-Les acheteurs souhaitant payer leur commande récurrente par prélèvement automatique sur leur carte bancaire ont besoin de a\) enregistrer leur carte sur leur profil et b\) autoriser la boutique proposant la commande récurrente à réaliser ses prélèvements automatiques. 
+Les acheteurs souhaitant payer leur commande récurrente par prélèvement automatique sur leur carte bancaire ont besoin de a\) enregistrer leur carte sur leur profil et b\) autoriser la boutique proposant la commande récurrente à réaliser des prélèvements automatiques. 
 
 ### a\) Enregistrer sa carte bancaire dans son profil <a id="a-saving-credit-card-details-in-the-customer-account"></a>
 
-Cette opération se déroule une fois connecté à cette adresse :[https://www.openfoodfrance.org/account\#/cards](https://www.openfoodfrance.org/account#/cards).
+L'utilisateur accède à son compte, une fois connecté, via le bouton "**profil &gt; compte**" en haut à droite. 
+
+![](../../.gitbook/assets/capture-du-2019-08-27-10-35-23.png)
+
+Une fois dans son compte il peut visualiser / modifier ses cartes de crédit enregistrées.
 
 Il est possible de sauvegarder une ou plusieurs carte de crédit dans l'onglet cartes bancaires :
 
-![](../../.gitbook/assets/image%20%2868%29.png)
+![](../../.gitbook/assets/capture-du-2019-08-27-10-44-40.png)
 
-Si plusieurs cartes bancaires sont enregistrées, la carte bancaire indiquée "par défaut" sera celle choisie par Stripe pour prélever le montant correspondant à la commande récurrente. Si aucune carte bancaire est sélectionnée "par défaut", le paiement ne pourra pas avoir lieu.
+Si plusieurs cartes bancaires sont enregistrées, la carte bancaire indiquée "par défaut" sera celle utilisée par Stripe pour prélever les montants des commandes automatiquement passées pour l'acheteur dans le cadre d'une commande récurrente. Si aucune carte bancaire n'est sélectionnée "par défaut", le paiement ne pourra pas avoir lieu.
 
-N. B. : Les cartes bancaires sauvegardées ici peuvent également être sélectionnées lors d'un commande classique au moment du paiement.
+N. B. : Les cartes bancaires sauvegardées ici peuvent également être sélectionnées lors d'une commande classique au moment du paiement.
+
+![](../../.gitbook/assets/capture-du-2019-08-27-10-48-12.png)
 
 ### **b\) Autoriser la boutique en ligne à réaliser des prélèvements automatiques** <a id="b-authourising-a-shop-to-charge-their-default-card"></a>
 
-**Si vous ne voyez aucune boutique dans la section "Autthorised shops", c'est que la boutique ne vous a pas ajouté à sa liste d'acheteurs. Contactez-là pour quelle le fasse !**
+**Si vous ne voyez aucune boutique dans la section "Boutiques autorisées" \(voir image ci-dessus\), c'est que la boutique ne vous a pas ajouté à sa** [**liste d'acheteurs**](../mise-en-place-dune-boutique/affichages-et-prix-differencies-par-categorie-dacheteur/)**. Contactez-là pour quelle le fasse !**
 
-Sinon il vous suffit de cocher la case pour activer le prélèvement automatique de cette boutique vers votre carte de paiement par défaut.
+Sinon il vous suffit de cocher la case pour autoriser la boutique en question à prélever automatiquement sur votre carte par défaut les montants des commandes automatiques passées dans le cadre de votre commande récurrente.
 
