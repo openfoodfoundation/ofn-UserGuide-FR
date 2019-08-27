@@ -52,6 +52,7 @@
     * [Configuration](fonctionnalites-standards/subscriptions/configuration.md)
     * [Création et gestion d'une commande récurrente](fonctionnalites-standards/subscriptions/creation-et-gestion-dune-commande-recurrente.md)
     * [Commande récurrente côté acheteur](fonctionnalites-standards/subscriptions/pour-lacheteur.md)
+    * [FAQ commandes récurrentes](fonctionnalites-standards/subscriptions/faq-commandes-recurrentes.md)
   * [Rapports \(export de données\)](fonctionnalites-standards/rapports.md)
   * [Tableau de Bord](fonctionnalites-standards/tableau-de-bord.md)
   * [Groupes](fonctionnalites-standards/groupes/README.md)

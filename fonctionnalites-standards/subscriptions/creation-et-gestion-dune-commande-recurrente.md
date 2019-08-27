@@ -90,7 +90,7 @@ A partir de là vous pouvez modifier les produits de la commande récurrente, la
 
 ### Modifier une commande automatique planifiée spécifique <a id="edit-one-specific-order"></a>
 
-Dans la colonne "commandes", cliquez sur le numéro affiché \(qui représente le nombre de commandes planifiée dans le cadre de la commande récurrente. Ce nombre correspond à tous les cycles de vente à venir correspondant au rythme d'abonnement de la commande récurrente\). Vous accéderez ainsi à la liste de toutes les commandes planifiées pour les prochaines cycles de vente, et vous pourrez en modifier une en particulier. 
+Dans la colonne "commandes", cliquez sur le numéro affiché \(qui représente le nombre de commandes planifiée dans le cadre de la commande récurrente. Ce nombre correspond à tous les cycles de vente à venir correspondant au rythme d'abonnement de la commande récurrente\). Vous accéderez ainsi à la liste de toutes les commandes planifiées pour les prochaines cycles de vente, et vous pourrez en modifier/annuler une en particulier. 
 
 ![](../../.gitbook/assets/capture-du-2019-08-27-10-01-24.png)
 
