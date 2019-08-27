@@ -78,57 +78,63 @@ Dans ce cas, l'acheteur sera alerté de l'indisponibilité de certains produits 
 
 ### Modifier tout l'abonnement <a id="edit-the-base-subscription"></a>
 
-Depuis la page **Subscriptions**, cliquez sur le bouton "modifier" à côté de la commande que vous souhaitez modifier.
+Depuis la page **Abonnements**, cliquez sur le bouton "modifier" à côté de la commande que vous souhaitez modifier.
 
-A partir de là vous pouvez modifier les produits de son abonnement, la méthode de livraison ou de paiement, ainsi que les dates de début et de fin. 
+![](../../.gitbook/assets/capture-du-2019-08-27-09-55-27.png)
 
+A partir de là vous pouvez modifier les produits de la commande récurrente, la méthode de livraison ou de paiement, ainsi que les dates de début et de fin. 
+
+{% hint style="info" %}
 **Vous ne pouvez pas modifier le rythme d'abonnement**. Pour cela vous devez recréer une commande récurrente avec un nouveau rythme et supprimer l'ancienne.
+{% endhint %}
 
-### Modifier une commande en particulier <a id="edit-one-specific-order"></a>
+### Modifier une commande automatique planifiée spécifique <a id="edit-one-specific-order"></a>
 
-Dans la colonne "commandes", cliquez sur le numéro. Vous accéderez ainsi à la liste de toutes les commandes et vous pourrez en modifier une en particulier.
+Dans la colonne "commandes", cliquez sur le numéro affiché \(qui représente le nombre de commandes planifiée dans le cadre de la commande récurrente. Ce nombre correspond à tous les cycles de vente à venir correspondant au rythme d'abonnement de la commande récurrente\). Vous accéderez ainsi à la liste de toutes les commandes planifiées pour les prochaines cycles de vente, et vous pourrez en modifier une en particulier. 
+
+![](../../.gitbook/assets/capture-du-2019-08-27-10-01-24.png)
 
 ### Supprimer une commande récurrente <a id="delete-a-subscription"></a>
 
-Depuis la page **subscription**, cliquez sur la croix à côté de la commande récurrente. Cela supprimera définitivement la commande.
+Depuis la page **Abonnements**, cliquez sur la croix à côté de la commande récurrente. Cela supprimera définitivement la commande.
 
 Si vous supprimez une commande alors qu'un cycle de vente est toujours ouvert, un message vous avertira afin de vous laisser l'option de garder la commande liée ou de la supprimer également.
 
+![](../../.gitbook/assets/capture-du-2019-08-27-10-03-08.png)
+
 ### Mettre en pause une commande récurrente <a id="pause-a-subscription"></a>
 
-Depuis la page **subscription**, cliquez sur le bouton pause. Cela stoppera les commandes récurrentes jusqu'à ce que vous cliquiez sur le bouton play \(qui a remplacé le bouton pause une fois que vous avez cliqué dessus\).
+Depuis la page **Abonnements**, cliquez sur le bouton pause à droite de la commande que vous voulez mettre en pause. Cela stoppera les commandes automatiques de cette commande récurrente jusqu'à ce que vous cliquiez sur le bouton play \(qui a remplacé le bouton pause une fois que vous avez cliqué dessus\).
 
 Si vous mettez en pause une commande alors qu'un cycle de vente est toujours ouvert, un message vous avertira afin de vous laisser l'option de garder la commande liée ou de la mettre en pause également. Et inversement si vous relancez la commande récurrente alors qu'un cycle de vente est ouvert.
 
-## 8\) Comment sont gérées les commandes récurrentes ? <a id="8-how-subscriptions-are-processed"></a>
+![](../../.gitbook/assets/capture-du-2019-08-27-10-05-02.png)
 
-Une fois la mise en place effectuée, que se passe-t-il ?
+## 8\) Comment sont traitées les commandes récurrentes par la plateforme ? <a id="8-how-subscriptions-are-processed"></a>
 
-**1\) Un cycle de vente compatible avec un rythme d'abonnement est ouvert :**
+Une fois une commande récurrente en place pour un acheteur donné, comment cette commande est-elle traitée par le système à chaque ouverture / fermeture d'un cycle de vente ?
 
-* Une commande est générée pour tous les acheteurs liés à ce rythme d'abonnement. Un email de confirmation de la commande leur est adressé.
-* Le stock des produits commandés va diminuer.
-* Un email résumant toutes les commandes passés ainsi que celle qui on eu des problèmes \(stock insuffisant\) est envoyé au responsable de la boutique en ligne.
-* Les acheteurs peuvent modifier leur commande si vous leur en avez laissé la possibilité dans vos [paramètres de boutique](../votre-profil/parametres.md#preferences-boutique).
+**1\) Un cycle de vente correspondant au rythme d'abonnement de la commande récurrente est ouvert :**
 
-**2\) Un cycle de vente ferme**
+* Une commande est automatiquement générée pour tous les acheteurs qui ont une commande récurrente programmée pour ce rythme d'abonnement. Un email les notifiant qu'une nouvelle commande va être passée en leur nom leur est adressé.
+* Le stock des produits commandés diminue du nombre d'unités correspondant.
+* Un email résumant toutes les commandes passés automatiquement ainsi que celles qui on eu des problèmes \(stock insuffisant par exemple\) est envoyé au responsable de la boutique.
+* Les acheteurs peuvent modifier la commande automatique passée en leur nom jusqu'à la fin du cycle de vente si vous leur en avez laissé la possibilité dans vos [paramètres de boutique](../votre-profil/parametres.md#preferences-boutique).
 
-* Les commandes seront confirmées
-* Si l'acheteur paye par carte de crédit il sera débité
-* L'acheteur reçoit un email de confirmation
-* Le responsable de la boutique reçoit un email récapitulatif des commandes et des erreurs qui ont pu avoir lieu comme par exemple des carte de crédit qui n'ont pas pu être débitées
+{% hint style="info" %}
+N'oubliez pas que si vous créer une nouvelle commande récurrente pour un acheteur, et que la date de début correspond à un cycle de vente en cours, une commande automatique sera immédiatement générée pour cet acheteur.
+{% endhint %}
+
+**2\) Le cycle de vente ferme**
+
+* Les commandes générées automatiquement sont alors confirmées et l'acheteur reçoit un email de confirmation de commande.
+* Si l'acheteur paye par carte de crédit \(via Stripe\) sa carte est alors débitée du montant final de la commande.
+* Le responsable de la boutique \(contact saisi dans "notifications" dans le sous menu "utilisateurs" du paramétrage d'une entreprise\) reçoit un email récapitulatif des commandes passées automatiquement et des éventuelles erreurs, comme par exemple des cartes qui n'ont pas pu être débitées.
 
 ### Planifier les commandes récurrentes <a id="planning-for-future-subscriptions"></a>
 
-Il y a deux manières de planifier les commandes récurrentes. Quelle que soit celle choisie n'oubliez pas que la fréquence à laquelle vous ouvrez un nouveau cycle de vente avec commande récurrente correspondra à la fréquence à laquelle les commandes seront générées.
+Si vous proposez à vos acheteurs de passer automatiquement des commandes dans votre boutique, \(soit via la commercialisation d'une formule d'abonnement, soit pour leur éviter simplement d'avoir à repasser la même commande toutes les semaines par exemple s'ils commandent leur pain de 2kg toutes les semaines\), vous avez plusieurs manières de planifier vos cycles de vente futurs en lien avec l'offre que vous leur proposez :
 
-**De manière manuelle**
-
-Vous pouvez créer des commandes par rythme d'abonnement une à une en ouvrant un cycle de vente à chaque besoin.
-
-**De manière automatique**
-
-Vous pouvez créer vos cycles de vente en avance et faire correspondre les dates à chaque date de commande. Vous pouvez utiliser la fonction de clonage d'un cycle de vente pour aller plus vite.
-
-Pensez cependant à vérifier les stocks de vos produits régulièrement pour qu'il n'y ait pas de problème de disponibilité.
+* Vous pouvez prévoir à l'avance tous les cycles de vente de la saison par exemple, en "dupliquant" un cycle de vente type, caler les dates d'ouverture / fermeture des cycles et de remise des produits correspondantes, et associer à chaque cycle les rythmes d'abonnement concernés. Attention, il ne faudra pas oublier de vérifier la disponibilité des produits avant chaque ouverture automatique d'un cycle de vente planifié !
+* Vous pouvez aussi créer les cycles de vente au fil de l'eau, d'une semaine sur l'autre, en associant sur chaque nouveau cycle les rythmes d'abonnement concernés.
 
