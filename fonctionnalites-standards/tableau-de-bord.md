@@ -1,20 +1,28 @@
 # Tableau de Bord
 
-Le tableau de bord sert à piloter l'ensemble des paramètres de votre plateforme. Vous pouvez y gérer les informations de votre profil, ou de votre boutique le cas échéant.
+Le tableau de bord sert à accéder rapidement aux fonctionnalités coeur du pilotage de votre activité sur la plateforme. Vous pouvez accéder en un clic aux paramètres de votre / vos entreprises, à la liste de vos produits ou à vos cycles de vente. 
 
-Pour y accéder il est nécessaire d'être connecté et d'avoir cliqué sur la petite roue dentée en haut à droite, puis sur administration : 
+Pour y accéder, connectez-vous et accédez à l'interface d'administration via **Profil &gt; Administration**. 
 
-
-
-![](../.gitbook/assets/image%20%2856%29.png)
+![](../.gitbook/assets/capture-du-2019-08-27-23-12-45.png)
 
 Retrouvez ci-dessous les captures du tableau de bord pour chaque profil d'utilisation.
 
-### Profil producteur avec boutique
+{% tabs %}
+{% tab title="Producteur : profil et/ou fournisseur de hubs" %}
+![](../.gitbook/assets/capture-du-2019-08-27-23-20-37.png)
+{% endtab %}
 
-![](../.gitbook/assets/image%20%28109%29.png)
+{% tab title="Hub : profil" %}
+![](../.gitbook/assets/capture-du-2019-08-27-23-24-26.png)
+{% endtab %}
 
-### Profil hub avec boutique
+{% tab title="Boutique producteur ou hub" %}
+![](../.gitbook/assets/capture-du-2019-08-27-23-25-23.png)
+{% endtab %}
+{% endtabs %}
 
-![](../.gitbook/assets/image%20%2854%29.png)
+Si votre compte utilisateur gère plusieurs entreprises, vous verrez aussi la liste de vos entreprises pour y accéder rapidement :
+
+![](../.gitbook/assets/capture-du-2019-08-27-23-27-22.png)
 

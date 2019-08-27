@@ -47,9 +47,9 @@ A partir de là, vous devriez voir votre boutique Open Food Network dans votre s
 
 **3\) Personnalisation**
 
-En fonction de votre site, il est possible que vous ayez besoin \(ou envie\) d'ajouter des touches de CSS pour paufiner le rendu visuel de l'intégration. Cela peut permettre de changer la taille de la fenêtre d'intégration par exemple, éviter d'avoir deux barres de "scrolling", ou autre.
+En fonction de votre site, il est possible que vous ayez besoin \(ou envie\) d'ajouter des touches de CSS pour peaufiner le rendu visuel de l'intégration. Cela peut permettre de changer la taille de la fenêtre d'intégration par exemple, éviter d'avoir deux barres de "scrolling", ou autre.
 
-N'oubliez pas de bien tester l'intégration sur une navigation mobile ! Si votre intégration n'apparait pas bien sur mobile, vous aurez peut-être besoin de quelques adaptations CSS supplémentaires.
+N'oubliez pas de bien tester l'intégration sur une navigation mobile ! Si votre intégration n’apparaît pas bien sur mobile, vous aurez peut-être besoin de quelques adaptations CSS supplémentaires.
 
 Vous pouvez voir un [exemple de rendu sur l'intégration réalisée par Micromarché](https://www.micromarche.fr/la-ville-en-bois/), à Nantes. Attention, il s'agit d'une boutique active, ne faites pas de tests dessus !
 

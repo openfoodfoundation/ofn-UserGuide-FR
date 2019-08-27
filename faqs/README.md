@@ -1,8 +1,8 @@
 # FAQs
 
-Voici les liens vers les questions les plus fréquemments posées, classées par profil utilisateur :
+Voici les liens vers les questions les plus fréquemment posées, classées par profil utilisateur :
 
-[CONSOMMATEUR](consommateur.md)
+[ACHETEUR](consommateur.md)
 
 [PRODUCTEUR](producteur.md)
 

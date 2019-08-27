@@ -1,32 +1,36 @@
 # Intégrer une page groupe à un site web
 
-Cette fonctionnalité vous permet de naviguer au sein d'une page groupe d'Open Food France, sur votre propre site.
+Cette fonctionnalité vous permet de naviguer au sein d'une page groupe d'Open Food Network depuis votre propre site web. Cette page décrit comment faire pas à pas.
 
 ## Pré-requis
 
-### Site web
+### Technologie utilisée pour construire votre site web <a id="technologie-utilisee-pour-construire-votre-site-web"></a>
 
-Cette fonctionnalité est assez récente, nous sommes toujours en phase de test. En revanche, cela devrait bien fonctionner tant que vous pouvez ajouter du html personnalisé à l'endroit où vous souhaitez afficher la page groupe.
+La fonctionnalité fonctionne sur différents types de site internet, à partir du moment où la technologie utilisée vous permet d'ajouter du code html dans la page où vous souhaitez intégrer la boutique. Wordpress, Wix, Squarespace par exemple permettent cela.
 
 ### Sécurité
 
-Open Food France est une place de marché, ainsi nos standards de sécurité sont hauts afin de permettre des paiements sur la plateforme. Ainsi, si vous ne l'avez pas déjà fait, vous devrez installer un certificat SSL/TLS sur votre site pour que l'intégration fonctionne.
+Open Food Network est une place de marché ce qui implique que des transactions sont effectuées via la plateforme. Cela implique que nos standards de sécurité sont bien plus élevés que pour un site informationnel basique. **Ainsi, si vous ne l'avez pas déjà fait, vous devrez installer un certificat SSL/TLS sur votre site pour que l'intégration fonctionne.**
 
-### Créer une page groupe
+Vous pouvez obtenir ce type de certificat gratuitement via [Let’s Encrypt](https://letsencrypt.org/), ou aux alentours de 10-30€ via d'autres prestataires commerciaux.
 
-Cela parait évident mais c'est toujours mieux en le disant : il faut créer une page groupe avant de pouvoir l'intégrer \(cf. page précédente\). En effet, vous allez avoir besoin de votre URL dans les étapes suivantes :
+### Groupe Open Food Network
+
+Cela parait évident mais c'est toujours mieux en le disant : il faut [créer un groupe](create-group-page.md) sur la plateforme avant de pouvoir l'intégrer dans votre site web. En effet, vous allez avoir besoin de l'URL de ce groupe dans les étapes suivantes.
 
 ## Mise en place
 
-**1\) Contactez votre antenne OFF locale**
+**1\) Contactez le fournisseur local de la plateforme Open Food Network**
 
-La première étape est de nous contacter afin que nous puissions autoriser votre site à appeler une page d'Open Food France. Nous aurons besoin de l'URL de votre site \(ex : monpanierpaysanpointcom\).
+La première étape est de nous contacter afin que nous puissions autoriser votre site à appeler une page depuis la plateforme Open Food Network. Nous aurons besoin de l'URL de votre site internet \(ex : monpanierpaysan.com\).
 
 **2\) Ajouter un bout de code HTML à votre site**
 
 Voici le bout de code HTML à ajouter à l'endroit où vous souhaitez que la page groupe s'affiche :
 
-![](../../.gitbook/assets/embedded-group-code.png)
+```text
+<iframe src="/groups/flavour-crusader?embedded_shopfront=true"style="width:100%;min-height:35em"></iframe>
+```
 
 **Attention**, à la place ‘flavour-crusader’ vous devrez indiquer le permalien que vous avez choisi à l'étape de création du groupe.
 
@@ -34,15 +38,15 @@ A partir de là, vous devriez voir votre page groupe dans votre site.
 
 **3\) Personnalisation**
 
-En fonction de votre site, il est possible que vous ayiez besoin \(ou envie\) d'ajouter des touches de CSS pour paufiner l'intégration à votre site. Cela peut permettre de changer la taille de la fenêtre d'intégration par exemple.
+En fonction de votre site, il est possible que vous ayez besoin \(ou envie\) d'ajouter des touches de CSS pour peaufiner le rendu visuel de l'intégration. Cela peut permettre de changer la taille de la fenêtre d'intégration par exemple.
 
-N'oubliez pas de bien tester l'intégration sur une navigation mobile !
+N'oubliez pas de bien tester l'intégration sur une navigation mobile ! Si votre intégration n’apparaît pas bien sur mobile, vous aurez peut-être besoin de quelques adaptations CSS supplémentaires.
 
 ## Instructions pour vos visiteurs
 
 ### Cookies
 
-Attention, si vos visiteurs n'ont pas activés leurs cookies, ils ne verront pas la page intégrée !
+Attention, si vos visiteurs n'ont pas accepté les cookies \(nécessaires au fonctionnement de l'intégration\), ils ne verront pas la page intégrée ! 
 
 
 
