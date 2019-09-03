@@ -3,9 +3,9 @@
 ## A quoi correspond ce profil ?
 
 * Ce profil est idéal si vous souhaitez vendre vos produits, mais pas gérer de boutique
-* Vous serez visible sur la carte Open Food France.
+* Vous serez visible sur la carte Open Food Network.
 * Vous serez visible sur la liste des producteurs.
-* Vous pourrez ajouter vos produits et à les relier à des boutiques existantes sur Open Food France.
+* Vous pourrez ajouter vos produits et à les relier à des boutiques existantes sur Open Food Network.
 * Si dans le futur, vous souhaitez gérer votre propre boutique, vous pourrez ajouter la fonctionnalité à votre profil.
 
 ## Les atouts
