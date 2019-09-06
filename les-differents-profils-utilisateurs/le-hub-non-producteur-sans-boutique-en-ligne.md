@@ -3,17 +3,17 @@
 ## A quoi correspond ce profil ?
 
 * Il s'agit d'un espace où raconter votre histoire
-* Vous serez visible sur la carte Open Food France \(OFF\)
+* Vous serez visible sur la carte Open Food France \(OFN\)
 * Si vous souhaitez par la suite vendre en ligne, vous pourrez toujours ajouter la fonctionnalité boutique ensuite
 
 ## Les atouts
 
 **Augmenter votre visibilité**  
-Lors que vous disposez d'un profil sur Open Food France \(OFF\), vous devenez visible pour votre communauté locale et l'ensemble du réseau OFF. Vos acheteurs et futurs partenaires peuvent vous contacter pour lancer de nouveaux projets de collaboration.
+Lors que vous disposez d'un profil sur Open Food France \(OFN\), vous devenez visible pour votre communauté locale et l'ensemble du réseau OFN. Vos acheteurs et futurs partenaires peuvent vous contacter pour lancer de nouveaux projets de collaboration.
 
 ## Les étapes de création du profil
 
-1\) [Créez votre profil](../fonctionnalites-standards/inscription-et-creation-de-profil.md) sur Open Food France \(OFF\). Pour cette étape, il est nécessaire d'avoir vos coordonnées et un accès à votre boite mail à proximité afin de valider votre adresse.
+1\) [Créez votre profil](../fonctionnalites-standards/inscription-et-creation-de-profil.md) sur Open Food France \(OFN\). Pour cette étape, il est nécessaire d'avoir vos coordonnées et un accès à votre boite mail à proximité afin de valider votre adresse.
 
 2\) Sélectionnez le "Profil hub" dans les [type de package](../fonctionnalites-standards/votre-profil/types-de-package.md).
 

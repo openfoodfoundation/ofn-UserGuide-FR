@@ -42,7 +42,7 @@ Rendez-vous sur [cette page](../fonctionnalites-standards/votre-profil/e2e-permi
 
 Rendez-vous sur [cette page.](../les-differents-profils-utilisateurs/le-marche-virtuel-avec-boutique.md)
 
-**Je vends déjà mes produits via une boutique en ligne. Comment puis-je m'intégrer à OFF ?**
+**Je vends déjà mes produits via une boutique en ligne. Comment puis-je m'intégrer à OFN ?**
 
 Vous pouvez créer [un profil simple](../les-differents-profils-utilisateurs/le-producteur-sans-boutique.md) qui fera le lien avec votre boutique existante.
 

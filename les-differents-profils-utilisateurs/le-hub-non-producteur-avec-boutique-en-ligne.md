@@ -16,14 +16,14 @@ Pour faciliter votre gestion au jour-le-jour, l'interface d'administration vous 
 Vous décidez des périodes d'ouverture de votre boutique et vous gérez vos cycle de vente.
 
 **Implique vos fournisseurs**  
-Vos fournisseurs peuvent se connecter directement à OFF et mettre à jour leurs stocks et leurs prix, vous permettant de gagner du temps.
+Vos fournisseurs peuvent se connecter directement à OFN et mettre à jour leurs stocks et leurs prix, vous permettant de gagner du temps.
 
 **Vous rend flexible**  
 L'avantage d'une plateforme en ligne, c'est que vous pouvez tester à tout moment de nouvelles fonctionnalités, ou encore changer en dernière minute les paramétrages, en ajoutant une nouvelle date de livraison par exemple.
 
 ## Les étapes de création du profil
 
-1\) [Créez votre profil](../fonctionnalites-standards/inscription-et-creation-de-profil.md) sur Open Food France \(OFF\). Pour cette étape, il est nécessaire d'avoir vos coordonnées et un accès à votre boite mail à proximité afin de valider votre adresse.
+1\) [Créez votre profil](../fonctionnalites-standards/inscription-et-creation-de-profil.md) sur Open Food France \(OFN\). Pour cette étape, il est nécessaire d'avoir vos coordonnées et un accès à votre boite mail à proximité afin de valider votre adresse.
 
 2\) Sélectionnez le 'hub non producteur avec boutique en ligne' dans les [types de package](../fonctionnalites-standards/votre-profil/types-de-package.md).
 
@@ -39,7 +39,7 @@ L'avantage d'une plateforme en ligne, c'est que vous pouvez tester à tout momen
 
 8\) Gérez vos produits
 
-Les instructions suivantes sont divisées en fonction des choix que vous avez réalisés à l'étape 7 : soit a\) vous avez créé des profils pour les producteurs avec qui vous travaillez \(car ils n'avaient pas encore de profil OFF\) ; ou b\) vous avez connecté votre profil avec des profils de producteurs existants.
+Les instructions suivantes sont divisées en fonction des choix que vous avez réalisés à l'étape 7 : soit a\) vous avez créé des profils pour les producteurs avec qui vous travaillez \(car ils n'avaient pas encore de profil OFN\) ; ou b\) vous avez connecté votre profil avec des profils de producteurs existants.
 
 8a\) Vous avez créé des profils pour les producteurs avec lesquels vous travaillez  
 Dans ce cas, vous aurez aussi besoin [d'ajouter leurs produits](../fonctionnalites-standards/produits-1/produits.md) à leurs profils, avant que vous puissiez gérer les stocks.

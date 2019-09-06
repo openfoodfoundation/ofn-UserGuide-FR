@@ -48,7 +48,7 @@ Cette action vous amènera sur cette page :
 
 **Email public et téléphone :** Ces informations sont publiques. Si le producteur ne souhaite pas les indiquer, ajoutez les votre.
 
-## 2\) Le producteur a déjà un profil sur OFF <a id="supplyingproducer"></a>
+## 2\) Le producteur a déjà un profil sur OFN <a id="supplyingproducer"></a>
 
 Dans ce cas, vous devez lui demander sa permission pour vendre ses produits via votre boutique. Pour le contacter, vous trouverez ses coordonnées sur son profil. N'oubliez pas que le gestionnaire du profil peut aussi être un autre hub. Comme évoqué précédemment, deux hubs peuvent vendre le même produit, mais cela peut demander, si le profil est géré par un autre hub, quelque peu de concertation pour s'assurer que l'autre hub ne modifie pas les produits du catalogue sans prévenir les hubs qui les distribuent.
 
