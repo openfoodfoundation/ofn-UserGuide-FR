@@ -82,7 +82,7 @@ Oui, rendez-vous sur [cette page.](../fonctionnalites-standards/mise-en-place-du
 
 Vous pouvez ajouter un message d'accueil à votre boutique. 
 
-**Je produis des œufs, pourtant mon profil ne s'affiche pas lorsque je regarde la liste des producteurs d'oeufs sur la plateforme. Pourquoi ?**
+**Je produis des œufs, pourtant mon profil ne s'affiche pas lorsque je regarde la liste des producteurs d'œufs sur la plateforme. Pourquoi ?**
 
 Si vous avez un profil uniquement, il faut créer des produits factices \(et invisibles\). Rendez-vous sur [cette page.](../fonctionnalites-standards/votre-profil/making-a-producer-profile-searchable-by-product-category.md)
 

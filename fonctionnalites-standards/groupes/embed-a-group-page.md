@@ -1,12 +1,12 @@
 # Intégrer une page groupe à un site web
 
-Cette fonctionnalité vous permet de naviguer au sein d'une page groupe d'Open Food Network depuis votre propre site web. Cette page décrit comment faire pas à pas.
+Cette fonctionnalité vous permet de naviguer au sein d'une page groupe d'Open Food Network depuis votre propre site web. Cette page décrit comment procéder pas à pas.
 
 ## Pré-requis
 
 ### Technologie utilisée pour construire votre site web <a id="technologie-utilisee-pour-construire-votre-site-web"></a>
 
-La fonctionnalité fonctionne sur différents types de site internet, à partir du moment où la technologie utilisée vous permet d'ajouter du code html dans la page où vous souhaitez intégrer la boutique. Wordpress, Wix, Squarespace par exemple permettent cela.
+La fonctionnalité fonctionne sur différents types de site internet, à partir du moment où la technologie utilisée vous permet d'ajouter du code html dans la page où vous souhaitez intégrer la boutique. Wordpress, Wix, Squarespace, par exemple, permettent cela.
 
 ### Sécurité
 

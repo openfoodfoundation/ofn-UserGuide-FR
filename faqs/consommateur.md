@@ -59,7 +59,7 @@ Notre objectif est de rendre accessible les bons produits aux bons prix \(bons p
 **Qu'est-ce qu'un groupement d'achat et comment puis-je en créer un ou en rejoindre un ?**
 
 Un groupement d'achat est un collectif d'acheteurs, réalisant leur commande en groupe au travers d'une boutique, puis redistribuant les commandes au sein des membres du groupe. Cela peut prendre forme dans le jardin d'une personne ou dans un espace communal. Les groupements d'achats sont généralement à but non lucratif et gérés par leurs propres membres.  
-En commandant par lot, et en internalisant certaines taches comme la préparation des paniers et la disitribution, les membres sont assurés d'obtenir les produits à un prix plus bas qu'en vente directe individuelle ou via une boutique classique. Créer un groupement d'achat peut être un bon moyen de souder un voisinage tout en donnant accès à de bons produits.
+En commandant par lot, et en internalisant certaines tâches comme la préparation des paniers et la distribution , les membres sont assurés d'obtenir les produits à un prix plus bas qu'en vente directe individuelle ou via une boutique classique. Créer un groupement d'achat peut être un bon moyen de souder un voisinage tout en donnant accès à de bons produits.
 
 Si une boutique livre un groupement d'achat, n'hésitez pas à les contacter directement pour connaître leur conditions d'inscription.
 
