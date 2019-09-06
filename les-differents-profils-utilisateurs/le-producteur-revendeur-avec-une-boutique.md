@@ -10,12 +10,12 @@ Un producteur revendeur est un producteur vendant ses produits, mais également 
 En proposant des produits de diverses sources, vous augmentez la diversité des produits en vente dans votre boutique \(et par extension les ventes\). En collaborant avec d'autres producteurs, vous pouvez également mutualiser les frais et démarches marketing, administratives et l'organisation de la distribution.
 
 **Collaborer facilement**  
-OFF est créé pour faciliter le travail avec d'autres entreprises. Chaque producteur peut se connecter et mettre à jour leur stock et les prix liés à chacun de leur produit, mais aussi visualiser les commandes et les rapports. Par ailleurs, ce n'est pas parce que vous collaborez avec d'autres que vous ne pouvez pas en parallèle, avoir votre propre boutique !
+OFN est créé pour faciliter le travail avec d'autres entreprises. Chaque producteur peut se connecter et mettre à jour leur stock et les prix liés à chacun de leur produit, mais aussi visualiser les commandes et les rapports. Par ailleurs, ce n'est pas parce que vous collaborez avec d'autres que vous ne pouvez pas en parallèle, avoir votre propre boutique !
 
 ## Les étapes de création du profil
 
 **Préambule**  
-Une boutique gérée par un producteur revendeur est administrée généralement par un producteur qui pouvait avoir sa propre boutique sur OFF précédemment, et avoir décidé par la suite d'étendre son activité à la vente d'autres produits que les siens. Cette opération est possible en créant un profil pour chacun des producteurs partenaires et en ajoutant leurs produits dans chacun de leurs catalogues. Les producteurs partenaires peuvent le faire eux-même directement ou bien choisir de ne pas se servir de l'outil et déléguer la gestion de leur catalogue au producteur revendeur.
+Une boutique gérée par un producteur revendeur est administrée généralement par un producteur qui pouvait avoir sa propre boutique sur OFN précédemment, et avoir décidé par la suite d'étendre son activité à la vente d'autres produits que les siens. Cette opération est possible en créant un profil pour chacun des producteurs partenaires et en ajoutant leurs produits dans chacun de leurs catalogues. Les producteurs partenaires peuvent le faire eux-même directement ou bien choisir de ne pas se servir de l'outil et déléguer la gestion de leur catalogue au producteur revendeur.
 
 Les paramétrages de chaque producteur fournissant des produits au producteur revendeur correspondront donc au profil du [producteur sans boutique](https://ofnuserguidefr.gitbook.io/guide-utilisateur-open-food-france/~/edit/drafts/-LOtZV-X0_lFJz4UZCJk/les-differents-profils-utilisateurs/le-producteur-sans-boutique). 
 
