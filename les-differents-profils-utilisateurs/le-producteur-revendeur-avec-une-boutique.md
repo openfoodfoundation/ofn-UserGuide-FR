@@ -37,7 +37,7 @@ Pour cela, il suffit de suivre les instructions de [cette page](le-producteur-sa
 
 \*\*\*\*[**Managers multiples**](https://ofnuserguidefr.gitbook.io/guide-utilisateur-open-food-france/fonctionnalites-standards/votre-profil/parametres#managers) ****: il est possible d'avoir plusieurs managers qui auront les accès d'administration du profil et de la boutique \(connexion, modification, lecture\). Les managers peuvent être ajoutés directement depuis le profil du producteur revendeur.
 
-[**Les prix "irréguliers" \(pièce de viandes indivisible par exemple\)**](../fonctionnalites-standards/produits-1/pricing-irregular-items-kg.md): cette page présente les stratégies pour fixer les prix des produits comme les poulets ou les potirons, vendus au kilo mais dont le poids varie.
+[**Les prix "irréguliers" \(pièce de viande indivisible par exemple\)**](../fonctionnalites-standards/produits-1/pricing-irregular-items-kg.md): cette page présente les stratégies pour fixer les prix des produits comme les poulets ou les potirons, vendus au kilo mais dont le poids varie.
 
 [**Appliquer des tags**](../fonctionnalites-standards/mise-en-place-dune-boutique/affichages-et-prix-differencies-par-categorie-dacheteur/customized-shopping-experience.md) à vos acheteurs et personnaliser leur interaction avec le site durant leurs courses. Il est par exemple possible de ne pas afficher certains produits ou certaines méthodes de paiements à certains acheteurs, ce qui peut être utile si vous avez pour acheteurs des distributeurs / acheteurs en gros.
 
