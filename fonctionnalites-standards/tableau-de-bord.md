@@ -1,6 +1,6 @@
 # Tableau de Bord
 
-Le tableau de bord sert à accéder rapidement aux fonctionnalités coeur du pilotage de votre activité sur la plateforme. Vous pouvez accéder en un clic aux paramètres de votre / vos entreprises, à la liste de vos produits ou à vos cycles de vente. 
+Le tableau de bord sert à accéder rapidement aux fonctionnalités cœur du pilotage de votre activité sur la plateforme. Vous pouvez accéder en un clic aux paramètres de votre / vos entreprises, à la liste de vos produits ou à vos cycles de vente. 
 
 Pour y accéder, connectez-vous et accédez à l'interface d'administration via **Profil &gt; Administration**. 
 
