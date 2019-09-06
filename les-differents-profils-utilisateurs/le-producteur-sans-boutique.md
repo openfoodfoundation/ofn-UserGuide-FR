@@ -26,7 +26,7 @@ Si vous travaillez déjà avec une boutique visible sur Open Food Network, vous 
 
 Si vous avez besoin de le modifier et ou d'ajouter des détails, vous pouvez :
 
-3\) modifier vos [Paramètres](../fonctionnalites-standards/votre-profil/parametres.md). C'est toujours un plus si vous pouvez indiquer vos méthodes de production \(BIO, élevage en plein air...\), des images, et des textes descriptifs de votre activité.
+3\) Modifier vos [Paramètres](../fonctionnalites-standards/votre-profil/parametres.md). C'est toujours un plus si vous pouvez indiquer vos méthodes de production \(BIO, élevage en plein air...\), des images, et des textes descriptifs de votre activité.
 
 ### Bien joué, votre profil est désormais complété ;\)
 

@@ -29,7 +29,7 @@
 
 * Cliquez sur "créer votre profil". Vous allez ensuite recevoir un email vous confirmant la création de votre profil. Vous pouvez vous arrêter là et compléter les informations manquantes un autre jour ou continuer selon les écrans proposés pour avancer dans le remplissage de votre profil entreprise.
 * Complétez la description de votre entreprise, ajoutez des images, des liens web...
-* Une fois terminé, vous êtes renvoyé.e vers la page d'accueil.
+* Une fois terminé, vous êtes renvoyé\(e\) vers la page d'accueil.
 
 **Votre première "entreprise" est désormais créée et vous avez commencé à renseigner votre profil, mais ce n'est pas terminé ! A ce stade votre entreprise n'apparaît toujours pas sur la carte. Vous devez maintenant** [**choisir le type**](votre-profil/types-de-package.md) **de profil correspondant à votre situation pour affiner le paramétrage du profil.** 
 
