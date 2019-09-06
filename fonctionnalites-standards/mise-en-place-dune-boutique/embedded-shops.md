@@ -38,10 +38,10 @@ La première étape est de nous contacter afin que nous puissions autoriser votr
 Voici le bout de code HTML à ajouter à l'endroit où vous souhaitez que la boutique s'affiche :
 
 ```text
-<iframe src=" https://www.openfoodfrance.org/permalien/shop?embedded_shopfront=true"style="width:100%;min-height:35em"></iframe>
+<iframe src=" https://www.openfoodnetwork.be/permalien/shop?embedded_shopfront=true"style="width:100%;min-height:35em"></iframe>
 ```
 
-**Attention**, à la place ‘permalien’ vous devrez indiquer le permalien de votre boutique \(accessible sur les [informations de base](../votre-profil/parametres.md#informations-de-base) de votre entreprise\), et vous devez remplacer "www.openfoodfrance.org" par l'url du fournisseur local de la plateforme Open Food Network.
+**Attention**, à la place ‘permalien’ vous devrez indiquer le permalien de votre boutique \(accessible sur les [informations de base](../votre-profil/parametres.md#informations-de-base) de votre entreprise\).
 
 A partir de là, vous devriez voir votre boutique Open Food Network dans votre site.
 

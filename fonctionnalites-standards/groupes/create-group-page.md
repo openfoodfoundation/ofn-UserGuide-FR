@@ -26,7 +26,7 @@ Une fois administrateur du groupe, vous aurez accès au menu groupe. Vous visual
 
 **Entreprises :** Sélectionnez les entreprises que vous souhaitez faire figurer dans le groupe. ****Vous pouvez rechercher des entreprises dans toutes celles actuellement existantes sur la plateforme. Si vous avez déjà ajouté une entreprise à votre groupe, elle n'apparaitra plus dans la recherche.
 
-**Permalink \(unique, no space\) :** C'est l'élément qui s'affichera dans le lien url de la page de votre groupe, après le début d'url suivant : https://www.monopenfoodnetworklocal.org/groups/permalink \(remplacer "monopenfoodnetworklocal.org" par le nom de domaine de votre plateforme locale Open Food Network, par exemple openfoodfrance.org
+**Permalink \(unique, no space\) :** C'est l'élément qui s'affichera dans le lien url de la page de votre groupe, après le début d'url suivant : https://www.openfoodnetwork.be/groups/permalink
 
 ### Utilisateurs
 
