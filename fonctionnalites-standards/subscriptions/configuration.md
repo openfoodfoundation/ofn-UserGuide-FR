@@ -34,7 +34,7 @@ Il n'y a pas de restriction sur les méthodes de livraison utilisées. Pour la c
 **2\) Stripe :** Stripe est un portail de paiement par carte bancaire équivalent à Paypal \(l'obligation de créer un compte pour l'acheteur en moins\). Pour voir le détail de la configuration Stripe sur une boutique, [cliquez ici](../mise-en-place-dune-boutique/methodes-de-paiements.md#stripe). A chaque commande, la carte bancaire va être débitée du montant de la commande, et reflètera toute modification apportée à la commande. Rien ne sera débité si la commande récurrente a été mise en pause ou annulée.
 
 {% hint style="info" %}
-Pour que l'acheteur soit correctement débité, il est nécessaire qu'il dispose d'un compte utilisateur sur la plateforme Open Food France, qu'il ait enregistré une carte de crédit par défaut et donné l'autorisation à votre boutique de réaliser des prélèvements automatiques. Pour plus d'informations consultez la page [Pour l'acheteur](pour-lacheteur.md).
+Pour que l'acheteur soit correctement débité, il est nécessaire qu'il dispose d'un compte utilisateur sur la plateforme Open Food Network, qu'il ait enregistré une carte de crédit par défaut et donné l'autorisation à votre boutique de réaliser des prélèvements automatiques. Pour plus d'informations consultez la page [Pour l'acheteur](pour-lacheteur.md).
 {% endhint %}
 
 Également, si vous utilisez Stripe, pensez à bien nommer cette méthode de paiement dans votre interface d'administration.

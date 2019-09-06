@@ -20,7 +20,7 @@ Deux cas de figure principaux se présentent :
 
 ### a- Paiement via Stripe
 
-Si le paiement a été effectué via votre compte marchand Stripe, le remboursement peut être géré directement via Open Food France.
+Si le paiement a été effectué via votre compte marchand Stripe, le remboursement peut être géré directement via Open Food Network.
 
 La commande que vous souhaitez ajuster est notée comme "payée" :
 
@@ -46,7 +46,7 @@ Le remboursement va mettre 5 à 10 jours pour apparaître sur le compte de votre
 Les frais prélevés par Stripe \(1,2 - 1,4% + 0,2 cts par transaction\) ne sont pas remboursés bien entendu, et reste prélevés sur la base du montant payé à l'origine. Il peut être parfois plus avantageux de capturer un ajustement sur la commande suivante de l'acheteur, ou lui proposer d'utiliser ses crédits pour payer une future commande \(fonctionnalité qui sera développée dans les mois à venir\).
 {% endhint %}
 
-Si une commande a été annulée et que vous voulez intégralement rembourser la commande, vous également pouvez le faire directement depuis l'interface Open Food France :
+Si une commande a été annulée et que vous voulez intégralement rembourser la commande, vous également pouvez le faire directement depuis l'interface Open Food Network :
 
 ![](../../.gitbook/assets/capture-du-2019-02-27-20-17-57.png)
 
@@ -54,7 +54,7 @@ Si une commande a été annulée et que vous voulez intégralement rembourser la
 
 ### b- Paiement via Paypal
 
-Les remboursements partiels ou totaux de commandes réglés par Paypal ne fonctionne pas bien pour le moment sur Open Food France. Pour l'instant aucun organisateur de circuit court n'utilise cette méthod de paiement, Stripe étant bien plus économique. Si vous souhaitez néanmoins utiliser Paypal, contactez-nous pour que nous puissions prioriser la gestion des remboursements par Paypal dans notre feuille de route.
+Les remboursements partiels ou totaux de commandes réglés par Paypal ne fonctionne pas bien pour le moment sur Open Food Network. Pour l'instant aucun organisateur de circuit court n'utilise cette méthode de paiement, Stripe étant bien plus économique. Si vous souhaitez néanmoins utiliser Paypal, contactez-nous pour que nous puissions prioriser la gestion des remboursements par Paypal dans notre feuille de route.
 
 ### c- Paiement via virement bancaire
 
