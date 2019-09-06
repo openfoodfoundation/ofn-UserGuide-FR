@@ -84,7 +84,7 @@ Vous pouvez ajouter un produit en sélectionnant la variante concernée \(vous d
 ![](../../.gitbook/assets/image%20%2844%29.png)
 
 {% hint style="danger" %}
-Attention : ce document appelé "facture" doit pour la France être modifié pour respecter les obligations légales françaises concernant le numéro de facture. Ici, le numéro de facture est le numéro de commande. La règlementation française impose que les factures émises par une entreprises se suivent selon une numérotation ininterrompue.
+Attention : ce document appelé "facture" doit pour la Belgique être modifié pour respecter les obligations légales françaises concernant le numéro de facture. Ici, le numéro de facture est le numéro de commande. La réglementation française impose que les factures émises par une entreprises se suivent selon une numérotation ininterrompue.
 {% endhint %}
 
 * **Imprimer la facture** : Cette action entraîne la génération d'un PDF à imprimer
@@ -110,11 +110,11 @@ Un paiement partiel par exemple peut être capturer via  le menu "paiement", ce 
 
 ## Impression des factures par lot
 
-Il est possible de sélectionner les commandes visibles sur la page \(utilisez l'outil de sélection pour afficher jusqu'à 100 commandes\) afin de générer un PDF aggrégant les factures des commandes sélectionnées via le bouton "imprimer les factures" :
+Il est possible de sélectionner les commandes visibles sur la page \(utilisez l'outil de sélection pour afficher jusqu'à 100 commandes\) afin de générer un PDF agrégeant les factures des commandes sélectionnées via le bouton "imprimer les factures" :
 
 ![](../../.gitbook/assets/image%20%2866%29.png)
 
-Une fois le bouton cliqué, une fenêtre de chargement s'ouvrira. Lorsque le chargement est terminé un bouton sera affiché afin d'ouvrir dans une nouvelle page le fichier PDF agrégant toutes les factures correspondantes aux commandes sélectionnées :
+Une fois le bouton cliqué, une fenêtre de chargement s'ouvrira. Lorsque le chargement est terminé un bouton sera affiché afin d'ouvrir dans une nouvelle page le fichier PDF agrégeant toutes les factures correspondantes aux commandes sélectionnées :
 
 ![](../../.gitbook/assets/image%20%2860%29.png)
 
@@ -155,7 +155,7 @@ Vous avez donc besoin d'identifier les clients ayant commandé du fromage de ch�
 Les étapes seront les suivantes :
 
 1. Filtrez en fonction de la date ou du cycle de vente en cours
-2. Tapez "chèvre" en mot-clé : toutes les commandes avec du fromage de chèvre apparaîssent.
+2. Tapez "chèvre" en mot-clé : toutes les commandes avec du fromage de chèvre apparaissent.
 3. Cliquez sur "fromage de chèvre" dans la colonne "produit : unité"
 4. Un message apparaît en haut de page avec la quantité totale commandée :
 
