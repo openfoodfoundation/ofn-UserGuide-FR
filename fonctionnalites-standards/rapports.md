@@ -50,7 +50,7 @@ _Exemple 1:_ une boutique collecte sur chaque commande une marge de 2% de type "
 
 _Exemple 2:_ un hub collecte des frais de transport sur les produits du producteur A et les reverse au producteur B qui passe récupérer les produits du producteur A et les amène au point de retrait du hub. Il peut utiliser ce rapport pour savoir combien il doit reverser au producteur B pour un cycle de vente donné ou une période donnée. 
 
-_Exemple 3:_ un hub a paramétré une marge pour refléter de façon transparente à ses acheteurs le montant payé à la plateforme Open Food France. Il peut utiliser se rapport pour savoir combien il va devoir verser à Open Food France sur un cycle de vente ou une période donnée \(voir image ci-dessous, en Anglais pour le moment\).
+_Exemple 3:_ un hub a paramétré une marge pour refléter de façon transparente à ses acheteurs le montant payé à la plateforme Open Food Network. Il peut utiliser se rapport pour savoir combien il va devoir verser à Open Food Network sur un cycle de vente ou une période donnée \(voir image ci-dessous, en Anglais pour le moment\).
 
 ![](../.gitbook/assets/capture-du-2019-07-24-14-48-06.png)
 
