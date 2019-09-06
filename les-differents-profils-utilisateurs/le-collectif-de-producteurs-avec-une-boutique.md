@@ -19,7 +19,7 @@ Il est possible d'utiliser les fonctions de rapports pour permettre aux producte
 
 Ces étapes sont très similaires avec la création d'un hub avec une boutique en ligne.
 
-1\) [Créez votre profil](../fonctionnalites-standards/inscription-et-creation-de-profil.md) sur Open Food France \(OFN\). Pour cette étape, il est nécessaire d'avoir vos coordonnées et un accès à votre boite mail à proximité afin de valider votre adresse.
+1\) [Créez votre profil](../fonctionnalites-standards/inscription-et-creation-de-profil.md) sur Open Food Network \(OFN\). Pour cette étape, il est nécessaire d'avoir vos coordonnées et un accès à votre boite mail à proximité afin de valider votre adresse.
 
 2\) Sélectionnez 'Hub producteur' dans les [types de package](../fonctionnalites-standards/votre-profil/types-de-package.md).
 

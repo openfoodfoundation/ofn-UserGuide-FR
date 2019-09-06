@@ -2,7 +2,7 @@
 
 Cette page décrit ce qui se passe pour l'acheteur qui a une commande récurrent dans une boutique, et met en exergue les points d'attention pour la boutique proposant à ses acheteurs des commandes récurrentes.
 
-## S'inscrire sur Open Food France <a id="signing-up-to-ofn"></a>
+## S'inscrire sur Open Food Network <a id="signing-up-to-ofn"></a>
 
 Détenir un compte sur la plateforme est obligatoire pour bénéficier de la fonctionnalité : les commandes récurrentes en mode "invité" \(sans se connecter\) sont donc impossibles.
 

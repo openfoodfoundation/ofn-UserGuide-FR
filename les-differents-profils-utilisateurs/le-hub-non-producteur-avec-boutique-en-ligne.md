@@ -23,7 +23,7 @@ L'avantage d'une plateforme en ligne, c'est que vous pouvez tester à tout momen
 
 ## Les étapes de création du profil
 
-1\) [Créez votre profil](../fonctionnalites-standards/inscription-et-creation-de-profil.md) sur Open Food France \(OFN\). Pour cette étape, il est nécessaire d'avoir vos coordonnées et un accès à votre boite mail à proximité afin de valider votre adresse.
+1\) [Créez votre profil](../fonctionnalites-standards/inscription-et-creation-de-profil.md) sur Open Food Network \(OFN\). Pour cette étape, il est nécessaire d'avoir vos coordonnées et un accès à votre boite mail à proximité afin de valider votre adresse.
 
 2\) Sélectionnez le 'hub non producteur avec boutique en ligne' dans les [types de package](../fonctionnalites-standards/votre-profil/types-de-package.md).
 

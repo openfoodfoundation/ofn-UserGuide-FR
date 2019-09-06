@@ -11,14 +11,14 @@
 ## Les atouts
 
 **Augmenter votre visibilité**  
-Lorsque vous vous créez un compte sur la plateforme Open Food France, vous devenez visible dans la communauté locale et francophone. Vous pouvez vendre vos produits via diverses boutiques \(avec lesquelles vous travaillez peut-être déjà\) et d'autres entreprises peuvent vous contacter pour des partenariats éventuels.
+Lorsque vous vous créez un compte sur la plateforme Open Food Network, vous devenez visible dans la communauté locale et francophone. Vous pouvez vendre vos produits via diverses boutiques \(avec lesquelles vous travaillez peut-être déjà\) et d'autres entreprises peuvent vous contacter pour des partenariats éventuels.
 
 **Accéder à plusieurs boutiques qui pourront vendre vos produits**  
-Si vous travaillez déjà avec une boutique visible sur Open Food France, vous inscrire vous permettra de gérer vos produits et de les rendre visible à cette boutique. Par la suite, vous pourrez également choisir de vendre vos produits au travers d'autres boutiques du réseau Open Food France.
+Si vous travaillez déjà avec une boutique visible sur Open Food Network, vous inscrire vous permettra de gérer vos produits et de les rendre visible à cette boutique. Par la suite, vous pourrez également choisir de vendre vos produits au travers d'autres boutiques du réseau Open Food Network.
 
 ## Les étapes de création du profil
 
-1\) [Créez votre compte](../fonctionnalites-standards/inscription-et-creation-de-profil.md) sur Open Food France. Cette étape vous demandera de renseigner des informations standards sur votre entreprise. Un email vous sera envoyé afin que vous puissiez confirmer votre adresse email.
+1\) [Créez votre compte](../fonctionnalites-standards/inscription-et-creation-de-profil.md) sur Open Food Network. Cette étape vous demandera de renseigner des informations standards sur votre entreprise. Un email vous sera envoyé afin que vous puissiez confirmer votre adresse email.
 
 2\) Sélectionnez un [type de package](../fonctionnalites-standards/votre-profil/types-de-package.md).
 

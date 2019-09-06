@@ -29,7 +29,7 @@ Une fois la page créée, vous aurez la possibilité de la personnaliser avec vo
 
 ## Etape 2 : Ajouter les profils des producteurs au groupe
 
-Une fois que votre page est créée et complétée, l'étape suivante est de créer un profil pour votre marché en utilisant les étapes 1 à 4 [à cette adresse](le-hub-non-producteur-avec-boutique-en-ligne.md). Ensuite, il est nécessaire de relier les producteurs au groupe. Vous pouvez relier des producteurs utilisant déjà Open Food France \(OFN\) ou créer les profils de zéro. Dans ce cas, deux options sont possibles :
+Une fois que votre page est créée et complétée, l'étape suivante est de créer un profil pour votre marché en utilisant les étapes 1 à 4 [à cette adresse](le-hub-non-producteur-avec-boutique-en-ligne.md). Ensuite, il est nécessaire de relier les producteurs au groupe. Vous pouvez relier des producteurs utilisant déjà Open Food Network \(OFN\) ou créer les profils de zéro. Dans ce cas, deux options sont possibles :
 
 ### Option 1 – Créez vous-même des profils pour vos membres
 
