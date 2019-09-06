@@ -26,7 +26,7 @@
 
 **Combien ça coûte d'utiliser Open Food Network ?**
 
-Cela dépend du fournisseur local de la plateforme. Aujourd'hui l'utilisation d'Open Food France par exemple repose sur donation libre, mais la création d'une coopérative \(en cours\) va entraîner la mise en place de frais d'utilisation entre contribution libre et 2% des ventes selon le cas. Mais ces décisions sont prises de façon collaborative avec les utilisateurs, alors nous rejoindre, c'est aussi avoir la possibilité de participer à notre gouvernance !
+Cela dépend du fournisseur local de la plateforme. Aujourd'hui l'utilisation d'Open Food Network par exemple repose sur donation libre, mais la création d'une coopérative \(en cours\) va entraîner la mise en place de frais d'utilisation entre contribution libre et 2% des ventes selon le cas. Mais ces décisions sont prises de façon collaborative avec les utilisateurs, alors nous rejoindre, c'est aussi avoir la possibilité de participer à notre gouvernance !
 
 ## La plateforme peut-elle vous convenir ?
 

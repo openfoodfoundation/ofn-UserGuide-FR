@@ -1,6 +1,6 @@
 # Acheteur
 
-## A propos de la plateforme locale Open Food Network \(ex: Open Food France\)
+## A propos de la plateforme locale Open Food Network \(ex: [https://www.openfoodnetwork.be](https://www.openfoodnetwork.be)\)
 
 **La plateforme livre-t-elle des paniers de fruits et légumes ?**
 
