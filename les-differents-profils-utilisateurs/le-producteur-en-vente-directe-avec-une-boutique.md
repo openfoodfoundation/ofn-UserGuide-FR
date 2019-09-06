@@ -4,7 +4,7 @@
 
 * Ce profil vous permet de vous créer votre propre boutique en ligne afin de vendre vos produits
 * Lorsque vous créez votre boutique, vous avez également un profil en ligne, ce qui vous permet de raconter votre histoire
-* Avec ce profil, vous serez automatiquement visible sur la carte OFF et sur la liste des producteurs
+* Avec ce profil, vous serez automatiquement visible sur la carte Open Food Network et sur la liste des producteurs
 
 ## Les atouts
 
@@ -15,14 +15,14 @@ Une boutique en ligne inclue toutes les fonctionnalités vous permettant de vend
 Pour faciliter votre gestion au jour-le-jour, l'interface d'administration vous permet de suivre les commandes et d'accéder à un historique des commandes et des paiements.
 
 **Collaborer avec d'autres membres**  
-Open Food France est un réseau : vous pouvez vous connecter à d'autres boutiques. Ainsi vous vendez vos produits dans votre propre boutique en ligne, mais vous pouvez également fournir les autres boutiques d'OFF.
+Open Food Network est un réseau : vous pouvez vous connecter à d'autres boutiques. Ainsi vous vendez vos produits dans votre propre boutique en ligne, mais vous pouvez également fournir les autres boutiques d'OFN.
 
 **Vous rendre visible**  
-La première étape avant de créer votre boutique en ligne, c'est la création de votre profil. En ayant un profil sur OFF, vous devenez visible pour votre communauté locale. Les entreprises présentes dans le réseau et souhaitant collaborer avec vous ou distribuer vos produits peuvent vous contacter.
+La première étape avant de créer votre boutique en ligne, c'est la création de votre profil. En ayant un profil sur OFN, vous devenez visible pour votre communauté locale. Les entreprises présentes dans le réseau et souhaitant collaborer avec vous ou distribuer vos produits peuvent vous contacter.
 
 ## Les étapes de création du profil
 
-1\) [Créez votre profil](../fonctionnalites-standards/inscription-et-creation-de-profil.md) sur Open Food France \(OFF\). Pour cette étape, il est nécessaire d'avoir vos coordonnées et un accès à votre boite mail à proximité afin de valider votre adresse.
+1\) [Créez votre profil](../fonctionnalites-standards/inscription-et-creation-de-profil.md) sur Open Food Network \(OFN\). Pour cette étape, il est nécessaire d'avoir vos coordonnées et un accès à votre boite mail à proximité afin de valider votre adresse.
 
 2\) Sélectionnez "boutique producteur" dans les [types de package](../fonctionnalites-standards/votre-profil/types-de-package.md).
 
