@@ -16,9 +16,9 @@ Vous serez redirigé vers la page suivante :
 
 **Unités de mesure :** Indiquez via quelle unité le produit sera vendu \(L, kg, pièces...\).
 
-> Si vous choisissez g et saisissez ensuite 1000, le produit sera affiché comme 1kg pour l'acheteur. Gardez en tête que le choix de l'unité de mesure va impacter le fonctionnement de certains frais et marges et commissions. Par exemple, un frais fixe au poids ne pourra s'appliquer que sur les produits paramétrés au kg. Vous pouvez dans ce cas saisir des nombres d'unité non entières, comme 0.2 kg et le produit s'affichera comme 200g mais sera bien traité au kg dans les rapports et pour le calcul des frais.
+> Si vous choisissez g et saisissez ensuite 1000, le produit sera affiché comme 1kg pour l'acheteur. Gardez en tête que le choix de l'unité de mesure va impacter le fonctionnement de certains frais et marges et commissions. Par exemple, un frais fixe au poids ne pourra s'appliquer que sur les produits paramétrés au kg. Vous pouvez dans ce cas saisir des nombres d'unité non entières, comme 0.2 kg et le produit s'affichera comme 200 g mais sera bien traité au kg dans les rapports et pour le calcul des frais.
 
-**Nombre d'unités :** Par exemple si c'est 100g, il faudra indiquer ici 100.
+**Nombre d'unités :** Par exemple si c'est 100 g, il faudra indiquer ici 100.
 
 **Unité affichée** **:** Ce champ affiche automatiquement de quelle manière les champs unité de mesure et nombre d'unités vont être affichés, une fois les deux champs complétés \(exemple, si vous avez indiqué kg, puis 2, le champ affichera 2kg\). Vous pouvez "forcer" l'affichage d'une unité différente en écrivant par dessus la proposition automatique.
 
@@ -40,7 +40,7 @@ Vous serez redirigé vers la page suivante :
 
 > Nous recommandons d'utiliser des photos de bonne qualité, sur un format carré, et de préférence une vraie photo de vos produits plutôt que l'image standard du web. Cela rend le produit plus attractif pour le consommateur. Si vous utilisez une image du web, vérifiez qu'elle soit libre de droits.
 
-**TVA applicable :** Sélectionnez la TVA applicable dans la liste déroulante. La TVA dépend de la nature du produit, la plupart des produits alimentaires sont soumis en France par exemple à une TVA de 5,5%. 
+**TVA applicable :** Sélectionnez la TVA applicable dans la liste déroulante. La TVA dépend de la nature du produit, la plupart des produits alimentaires sont soumis en Belgique par exemple à une TVA de 6%. 
 
 > Attention cela n'a pas d'impact sur le fait que la TVA sera collectée ou pas sur le montant de vente TTC par une entreprise. Cette fonctionnalité dépend du [paramétrage de l'entreprise, rubrique "juridique"](../votre-profil/parametres.md#juridique), "Soumis à la TVA?"
 
@@ -56,7 +56,7 @@ Lorsque vous créez un produit, vous êtes redirigé sur la page "produits" où 
 
 ### Créer un produit similaire / une déclinaison du produit
 
-Si vous créez deux produits similaires dont seul le prix ou la taille ou les ingrédients varient, le mieux est de créer une "variante" du produit plutôt qu'un deuxième produit entier. Pour créer une variante, veuillez suivre le processus indiqué [ici](product-variants.md). Vous avez aussi la possibilité de dupliquer un produit en clique sur le picto des deux petites feuilles à droite de la ligne du produit concerné \(picto du milieu\).
+Si vous créez deux produits similaires dont seul le prix ou la taille ou les ingrédients varient, le mieux est de créer une "variante" du produit plutôt qu'un deuxième produit entier. Pour créer une variante, veuillez suivre le processus indiqué [ici](product-variants.md). Vous avez aussi la possibilité de dupliquer un produit en cliquant sur le pictogramme des deux petites feuilles à droite de la ligne du produit concerné \(pictogramme du milieu\).
 
 ### Affiner les attributs des produits
 
