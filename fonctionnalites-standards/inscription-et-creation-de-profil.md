@@ -12,13 +12,13 @@
 
 ### Création de votre première "entreprise"
 
-* Une fois connecté.e, cliquez sur la bannière grise en haut de la page indiquant "vous souhaitez proposer vos produits sur la plateforme ? Cliquez ici"
+* Une fois connecté\(e\), cliquez sur la bannière grise en haut de la page indiquant "vous souhaitez proposer vos produits sur la plateforme ? Cliquez ici"
 
 ![](../.gitbook/assets/capture-du-2019-07-30-17-31-12.png)
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
-* Cochez la case disant que vous adhérez aux valeurs du projet et aux Conditions d'Utilisation, puis cliquez sur Démarrons.
+* Cochez la case disant que vous adhérez aux valeurs du projet et aux Conditions d'Utilisation, puis cliquez sur Démarrons!.
 
 ![](../.gitbook/assets/image%20%285%29.png)
 

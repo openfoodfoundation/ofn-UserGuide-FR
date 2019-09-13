@@ -1,10 +1,10 @@
 # Sélection du type de profil
 
-Lors de votre première connexion à l'interface d'administration, vous devrez choisir le type de profil correspondant à votre situation. **Sans cette étape, la création de votre entreprise ne sera pas finalisée, votre entreprise restera invisible sur la carte.** Pour accéder à l'interface d'administration, assurez-vous d'être connecté.e à la plateforme puis cliquez sur "profil" en haut à droite, puis "Administration" : 
+Lors de votre première connexion à l'interface d'administration, vous devrez choisir le type de profil correspondant à votre situation. **Sans cette étape, la création de votre entreprise ne sera pas finalisée, votre entreprise restera invisible sur la carte.** Pour accéder à l'interface d'administration, assurez-vous d'être connecté\(e\) à la plateforme puis cliquez sur "Profil" en haut à droite, puis "Administration" : 
 
 ![](../../.gitbook/assets/capture-du-2019-07-30-17-44-02%20%281%29.png)
 
-Une fois sur l'interface administration, vous êtes invité.e à choisir un type de profil correspondant à l'entreprise créé. En fonction de ce choix, les menus vous permettant d'affiner votre profil et d'accéder aux fonctionnalités dont vous avez besoin seront rendus accessibles sur la [page des paramètres de votre entreprise](parametres.md). 
+Une fois sur l'interface administration, vous êtes invité\(e\) à choisir un type de profil correspondant à l'entreprise créée. En fonction de ce choix, les menus vous permettant d'affiner votre profil et d'accéder aux fonctionnalités dont vous avez besoin seront rendus accessibles sur la [page des paramètres de votre entreprise](parametres.md). 
 
 {% hint style="info" %}
 Attention, le processus sera légèrement différents pour la création de vos prochaines entreprises. Ce processus s'applique tel quel uniquement lors de la création de la première entreprise !

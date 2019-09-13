@@ -23,7 +23,7 @@ Vous pouvez voir pas à pas comment modéliser et paramétrer votre activité da
      
 \* **Produits** : ajouter des produits/variantes à un catalogue producteur, définir des lots d'achat, ajuster le poids d’un produit \(produits à la pièce vendu au kg\), créer et gérer des catalogues boutiques pour simplifier la mise en place de vos cycles de vente, etc.
 
-\* **Boutique \(appelés Comptoirs en Belgique\)** : paramétrer les options de paiement et livraison, définir vos marges et commissions, créer des cycles de vente, restreindre l’accès à votre boutique, intégrer votre boutique à votre site web, etc.
+\* **Comptoirs \(appelés boutiques en France\)** : paramétrer les options de paiement et livraison, définir vos marges et commissions, créer des cycles de vente, restreindre l’accès à votre boutique, intégrer votre boutique à votre site web, etc.
 
 \* **Traitement des commandes** : ajustements, envois des commandes aux fournisseurs, rapports
 
