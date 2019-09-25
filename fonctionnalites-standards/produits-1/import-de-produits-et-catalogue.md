@@ -46,7 +46,7 @@ Par ailleurs, certains champs ne sont pas encore disponibles via l'import produi
 | sku | Non | La référence produit | AD001265 |
 | name | Oui | Le nom du produit | Carotte |
 | display name | Non | Ce champ s'applique uniquement si vous importez des variantes \(voir plus bas\). Dans le cas contraire vous pouvez le laisser vide. | Carotte rouge |
-| category | Oui | Les catégories disponibles sont listées sur la page d'import produit. Veuillez indiquer ici la catégorie du produit | Poisson |
+| category | Oui | Les catégories disponibles sont listées sur la page d'import produit. Veuillez indiquer ici la catégorie du produit | Fruits & Légumes |
 | units | Oui | Le poids, le volume ou la quantité | 500 |
 | unit\_type | Oui | Sous quelle unité est vendu le produit ? \(grammes, litres,... ?\) S'il est vendu à la pièce, laissez vide | g |
 | variant\_unit\_name | ? | Si le produit est vendu à la pièce, indiquez le nom de la pièce ici | Botte |
