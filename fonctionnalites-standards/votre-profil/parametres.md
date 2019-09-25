@@ -88,7 +88,7 @@ Et en version complète \(depuis la carte, ou les pages boutiques\):
 
 _\* visible seulement par les producteurs_
 
-Vous pouvez ajouter les labels ou "mentions/propriétés" qui vous correspondent \(Bio, Label Rouge...\) à cet endroit. Ils seront affichés par la suite sur tous vos produits. Vous pouvez aussi les renseigner au niveau du produit si ces labelrs ou propriétés ne s'appliquent qu'à certains produits.
+Vous pouvez ajouter les labels ou "mentions/propriétés" qui vous correspondent \(Bio, Label Rouge...\) à cet endroit. Ils seront affichés par la suite sur tous vos produits. Vous pouvez aussi les renseigner au niveau du produit si ces labels ou propriétés ne s'appliquent qu'à certains produits.
 
 ### Méthodes de livraison, de paiement et marges/commissions 
 
@@ -110,7 +110,7 @@ Veuillez vous rendre sur la page [catalogue boutique](../produits-1/inventory-to
 
 _\* non visible pour les profils simples_
 
-Ici sont gérés les tags que vous attribuez à vos clients, et qui vous permettent de grouper ces derniers par catégorie d'acheteurs pour leur ofrrire des accès, tarifs, conditions spécifiques. Pour plus d'information rendez-vous sur la page [gestion des tags et comptes clients](../mise-en-place-dune-boutique/affichages-et-prix-differencies-par-categorie-dacheteur/customized-shopping-experience.md).
+Ici sont gérés les tags que vous attribuez à vos clients, et qui vous permettent de grouper ces derniers par catégorie d'acheteurs pour leur ofrrir des accès, tarifs, conditions spécifiques. Pour plus d'information rendez-vous sur la page [gestion des tags et comptes clients](../mise-en-place-dune-boutique/affichages-et-prix-differencies-par-categorie-dacheteur/customized-shopping-experience.md).
 
 ### Préférences boutique
 

@@ -1,4 +1,4 @@
-# Hubs : créer les profils de vos fournisseurs
+# Hubs : créer ou se connecter à des fournisseurs
 
 > _Cette page concerne les entreprises de type "hub producteur" ou "boutique hub", donc les producteurs souhaitant vendre des produits d'autres producteurs / fournisseurs ainsi que les es distributeurs \(=hubs\) non-producteurs._
 

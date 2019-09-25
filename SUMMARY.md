@@ -16,7 +16,7 @@
   * [Profil entreprise](fonctionnalites-standards/votre-profil/README.md)
     * [Sélection du type de profil](fonctionnalites-standards/votre-profil/types-de-package.md)
     * [Paramètres du profil](fonctionnalites-standards/votre-profil/parametres.md)
-    * [Hubs : créer les profils de vos fournisseurs](fonctionnalites-standards/votre-profil/creez-ou-connectez-vos-producteurs.md)
+    * [Hubs : créer ou se connecter à des fournisseurs](fonctionnalites-standards/votre-profil/creez-ou-connectez-vos-producteurs.md)
     * [Producteurs avec profil simple : apparaître dans les recherches par catégorie de produit](fonctionnalites-standards/votre-profil/making-a-producer-profile-searchable-by-product-category.md)
     * [Permissions inter-entreprises](fonctionnalites-standards/votre-profil/e2e-permissions.md)
     * [Modifier les accès en gestion d'un profil entreprise](fonctionnalites-standards/votre-profil/transfer-ownership.md)
