@@ -6,7 +6,7 @@ Vous pouvez rechercher un producteur sur Open Food Network via son nom ou sa loc
 
 L'idée est d'ajouter un faux produit pour chaque catégorie de produit que vous produisez :
 
-* Sur l'interface d'administration, cliquez sur le menu produit et cliquez sur "nouveau produit" :
+Sur l'interface d'administration, cliquez sur le menu produit et cliquez sur "nouveau produit" :
 
 ![](../../.gitbook/assets/image%20%2899%29.png)
 
