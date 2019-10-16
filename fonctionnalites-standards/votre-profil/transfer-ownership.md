@@ -8,7 +8,7 @@ Pour ce faire, voici la marche à suivre :
 
 ![](../../.gitbook/assets/image%20%282%29.png)
 
-* Dans "gestionnaire", recherchez l'email de la personne que vous souhaitez ajouter \(le producteur ici\)
+* Dans "gestionnaires", recherchez l'email de la personne que vous souhaitez ajouter \(le producteur ici\)
 
 **Cas 1 : la personne \(producteur\) en question a déjà un compte utilisateur sur la plateforme,** vous allez trouver son email et vous pourrez le sélectionner pour l'ajouter à la liste des gestionnaires.
 
