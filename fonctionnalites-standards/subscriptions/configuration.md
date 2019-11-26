@@ -100,7 +100,7 @@ Attention, vous devez au moins avoir un cycle de vente ouvert ou à venir pour p
 **Nom :** Pensez à donner un nom logique au rythme d'abonnement. Par exemple : "hebdomadaire", "mensuel", "un jeudi sur deux"... Ce nom n'est pas visible pour les acheteurs.
 
 {% hint style="info" %}
-Attention, si vous êtes manager sur plusieurs boutiques et souhaite utiliser la fonctionnalité de commande récurrente sur plusieurs boutiques, vous devrez créé un ou plusieurs rythme\(s\) d'abonnement pour chaque boutique. Pensez dans ce cas à mettre des noms clairs, car tous les rythmes vous serons proposés de façon mélangés lorsque vous mettrez en place une commande récurrente. Par exemple : hebdo-quartierZ, hebdo-quartierY, etc.
+Attention, si vous êtes manager sur plusieurs boutiques et que vous souhaitez utiliser la fonctionnalité de commande récurrente sur plusieurs boutiques, vous devrez créé un ou plusieurs rythme\(s\) d'abonnement pour chaque boutique. Pensez dans ce cas à mettre des noms clairs, car tous les rythmes vous serons proposés de façon mélangés lorsque vous mettrez en place une commande récurrente. Par exemple : hebdo-quartierZ, hebdo-quartierY, etc.
 {% endhint %}
 
 Vous pouvez déplacer les cycles de ventes en utilisant les &lt; et &gt; boutons.
