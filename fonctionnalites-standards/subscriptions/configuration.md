@@ -2,8 +2,6 @@
 
 ## 1\) Activez les commandes récurrentes <a id="1-enable-subscriptions"></a>
 
-_Pendant la durée du mode béta, contactez-nous si vous souhaitez utiliser le module pour que nous puissions l'activer sur votre profil._
-
 Activez le module en vous rendant sur les paramètres de votre profil &gt; préférences boutique :
 
 ![](../../.gitbook/assets/image%20%2885%29.png)
