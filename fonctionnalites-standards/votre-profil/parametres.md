@@ -118,7 +118,7 @@ _\* non visible pour les profils simples_
 
 **Message d'accueil boutique ouverte** : Ce message est facultatif. Il sera affiché sur votre boutique juste au-dessus des produits \(cf. exemple ci-dessous\). C'est l'endroit idéal pour des informations importantes comme des commandes spéciales ou des informations particulières sur vos cycles de vente. 
 
-![](../../.gitbook/assets/image%20%2879%29.png)
+![](../../.gitbook/assets/image%20%2880%29.png)
 
 **Message d'accueil boutique fermée** : Ce message s'affiche lorsque votre boutique est fermée. L'occasion d'indiquer la date de la réouverture !
 

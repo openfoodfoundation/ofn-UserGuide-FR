@@ -8,7 +8,7 @@ Vous pouvez faire payer un prix moyen à l'acheteur et ensuite rembourser la dif
 
 Lorsque vous connaissez le vrai poids des produits \(à la préparation de la commande ou au moment du retrait du colis par l'acheteur\), connectez-vous au menu "Gestion des commandes par lot" et ajoutez la colonne Poids/volume au tableau de la page. Vous pouvez ainsi modifier le poids indiqué pour chaque acheteur pour une commande donnée et un produit donné. Le prix se recalculera automatiquement en fonction de la quantité saisie. 
 
-![](../../.gitbook/assets/image%20%2876%29.png)
+![](../../.gitbook/assets/image%20%2877%29.png)
 
 N'oubliez pas de renvoyer une confirmation de commande à l'acheteur pour lui indiquer le bon prix si cela est pertinent, ou de lui indiquer l'écart au moment de la livraison.
 
@@ -32,7 +32,7 @@ Vous pouvez aussi créer des variantes par tranche de calibre, avec un prix fixe
 
 Si vous connaissez à l'avance tous les formats possibles, vous pouvez utiliser les variantes pour afficher directement les prix précis pour chaque variante possible. Exemple :
 
-![](../../.gitbook/assets/image%20%2865%29.png)
+![](../../.gitbook/assets/image%20%2866%29.png)
 
 ## Offre irrégulière
 

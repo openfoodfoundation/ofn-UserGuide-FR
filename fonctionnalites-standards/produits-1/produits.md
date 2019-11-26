@@ -2,7 +2,7 @@
 
 Cette fonctionnalité permet d'ajouter des produits un par un à votre catalogue. Pour un ajout de produit en masse par import de fichier, consultez la page "[Import produits en masse](import-de-produits-et-catalogue.md)" Une fois connecté sur l'interface d'administration, cliquez sur le menu **Produits**, puis sur le bouton **Nouveau Produit**.
 
-![](../../.gitbook/assets/image%20%28107%29.png)
+![](../../.gitbook/assets/image%20%28110%29.png)
 
 Vous serez redirigé vers la page suivante :
 
@@ -52,7 +52,7 @@ N'oubliez pas de bien cliquer sur le bouton "créer" ou "créer et ajouter nouve
 
 Lorsque vous créez un produit, vous êtes redirigé sur la page "produits" où vous retrouvez tous vos produits :
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
 ### Créer un produit similaire / une déclinaison du produit
 

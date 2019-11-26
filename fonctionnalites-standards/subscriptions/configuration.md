@@ -4,7 +4,7 @@
 
 Activez le module en vous rendant sur les paramètres de votre profil &gt; préférences boutique :
 
-![](../../.gitbook/assets/image%20%2885%29.png)
+![](../../.gitbook/assets/image%20%2886%29.png)
 
 **Abonnements \(= commande récurrente\) :** Pour activer, sélectionnez "Activée".
 
@@ -89,13 +89,13 @@ Lorsqu'un rythme d'abonnement a été créé et associé à des commandes récur
 
 Une fois les premières étapes réalisées, vous allez voir apparaître le bouton "rythme d'abonnement" dans le menu Cycle de vente. Cliquez dessus pour créer un nouveau rythme d'abonnement :
 
-![](../../.gitbook/assets/image%20%2821%29.png)
+![](../../.gitbook/assets/image%20%2822%29.png)
 
 {% hint style="info" %}
 Attention, vous devez au moins avoir un cycle de vente ouvert ou à venir pour pouvoir configurer un rythme d'abonnement.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2853%29.png)
+![](../../.gitbook/assets/image%20%2854%29.png)
 
 **Nom :** Pensez à donner un nom logique au rythme d'abonnement. Par exemple : "hebdomadaire", "mensuel", "un jeudi sur deux"... Ce nom n'est pas visible pour les acheteurs.
 
@@ -121,7 +121,7 @@ Vous ne pouvez pas supprimer un rythme d'abonnement si des commandes récurrente
 
 Soit vous utilisez la fonctionnalité de modification d'un rythme décrite ci-dessus, soit vous pouvez utiliser la fonction présente dans la modification d'un cycle de vente, en ajoutant ou supprimant un rythme d'abonnement :
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2825%29.png)
 
 {% hint style="info" %}
 Un même cycle de vente peut se retrouver dans plusieurs rythmes d'abonnement !
