@@ -38,8 +38,6 @@ Une fois le coordinateur choisi vous êtes redirigé vers un écran en 3 étapes
 
 ### 2. Produits entrants
 
-![](../../../.gitbook/assets/image%20%2898%29.png)
-
 Cette section vous permet de sélectionner les produits qui seront vendus durant le cycle de vente, parmi les produits proposés par les producteurs. Les producteurs visibles dans la liste déroulante sont uniquement les producteurs vous [ayant autorisé à vendre leurs produits](../../votre-profil/e2e-permissions.md). Cliquez bien sur "ajouter un fournisseur" pour voir les produits associés à ce fournisseur. Cochez les produits que vous souhaitez ajouter \(vous pouvez aussi les sélectionner tous\). 
 
 {% hint style="info" %}

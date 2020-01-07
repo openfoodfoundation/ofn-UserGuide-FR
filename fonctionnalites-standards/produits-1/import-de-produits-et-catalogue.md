@@ -8,7 +8,7 @@ description: >-
 # Import produits en masse
 
 {% hint style="info" %}
-Cette fonctionnalité arrive bientôt ! Contactez-nous pour accéder dès maintenant à la version béta.
+Cette fonctionnalité est encore en version béta. Contactez-nous pour toute question !
 {% endhint %}
 
 Cet outil vous permet de téléverser un fichier csv pour ajouter en une seule manipulation une liste de produits au catalogue d'un producteur ou dans un catalogue boutique, ou mettre à jour des informations en masse comme les stocks. Cela évite les ajouts ou mise à jour sur chaque produit un par un. Pour un producteur qui met à jour son catalogue dans un tableur type Excel régulièrement, cela peut lui faire gagner beaucoup de temps !
@@ -89,7 +89,7 @@ Un exemple d'import avec des unités différentes :
 Une fois votre fichier csv prêt, vous pouvez le téléverser sur Open Food Network.
 
 Allez sur **Produits** &gt; **Import produit**  
-Sélectionnez **"catalogues produits des producteurs"**  
+Sélectionnez **"catalogue produits des producteurs"**  
 Sélectionnez votre fichier  
 ****Cliquez sur **Téléverser**
 
