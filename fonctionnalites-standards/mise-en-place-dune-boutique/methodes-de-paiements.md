@@ -49,15 +49,15 @@ Pour permettre un paiement par Paypal, vous devez avoir créé au préalable un 
 1. Connectez-vous à votre compte Paypal
 2. Cliquez sur Tools / Outils puis API credentials / Paramètres :
 
-![Paypal tools API credentials](https://openfoodnetwork.org/wp-content/uploads/2015/05/Paypal-tools-API-credentials.png)
+![](../../.gitbook/assets/paypal-tools-api-credentials.png)
 
 1. Cliquez sur "Voir la signature API" :
 
-![API Access](https://openfoodnetwork.org/wp-content/uploads/2015/05/API-Access.png)
+![](../../.gitbook/assets/api-access.png)
 
 2. Sur Open Food Network, assurez-vous d'être connecté en tant que manager de l'entreprise concernée. Allez dans l'interface d'administration, puis dans le menu **Entreprises** et créez un méthode de paiement \(voir ci-dessus\). Sélectionnez Paypal et intégrer les informations :
 
-![Api Signature](https://openfoodnetwork.org/wp-content/uploads/2015/05/Api-Signature.png)
+![](../../.gitbook/assets/api-signature.png)
 
 **Connexion** **:** Indiquez le nom de l'API "API Username".
 
