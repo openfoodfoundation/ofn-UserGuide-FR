@@ -17,7 +17,7 @@ En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez s
 
 **2\)** Cliquez sur "**Créer une commission**". Vous êtes redirigez vers la page suivante :
 
-![](../../.gitbook/assets/image%20%2888%29.png)
+![](../../.gitbook/assets/image%20%2891%29.png)
 
 **Entreprise :** Dans la première colonne, sélectionnez l'entreprise qui collectera la marge.
 

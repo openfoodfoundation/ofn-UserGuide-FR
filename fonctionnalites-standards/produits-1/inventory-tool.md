@@ -8,7 +8,7 @@ La fonctionnalité catalogue boutique permet à un hub-distributeur A de modifie
 
 Pour y accéder, rendez-vous sur **Entreprises**, puis "**paramètres**" et enfin "c**atalogue boutique**" dans le menu vertical de gauche :
 
-![](../../.gitbook/assets/image%20%2873%29.png)
+![](../../.gitbook/assets/image%20%2875%29.png)
 
 Vous avez deux options : 
 
@@ -37,11 +37,11 @@ Pour rappel, si l'option choisie dans les [paramètres](inventory-tool.md#1-les-
 
 ## Produits du Catalogue Boutique
 
-![](../../.gitbook/assets/image%20%2887%29.png)
+![](../../.gitbook/assets/image%20%2890%29.png)
 
 Via le bouton colonnes à droite, vous pouvez choisir les éléments de paramétrage que vous souhaitez pouvoir voir et modifier lorsque cela est permis. 
 
-![](../../.gitbook/assets/image%20%2868%29.png)
+![](../../.gitbook/assets/image%20%2870%29.png)
 
 ### Modifier pour votre boutique les prix, stocks et références produits
 
@@ -78,11 +78,11 @@ N'oubliez pas de sauvegarder vos modifications !
 
 Sur cette page, vous pouvez décider d'ajouter à votre catalogue boutique certains produits préalablement masqués en cliquant sur le bouton "Ajouter" :
 
-![](../../.gitbook/assets/image%20%2851%29.png)
+![](../../.gitbook/assets/image%20%2852%29.png)
 
 ## Catalogue boutique et cycle de vente
 
 Dans le menu Cycle de vente &gt; Modifier un cycle de vente, si vous cliquez sur "paramètres avancés" vous disposez d'une option pour choisir si - sur ce cycle en particulier - les informations viennent de votre catalogue ou directement des fournisseurs :
 
-![](../../.gitbook/assets/image%20%2896%29.png)
+![](../../.gitbook/assets/image%20%2899%29.png)
 

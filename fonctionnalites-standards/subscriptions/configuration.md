@@ -4,7 +4,7 @@
 
 Activez le module en vous rendant sur les paramètres de votre profil &gt; préférences boutique :
 
-![](../../.gitbook/assets/image%20%2886%29.png)
+![](../../.gitbook/assets/image%20%2889%29.png)
 
 **Abonnements \(= commande récurrente\) :** Pour activer, sélectionnez "Activée".
 
@@ -95,7 +95,7 @@ Une fois les premières étapes réalisées, vous allez voir apparaître le bout
 Attention, vous devez au moins avoir un cycle de vente ouvert ou à venir pour pouvoir configurer un rythme d'abonnement.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2854%29.png)
+![](../../.gitbook/assets/image%20%2855%29.png)
 
 **Nom :** Pensez à donner un nom logique au rythme d'abonnement. Par exemple : "hebdomadaire", "mensuel", "un jeudi sur deux"... Ce nom n'est pas visible pour les acheteurs.
 

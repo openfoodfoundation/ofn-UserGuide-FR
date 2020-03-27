@@ -112,11 +112,11 @@ Un paiement partiel par exemple peut être capturer via  le menu "paiement", ce 
 
 Il est possible de sélectionner les commandes visibles sur la page \(utilisez l'outil de sélection pour afficher jusqu'à 100 commandes\) afin de générer un PDF agrégeant les factures des commandes sélectionnées via le bouton "imprimer les factures" :
 
-![](../../.gitbook/assets/image%20%2867%29.png)
+![](../../.gitbook/assets/image%20%2869%29.png)
 
 Une fois le bouton cliqué, une fenêtre de chargement s'ouvrira. Lorsque le chargement est terminé un bouton sera affiché afin d'ouvrir dans une nouvelle page le fichier PDF agrégeant toutes les factures correspondantes aux commandes sélectionnées :
 
-![](../../.gitbook/assets/image%20%2861%29.png)
+![](../../.gitbook/assets/image%20%2863%29.png)
 
 ## Gestion des commandes par lot
 
@@ -138,7 +138,7 @@ La liste des commandes présente les commandes alors que cette page liste les pr
 
 **Colonnes :** Vous pouvez gérer vous-même l'affichage des colonnes qui vous sont utiles \(voir ci-dessous\).
 
-![](../../.gitbook/assets/image%20%2856%29.png)
+![](../../.gitbook/assets/image%20%2857%29.png)
 
 Notez que vous pouvez également trier chaque colonne en cliquant sur son titre. Un clic pour un ordre de A à Z, un second pour l'ordre inverse.
 
@@ -159,7 +159,7 @@ Les étapes seront les suivantes :
 3. Cliquez sur "fromage de chèvre" dans la colonne "produit : unité"
 4. Un message apparaît en haut de page avec la quantité totale commandée :
 
-![](../../.gitbook/assets/image%20%2849%29.png)
+![](../../.gitbook/assets/image%20%2850%29.png)
 
 Vous pouvez alors ajuster la quantité, dans la colonne quantité, ou supprimer des produits. Le total affiché au-dessus se modifiera automatiquement en conséquence. Il peut s'avérer pertinent d'envoyer une alerte email aux clients : **la plateforme ne génère pas automatiquement une alerte lors de la modification d'une commande**.
 
@@ -183,7 +183,7 @@ Nous allons prendre l'exemple d'une caisse de viande de 10 kg :
 4. Modifiez les valeurs de poids \(le prix changera automatiquement\) dans la colonne correspondante
 5. Cliquez sur "mettre à jour" dans la barre de bas de page
 
-![](../../.gitbook/assets/image%20%28109%29.png)
+![](../../.gitbook/assets/image%20%28112%29.png)
 
 ## Vue acheteur de ses commandes
 

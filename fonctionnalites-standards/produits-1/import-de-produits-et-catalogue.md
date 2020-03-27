@@ -71,7 +71,7 @@ Par ailleurs, certains champs ne sont pas encore disponibles via l'import produi
 
 Pour rappel exemple d'affichage pour l'acheteur d'un produit avec 3 variantes :
 
-![](../../.gitbook/assets/image%20%2893%29.png)
+![](../../.gitbook/assets/image%20%2896%29.png)
 
 ### Exemple d'unités <a id="variants-1"></a>
 

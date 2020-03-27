@@ -10,11 +10,11 @@ En créant un cycle de vente, vous définissez les périodes d'ouverture de votr
 
 Connecté en administrateur, rendez-vous sur le menu Cycle de vente ou depuis votre tableau de bord, cliquer sur le bouton suivant :
 
-![](../../../.gitbook/assets/image%20%28116%29.png)
+![](../../../.gitbook/assets/image%20%28120%29.png)
 
 Puis cliquez sur "Nouveau cycle de vente" :
 
-![](../../../.gitbook/assets/image%20%28104%29.png)
+![](../../../.gitbook/assets/image%20%28107%29.png)
 
 {% hint style="info" %}
 **Attention !** Vos cycles de vente seront inactifs tant que vous n'aurez pas créé au moins une [méthode de livraison ](../types-de-livraisons.md)et une[ méthode de paiement](../methodes-de-paiements.md)
@@ -26,7 +26,7 @@ Une fois le coordinateur choisi vous êtes redirigé vers un écran en 3 étapes
 
 ### 1. Informations générales
 
-![](../../../.gitbook/assets/image%20%28111%29.png)
+![](../../../.gitbook/assets/image%20%28115%29.png)
 
 **Nom :** Choisissez un nom pour le cycle de vente. Il sera visible uniquement de vous, donc indiquez quelque chose qui vous permettra de le retrouver facilement ensuite. Par exemple vous pouvez choisir une dénomination type _Semaine26\_2018._
 
@@ -54,7 +54,7 @@ Cette marge s'appliquera à tous les produits du fournisseur. La marge sera calc
 
 Vous pouvez ici sélectionner un ou plusieurs hubs-distributeurs, pour lequels donc leurs boutiques respectives seront ouvertes à la commande pour ce cycle de vente. Dans un modèle simple, il n'y a qu'un seul hub--distributeur. Il suffit de le sélectionner puis de sélectionner tous les produits associés. Dans un modèle plus complexe avec plusieurs hubs-distributeurs dans la partie produits sortants, vous avez ainsi la possibilité de sélectionner des produits différents pour chaque hub et de paramétrer des dates de livraison différentes.
 
-![](../../../.gitbook/assets/image%20%28113%29.png)
+![](../../../.gitbook/assets/image%20%28117%29.png)
 
 Les **tags** vous permettent de taguer le cycle de vente pour qu'il ne soit visible que de certains acheteurs \(voir page [Affichages relatifs aux catégories d'acheteurs \(tags\)](../affichages-et-prix-differencies-par-categorie-dacheteur/customized-shopping-experience.md)\).
 
