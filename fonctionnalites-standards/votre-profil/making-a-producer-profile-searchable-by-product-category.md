@@ -8,7 +8,7 @@ L'idée est d'ajouter un faux produit pour chaque catégorie de produit que vous
 
 Sur l'interface d'administration, cliquez sur le menu produit et cliquez sur "nouveau produit" :
 
-![](../../.gitbook/assets/image%20%28104%29.png)
+![](../../.gitbook/assets/image%20%28106%29.png)
 
 Dans la mesure où pour le moment, vous n'avez pas de boutique sur le plateforme et ne vendez pas vos produits via la boutique d'un tiers, le produit sera visible nulle part. Ainsi vous pouvez lui donner n'importe quel nom, n'importe quel prix, n'importe quelle unité. Le principal est que vous sélectionniez la bonne catégorie de produits. C'est celle-ci qui va permettre à l'internaute de vous trouver. 
 
@@ -16,5 +16,5 @@ Dans la mesure où pour le moment, vous n'avez pas de boutique sur le plateforme
 
 Un exemple de profil condensé avec des catégories de produits :
 
-![](../../.gitbook/assets/image%20%2823%29.png)
+![](../../.gitbook/assets/image%20%2824%29.png)
 

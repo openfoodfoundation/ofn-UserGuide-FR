@@ -24,13 +24,13 @@ Cela implique que l'acheteur devra se connecter avant de pouvoir accéder à vot
 
 Pour limiter l'accès de votre boutique à votre liste d'acheteurs, vous devez donc maintenir votre liste de vos acheteurs à jour. Pour cela, rendez-vous sur l'interface d'administration, sur le menu "**Acheteurs**" :
 
-![](../../.gitbook/assets/image%20%2898%29.png)
+![](../../.gitbook/assets/image%20%28100%29.png)
 
 Cette liste présente tous les acheteurs qui ont déjà placé une commande via votre boutique. Vous pouvez également ajouter des acheteurs manuellement via le bouton "nouvel acheteur", ou supprimer les acheteurs auxquels vous ne souhaitez plus donner accès à votre boutique.
 
 Une fois cette opération réalisée, rendez-vous dans le menu **Entreprise** &gt; **Gérer** &gt; **Préférences boutique :**
 
-![](../../.gitbook/assets/image%20%2860%29.png)
+![](../../.gitbook/assets/image%20%2862%29.png)
 
 Et sélectionnez pour "boutique visible par tous?" &gt;  **"visible uniquement pour les acheteurs logués"**.
 

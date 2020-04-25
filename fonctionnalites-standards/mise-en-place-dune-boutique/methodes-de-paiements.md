@@ -8,13 +8,13 @@ La définition d'au moins une méthode de paiement est obligatoire avant l'ouver
 
 En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez sur **paramètres** et enfin sur **méthodes de paiement** dans le menu vertical de gauche :
 
-![](../../.gitbook/assets/image%20%2818%29.png)
+![](../../.gitbook/assets/image%20%2819%29.png)
 
 **2\)** Cliquez sur "**En créer une maintenant**". 
 
 **3\)** Sélectionnez votre entreprise dans la liste des hubs dans l'encart à droite. Cela signifie que la méthode de paiement sera créée pour cette entreprise. **Vous pouvez sélectionner plusieurs entreprises**.
 
-![](../../.gitbook/assets/image%20%2846%29.png)
+![](../../.gitbook/assets/image%20%2847%29.png)
 
 **4\)** **Nom :** Choisissez un nom pour cette méthode de paiement. \(par exemple : "Payez par carte de crédit via Paypal"\). Ce nom s'affichera au moment du paiement pour l'acheteur, ainsi que dans les emails de confirmation qui lui seront envoyés.
 
@@ -22,7 +22,7 @@ En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez s
 
 Un exemple de message au moment du choix de la méthode de paiement :
 
-![](../../.gitbook/assets/image%20%2864%29.png)
+![](../../.gitbook/assets/image%20%2866%29.png)
 
  **6\) Active :** Indiquez si vous souhaitez que cette méthode soit visible et utilisable.
 
@@ -49,25 +49,29 @@ Pour permettre un paiement par Paypal, vous devez avoir créé au préalable un 
 1. Connectez-vous à votre compte Paypal
 2. Cliquez sur Tools / Outils puis Intégrer Paypal \(menu de gauche\):
 
-![](../../.gitbook/assets/image%20%2847%29.png)
+![](../../.gitbook/assets/image%20%2848%29.png)
 
 3. Cliquez sur "Voir la signature API" :
 
-![](../../.gitbook/assets/image%20%2876%29.png)
+![](../../.gitbook/assets/image%20%2878%29.png)
+
+
+
+![](../../.gitbook/assets/image%20%2861%29.png)
 
 2. Sur Open Food Network, assurez-vous d'être connecté en tant que manager de l'entreprise concernée. Allez dans l'interface d'administration, puis dans le menu **Entreprises** et créez un méthode de paiement \(voir ci-dessus\). Sélectionnez Paypal et intégrer les informations :
 
-![](../../.gitbook/assets/image%20%2859%29.png)
+![](../../.gitbook/assets/image%20%2854%29.png)
 
-**Connexion** **:** Indiquez le nom de l'API "API Username".
+**Les champs suivants sont à renseigner, les autres peuvent rester vides :**
 
-**Mot de passe :** Indiquez le mot de passe de l'API  "API Password".
+**Server :** Indiquez " live "sans les guillemets à la place de "sandbox".
+
+**Login** **:** Indiquez le nom de l'API "API Username".
+
+**Password :** Indiquez le mot de passe de l'API  "API Password".
 
 **Signature :** Indiquez le contenu du champ Signature.
-
-![](../../.gitbook/assets/image%20%28110%29.png)
-
-**Serveur :** Indiquez " live "sans les guillemets à la place de "sandbox".
 
 **Solution :** Ce champ détermine si les utilisateurs devront avoir un compte paypal pour payer ou non. Laissez "Mark" si l'utilisateur doit avoir un compte paypal, indiquez "Sole" si vous souhaitez le contraire.
 
@@ -87,7 +91,7 @@ Si vous souhaitez utiliser la fonctionnalité d'[abonnement](../subscriptions/),
 
 Avant d'utiliser Stripe, il faut connecter votre compte marchand Stripe à votre entreprise sur Open Food Network. Cliquez sur ce bouton \(menu Entreprises &gt; Gérer &gt; Méthodes de paiements\) :
 
-![](../../.gitbook/assets/image%20%2821%29.png)
+![](../../.gitbook/assets/image%20%2822%29.png)
 
 Vous serez redirigé vers un formulaire : soit vous avez déjà un compte Stripe et il suffit de vous connecter, soit vous devrez vous créer un compte. Les informations demandées incluent votre pays, votre activité, votre numéro SIREN, de TVA, votre adresse...
 
@@ -99,7 +103,7 @@ Une fois connecté avec Stripe, créer votre méthode de paiement comme indiqué
 
 Si vous sélectionnez une entreprise qui n'a pas de compte Stripe connecté, vous aurez le message d'erreur ci-dessous. Le cas échéant, cliquez sur "en connecter un", ou répétez les opérations ci-dessus à partir du bouton "connecter avec stripe"
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/image%20%285%29.png)
 
 #### Le paiement via Stripe pour les acheteurs
 

@@ -5,7 +5,7 @@ Pour les producteurs vendant leurs propres produits en direct, ces coûts sont d
 
 Lorsqu'une marge est appliquée, le consommateur est capable de voir la constitution du prix d'un produit sur la boutique en cliquant sur le camembert à droite du prix. Exemple ci-dessous :
 
-![](../../.gitbook/assets/image%20%2827%29.png)
+![](../../.gitbook/assets/image%20%2828%29.png)
 
 ## Définir une marge ou commission
 
@@ -17,7 +17,7 @@ En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez s
 
 **2\)** Cliquez sur "**Créer une commission**". Vous êtes redirigez vers la page suivante :
 
-![](../../.gitbook/assets/image%20%2891%29.png)
+![](../../.gitbook/assets/image%20%2893%29.png)
 
 **Entreprise :** Dans la première colonne, sélectionnez l'entreprise qui collectera la marge.
 
@@ -31,7 +31,7 @@ En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez s
 
 Pour finaliser, cliquez sur "Mettre à jour". Une fois que la marge a été créée, vous pouvez indiquer les montants nécessaires au calcul de la marge dans la colonne "Montant pour calculs".
 
-![](../../.gitbook/assets/image%20%2842%29.png)
+![](../../.gitbook/assets/image%20%2843%29.png)
 
 ## Le calculateur
 

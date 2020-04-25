@@ -4,7 +4,7 @@ Si vous créez deux produits similaires dont seul le prix ou la taille ou un par
 
 Exemple d'affichage boutique d'un produit avec 3 variantes :
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 
 ### Comment créer une variante d'un produit ?
 
@@ -12,11 +12,11 @@ Tout d'abord, il est nécessaire de créer un produit, qui sera automatiquement 
 
 Toujours sur votre interface d'administration, rendez-vous sur la page produits où vous retrouvez la liste des produits pour les entreprises de nature "producteur" que vous gérez. Pour voir toutes les variantes associées à l'ensemble de vos produits, cliquez sur "Tout afficher" en rouge à gauche de la première ligne du tableau. Vous pouvez aussi, pour voir les variantes d'un produit spécifique, cliquez sur l'angle "&gt;" à gauche de la première colonne du tableau.Si vous souhaitez créer une nouvelle variante pour ce produit, cliquez sur le petit plus "+" qui s'affiche juste en-dessous comme sur cet écran :
 
-![](../../.gitbook/assets/image%20%2862%29.png)
+![](../../.gitbook/assets/image%20%2864%29.png)
 
 Cela ajoutera une nouvelle ligne vous permettant de saisir rapîdement les informations concernant la seconde variante :
 
-![](../../.gitbook/assets/image%20%2892%29.png)
+![](../../.gitbook/assets/image%20%2894%29.png)
 
 La première ligne correspond au "produit parent" qui va se décliner sous la forme de plusieurs variantes. Certaines informations attachées au niveau du produit s'appliqueront donc à toutes les variantes, comme l'unité de mesure, le nom de l'unité si le produit est vendu à la pièce, les propriétés, les conditions de transport, etc.
 

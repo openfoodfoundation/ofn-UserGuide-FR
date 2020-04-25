@@ -10,11 +10,11 @@ En créant un cycle de vente, vous définissez les périodes d'ouverture de votr
 
 Connecté en administrateur, rendez-vous sur le menu Cycle de vente ou depuis votre tableau de bord, cliquer sur le bouton suivant :
 
-![](../../../.gitbook/assets/image%20%28120%29.png)
+![](../../../.gitbook/assets/image%20%28122%29.png)
 
 Puis cliquez sur "Nouveau cycle de vente" :
 
-![](../../../.gitbook/assets/image%20%28102%29.png)
+![](../../../.gitbook/assets/image%20%28104%29.png)
 
 {% hint style="info" %}
 **Attention !** Vos cycles de vente seront inactifs tant que vous n'aurez pas créé au moins une [méthode de livraison ](../types-de-livraisons.md)et une[ méthode de paiement](../methodes-de-paiements.md)
@@ -48,7 +48,7 @@ Cliquez sur "créer" pour créer le cycle de vente. Si la date d'ouverture est d
 
 Si votre cycle de vente se répète de manière périodique et régulière, vous pouvez dupliquer un cycle de vente passé afin d'aller plus vite \(bouton orange sur la capture, attention il n'est pas orange sur la plateforme\) :
 
-![](../../../.gitbook/assets/image%20%2836%29.png)
+![](../../../.gitbook/assets/image%20%2837%29.png)
 
 Les cycles de vente sont présentés en vert lorsqu'ils sont actifs, jaune lorsqu'ils sont en attente d'ouverture \(date de début pas encore passée\) et gris lorsqu'ils sont fermés. Un mois après sa fermeture le cycle de vente n’apparaîtra plus dans cette liste, il faudra cliquer sur "voir plus" pour voir tous vos cycles de vente.
 

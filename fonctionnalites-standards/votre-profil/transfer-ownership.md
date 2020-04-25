@@ -6,7 +6,7 @@ Pour ce faire, voici la marche à suivre :
 
 * Sur l'interface d'administration, rendez-vous sur la page Utilisateurs des paramètres de votre entreprise \(Menu Entreprises &gt; Paramètres &gt; Utilisateurs\) : 
 
-![](../../.gitbook/assets/image%20%282%29.png)
+![](../../.gitbook/assets/image%20%283%29.png)
 
 * Dans "gestionnaires", recherchez l'email de la personne que vous souhaitez ajouter \(le producteur ici\)
 

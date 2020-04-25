@@ -16,11 +16,11 @@
 
 ![](../.gitbook/assets/capture-du-2019-07-30-17-31-12.png)
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 * Cochez la case disant que vous adhérez aux valeurs du projet et aux Conditions d'Utilisation, puis cliquez sur Démarrons!.
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 * Renseignez le nom de votre entreprise et vos coordonnées. Cela permettra notamment d'afficher votre entreprise sur la carte, améliorant votre visibilité.
 * Précisez si votre entreprise est "productrice" ou pas. Si vous distribuez les produits de producteurs mais que votre entreprise ou collectif ne produit pas lui même, vous n'être pas producteur. 

@@ -15,7 +15,7 @@ Le plus souvent cette fonctionnalité sera utilisée par les entreprises ayant u
 
 Allez sur le menu **Entreprises** &gt; **Paramètres** &gt; **Règles de tag**
 
-![](../../../.gitbook/assets/image%20%2834%29.png)
+![](../../../.gitbook/assets/image%20%2835%29.png)
 
 ### Les règles par défaut
 
