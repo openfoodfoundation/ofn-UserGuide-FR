@@ -22,13 +22,13 @@ L'étape suivante est d'ajouter les informations liées à l'acheteur dans le me
 
 Cliquez sur continuer et sélectionnez une méthode de livraison :
 
-![](../../.gitbook/assets/image%20%2889%29.png)
+![](../../.gitbook/assets/image%20%2894%29.png)
 
 Ensuite vous pouvez réaliser des ajustements comme l'ajout d'une commission. Continuez.
 
 La dernière étape est le choix de la méthode de paiement :
 
-![](../../.gitbook/assets/image%20%28121%29.png)
+![](../../.gitbook/assets/image%20%28126%29.png)
 
 Cliquez sur **mettre à jour** et envoyez un email de confirmation à l'acheteur.
 

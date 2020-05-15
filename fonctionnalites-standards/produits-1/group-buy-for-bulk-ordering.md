@@ -6,7 +6,7 @@ L'achat par lot est une pratique courante des groupements d'achat par exemple, q
 
 Lorsqu'un produit est défini comme "étant vendu en lot de x unités", il apparaitra pour l'acheteur dans la boutique avec une double colonne quantité min/max :
 
-![](../../.gitbook/assets/image%20%2867%29.png)
+![](../../.gitbook/assets/image%20%2871%29.png)
 
 Les acheteurs doivent indiquer pour ce produit au moment de la commande :
 
@@ -21,7 +21,7 @@ Dans le menu de [gestion des commandes par lot](../commandes/visualisation-des-c
 
 Sur l'interface d'administration, allez dans le menu Produits, cliquez sur Modifier pour un produit donné, puis rendez-vous sur le sous-menu vertical "options d'achat par lot" :
 
-![](../../.gitbook/assets/image%20%2875%29.png)
+![](../../.gitbook/assets/image%20%2880%29.png)
 
 Sélectionnez "oui". La quantité totale du lot est le nombre exact d'unités que la commande collective doit atteindre si le produit est vendu à la pièce, ou le poids total **en GRAMMES pour les produits vendus au poids et en LITRES pour les produits vendus au volume.**
 

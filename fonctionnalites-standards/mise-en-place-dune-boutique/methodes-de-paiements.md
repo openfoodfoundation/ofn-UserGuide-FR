@@ -8,13 +8,13 @@ La définition d'au moins une méthode de paiement est obligatoire avant l'ouver
 
 En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez sur **paramètres** et enfin sur **méthodes de paiement** dans le menu vertical de gauche :
 
-![](../../.gitbook/assets/image%20%2819%29.png)
+![](../../.gitbook/assets/image%20%2820%29.png)
 
 **2\)** Cliquez sur "**En créer une maintenant**". 
 
 **3\)** Sélectionnez votre entreprise dans la liste des hubs dans l'encart à droite. Cela signifie que la méthode de paiement sera créée pour cette entreprise. **Vous pouvez sélectionner plusieurs entreprises**.
 
-![](../../.gitbook/assets/image%20%2847%29.png)
+![](../../.gitbook/assets/image%20%2849%29.png)
 
 **4\)** **Nom :** Choisissez un nom pour cette méthode de paiement. \(par exemple : "Payez par carte de crédit via Paypal"\). Ce nom s'affichera au moment du paiement pour l'acheteur, ainsi que dans les emails de confirmation qui lui seront envoyés.
 
@@ -22,7 +22,7 @@ En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez s
 
 Un exemple de message au moment du choix de la méthode de paiement :
 
-![](../../.gitbook/assets/image%20%2866%29.png)
+![](../../.gitbook/assets/image%20%2870%29.png)
 
  **6\) Active :** Indiquez si vous souhaitez que cette méthode soit visible et utilisable.
 
@@ -47,21 +47,25 @@ En cliquant sur **Créer**, la méthode de paiement sera créée et vous aurez d
 Pour permettre un paiement par Paypal, vous devez avoir créé au préalable un compte Paypal professionnel. Vous pouvez en créer un [ici](https://www.paypal.com/fr/home). Ensuite il est nécessaire de paramétrer l'API. C'est elle qui vous permettra de connecter votre compte Paypal à Open Food Network.
 
 1. Connectez-vous à votre compte Paypal
-2. Cliquez sur Tools / Outils puis Intégrer Paypal \(menu de gauche\):
+2. Rendez-vous sur account settings:
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2868%29.png)
 
-3. Cliquez sur "Voir la signature API" :
+3. Cliquez sur "mettre à jour" l'accès API:
 
-![](../../.gitbook/assets/image%20%2878%29.png)
+![](../../.gitbook/assets/image%20%2852%29.png)
 
+4. Sélectionnez "Manage API credentials":
 
+![](../../.gitbook/assets/image%20%287%29.png)
 
-![](../../.gitbook/assets/image%20%2861%29.png)
+De là vous pouvez accéder au username de l'API, le mot de passe et la signature :
 
-2. Sur Open Food Network, assurez-vous d'être connecté en tant que manager de l'entreprise concernée. Allez dans l'interface d'administration, puis dans le menu **Entreprises** et créez un méthode de paiement \(voir ci-dessus\). Sélectionnez Paypal et intégrer les informations :
+![](../../.gitbook/assets/image%20%2874%29.png)
 
-![](../../.gitbook/assets/image%20%2854%29.png)
+5. Sur Open Food Network, assurez-vous d'être connecté en tant que manager de l'entreprise concernée. Allez dans l'interface d'administration, puis dans le menu **Entreprises** et créez un méthode de paiement \(voir ci-dessus\). Sélectionnez Paypal et intégrer les informations :
+
+![](../../.gitbook/assets/image%20%2857%29.png)
 
 **Les champs suivants sont à renseigner, les autres peuvent rester vides :**
 
@@ -91,7 +95,7 @@ Si vous souhaitez utiliser la fonctionnalité d'[abonnement](../subscriptions/),
 
 Avant d'utiliser Stripe, il faut connecter votre compte marchand Stripe à votre entreprise sur Open Food Network. Cliquez sur ce bouton \(menu Entreprises &gt; Gérer &gt; Méthodes de paiements\) :
 
-![](../../.gitbook/assets/image%20%2822%29.png)
+![](../../.gitbook/assets/image%20%2823%29.png)
 
 Vous serez redirigé vers un formulaire : soit vous avez déjà un compte Stripe et il suffit de vous connecter, soit vous devrez vous créer un compte. Les informations demandées incluent votre pays, votre activité, votre numéro SIREN, de TVA, votre adresse...
 

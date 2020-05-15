@@ -81,7 +81,7 @@ Vous pouvez ajouter un produit en sélectionnant la variante concernée \(vous d
 * **Renvoyer la confirmation :** Si vous avez modifié le contenu d'une commande, il peut être pertinent de renvoyer une nouvelle confirmation de commande - mise à jour - à l'acheteur.
 * **Envoyer la facture :** Cette action entraîne l'envoi automatique par email de la facture correspondant à la commande, au format PDF
 
-![](../../.gitbook/assets/image%20%2846%29.png)
+![](../../.gitbook/assets/image%20%2848%29.png)
 
 {% hint style="danger" %}
 Attention : ce document appelé "facture" doit pour la Belgique être modifié pour respecter les obligations légales françaises concernant le numéro de facture. Ici, le numéro de facture est le numéro de commande. La réglementation française impose que les factures émises par une entreprises se suivent selon une numérotation ininterrompue.
@@ -112,11 +112,11 @@ Un paiement partiel par exemple peut être capturer via  le menu "paiement", ce 
 
 Il est possible de sélectionner les commandes visibles sur la page \(utilisez l'outil de sélection pour afficher jusqu'à 100 commandes\) afin de générer un PDF agrégeant les factures des commandes sélectionnées via le bouton "imprimer les factures" :
 
-![](../../.gitbook/assets/image%20%2871%29.png)
+![](../../.gitbook/assets/image%20%2876%29.png)
 
 Une fois le bouton cliqué, une fenêtre de chargement s'ouvrira. Lorsque le chargement est terminé un bouton sera affiché afin d'ouvrir dans une nouvelle page le fichier PDF agrégeant toutes les factures correspondantes aux commandes sélectionnées :
 
-![](../../.gitbook/assets/image%20%2865%29.png)
+![](../../.gitbook/assets/image%20%2869%29.png)
 
 ## Gestion des commandes par lot
 
@@ -138,7 +138,7 @@ La liste des commandes présente les commandes alors que cette page liste les pr
 
 **Colonnes :** Vous pouvez gérer vous-même l'affichage des colonnes qui vous sont utiles \(voir ci-dessous\).
 
-![](../../.gitbook/assets/image%20%2859%29.png)
+![](../../.gitbook/assets/image%20%2862%29.png)
 
 Notez que vous pouvez également trier chaque colonne en cliquant sur son titre. Un clic pour un ordre de A à Z, un second pour l'ordre inverse.
 
@@ -159,7 +159,7 @@ Les étapes seront les suivantes :
 3. Cliquez sur "fromage de chèvre" dans la colonne "produit : unité"
 4. Un message apparaît en haut de page avec la quantité totale commandée :
 
-![](../../.gitbook/assets/image%20%2851%29.png)
+![](../../.gitbook/assets/image%20%2854%29.png)
 
 Vous pouvez alors ajuster la quantité, dans la colonne quantité, ou supprimer des produits. Le total affiché au-dessus se modifiera automatiquement en conséquence. Il peut s'avérer pertinent d'envoyer une alerte email aux clients : **la plateforme ne génère pas automatiquement une alerte lors de la modification d'une commande**.
 
@@ -183,7 +183,7 @@ Nous allons prendre l'exemple d'une caisse de viande de 10 kg :
 4. Modifiez les valeurs de poids \(le prix changera automatiquement\) dans la colonne correspondante
 5. Cliquez sur "mettre à jour" dans la barre de bas de page
 
-![](../../.gitbook/assets/image%20%28114%29.png)
+![](../../.gitbook/assets/image%20%28119%29.png)
 
 ## Vue acheteur de ses commandes
 
