@@ -80,7 +80,9 @@ Plusieurs possibilités de paramétrages utilisant les règles de tag sont à vo
 Au delà de l'usage des tags, il est possible d'utiliser la fonctionnalité "catalogue boutique" pour gérer des tarifications différenciées. Vous pouvez par exemple créé une boutique pour les acheteurs pro, dont vous ne communiquer l'url qu'à ces acheteurs. Cette boutique peut gérer un catalogue boutique et modifier les prix des produits qui s'afficheront dans la boutique. Cette solution peut être utile lorsque la ristourne appliquée aux professionnels ne suit aucune "règle" fixe, et que les prix sont définis produits par produits.
 {% endhint %}
 
-#### 
+{% hint style="info" %}
+**ATTENTION**: N'oubliez pas de définir vos [règles de tag](https://ofnuserguidefr.gitbook.io/guide-utilisateur-open-food-network/fonctionnalites-standards/mise-en-place-dune-boutique/affichages-et-prix-differencies-par-categorie-dacheteur/customized-shopping-experience#comment-parametrer-une-regle-de-tag) afin que les tags fonctionnent !
+{% endhint %}
 
 
 
