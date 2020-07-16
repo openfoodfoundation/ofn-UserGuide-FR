@@ -73,9 +73,11 @@ Nous vous proposons des “profils types” ci-dessous. Bien sûr, les acteurs s
       </td>
     </tr>
   </tbody>
-</table>{% hint style="info" %}
+</table>
+
+{% hint style="info" %}
 **A noter** :  
-- Sachez qu'il est également possible d'ouvrir une boutique privée. Pour ce faire, rendez-vous [sur cette page](https://ofnuserguidefr.gitbook.io/guide-utilisateur-open-food-france/~/edit/drafts/-LOtNdKQjy0xUjzPEaRg/fonctionnalites-standards/mise-en-place-dune-boutique/private-shopfront).  
+- Sachez qu'il est également possible d'ouvrir une boutique privée. Pour ce faire, rendez-vous [sur cette page](https://app.gitbook.com/@ofn-user-guide/s/guide-utilisateur-open-food-network/fonctionnalites-standards/mise-en-place-dune-boutique/private-shopfront).  
 - OFN ne gère pour l'instant pas les abonnements en ligne, mais la fonctionnalité est actuellement en développement ! La première brique publiée en ce sens concerne la mise en place de [commandes récurrentes](https://ofnuserguidefr.gitbook.io/guide-utilisateur-open-food-france/~/edit/drafts/-LOtNdKQjy0xUjzPEaRg/fonctionnalites-standards/subscriptions).
 {% endhint %}
 
