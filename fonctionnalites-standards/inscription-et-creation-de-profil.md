@@ -23,7 +23,7 @@
 ![](../.gitbook/assets/image%20%286%29.png)
 
 * Renseignez le nom de votre entreprise et vos coordonnées. Cela permettra notamment d'afficher votre entreprise sur la carte, améliorant votre visibilité.
-* Précisez si votre entreprise est "productrice" ou pas. Si vous distribuez les produits de producteurs mais que votre entreprise ou collectif ne produit pas lui même, vous n'être pas producteur. 
+* Précisez si votre entreprise est "productrice" ou pas. Si vous distribuez les produits de producteurs mais que votre entreprise ou collectif ne produit pas lui même, vous n'êtes pas producteur. 
 
 ![](../.gitbook/assets/capture-du-2019-07-30-17-37-32.png)
 
