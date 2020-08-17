@@ -2,7 +2,7 @@
 
 ## 6 étapes pour créer rapidement votre boutique
 
-1. Créez [le profil de votre entreprise ](fonctionnalites-standards/inscription-et-creation-de-profil.md)et [créez ou connectez-vous à des producteurs](https://ofnuserguidefr.gitbook.io/guide-utilisateur-open-food-france/~/edit/drafts/-LOtMICqIq41taZzMEt4/fonctionnalites-standards/votre-profil/creez-ou-connectez-vos-producteurs)
+1. Créez [le profil de votre entreprise ](fonctionnalites-standards/inscription-et-creation-de-profil.md)et créez ou connectez-vous à des producteurs
 
 2. [Ajoutez des produits](fonctionnalites-standards/produits-1/produits.md) aux catalogues des producteurs si nécessaire
 
