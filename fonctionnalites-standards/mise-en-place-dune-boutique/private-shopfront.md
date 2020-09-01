@@ -11,7 +11,7 @@ Dans les [paramètres du profil](../votre-profil/parametres.md), sous "informati
 
 ![](../../.gitbook/assets/capture-de-cran-2020-09-01-a-17.04.05.png)
 
-Votre entreprise sera masquée dans toutes les recherches, à la fois sur la plateforme, et dans les moteurs de recherche du web. Cela signifie que sur la plateforme, votre entreprise n'apparaitra ni dans le menu "boutiques", ni sur la carte. Cependant, l'accès à la boutique n'est pas restreint, dans le sens où toute personne en possession de l'URL de la boutique pourra y accéder et passer commande. 
+Votre boutique sera masquée dans toutes les recherches, à la fois sur la plateforme, et dans les moteurs de recherche du web. Cela signifie que sur la plateforme, votre boutique n'apparaitra ni dans le menu "boutiques", ni sur la carte. Cependant, l'accès à la boutique n'est pas restreint, dans le sens où toute personne en possession de l'URL de la boutique pourra y accéder et passer commande. 
 
 Le bénéfices de cette option, est que vous pouvez inviter \(par email par exemple\), vos clients en leur envoyant le lien URL direct de votre entreprise.
 
@@ -46,4 +46,6 @@ Et sélectionnez pour "boutique visible par tous?" &gt;  **"visible uniquement p
 {% hint style="info" %}
 Le choix de cette option stricte implique que vous devez ajouter un acheteur AVANT qu'il puisse passer commande. Cela est plutôt adapté pour des groupements d'achat où il faut devenir membre avant de pouvoir passer commande, mais demandera une manipulation manuelle d'ajout préalable à la liste d'acheteur.
 {% endhint %}
+
+## 
 
