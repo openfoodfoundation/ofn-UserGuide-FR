@@ -1,6 +1,9 @@
 # Boutique en ligne privée
 
-Si vous ne souhaitez pas que votre boutique soit visible pour le public, ou si vous voulez réserver la possibilité de passer commande à certains acheteurs définis \(des membres par exemple\), il y a deux façon de procéder : rendre la boutique invisible et ne partager l'url qu'à une liste définie de personnes, ou rendre la boutique "privée" donc limiter l'accès à la liste de produits aux acheteurs inscrits dans votre liste d'acheteurs. Explication des deux options.
+Si vous ne souhaitez pas que votre boutique soit visible pour le public, ou si vous voulez réserver la possibilité de passer commande à certains acheteurs définis \(des membres par exemple\), il y a deux façon de procéder : 
+
+* Rendre la boutique invisible du grand public et ne partager l'url qu'à une liste définie de personnes
+* Rendre la boutique "privée" et limiter l'accès aux acheteurs inscrits dans votre liste d'acheteurs. 
 
 ## Rendre votre boutique invisible du grand public
 
