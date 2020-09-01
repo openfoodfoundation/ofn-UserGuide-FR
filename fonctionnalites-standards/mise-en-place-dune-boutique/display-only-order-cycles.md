@@ -13,6 +13,6 @@ Et le tour est joué ! Vos produits s'affichent sur votre boutique, mais la bout
 **N'oubliez pas de réactiver vos méthodes de paiements à la réouverture de la boutique !**
 
 {% hint style="warning" %}
-Pour pouvoir  créé le cycle de vente, le distributeur doit avoir au moins une méthode de paiement active. Donc vous devez créé le cycle "vitrine" avant de désactiver la méthode de paiement, sans quoi vous ne pourrez pas créé le cycle vitrine.
+Pour pouvoir créer le cycle de vente, le distributeur doit avoir au moins une méthode de paiement active. Donc vous devez créer le cycle "vitrine" avant de désactiver la méthode de paiement, sans quoi vous ne pourrez pas créé le cycle vitrine.
 {% endhint %}
 

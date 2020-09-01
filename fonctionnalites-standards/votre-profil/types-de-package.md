@@ -54,7 +54,7 @@ Si vous utilisez par ailleurs un autre logiciel de vente en ligne pour vendre vo
 
 ## Modifier le type de profil d'une entreprise
 
-Vous pouvez toujours changer de profil \(package\) par la suite. Vous avez deux options : soit vous utilisez le bouton ‘**Modifier le package** sur le [Tableau de Bord](../tableau-de-bord.md). Or via le menu "Entreprises" en modifiant les colonnes dédiées comme sur la capture ci-dessous : 
+Vous pouvez toujours changer de profil \(package\) par la suite. Vous avez deux options : soit vous utilisez le bouton ‘**Modifier le package** sur le [Tableau de Bord](../tableau-de-bord.md). Ou via le menu "Entreprises" en modifiant les colonnes dédiées comme sur la capture ci-dessous : 
 
 ![](../../.gitbook/assets/image%20%2847%29.png)
 
