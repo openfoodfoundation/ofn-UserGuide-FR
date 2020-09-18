@@ -6,7 +6,7 @@ Cette fonctionnalité vous permet d'offrir la possibilité à vos acheteurs d'ac
 Cette fonctionnalité est actuellement basée sur une "iframe" \(un bout de code qui permet d'intégrer la boutique dans votre site comme vous intégreriez une video Youtube par exemple\). Nous avons constaté les limites de cette approche technique, notamment lorsque vos visiteurs naviguent via un terminal mobile : le scroll sur la page est limité à l'iframe, donc il peut parfois être compliqué d'en sortir et de revenir vers le site initial.  
 Nous sommes donc en réflexion pour remplacer cette fonctionnalité.
 
-D'ici là, nous ne pouvons garantir l'absence de bugs et recommandons donc de ne pas l'utiliser. Et au contraire, plutôt favoriser un lien, à l'image de ce qu'a réalisé Rézomes : [https://rezomes.com/](https://rezomes.com/)
+D'ici là, nous ne pouvons garantir l'absence de bugs et recommandons donc de ne pas l'utiliser. 
 {% endhint %}
 
 ## Pré-requis
