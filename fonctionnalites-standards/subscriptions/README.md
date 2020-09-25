@@ -2,7 +2,7 @@
 
 {% hint style="info" %}
 Le module abonnements est en version béta, c'est-à-dire qu'il s'agit d'une nouvelle fonctionnalité qui peut avoir encore certains défauts. N'hésitez pas à nous contacter afin de nous dire ce qui a fonctionné / pas fonctionné pour vous et ce que vous aimeriez pouvoir réaliser avec cette fonctionnalité   
-- support@openfoodfrance.org pour la France   
+- support@coopcircuits.fr pour la France   
 - support@openfoodnetwork.be pour la Belgique.
 {% endhint %}
 
