@@ -1,7 +1,7 @@
 # Impression de tickets de caisse
 
 {% hint style="info" %}
-Cette fonctionnalité n'est pour l'instant disponible que sur l'instance française d'Open Food Network \(Open Food France\). Contactez le fournisseur local de la plateforme Open Food Network pour plus d'informations, ou pour demander l'accès à cette fonctionnalité.
+Cette fonctionnalité n'est pour l'instant disponible que sur l'instance française d'Open Food Network \(CoopCircuits\). Contactez le fournisseur local de la plateforme Open Food Network pour plus d'informations, ou pour demander l'accès à cette fonctionnalité.
 {% endhint %}
 
 ## Quelle imprimante ?

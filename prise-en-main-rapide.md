@@ -23,10 +23,5 @@ Dès vos premières commandes reçues vous pouvez [voir ces commandes](fonctionn
 Nous améliorons la plateforme en permanence – si vous avez un besoin spécifique non couvert par la plateforme, n’hésitez pas à nous en faire part via le [forum](https://forums.openfoodfrance.org/c/utilisationplateforme/nouvelle-fonctionnalite) pour que nous puissions co-designer ensemble les réponses à vos besoins !  
 
 
-Pour toute question, écrivez nous à :
-
-{% hint style="info" %}
-- support@coopcircuits.fr pour la France   
-- support@openfoodnetwork.be pour la Belgique.
-{% endhint %}
+Pour toute question,écrivez nous à support\[at\]openfoodfrance.org.
 
