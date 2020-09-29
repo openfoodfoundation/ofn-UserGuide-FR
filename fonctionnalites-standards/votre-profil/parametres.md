@@ -7,7 +7,7 @@
 
 ![](../../.gitbook/assets/capture-du-2019-07-30-22-34-39.png)
 
-{% hint style="info" %}
+{% hint style="danger" %}
 Attention : pour sauvegarder un changement de type de profils, n'oubliez pas de cliquer sur "enregistrer" en bas de la fenêtre à droite.
 {% endhint %}
 
@@ -15,8 +15,8 @@ Vous accédez ensuite à différents menus de paramétrage de votre entreprise, 
 
 ![](../../.gitbook/assets/capture-du-2019-07-30-22-38-39.png)
 
-{% hint style="info" %}
-Attention : pour sauvegarder vos modifications, il vous faut cliquer sur "mettre à jour" en bas de page. Il est recommandé de sauvegarder chaque page avant de changer de page.
+{% hint style="danger" %}
+Attention : pour sauvegarder vos modifications, n'oubliez pas de cliquer sur "mettre à jour" en bas de page. Il est recommandé de sauvegarder chaque page avant de changer de page.
 {% endhint %}
 
 ## Détails des paramètres
@@ -27,7 +27,9 @@ Attention : pour sauvegarder vos modifications, il vous faut cliquer sur "mettre
 
 **Producteur ? :** Cochez cette case uniquement si vous êtes un producteur.
 
-\*_Remarque : seuls les producteurs peuvent ajouter des produits sur la plateforme. Les hubs doivent sélectionner cette option lorsqu'ils vendent des paniers avec des produits de différents fournisseurs pour pouvoir créer les paniers comme des produits qu'ils "assemblent / fournissent" eux-mêmes._ 
+{% hint style="warning" %}
+_Seuls les producteurs peuvent ajouter des produits sur la plateforme. Les hubs doivent sélectionner cette option lorsqu'ils vendent des paniers avec des produits de différents fournisseurs pour pouvoir créer les paniers comme des produits qu'ils "assemblent / fournissent" eux-mêmes._
+{% endhint %}
 
 **Apparaît sur la plateforme ?** **:** Si votre profil est prêt, cochez "visible" et il sera visible sur la plateforme ainsi que sur la carte. Vous pouvez le laisser invisible tant que vous modifiez encore ses paramètres \(contenu, images...\).
 
