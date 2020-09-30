@@ -13,7 +13,7 @@ Attention : pour sauvegarder un changement de type de profils, n'oubliez pas de 
 
 Vous accédez ensuite à différents menus de paramétrage de votre entreprise, qui ressemblent à ça \(comme rappelé précédemment, les menus proposés vont dépendre du type de profil choisi pour l'entreprise\) : 
 
-![](../../.gitbook/assets/capture-du-2019-07-30-22-38-39.png)
+![](../../.gitbook/assets/capture-de-cran-2020-09-30-a-12.00.29.png)
 
 {% hint style="danger" %}
 Attention : pour sauvegarder vos modifications, n'oubliez pas de cliquer sur "mettre à jour" en bas de page. Il est recommandé de sauvegarder chaque page avant de changer de page.
@@ -33,11 +33,11 @@ _Seuls les producteurs peuvent ajouter des produits sur la plateforme. Les hubs 
 
 **Apparaît sur la plateforme ?** **:** Si votre profil est prêt, cochez "visible" et il sera visible sur la plateforme ainsi que sur la carte. Vous pouvez le laisser invisible tant que vous modifiez encore ses paramètres \(contenu, images...\).
 
-**Nom pour URL** **:** Vous pouvez personnaliser l'adresse web menant jusqu'à votre profil.
+**Nom pour URL** **:** Vous pouvez personnaliser l'adresse web \(l'URL\) menant jusqu'à votre profil. Attention à ne pas renseigner d'espaces.
 
 **Lien URL de la boutique :** Il s'agit du lien vers votre boutique \(si vous avez choisi d'en avoir une\). Ce lien est personnalisable comme vu au paragraphe précédent.
 
-**ID OFN :** Cet identifiant permet de reconnaître sans aucune ambiguité votre entreprise même si vous décidez de changer son nom par exemple, et simplifie le travail de l'équipe de support en cas de besoin.
+**ID OFN :** Cet identifiant permet de reconnaître sans aucune ambiguïté votre entreprise même si vous décidez de changer son nom par exemple, et simplifie le travail de l'équipe de support en cas de besoin.
 
 ### Adresse
 
@@ -71,6 +71,10 @@ L'adresse nous permet de géolocaliser votre entreprise sur une carte. Si vous d
 
 **Ajouter une mention spécifique en bas des factures :** Vous pouvez ajouter une mention spécifique que vous auriez l'obligation ou le souhait d'ajouter sur vos factures.
 
+**CGU & CGV** : Indiquez vos propres CGV, associées à votre boutique, en téléchargeant un fichier .pdf ici.
+
+![](../../.gitbook/assets/capture-de-cran-2020-09-30-a-11.35.24.png)
+
 ### Images
 
 **Logo :** Le logo sera visible lorsque votre profil est affiché en mode réduit, mais également en version complète. L'image d'origine doit être carrée \(100 x 100 par exemple\), sinon elle peut se faire couper lors du téléchargement.
@@ -88,15 +92,19 @@ Et en version complète \(depuis la carte, ou les pages boutiques\):
 
 ### Propriétés / Labels 
 
-_\* visible seulement par les producteurs_
+{% hint style="warning" %}
+Visible seulement par les profils producteurs
+{% endhint %}
 
-Vous pouvez ajouter les labels ou "mentions/propriétés" qui vous correspondent \(Bio, Label Rouge...\) à cet endroit. Ils seront affichés par la suite sur tous vos produits. Vous pouvez aussi les renseigner au niveau du produit si ces labels ou propriétés ne s'appliquent qu'à certains produits.
+Vous pouvez ajouter les labels ou "mentions/propriétés" qui vous correspondent \(Bio, Label Rouge...\) à cet endroit. Ils seront affichés par la suite sur **tous vos produits**. Vous pouvez aussi les renseigner au niveau du produit lui même si ces labels ou propriétés ne s'appliquent qu'à **certains produits**.
 
 ### Méthodes de livraison, de paiement et marges/commissions 
 
-_\* non visible pour les profils simples_
+{% hint style="warning" %}
+Non visible par les profils simples
+{% endhint %}
 
-Les [Méthodes de livraison](../mise-en-place-dune-boutique/types-de-livraisons.md), [les méthodes de paiement](https://github.com/ofnuserguidefr/guide-utilisateur-open-food-france/tree/f72c4e0a78bb6dc0c5b39249e706b0dbac84df5f/payment-methods-2.md) ainsi que [les marges et commissions](../mise-en-place-dune-boutique/frais-et-taxes.md) sont mieux détaillées dans chacun de ces liens respectifs. 
+Les [Méthodes de livraison](../mise-en-place-dune-boutique/types-de-livraisons.md), [les méthodes de paiement](https://github.com/ofnuserguidefr/guide-utilisateur-open-food-france/tree/f72c4e0a78bb6dc0c5b39249e706b0dbac84df5f/payment-methods-2.md) ainsi que [les marges et commissions](../mise-en-place-dune-boutique/frais-et-taxes.md) sont détaillées dans chacun de ces liens respectifs. 
 
 {% hint style="info" %}
 Au moins une méthode de paiement et de livraison doit impérativement être renseignée pour pouvoir utiliser la fonctionnalité de boutique et vendre en ligne.
@@ -110,19 +118,27 @@ Veuillez vous rendre sur la page [catalogue boutique](../produits-1/inventory-to
 
 ### Règles de tag
 
-_\* non visible pour les profils simples_
+{% hint style="warning" %}
+Non visibles par les profils simples
+{% endhint %}
 
-Ici sont gérés les tags que vous attribuez à vos clients, et qui vous permettent de grouper ces derniers par catégorie d'acheteurs pour leur ofrrir des accès, tarifs, conditions spécifiques. Pour plus d'information rendez-vous sur la page [gestion des tags et comptes clients](../mise-en-place-dune-boutique/affichages-et-prix-differencies-par-categorie-dacheteur/customized-shopping-experience.md).
+Ici sont gérés les tags que vous attribuez à vos clients, et qui vous permettent de grouper ces derniers par catégorie d'acheteurs pour leur offrir des accès, tarifs ou conditions spécifiques.
+
+ Pour plus d'information rendez-vous sur la page [gestion des tags et comptes clients](../mise-en-place-dune-boutique/affichages-et-prix-differencies-par-categorie-dacheteur/customized-shopping-experience.md).
 
 ### Préférences boutique
 
-_\* non visible pour les profils simples_
+{% hint style="warning" %}
+Non visibles par les profils simples
+{% endhint %}
 
-**Message d'accueil boutique ouverte** : Ce message est facultatif. Il sera affiché sur votre boutique juste au-dessus des produits \(cf. exemple ci-dessous\). C'est l'endroit idéal pour des informations importantes comme des commandes spéciales ou des informations particulières sur vos cycles de vente. 
+**Message d'accueil boutique ouverte** : Ce message est facultatif. Il sera affiché sur votre boutique juste au-dessus des produits \(cf. exemple ci-dessous\). 
+
+C'est l'endroit idéal pour communiquer des informations importantes comme des commandes spéciales, des informations sur vos cycles de vente, des actualités ou encore rappeler un mode opératoire !
 
 ![](../../.gitbook/assets/image%20%2890%29.png)
 
-**Message d'accueil boutique fermée** : Ce message s'affiche lorsque votre boutique est fermée. L'occasion d'indiquer la date de la réouverture !
+**Message d'accueil boutique fermée** : Ce message s'affiche lorsque votre boutique est fermée. L'occasion d'indiquer la façon dont votre boutique est organisée ainsi que la prochaine date de la réouverture !
 
 ![](../../.gitbook/assets/capture-du-2019-07-30-23-16-32.png)
 
@@ -132,7 +148,11 @@ _\* non visible pour les profils simples_
 
 **Boutique visible par tous** **?** : Si vous sélectionnez "visible par tous", n'importe quel internaute pourra accéder votre boutique. Si vous sélectionnez "visible uniquement par les acheteurs logués", seuls les utilisateurs que vous aurez préalablement ajoutés à votre liste d'acheteurs pourront accéder à votre boutique, et devront pour cela se connecter. [En savoir plus sur la fonctionnalité boutique privée.](../mise-en-place-dune-boutique/private-shopfront.md)
 
-**Commandes des invités** : Si vous sélectionnez "autoriser les commandes en mode invité" les visiteurs pourront commander vos produits sans être connectés à la plateforme donc sans avoir de compte utilisateur. Si vous souhaitez "forcer" la création de compte par vos acheteurs et qu'ils doivent se connecter pour pouvoir acheter, sélectionnez "demander que l'acheteur se connecte pour pouvoir commander". L'intérêt est que vous avez une garantie à minima que votre acheteur a certifié son email donc utilise un email actif. Cela peut contribuer à limiter le nombre de commandes finalement jamais récupérées, l'acheteur ne pouvant pas être complètement anonyme... Ce menu n'est pas applicable si vous avez mis en place une boutique privée \(paragraphe précédent\).
+**Commandes des invités** : Si vous sélectionnez "autoriser les commandes en mode invité" les visiteurs pourront commander vos produits sans être connectés à la plateforme donc sans avoir de compte utilisateur. Si vous souhaitez "forcer" la création de compte par vos acheteurs et qu'ils doivent se connecter pour pouvoir acheter, sélectionnez "demander que l'acheteur se connecte pour pouvoir commander". L'intérêt est que vous avez une garantie à minima que votre acheteur a certifié son email donc utilise un email actif. Cela peut contribuer à limiter le nombre de commandes finalement jamais récupérées, l'acheteur ne pouvant pas être complètement anonyme.
+
+{% hint style="warning" %}
+Ce menu n'est pas accessible si vous avez mis en place une boutique privée \(paragraphe précédent\)
+{% endhint %}
 
 ### Utilisateurs
 

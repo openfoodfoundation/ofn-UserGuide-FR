@@ -39,5 +39,10 @@ La Foire aux Questions en fin de guide peut également vous aiguiller.
 
 ## D'autres questions ? Des améliorations ?
 
-N'hésitez pas à nous écrire à l'adresse suivante : support\[at\]openfoodfrance.org
+N'hésitez pas à nous écrire à l'adresse suivante : 
+
+{% hint style="info" %}
+- support@coopcircuits.fr pour la France   
+- support@openfoodnetwork.be pour la Belgique.
+{% endhint %}
 
