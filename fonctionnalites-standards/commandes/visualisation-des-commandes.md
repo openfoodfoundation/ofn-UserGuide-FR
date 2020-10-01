@@ -8,15 +8,15 @@ Cette page liste toutes les commandes passées sur la plateforme pour votre /vos
 
 Les filtres présents sur la page peuvent vous aider à accéder plus rapidement à la / aux commande\(s\) recherchée\(s\). Vous pouvez filtrer par date, statut, distributeur concerné, cycle de vente, ou via l'email ou le nom de l'acheteur.
 
-![](../../.gitbook/assets/capture-du-2019-08-22-20-42-09.png)
+![](../../.gitbook/assets/capture-de-cran-2020-10-01-a-11.51.59.png)
 
 **Distributeur :** Il s'agit de l'entreprise \(distributeur\) via laquelle les commandes recherchées ont été passées.
 
 **Date :** Il s'agit de la date à laquelle la commande a été passée.
 
-**N° commande \(mal traduit par "nombre"\) :**  Numéro attribué de manière aléatoire au moment de la commande. Si un petit panneau avec un point d'exclamation figure à côté de ce numéro, cela signifie que l'acheteur a ajouté une note au moment de sa commande. Passez votre souris sur le symbole pour afficher la note. 
+**N° commande :**  Numéro attribué de manière aléatoire au moment de la commande. Si un petit panneau avec un point d'exclamation figure à côté de ce numéro, cela signifie que l'acheteur a ajouté une note au moment de sa commande. Passez votre souris sur le symbole pour afficher la note. 
 
-**Statut \(mal traduit par "Etat"\) :**
+**Statut :**
 
 * Finalisée - le client est allée jusqu'au bout de la commande, qui a bien été passée
 * Annulée - le gestionnaire du hub a annulé la commande
@@ -34,7 +34,9 @@ Les filtres présents sur la page peuvent vous aider à accéder plus rapidement
 * Prêt - Lorsque le paiement est reçu \(statut "payé" ou "crédit acheteur"\), la livraison peut être effectuée \(idem, schéma traditionnel en e-commerce non encore adapté\). 
 * Envoyé - Lorsque le gestionnaire capture l'expédition de la commande, le statut s'affiche comme "envoyé". 
 
-_Remarque_ _: Vous ne pouvez pas indiquer une commande à "envoyée" si le statut de paiement n'est PAS "Payé". Nous souhaiterions modifier cela à l'avenir, ce fonctionnement étant adapté au e-commerce classique, mais pas au fonctionnement des circuits courts._
+{% hint style="warning" %}
+Vous ne pouvez pas indiquer une commande à "envoyée" si le statut de paiement n'est PAS "Payé"
+{% endhint %}
 
 **Email acheteur** **:** Il s'agit de l'email de l'acheteur. Une liste complète des emails des acheteurs peut être téléchargée via le [rapport](../rapports.md) "Acheteurs / liste de mails".
 
@@ -44,11 +46,19 @@ _Remarque_ _: Vous ne pouvez pas indiquer une commande à "envoyée" si le statu
 
 A droite des lignes de commande, vous pouvez opérer deux actions rapides via les boutons suivants :
 
-* Cliquez sur l’icône "check" pour capturer le paiement de la commande \(montant exact\)
+**Capturer le paiement** : 
+
+Cliquez sur l’icône "check" pour capturer le paiement de la commande \(montant exact\)
 
 ![](../../.gitbook/assets/tick.png)
 
-* Cliquez sur l’icône "route" pour capturer que la commande a été expédiée
+Capturer le paiement permettra de l'indiqué comme reçu, ce qui est utile lorsque l'acheteur n'a pas payé au moment de la commande mais ultérieurement. Si vous souhaitez revoir les détails du paiement avant de capturer le paiement, vous pouvez cliquer sur le bouton éditer puis sélectionner paiement pour consulter le montant dû et cliquer sur l’icône "check" pour le capturer le paiement et l'indiquer comme reçu.
+
+![](../../.gitbook/assets/capture-de-cran-2020-10-01-a-21.35.09.png)
+
+**Capturer la commande comme étant expédiée :** 
+
+Cliquez sur l’icône "route" pour capturer que la commande a été expédiée
 
 ![](../../.gitbook/assets/route.png)
 
@@ -66,7 +76,7 @@ A droite de la ligne de commande, le bouton suivant vous permet d'accéder à la
 
 Vous pouvez aussi y accéder en cliquant sur le numéro de commande depuis le tableau.
 
-Voilà à quoi ressemble la page de gestion d'une commande :
+Voici l'affichage de la page de gestion d'une commande :
 
 ![](../../.gitbook/assets/capture-du-2019-08-22-21-32-28.png)
 
@@ -102,27 +112,35 @@ Les informations acheteur \(email, adresses de facturation et livraison\) sont a
 
 Cliquez sur "ajustements" \(cf capture ci-dessus\). Sur cette page vous pouvez ajouter ou supprimer des montants selon votre guise en cliquant sur "nouvel ajustement". Cela vous permet par exemple d'accorder une remise sur une commande car les produits étaient abîmés, ou de prendre en compte un avoir accordé sur une commande précédente.
 
+![](../../.gitbook/assets/capture-de-cran-2020-10-01-a-21.49.39.png)
+
 Un ajustement peut aussi servir à capturer un remboursement effectué à un acheteur sur une commande. Selon la méthode de paiement choisie, la gestion des remboursements ne sera pas la même. [Consultez la page dédiée à ce sujet.](ajustements-de-paiement.md)
 
-#### Capturer un paiement
+#### Capturer un paiement partiel
 
-Un paiement partiel par exemple peut être capturer via  le menu "paiement", ce qui ne peut pas être fait par l'action rapide de capture du paiement via l'icône "check".
+Un paiement partiel par exemple peut être capturer via le menu "paiement" en sélectionnant "nouveau paiement", ce qui ne peut pas être fait par l'action rapide de capture du paiement via l'icône "check".
+
+![](../../.gitbook/assets/capture-de-cran-2020-10-01-a-21.52.33.png)
 
 ## Impression des factures par lot
 
-Il est possible de sélectionner les commandes visibles sur la page \(utilisez l'outil de sélection pour afficher jusqu'à 100 commandes\) afin de générer un PDF agrégeant les factures des commandes sélectionnées via le bouton "imprimer les factures" :
+Il est possible de sélectionner les commandes visibles sur la page \(vous pouvez utiliser l'outil de sélection pour afficher jusqu'à 100 commandes\) afin de générer un PDF agrégeant les factures des commandes sélectionnées via le bouton "imprimer les factures" :
 
-![](../../.gitbook/assets/image%20%2876%29.png)
+![](../../.gitbook/assets/capture-de-cran-2020-10-01-a-22.02.55.png)
 
 Une fois le bouton cliqué, une fenêtre de chargement s'ouvrira. Lorsque le chargement est terminé un bouton sera affiché afin d'ouvrir dans une nouvelle page le fichier PDF agrégeant toutes les factures correspondantes aux commandes sélectionnées :
 
 ![](../../.gitbook/assets/image%20%2869%29.png)
 
+{% hint style="info" %}
+Par défaut, les commandes seront classées par date de commande. Vous pouvez également les classer par une autre variante \(statut livraison, statut du paiement, etc.\) en sélectionnant la variante souhaitée.
+{% endhint %}
+
 ## Gestion des commandes par lot
 
 La liste des commandes présente les commandes alors que cette page liste les produits commandés. Cela permet de modifier en masse plusieurs commandes qui contiennent le même produit \(changement de quantité, produit en rupture, etc\). La page se présente la manière suivante :
 
-![](../../.gitbook/assets/capture-du-2019-08-22-22-57-45.png)
+![](../../.gitbook/assets/capture-de-cran-2020-10-01-a-22.08.17.png)
 
 **Date de début et de fin** **:** Vous pouvez filtrer l'affichage des produits en fonction des dates de commandes.
 
@@ -185,7 +203,7 @@ Nous allons prendre l'exemple d'une caisse de viande de 10 kg :
 
 ![](../../.gitbook/assets/image%20%28119%29.png)
 
-## Vue acheteur de ses commandes
+## Vue acheteur des commandes
 
 Vos acheteurs peuvent voir l'historique de leurs commandes ainsi que les soldes créditeurs/débiteurs, depuis leur compte.
 
