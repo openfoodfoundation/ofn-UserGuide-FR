@@ -31,7 +31,7 @@ Vous pouvez voir pas à pas comment modéliser et paramétrer votre activité da
 
 ## Rechercher
 
-N'hésitez pas à utiliser la fonctionnalité de recherche en haut à droite \("Search"\) pour rechercher des points spécifiques.
+N'hésitez pas à utiliser la fonctionnalité de recherche en haut à droite \("rechercher"\) pour rechercher des points spécifiques.
 
 ## FAQs
 
@@ -39,10 +39,10 @@ La Foire aux Questions en fin de guide peut également vous aiguiller.
 
 ## D'autres questions ? Des améliorations ?
 
-N'hésitez pas à nous écrire à l'adresse suivante : 
+Ecrivez-nous à l'adresse suivante : 
 
 {% hint style="info" %}
-- support@coopcircuits.fr pour la France   
-- support@openfoodnetwork.be pour la Belgique.
+* support@coopcircuits.fr pour la France
+* support@openfoodnetwork.be pour la Belgique.
 {% endhint %}
 
