@@ -41,7 +41,7 @@ La Foire aux Questions en fin de guide peut également vous aiguiller.
 
 ## D'autres questions ? Des améliorations ?
 
-Ecrivez-nous à l'adresse suivante : 
+Ecrivez-nous aux adresses suivantes : 
 
 {% hint style="info" %}
 * support@coopcircuits.fr pour la France
