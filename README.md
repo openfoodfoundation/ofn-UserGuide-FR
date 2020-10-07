@@ -11,7 +11,7 @@ Ce guide a pour objet de vous accompagner dans l'utilisation des plateformes rep
 
 * **Une entrée par profils utilisateurs**
 
-Nous avons rédigé notre guide par[ type de profil utilisateur](https://ofnuserguidefr.gitbook.io/guide-utilisateur-open-food-france/les-differents-profils-utilisateurs). En effet, en fonction de votre profil, vous n'utiliserez pas la plateforme de la même manière. Pensez à sélectionner le bon ! Vous ne savez pas à quel profil vous correspondez ? Consultez le tableau pour vous orienter [ici](les-differents-profils-utilisateurs/).
+Nous avons rédigé notre guide par [type de profil utilisateur](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/fonctionnalites-standards/votre-profil/types-de-package). En effet, en fonction de votre profil, vous n'utiliserez pas la plateforme de la même manière. Pensez à sélectionner le bon ! Vous ne savez pas à quel profil vous correspondez ? Consultez le tableau pour vous orienter [ici](les-differents-profils-utilisateurs/).
 
 * **Une entrée par fonctionnalités**
 
