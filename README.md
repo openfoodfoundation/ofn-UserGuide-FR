@@ -2,9 +2,9 @@
 
 Ce guide a pour objet de vous accompagner dans l'utilisation des plateformes reposant sur le logiciel Open Food Network et opérant en Français. Trois plateformes utilisent le logiciel en Français aujourd'hui :
 
-- Open Food Network Belgique \(OFN\) : [https://www.openfoodnetwork.be](https://www.openfoodnetwork.be)  
+- Open Food Network \(Belgique\) : [https://www.openfoodnetwork.be](https://www.openfoodnetwork.be)  
 - CoopCircuits \(France\) : [https://www.coopcircuits.fr/](https://www.coopcircuits.fr/)  
-- Open Food Network Canada : [https://openfoodnetwork.ca/](https://openfoodnetwork.ca/)  
+- Open Food Network \(Canada\) : [https://openfoodnetwork.ca/](https://openfoodnetwork.ca/)  
 
 
 ## Deux entrées possibles
