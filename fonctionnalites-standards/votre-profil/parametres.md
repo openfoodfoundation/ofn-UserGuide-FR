@@ -23,7 +23,7 @@ Attention : pour sauvegarder vos modifications, n'oubliez pas de cliquer sur "me
 
 ### Informations de base
 
-**Nom :** Il s'agit du nom de votre entreprise. Ce sera le titre de votre profil \( et de votre boutique le cas échéant\).
+**Nom :** Il s'agit du nom de votre entreprise. Ce sera le titre de votre profil \(et de votre boutique le cas échéant\).
 
 **Producteur ? :** Cochez cette case uniquement si vous êtes un producteur.
 
