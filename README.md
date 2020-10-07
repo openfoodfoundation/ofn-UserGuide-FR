@@ -1,6 +1,8 @@
 # Guide utilisateur Open Food Network
 
-Ce guide a pour objet de vous accompagner dans l'utilisation des plateformes reposant sur le logiciel Open Food Network et opérant en Français. Trois plateformes utilisent le logiciel en Français aujourd'hui :
+Ce guide a pour objet de vous accompagner dans l'utilisation des plateformes reposant sur le **logiciel Open Food Network** et **opérant en Français**. 
+
+**3** plateformes utilisent à ce jour le logiciel en Français :
 
 - Open Food Network \(Belgique\) : [https://www.openfoodnetwork.be](https://www.openfoodnetwork.be)  
 - CoopCircuits \(France\) : [https://www.coopcircuits.fr/](https://www.coopcircuits.fr/)  
