@@ -150,11 +150,15 @@ C'est l'endroit idéal pour communiquer des informations importantes comme des c
 
 **Commandes des invités** : Si vous sélectionnez "autoriser les commandes en mode invité" les visiteurs pourront commander vos produits sans être connectés à la plateforme donc sans avoir de compte utilisateur. Si vous souhaitez "forcer" la création de compte par vos acheteurs et qu'ils doivent se connecter pour pouvoir acheter, sélectionnez "demander que l'acheteur se connecte pour pouvoir commander". L'intérêt est que vous avez une garantie à minima que votre acheteur a certifié son email donc utilise un email actif. Cela peut contribuer à limiter le nombre de commandes finalement jamais récupérées, l'acheteur ne pouvant pas être complètement anonyme.
 
+**Abonnements** : Vous pouvez permettre à vos acheteurs d’accéder à une [commande récurrente](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/fonctionnalites-standards/subscriptions/creation-et-gestion-dune-commande-recurrente)
+
+**Affichage du nom des acheteurs :** Vous pouvez afficher ou non le nom de vos acheteurs depuis la vue producteur
+
 {% hint style="warning" %}
 Ce menu n'est pas accessible si vous avez mis en place une boutique privée \(paragraphe précédent\)
 {% endhint %}
 
-### Utilisateurs
+### Gestionnaires
 
 **Gestionnaire principal :** L'email de l'utilisateur principal en charge de gérer l'activité de l'entreprise sur la plateforme chez vous. Seul le gestionnaire principal peut désigner un autre gestionnaire principal, parmi les gestionnaires actuels.
 
