@@ -4,7 +4,7 @@
 
 **La plateforme livre-t-elle des paniers de fruits et légumes ?**
 
-Pas exactement. Open Food Network est un site internet qui permet aux entreprises respectant notre charte de créer une boutique en ligne pour vendre leurs produits. Toutes les boutiques sur le site sont indépendantes et réalisent une activité unique. Certaines vont proposer des paniers, d'autres proposent des commandes à la demande, ou organisent de la précommande avec retrait sur un marché. Pour connaitre avec précision le fonctionnement d'une boutique, consultez son profil !
+Pas exactement. Open Food Network est un site internet qui permet aux entreprises respectant notre charte de créer une boutique en ligne pour vendre leurs produits en circuit court. Toutes les boutiques sur le site sont indépendantes et réalisent une activité unique. Certaines vont proposer des paniers, d'autres proposent des commandes à la demande, ou organisent de la précommande avec retrait sur un marché. Pour connaitre avec précision le fonctionnement d'une boutique, consultez son profil !
 
 **En quoi la plateforme Open Food Network est transparente ?**
 
