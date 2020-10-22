@@ -59,6 +59,7 @@
     * [Créer une page groupe](fonctionnalites-standards/groupes/create-group-page.md)
     * [Intégrer une page groupe à un site web](fonctionnalites-standards/groupes/embed-a-group-page.md)
 * [Logiciels complémentaires](integrations-avec-dautres-logiciels/README.md)
+  * [Logiciels complémentaires](integrations-avec-dautres-logiciels/logiciels-complementaires.md)
   * [Communication](integrations-avec-dautres-logiciels/communication.md)
 * [FAQs](faqs/README.md)
   * [Acheteur](faqs/consommateur.md)
