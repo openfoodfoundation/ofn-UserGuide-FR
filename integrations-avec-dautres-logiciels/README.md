@@ -1,6 +1,9 @@
-# Logiciels complémentaires
+# Conseils aux gestionnaires de boutique
 
-Vous pouvez coupler votre usage d'Open Food Network avec d'autres logiciels qui apportent des fonctionnalités complémentaires, concernant par exemple la facturation, la comptabilité, la communication, ou encore l'analyse de votre activité.
+L'équipe OFN reconnaît qu'il existe un grand nombre d'aspect dans la gestion d'une initiative en circuit court, l'utilisation efficace de la plateforme OFN est l'un d'entre eux !  
+Par conséquent, dans cette section nous visons à créer un ensemble de ressources \(y compris autour du marketing est des médias sociaux\) vers lesquels vous pouvez vous tourner pour obtenir des conseils.
 
-Certains utilisateurs ont déjà trouvé des moyens ingénieux d'utiliser les données de la plateforme avec d'autres logiciels, dont nous allons vous décrire quelques usages intéressants. Nous développons aussi petit à petit les possibilités d'intégration, alors n'hésitez pas à nous contacter si vous avez un besoin spécifique afin que nous puissions l'étudier ! 
+{% hint style="info" %}
+Cette section est en cours de construction, sentez vous libre de contacter les [gestionnaires de la plateforme de votre pays](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/) pour leur faire part des sujet sur lesquels vous aimeriez obtenir de l'aide.
+{% endhint %}
 
