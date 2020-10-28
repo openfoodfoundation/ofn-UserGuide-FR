@@ -61,7 +61,7 @@
 * [Conseils aux gestionnaires de boutique](integrations-avec-dautres-logiciels/README.md)
   * [Logiciels complémentaires](integrations-avec-dautres-logiciels/logiciels-complementaires.md)
   * [Communication](integrations-avec-dautres-logiciels/communication/README.md)
-    * [Comment créer des chèques cadeaux](integrations-avec-dautres-logiciels/communication/comment-creer-des-cheques-cadeaux.md)
+    * [Comment créer une carte cadeaux sur Open Food Network ?](integrations-avec-dautres-logiciels/communication/comment-creer-des-cheques-cadeaux.md)
 * [FAQs](faqs/README.md)
   * [Acheteur](faqs/consommateur.md)
   * [Producteur](faqs/producteur.md)

@@ -3,9 +3,9 @@
 Cette fonctionnalité est utile pour les producteurs et les hubs travaillant ensemble : cela permet d'allouer les coûts associés à l'administration, à la mise en panier, au transport et à la vente à chacune des parties. Par exemple, un hub va prendre une marge de 10% sur les produits qu'il distribue pour couvrir ses propres frais de vente, comme la rémunération de la personne qui gère les cycles de vente et les distribution.  
 Pour les producteurs vendant leurs propres produits en direct, ces coûts sont déjà présents dans le prix du produit, ainsi appliquer des marges ou des commissions ne semble pas nécessaire. 
 
-Lorsqu'une marge est appliquée, le consommateur est capable de voir la constitution du prix d'un produit sur la boutique en cliquant sur le camembert à droite du prix. Exemple ci-dessous :
+Lorsqu'une marge est appliquée, le consommateur est capable de voir la **constitution du prix** d'un produit sur la boutique en cliquant sur le camembert à droite du prix. Exemple ci-dessous :
 
-![](../../.gitbook/assets/image%20%2829%29.png)
+![](../../.gitbook/assets/capture-de-cran-2020-10-28-a-16.33.15.png)
 
 ## Définir une marge ou commission
 
