@@ -61,5 +61,7 @@ Exemple :  Si la marge du premier est de 2€, celle de l'objet supplémentaire 
 * ‘Montant de la réduction’ : Si la commande est égale ou supérieure au montant minimal, le consommateur devra payer le ‘Montant de la réduction’.
 * 'Devise' : La monnaie utilisée \(généralement "EUR"\).
 
-
+{% hint style="warning" %}
+Lorsque vous aurez créer une marge et/ou commission, rappelez vous qu'elle sera appliquée uniquement après avoir été ajoutée aux cycles de vente.
+{% endhint %}
 
