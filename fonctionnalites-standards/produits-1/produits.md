@@ -38,7 +38,13 @@ Vous serez redirigé vers la page suivante :
 
 **Photo :** Téléchargez une photo du produit.
 
-> Nous recommandons d'utiliser des photos de bonne qualité, sur un format carré, et de préférence une vraie photo de vos produits plutôt que l'image standard du web. Cela rend le produit plus attractif pour le consommateur. Si vous utilisez une image du web, vérifiez qu'elle soit libre de droits.
+![](../../.gitbook/assets/capture-de-cran-2020-10-28-a-16.33.15.png)
+
+{% hint style="warning" %}
+Nous recommandons d'uitiliser des photos de bonne qualité, sur un format carré. De préférences de vraies photos de vos produits plutôt que des images internet, ce qui rend le produit plus attractif pour le consommateur \(pensez à vérifier les droits si vous utilisez des images du web\)
+{% endhint %}
+
+
 
 **TVA applicable :** Sélectionnez la TVA applicable dans la liste déroulante. La TVA dépend de la nature du produit, la plupart des produits alimentaires sont soumis en Belgique par exemple à une TVA de 6%. 
 
