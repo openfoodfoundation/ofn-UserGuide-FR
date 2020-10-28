@@ -10,10 +10,10 @@ Lorsqu'un produit est défini comme "étant vendu en lot de x unités", il appar
 
 Les acheteurs doivent indiquer pour ce produit au moment de la commande :
 
-* La quantité minimum qu'ils souhaitent idéalement acheter
-* La quantité maximum qu'ils sont prêts à acheter si besoin de compléter le lot pour arriver à l'achat d'un lot complet
+* La quantité **minimum** qu'ils souhaitent idéalement acheter
+* La quantité **maximum** qu'ils sont prêts à acheter si besoin de compléter le lot pour arriver à l'achat d'un lot complet
 
-En gros, cela signifie que l'acheteur final indique le montant maximum qu'il est prêt à acheter afin de bénéficier de la réduction lié à l'achat en gros volume.
+En résumé, cela signifie que l'acheteur final indique le montant maximum qu'il est prêt à acheter afin de bénéficier de la réduction lié à l'achat en gros volume.
 
 Dans le menu de [gestion des commandes par lot](../commandes/visualisation-des-commandes.md), les quantités minimales et maximales saisies par les acheteurs sont clairement indiquées, vous permettant ainsi de réajuster la quantité commandée jusqu'au seuil maximal, ou de supprimer toutes les commandes d'un produit donné si le minimum de commandes n'est pas atteint.
 
