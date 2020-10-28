@@ -62,6 +62,6 @@ Exemple :  Si la marge du premier est de 2€, celle de l'objet supplémentaire 
 * 'Devise' : La monnaie utilisée \(généralement "EUR"\).
 
 {% hint style="warning" %}
-Lorsque vous aurez créer une marge et/ou commission, rappelez vous qu'elle sera appliquée uniquement après avoir été ajoutée aux cycles de vente.
+Lorsque vous aurez créer une marge et/ou commission, rappelez vous qu'elle sera appliquée uniquement après avoir été ajoutée aux [cycles de vente.](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/fonctionnalites-standards/mise-en-place-dune-boutique/cycles-de-vente/cycle-de-vente-pour-les-fournisseurs#1-creer-un-nouveau-cycle-de-vente)
 {% endhint %}
 
