@@ -64,11 +64,19 @@ Lorsque vous créez un produit, vous êtes redirigé sur la page "produits" où 
 
 Si vous créez deux produits similaires dont seul le prix ou la taille ou les ingrédients varient, le mieux est de créer une "variante" du produit plutôt qu'un deuxième produit entier. Pour créer une variante, veuillez suivre le processus indiqué [ici](product-variants.md). Vous avez aussi la possibilité de dupliquer un produit en cliquant sur le pictogramme des deux petites feuilles à droite de la ligne du produit concerné \(pictogramme du milieu\).
 
+{% hint style="success" %}
+Les variantes sont un gain de temps, par exemple si vous vendez des citrons individuelement et par pack de 5 et de 10, vous aurez un produit à 3 variantes plutôt que 3 produits.
+{% endhint %}
+
+Si vous souhaitez créer un produit similaire, vous pouvez le copié / coller le produit initial puis modifier le nouveau grâce aux icones à droite de celui-ci.
+
+![](../../.gitbook/assets/capture-de-cran-2020-10-28-a-17.18.16.png)
+
 ### Affiner les attributs des produits
 
 Vous pouvez ajouter des propriétés/labels à vos produits par soucis de transparence pour l'acheteur, pour mettre en valeur les qualités de vos produits, et permettre les recherches basées sur ce critère. Cliquez [ici](product-properties.md) pour en savoir plus.
 
 Pour les produits "irréguliers" type viande, vous trouverez [ici](pricing-irregular-items-kg.md) quelques conseils sur la façon de saisir et gérer ces produits.
 
-Pour les achats groupés de produits vendus en gros lots, un paramétrage et une fonctionnalité dédiés vous aide à organiser les achats groupés pour tomber pile poil sur la quantité du lot. Cliquez [ici](group-buy-for-bulk-ordering.md) pour en savoir plus.
+Pour les achats groupés de produits vendus en gros lots, un paramétrage et une fonctionnalité dédiée vous aide à organiser les achats groupés pour tomber pile poil sur la quantité du lot. Cliquez [ici](group-buy-for-bulk-ordering.md) pour en savoir plus.
 
