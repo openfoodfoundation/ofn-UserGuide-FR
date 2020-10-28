@@ -82,9 +82,17 @@ Pour les **achats groupés** de produits vendus en gros lots, un paramétrage et
 
 ### Recherche par mots clés
 
-Afin de gagner du temps, l'acheteur peut filtrer les produits par catégorie de produit depuis la vue boutique. Il peut également effectuer une recherche par mot clés depuis l'encart "recherche".
+L'acheteur peut filtrer les produits par catégorie de produit depuis la vue boutique \(à droite de la vue produit\). Il peut également effectuer une recherche par mot clés depuis l'encart "rechercher..." \(en haut de la vue produit\).
 
 ![](../../.gitbook/assets/capture-de-cran-2020-10-28-a-18.16.31.png)
 
-Vous pouvez définir des mots clés de recherche en vous rendant dans produits &gt; modifier &gt; rechercher 
+Les champs suivants peuvent être recherchés depuis l'encart "rechercher.."  
+- Nom du produit  
+- Nom de la variante  
+- Nom du producteur  
+- Mot clé de recherche
+
+Vous pouvez définir des **mots clés de recherche** en vous rendant dans **produits &gt; modifier &gt; rechercher.** Les mots clés renseignés dans l'encart rouge sont examinés par la plateforme si l'acheteur utilise ce mot clé lors de sa recherche. Ceux renseignés dans l'encart vert sont examinés par des moteurs de recherche externes sur internet \(ex : Google\) 
+
+![](../../.gitbook/assets/capture-de-cran-2020-10-28-a-18.29.06.png)
 
