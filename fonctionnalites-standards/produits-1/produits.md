@@ -74,9 +74,17 @@ Si vous souhaitez créer un produit similaire, vous pouvez le copié / coller le
 
 ### Affiner les attributs des produits
 
-Vous pouvez ajouter des propriétés/labels à vos produits par soucis de transparence pour l'acheteur, pour mettre en valeur les qualités de vos produits, et permettre les recherches basées sur ce critère. Cliquez [ici](product-properties.md) pour en savoir plus.
+Vous pouvez ajouter des **propriétés/labels** à vos produits par soucis de transparence pour l'acheteur, pour mettre en valeur les qualités de vos produits, et permettre les recherches basées sur ce critère. Cliquez [ici](product-properties.md) pour en savoir plus.
 
-Pour les produits "irréguliers" type viande, vous trouverez [ici](pricing-irregular-items-kg.md) quelques conseils sur la façon de saisir et gérer ces produits.
+Pour les **produits "irréguliers"** type viande, vous trouverez [ici](pricing-irregular-items-kg.md) quelques conseils sur la façon de saisir et gérer ces produits.
 
-Pour les achats groupés de produits vendus en gros lots, un paramétrage et une fonctionnalité dédiée vous aide à organiser les achats groupés pour tomber pile poil sur la quantité du lot. Cliquez [ici](group-buy-for-bulk-ordering.md) pour en savoir plus.
+Pour les **achats groupés** de produits vendus en gros lots, un paramétrage et une fonctionnalité dédiée vous aide à organiser les achats groupés pour tomber pile poil sur la quantité du lot. Cliquez [ici](group-buy-for-bulk-ordering.md) pour en savoir plus.
+
+### Recherche par mots clés
+
+Afin de gagner du temps, l'acheteur peut filtrer les produits par catégorie de produit depuis la vue boutique. Il peut également effectuer une recherche par mot clés depuis l'encart "recherche".
+
+![](../../.gitbook/assets/capture-de-cran-2020-10-28-a-18.16.31.png)
+
+Vous pouvez définir des mots clés de recherche en vous rendant dans produits &gt; modifier &gt; rechercher 
 
