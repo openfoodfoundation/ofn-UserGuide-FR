@@ -1,17 +1,20 @@
 # Ajustements de paiement
 
-Sur certaines commandes, vous allez être amené à procéder à des ajustements, de type :  
--  un **produit avec un poids variable** a été commandé, et au moment de la livraison, vous allez rentrer le poids exact pour que le prix réellement à payer s'ajuste  
-- un produit qui était commandé **n'a pas été livré** par le producteur  
-- l'acheteur a souhaité sur place **acheter un peu plus que prévu** dans la commande d'origine  
-- il y a un soucis sur la commande et vous voulez **accorder une ristourne sur cette commande**  
-- etc.
+Au cours de vos ventes, vous allez sans doute être amené à procéder à des ajustements de commande
+
+Les scénarios les plus courants sont les suivants :
+
+1. Un **produit au poids variable** a été commandé, et au moment de la livraison, vous allez renseigner le poids exact pour ajuster le prix réel à régler  
+2. Un produit **n'a pas été livré** par le producteur  
+3. L'acheteur a souhaité sur place **ajouter des produits** dans la commande d'origine  
+4. il y a un soucis sur la commande et vous voulez **accorder une ristourne sur cette commande**  
+
 
 Deux cas de figure principaux se présentent :  
   
-**1- La commande n'a pas été payée d'avance** et sera réglée sur place au moment du retrait. Dans ce cas, les ajustements sont passés avant le règlement, et ce qui sera réglé sera donc le montant final exact.
+**A. La commande n'a pas été payée d'avance** et sera réglée sur place au moment du retrait. Dans ce cas, les ajustements sont passés avant le règlement, et ce qui sera réglé sera donc le montant final exact.
 
-**2- La commande a été payée au moment de la commande, par Stripe ou Paypal par exemple, ou virement bancaire.** Dans ce cas, 3 situations possibles :  
+**B. La commande a été payée au moment de la commande, par Stripe ou Paypal par exemple, ou virement bancaire.** Dans ce cas, 3 situations possibles :  
 - le solde est créditeur, vous devez de l'argent à l'acheteur et souhaitez le rembourser  
 - le solde est créditeur, vous devez de l'argent à l'acheteur et souhaitez qu'il puisse utiliser ce solde pour payer en partie sa prochaine facture  
 - le solde est débiteur, il vous doit de l'argent
@@ -58,7 +61,7 @@ Les remboursements partiels ou totaux de commandes réglés par Paypal ne foncti
 
 ### c- Paiement via virement bancaire
 
-Si le paiement a été réalisé via un mode de paiement non automatique \(hors Stripe et Paypal donc\), mais déjà capturé comme payé, comme par exemple, via virement bancaire, vous pouvez saisir un ajustement sur la commande, et capturer un paiement négatif \[à vérifier quand le [bug](https://github.com/openfoodfoundation/openfoodnetwork/issues/3562) sera résolu\].
+Si le paiement a été réalisé via un mode de paiement non automatique \(hors Stripe et Paypal donc\), mais déjà capturé comme payé, comme par exemple, via virement bancaire, vous pouvez saisir un ajustement sur la commande, et capturer un paiement négatif.
 
 ## B- Comment permettre à  un acheteur de régler partiellement sa prochaine facture avec ses crédits ?
 
