@@ -11,6 +11,9 @@ Vous pouvez ajouter des labels à vos produits afin de renseigner l'acheteur fin
 * Nature & Progrès
 * Paysans de nature
 * Autre bio
+* MSV
+* Conversion
+* Tinda
 
 _\*Si vous souhaitez ajouter un label non présent, n'hésitez pas à nous écrire : nous pourrons l'ajouter en particulier s'il y a une forte demande._
 
