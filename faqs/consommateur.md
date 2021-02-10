@@ -1,7 +1,5 @@
 # Acheteur
 
-{% embed url="https://www.loom.com/share/bfc6b6fa4d9848bebdc82fa1e0a5720f" %}
-
 
 
 ## A propos de la plateforme locale Open Food Network \(ex: [https://www.openfoodnetwork.be](https://www.openfoodnetwork.be)\)
