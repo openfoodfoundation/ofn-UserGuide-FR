@@ -4,7 +4,7 @@ Voici les liens vers les questions les plus fréquemment posées, classées par 
 
 [ACHETEUR](consommateur.md)
 
-[PRODUCTEUR](producteur.md)
+[PRODUCTEUR](producteur/)
 
-[HUB](hub.md)
+[HUB](producteur/hub.md)
 

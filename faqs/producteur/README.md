@@ -32,19 +32,19 @@ Cela dépend du fournisseur local de la plateforme. Aujourd'hui l'utilisation d'
 
 **Je suis un producteur et je souhaite vendre en direct aux consommateurs via ma propre boutique**
 
-Rendez-vous sur [cette page](../les-differents-profils-utilisateurs/le-producteur-en-vente-directe-avec-une-boutique.md).
+Rendez-vous sur [cette page](../../les-differents-profils-utilisateurs/le-producteur-en-vente-directe-avec-une-boutique.md).
 
 **Je suis un producteur et je souhaite vendre mes produits via un "hub", une boutique partagée**
 
-Rendez-vous sur [cette page](../fonctionnalites-standards/votre-profil/e2e-permissions.md).
+Rendez-vous sur [cette page](../../fonctionnalites-standards/votre-profil/e2e-permissions.md).
 
 **Notre marché aimerait une boutique en ligne pour que les acheteurs puissent réaliser leurs commandes en dehors des jours de marché.**
 
-Rendez-vous sur [cette page.](../les-differents-profils-utilisateurs/le-marche-virtuel-avec-boutique.md)
+Rendez-vous sur [cette page.](../../les-differents-profils-utilisateurs/le-marche-virtuel-avec-boutique.md)
 
 **Je vends déjà mes produits via une boutique en ligne. Comment puis-je m'intégrer à OFN ?**
 
-Vous pouvez créer [un profil simple](../les-differents-profils-utilisateurs/le-producteur-sans-boutique.md) qui fera le lien avec votre boutique existante.
+Vous pouvez créer [un profil simple](../../les-differents-profils-utilisateurs/le-producteur-sans-boutique.md) qui fera le lien avec votre boutique existante.
 
 **J'ai fréquemment un surplus \(non anticipé\) de produits que je souhaiterais vendre.**
 
@@ -52,13 +52,13 @@ Vous pouvez directement ajouter des produits qui seront ensuite disponible / ven
 
 **Je livre des paniers de produits hebdomadaires et gère actuellement les commandes par email.**
 
-Il est possible de vendre des paniers hebdomadaires sur Open Food Network via la fonctionnalité de [commande récurrente](../fonctionnalites-standards/subscriptions/pour-lacheteur.md). 
+Il est possible de vendre des paniers hebdomadaires sur Open Food Network via la fonctionnalité de [commande récurrente](../../fonctionnalites-standards/subscriptions/pour-lacheteur.md). 
 
 ## Créer un profil producteur
 
 **Quel est la différence entre un profil producteur, une boutique producteur et un hub producteur ?**
 
-Rendez-vous sur [cette page](../les-differents-profils-utilisateurs/).
+Rendez-vous sur [cette page](../../les-differents-profils-utilisateurs/).
 
 ## Votre offre produit et votre boutique
 
@@ -76,7 +76,7 @@ Vérifiez les points suivants :
 
 **Je souhaite que seuls mes clients actuels puissent accéder à la boutique en ligne. Est-ce possible ?**
 
-Oui, rendez-vous sur [cette page.](../fonctionnalites-standards/mise-en-place-dune-boutique/private-shopfront.md)
+Oui, rendez-vous sur [cette page.](../../fonctionnalites-standards/mise-en-place-dune-boutique/private-shopfront.md)
 
 **Comment puis-je indiquer à mes acheteurs le fonctionnement de ma boutique ainsi que les conditions applicables ?**
 
@@ -84,25 +84,25 @@ Vous pouvez ajouter un message d'accueil à votre boutique.
 
 **Je produis des œufs, pourtant mon profil ne s'affiche pas lorsque je regarde la liste des producteurs d'œufs sur la plateforme. Pourquoi ?**
 
-Si vous avez un profil uniquement, il faut créer des produits factices \(et invisibles\). Rendez-vous sur [cette page.](../fonctionnalites-standards/votre-profil/making-a-producer-profile-searchable-by-product-category.md)
+Si vous avez un profil uniquement, il faut créer des produits factices \(et invisibles\). Rendez-vous sur [cette page.](../../fonctionnalites-standards/votre-profil/making-a-producer-profile-searchable-by-product-category.md)
 
 **Je vends de la viande et doit m’assurer de pré-commandes suffisantes avant d’envoyer l’animal à l’abattoir. Comment fixer une quantités minimale de produits commandés ?**
 
-Rendez-vous [sur cette page](../fonctionnalites-standards/produits-1/group-buy-for-bulk-ordering.md).
+Rendez-vous [sur cette page](../../fonctionnalites-standards/produits-1/group-buy-for-bulk-ordering.md).
 
 **Peut-on intégrer la boutique dans un site internet existant ?**
 
-Oui tout à fait. Consultez [cette page](../fonctionnalites-standards/mise-en-place-dune-boutique/embedded-shops.md) pour suivre les instructions.
+Oui tout à fait. Consultez [cette page](../../fonctionnalites-standards/mise-en-place-dune-boutique/embedded-shops.md) pour suivre les instructions.
 
 ## Livraison et paiement
 
 **Comment fonctionne le paiement ?**
 
-Rendez-vous sur [cette page](../fonctionnalites-standards/mise-en-place-dune-boutique/methodes-de-paiements.md).
+Rendez-vous sur [cette page](../../fonctionnalites-standards/mise-en-place-dune-boutique/methodes-de-paiements.md).
 
 **Est-ce que je peux fixer un prix minimal de commande sur ma boutique ?**
 
-La plateforme ne dispose pas de cette fonctionnalité pour l'instant. En revanche vous pouvez ajouter une commission fixe qui assurera un montant minimal. Rendez-vous sur [cette page](../fonctionnalites-standards/mise-en-place-dune-boutique/frais-et-taxes.md).
+La plateforme ne dispose pas de cette fonctionnalité pour l'instant. En revanche vous pouvez ajouter une commission fixe qui assurera un montant minimal. Rendez-vous sur [cette page](../../fonctionnalites-standards/mise-en-place-dune-boutique/frais-et-taxes.md).
 
 **Est-ce que je peux avoir des statistiques sur les commandes et les montants dépensés ?**
 

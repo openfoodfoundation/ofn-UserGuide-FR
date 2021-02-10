@@ -64,6 +64,7 @@
     * [Comment créer une carte cadeaux sur Open Food Network ?](integrations-avec-dautres-logiciels/communication/comment-creer-des-cheques-cadeaux.md)
 * [FAQs](faqs/README.md)
   * [Acheteur](faqs/consommateur.md)
-  * [Producteur](faqs/producteur.md)
-  * [Hub](faqs/hub.md)
+  * [Producteur](faqs/producteur/README.md)
+    * [Hub](faqs/producteur/hub.md)
+  * [CoopCircuits](faqs/coopcircuits.md)
 
