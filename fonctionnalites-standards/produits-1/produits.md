@@ -6,7 +6,7 @@ Cette fonctionnalité permet d'ajouter des produits un par un à votre catalogue
 
 Vous serez redirigé vers la page suivante :
 
-![](../../.gitbook/assets/capture-du-2019-07-31-13-51-33.png)
+![](../../.gitbook/assets/ajouter_un_produit.png)
 
  **Fournisseurs :** Sélectionnez le fournisseur à l'origine du produit.
 
@@ -30,6 +30,9 @@ Vous serez redirigé vers la page suivante :
 
 > Remarque : il s'agit du prix de base du producteur. Les marges et les commissions sont renseignées dans le menu marges et commissions du paramétrage de l'entreprise, et appliquées au moment de la création du cycle de vente pour s'imputer sur le prix du produit tel qu'affiché dans la boutique.
 
+  
+**Prix unitaire:** Ce prix n'est pas modifiable, il est calculé automatiquement en fonction du nombre d'unités vendues.  
+  
 **En stock** **:** Indiquez le stock de produit disponible à la vente.
 
 > Utilisez ce champ si vous voulez suivre votre stock. Lorsque les acheteurs réaliseront des commandes, le niveau du stock se réduira automatiquement et lorsqu'il atteindra 0 le produit ne sera plus visible dans votre boutique. Si vous ne souhaitez pas gérer votre stock dans la plateforme, ou si le produit est disponible à la demande \(autant que souhaité\), cochez "à volonté" \(paragraphe suivant\).
