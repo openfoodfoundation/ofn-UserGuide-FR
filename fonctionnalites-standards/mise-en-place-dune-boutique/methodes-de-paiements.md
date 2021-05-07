@@ -14,7 +14,7 @@ En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez s
 
 **3\)** Sélectionnez votre entreprise dans la liste des hubs dans l'encart à droite. Cela signifie que la méthode de paiement sera créée pour cette entreprise. **Vous pouvez sélectionner plusieurs entreprises**.
 
-![](../../.gitbook/assets/image%20%2849%29.png)
+![](../../.gitbook/assets/image%20%28128%29.png)
 
 **4\)** **Nom :** Choisissez un nom pour cette méthode de paiement. \(par exemple : "Payez par carte de crédit via Paypal"\). Ce nom s'affichera au moment du paiement pour l'acheteur, ainsi que dans les emails de confirmation qui lui seront envoyés.
 
@@ -30,10 +30,8 @@ Un exemple de message au moment du choix de la méthode de paiement :
 
 **8\)** **Fournisseurs** : Sélectionnez celui qui concerne la méthode que vous êtes en train de créer. Vous pouvez accepter les paiements de 5 "fournisseurs" de systèmes de paiement :
 
-* Cash/EFT/etc. \(il s'agit de liquide ou chèque ou virement bancaires, ne nécessitant pas de passer par un portail de paiement en ligne et n'impliquant pas de validation automatique\)
-* MasterCard Internet Gateway Service \(MIGS\)
+* Espèces / chèques / virements / autres \(il s'agit de liquide ou chèque ou virement bancaires ou tout autre option ne nécessitant pas de passer par un portail de paiement en ligne et n'impliquant pas de validation automatique\)
 * PayPal Express
-* Pin Payments **\(fonctionne uniquement en Australie\)**
 * Stripe
 
 **9\) Calculateur :** Sélectionnez comment les frais éventuels associés à la méthode de paiement vont s'appliquer sur la commande. Notez que ces frais peuvent être équivalent à zéro. Voir ci-dessous les [options du calculateur](methodes-de-paiements.md#commissions-sur-les-methodes-de-paiements).
@@ -44,7 +42,7 @@ En cliquant sur **Créer**, la méthode de paiement sera créée et vous aurez d
 
 ### PayPal Express
 
-Pour permettre un paiement par Paypal, vous devez avoir créé au préalable un compte Paypal professionnel. Vous pouvez en créer un [ici](https://www.paypal.com/fr/home). Ensuite il est nécessaire de paramétrer l'API. C'est elle qui vous permettra de connecter votre compte Paypal à Open Food Network.
+Pour permettre un paiement par Paypal, vous devez avoir créé au préalable un compte Paypal professionnel. Vous pouvez en créer un [ici](https://www.paypal.com/fr/home). Ensuite il est nécessaire de paramétrer l'API. C'est elle qui vous permettra de connecter votre compte Paypal à votre boutique en ligne.
 
 1. Connectez-vous à votre compte Paypal
 2. Rendez-vous sur account settings:
@@ -71,19 +69,15 @@ De là vous pouvez accéder au username de l'API, le mot de passe et la signatur
 
 **Server :** Indiquez " live "sans les guillemets à la place de "sandbox".
 
-**Login** **:** Indiquez le nom de l'API "API Username".
+**Se connecter** **:** Indiquez le nom de l'API "API Username".
 
-**Password :** Indiquez le mot de passe de l'API  "API Password".
+**Mot de passe :** Indiquez le mot de passe de l'API  "API Password".
 
 **Signature :** Indiquez le contenu du champ Signature.
 
 **Solution :** Ce champ détermine si les utilisateurs devront avoir un compte paypal pour payer ou non. Laissez "Mark" si l'utilisateur doit avoir un compte paypal, indiquez "Sole" si vous souhaitez le contraire.
 
-**Landing Page :** vous pouvez sélectionner la page d'accueil une fois les utilisateurs redirigés vers paypal pour leur achat. Si vous avez sélectionné "Mark" avant, il vaut mieux indiquer "Login". Si non, "Billing" les renverra directement vers un écran leur permettant d'indiquer leur numéro de carte bleue.
-
-### MasterCard Internet Gateway Service \(MIGS\)
-
-Ce paramétrage ne peut être fait que via votre banque si c'est le système qu'elle utilise.
+**Page d'accueil :** vous pouvez sélectionner la page d'accueil une fois les utilisateurs redirigés vers paypal pour leur achat. Si vous avez sélectionné "Mark" avant, il vaut mieux indiquer "Login". Si non, "Billing" les renverra directement vers un écran leur permettant d'indiquer leur numéro de carte bleue.
 
 ### Stripe
 
