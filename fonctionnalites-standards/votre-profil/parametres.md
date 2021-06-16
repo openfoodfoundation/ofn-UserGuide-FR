@@ -75,6 +75,13 @@ L'adresse nous permet de géolocaliser votre entreprise sur une carte. Si vous d
 
 ![](../../.gitbook/assets/capture-de-cran-2020-09-30-a-11.35.24.png)
 
+Une fois le document sauvegardé. Il s'affichera pour l'acheteur au moment de la commande :   
+
+
+![](../../.gitbook/assets/image%20%28129%29.png)
+
+Une fois acceptées par l'acheteur, les CGU/CGV ne seront plus affichées tant que vous ne mettez pas le document à jour.
+
 ### Images
 
 **Logo :** Le logo sera visible lorsque votre profil est affiché en mode réduit, mais également en version complète. L'image d'origine doit être carrée \(100 x 100 par exemple\), sinon elle peut se faire couper lors du téléchargement.
