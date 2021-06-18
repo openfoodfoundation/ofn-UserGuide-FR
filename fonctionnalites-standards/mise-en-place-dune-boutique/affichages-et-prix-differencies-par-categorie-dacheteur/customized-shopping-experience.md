@@ -81,7 +81,7 @@ Au delà de l'usage des tags, il est possible d'utiliser la fonctionnalité "cat
 {% endhint %}
 
 {% hint style="info" %}
-**ATTENTION**: N'oubliez pas de définir vos [règles de tag](https://ofnuserguidefr.gitbook.io/guide-utilisateur-open-food-network/fonctionnalites-standards/mise-en-place-dune-boutique/affichages-et-prix-differencies-par-categorie-dacheteur/customized-shopping-experience#comment-parametrer-une-regle-de-tag) afin que les tags fonctionnent !
+**ATTENTION**: N'oubliez pas de définir vos [règles de tag](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/fonctionnalites-standards/mise-en-place-dune-boutique/affichages-et-prix-differencies-par-categorie-dacheteur/customized-shopping-experience#comment-parametrer-une-regle-de-tag) afin que les tags fonctionnent !
 {% endhint %}
 
 
