@@ -25,7 +25,9 @@ Les 4 possibilités principales offertes par cette fonctionnalité sont :
 Dans chacun des cas, il vous faudra télécharger le modèle de fichier csv sur la plateforme, le remplir et le téléverser ensuite sur la plateforme.
 
 {% hint style="info" %}
-**Important** : Microsoft Excel ne permet pas l'ouverture "directe" d'un tableur en csv. Si vous le pouvez, nous vous conseillons d'utiliser les tableurs libres de Libres Office [https://www.libreoffice.org/download/download/](https://www.libreoffice.org/download/download/) Avec Libre Office Calc, vous pourrez ouvrir directement le fichier csv et l'enregistrer au bon format d'encodage UTF-8. Si vous préférez tout de même utiliser Microsoft Excel, veuillez suivre la procédure suivante pour ouvrir un fichier csv : [https://support.office.com/fr-fr/article/Importer-ou-exporter-des-fichiers-texte-txt-ou-csv-5250ac4c-663c-47ce-937b-339e391393ba](https://support.office.com/fr-fr/article/Importer-ou-exporter-des-fichiers-texte-txt-ou-csv-5250ac4c-663c-47ce-937b-339e391393ba)
+**Important** : Microsoft Excel ne permet pas l'ouverture "directe" d'un tableur en csv. Si vous le pouvez, nous vous conseillons d'utiliser les tableurs libres de **LibreOffice** [https://www.libreoffice.org/download/download/](https://www.libreoffice.org/download/download/) Avec Libre Office Calc, vous pourrez ouvrir directement le fichier au format csv et l'enregistrer au bon format d'encodage **UTF-8**. Si vous préférez tout de même utiliser Microsoft Excel, veuillez suivre la procédure suivante pour ouvrir un fichier csv : [https://support.office.com/fr-fr/article/Importer-ou-exporter-des-fichiers-texte-txt-ou-csv-5250ac4c-663c-47ce-937b-339e391393ba](https://support.office.com/fr-fr/article/Importer-ou-exporter-des-fichiers-texte-txt-ou-csv-5250ac4c-663c-47ce-937b-339e391393ba)
+
+**Notre conseil :** Téléchargez Libre Office, enregistrer au format .csv et au format d'encodage UTF 8
 {% endhint %}
 
 ## Importer de nouveaux produits dans un catalogue producteur <a id="import-new-products"></a>
@@ -35,8 +37,15 @@ Tout d'abord, téléchargez le modèle sur la page d'import et ouvrez-le avec Li
 Le modèle indique les colonnes à remplir pour réussir l'import. Consultez les informations ci-dessous pour bien remplir le fichier.
 
 {% hint style="info" %}
-**Attention à la casse** : il faut utiliser par exemple mL et non ml !
+**Attention à la casse** : 
+
+* Il faut utiliser par exemple mL et non ml ! 
+* Il ne faut pas d'espace à la suite d'une champ, par exemple pas d'espace après TVA 5.5%
 {% endhint %}
+
+
+
+
 
 Par ailleurs, certains champs ne sont pas encore disponibles via l'import produit \(les images, les labels...\).
 
