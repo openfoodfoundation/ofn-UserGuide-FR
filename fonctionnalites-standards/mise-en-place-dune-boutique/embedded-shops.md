@@ -49,8 +49,6 @@ En fonction de votre site, il est possible que vous ayez besoin \(ou envie\) d'a
 
 N'oubliez pas de bien tester l'intégration sur une navigation mobile ! Si votre intégration n’apparaît pas bien sur mobile, vous aurez peut-être besoin de quelques adaptations CSS supplémentaires.
 
-Vous pouvez voir un [exemple de rendu sur l'intégration réalisée par Micromarché](https://www.micromarche.fr/la-ville-en-bois/), à Nantes. Attention, il s'agit d'une boutique active, ne faites pas de tests dessus !
-
 ## Instructions pour vos visiteurs
 
 ### Cookies
