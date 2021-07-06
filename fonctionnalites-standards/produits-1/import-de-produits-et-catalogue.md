@@ -41,6 +41,7 @@ Le modèle indique les colonnes à remplir pour réussir l'import. Consultez les
 
 * Il faut utiliser par exemple mL et non ml ! 
 * Il ne faut pas d'espace à la suite d'une champ, par exemple pas d'espace après TVA 5.5%
+* Le profil producteur doit être crée avant d'
 {% endhint %}
 
 
