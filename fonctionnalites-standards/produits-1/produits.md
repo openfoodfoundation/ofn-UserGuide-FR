@@ -14,7 +14,9 @@ Vous serez redirigé vers la page suivante :
 
 **Nom du produit :**  C'est le nom du produit qui sera affiché dans la boutique.
 
+{% hint style="info" %}
 L'ordre d'affichage par défaut des produits est alphabétique. Vous pouvez modifier cet affichage à l'aide du champ "ordre d'affichage des catégories" dans [**Préférences boutique**](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/fonctionnalites-standards/votre-profil/parametres#preferences-boutique) ****
+{% endhint %}
 
 **Unités de mesure :** Indiquez via quelle unité le produit sera vendu \(L, kg, pièces...\).
 
