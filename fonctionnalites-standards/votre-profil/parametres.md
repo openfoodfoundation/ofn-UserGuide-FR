@@ -139,17 +139,21 @@ Ici sont gérés les tags que vous attribuez à vos clients, et qui vous permett
 Non visibles par les profils simples
 {% endhint %}
 
-**Message d'accueil boutique ouverte** : Ce message est facultatif. Il sera affiché sur votre boutique juste au-dessus des produits \(cf. exemple ci-dessous\). 
+**Message d'accueil** : Ce message est facultatif. Il sera affiché sur votre boutique dans l'onglet "accueil".
 
-C'est l'endroit idéal pour communiquer des informations importantes comme des commandes spéciales, des informations sur vos cycles de vente, des actualités ou encore rappeler un mode opératoire !
+C'est l'endroit idéal pour communiquer des informations importantes comme des commandes spéciales, des informations sur vos cycles de vente, des actualités ou encore rappeler un mode opératoire !  
+  
 
-![](../../.gitbook/assets/image%20%2890%29.png)
+
+![](../../.gitbook/assets/image%20%28134%29.png)
 
 **Message d'accueil boutique fermée** : Ce message s'affiche lorsque votre boutique est fermée. L'occasion d'indiquer la façon dont votre boutique est organisée ainsi que la prochaine date de la réouverture !
 
-![](../../.gitbook/assets/capture-du-2019-07-30-23-16-32.png)
+![](../../.gitbook/assets/image%20%28132%29.png)
 
-**Ordre d'affichage des catégories :** Par défaut, les produits sont rangés par ordre alphabétique dans votre boutique. Vous pouvez choisir d'afficher les produits par ordre de catégorie selon votre souhait. Le cas échéant, les produits seront affichés par ordre de catégorie puis par ordre alphabétique au sein de leur catégorie. 
+**Ordre d'affichage sur la boutique en ligne :** Par défaut, les produits sont rangés par ordre alphabétique dans votre boutique. Vous pouvez choisir d'afficher les produits par catégorie ou par producteurs selon un ordre que vous pouvez définir. 
+
+![](../../.gitbook/assets/image%20%28131%29.png)
 
 **Trier les cycles de vente par** : Si votre boutique aura [plus d'un cycle de vente ouvert en même temps](../mise-en-place-dune-boutique/cycles-de-vente/opening-more-than-one-order-cycle.md) vous pouvez choisir l'ordre d'apparition des cycles dans le champ de sélection du cycle de vente à afficher : soit par date de fermeture, soit par date d'ouverture.
 
