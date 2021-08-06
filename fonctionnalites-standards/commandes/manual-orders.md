@@ -20,7 +20,7 @@ L'étape suivante est d'ajouter les informations liées à l'acheteur dans le me
 
 ![](../../.gitbook/assets/capture-du-2019-08-22-23-31-41.png)
 
-Cliquez sur continuer et sélectionnez une méthode de livraison :
+Cliquez sur **Ajustements** ou directement sur **Paiements** \(à droite de l'écran\) avant de continuer et sélectionner une méthode de livraison :
 
 ![](../../.gitbook/assets/image%20%2894%29.png)
 
