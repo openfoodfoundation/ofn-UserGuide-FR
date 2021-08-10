@@ -34,7 +34,7 @@ Un exemple de message au moment du choix de la méthode de paiement :
 * PayPal Express
 * Stripe
 
-**9\) Calculateur :** Sélectionnez comment les frais éventuels associés à la méthode de paiement vont s'appliquer sur la commande. Notez que ces frais peuvent être équivalent à zéro. Voir ci-dessous les [options du calculateur](methodes-de-paiements.md#commissions-sur-les-methodes-de-paiements).
+**9\) Calculateur :** Sélectionnez comment les frais éventuels associés à la méthode de paiement vont s'appliquer sur la commande. Notez que ces frais peuvent être équivalent à zéro. Voir ci-dessous les [options du calculateur](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/fonctionnalites-standards/mise-en-place-dune-boutique/frais-et-taxes#le-calculateur).
 
 En cliquant sur **Créer**, la méthode de paiement sera créée et vous aurez de nouveaux champs pour définir les frais associés au calculateur choisi. Ces champs dépendent de la sélection effectuée dans le calculateur. Ainsi, si par la suite vous changez la sélection de calculateur, il faut d'abord sauvegarder votre modification \(mettre à jour\) et ensuite les champs associés apparaissent. 
 
