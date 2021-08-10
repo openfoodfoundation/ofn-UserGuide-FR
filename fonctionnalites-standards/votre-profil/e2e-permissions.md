@@ -4,7 +4,7 @@ Ces permissions doivent être octroyées pour qu'une entreprise deviennent fourn
 
 Cette page détaille les différentes permissions possibles et la manière de les allouer. Ensuite deux paragraphes vont plus loin en présentant les permissions depuis deux points de vue différents :
 
-* [**Celui du hub**](e2e-permissions.md#E2Es-from-a-hubs-perspective)
+* **Celui du hub**
 * [**Celui du producteur**](e2e-permissions.md#E2Es-from-a-producers-perspective)
 
 ## Les différentes permissions
