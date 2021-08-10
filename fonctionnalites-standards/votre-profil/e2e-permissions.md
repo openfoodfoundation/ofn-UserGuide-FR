@@ -2,7 +2,11 @@
 
 Ces permissions doivent être octroyées pour qu'une entreprise deviennent fournisseur d'une autre ou inversement qu'une entreprise puisse distribuer les produits d'une autre. Un "droit" est accordé par une entreprise à une autre concernant l'accès / la modification des produits et du profil.
 
-Cette page détaille les différentes permissions possibles et la manière de les allouer. Ensuite deux paragraphes vont plus loin en présentant les permissions depuis deux points de vue différents :
+Cette page détaille les différentes permissions possibles et la manière de les allouer. Pour accéder aux permissions d'entreprise: 
+
+![](../../.gitbook/assets/permissions.png)
+
+Ensuite deux paragraphes vont plus loin en présentant les permissions depuis deux points de vue différents :
 
 * **Celui du hub**
 * [**Celui du producteur**](e2e-permissions.md#E2Es-from-a-producers-perspective)
