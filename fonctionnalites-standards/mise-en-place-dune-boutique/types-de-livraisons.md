@@ -1,6 +1,8 @@
 # Méthodes de livraison
 
+{% hint style="info" %}
 La définition d'au moins une méthode de livraison est obligatoire avant l'ouverture d'une boutique !
+{% endhint %}
 
 ## Définir une méthode de livraison
 

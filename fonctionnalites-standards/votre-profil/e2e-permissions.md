@@ -8,8 +8,8 @@ Cette page détaille les différentes permissions possibles et la manière de le
 
 Ensuite deux paragraphes vont plus loin en présentant les permissions depuis deux points de vue différents :
 
-* \*\*\*\*[**Celui du hub**](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/fonctionnalites-standards/votre-profil/e2e-permissions#point-de-vue-dun-hub)\*\*\*\*
-* \*\*\*\*[**Celui du producteur**](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/fonctionnalites-standards/votre-profil/e2e-permissions#point-de-vue-dun-producteur)\*\*\*\*
+* **Celui du hub**
+* [**Celui du producteur**](e2e-permissions.md#E2Es-from-a-producers-perspective)
 
 ## Les différentes permissions
 
