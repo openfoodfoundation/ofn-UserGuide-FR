@@ -8,8 +8,8 @@ Cette page détaille les différentes permissions possibles et la manière de le
 
 Ensuite deux paragraphes vont plus loin en présentant les permissions depuis deux points de vue différents :
 
-* **Celui du hub**
-* [**Celui du producteur**](e2e-permissions.md#E2Es-from-a-producers-perspective)
+* \*\*\*\*[**Celui du hub**](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/fonctionnalites-standards/votre-profil/e2e-permissions#point-de-vue-dun-hub)\*\*\*\*
+* \*\*\*\*[**Celui du producteur**](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/fonctionnalites-standards/votre-profil/e2e-permissions#point-de-vue-dun-producteur)\*\*\*\*
 
 ## Les différentes permissions
 
@@ -50,7 +50,7 @@ La plateforme est configurée de manière à ce que les _permissions requises_ e
 
 Vous devez contacter votre fournisseur en personne. Ses coordonnées \(numéro de téléphone, adresse et adresse électronique\) se trouvent dans son profil OFN.  
   
-Si vous avez uniquement l'intention de stocker leurs produits et ne souhaitez pas les aider à gérer le reste de leur profil OFN, demandez au producteur de vous accorder la permission de "vendre les produits" et la permission "ajouter au catalogue comptoir".   
+Si vous avez uniquement l'intention de stocker leurs produits et ne souhaitez pas les aider à gérer le reste de leur profil OFN, demandez au producteur de vous accorder la permission de "vendre les produits" et la permission "ajouter au catalogue boutique".   
   
 Si le fournisseur souhaite que vous, en tant que gestionnaire de Hub, l'aidiez à gérer son entreprise OFN, il peut vous accorder les quatres permissions. Dans ce cas, vous serez en mesure de modifier son profil et de gérer ses produits.
 
@@ -62,9 +62,9 @@ Il s'agit d'un exemple où le hub qui gère \(coordonne\) un cycle de vente diff
 Si le Hub A gère \(coordonne\) un cycle de vente pour un groupe d'acheteurs \(Hub B\), le cycle de vente sera affiché sur la vitrine OFN du Hub B.
 {% endhint %}
 
-Le groupe d'achat \(Hub B ci-dessus\) devra accorder au coordinateur du cycle de vente \(Hub A ci-dessus\) la permission "vendre les produits \(ajouter au cycle de vente\)" \(et idéalement la permission "ajouter au catalogue comptoir"\). 
+Le groupe d'achat \(Hub B ci-dessus\) devra accorder au coordinateur du cycle de vente \(Hub A ci-dessus\) la permission "vendre les produits \(ajouter au cycle de vente\)" \(et idéalement la permission "ajouter au catalogue boutique"\). 
 
-Les producteurs qui fournissent au Hub A des produits qui seront également vendus par le groupe d'achat \(Hub B\) doivent accorder aux Hubs A et B la permission "vendre les produits \(ajouter au cycle de vente\)" \(et idéalement la permission "ajouter au catalogue comptoir"\).
+Les producteurs qui fournissent au Hub A des produits qui seront également vendus par le groupe d'achat \(Hub B\) doivent accorder aux Hubs A et B la permission "vendre les produits \(ajouter au cycle de vente\)" \(et idéalement la permission "ajouter au catalogue boutique"\).
 
 ## Point de vue d'un producteur
 
@@ -76,15 +76,15 @@ Ces exemples décrivent quelques scénari classiques.
 
 **Essentiel** : Pour que le hub puisse vendre vos produits à travers sa vitrine, vous devez lui accorder la permission "vendre les produits \(ajouter au cycle de vente\)". 
 
-**Facultatif** : vous pouvez également donner au hub la permission de gérer vos produits, de modifier votre profil ou d'ajouter vos produits au catalogue comptoir.
+**Facultatif** : vous pouvez également donner au hub la permission de gérer vos produits, de modifier votre profil ou d'ajouter vos produits au catalogue boutique.
 
 > Un hub dont je suis fournisseur distribue via des groupes d'achat.
 
 Pour que vos produits puissent être distribués par les groupes d'achat, vous devez accorder à minima les permissions "vendre les produits \(ajouter au cycle de vente\)" pour l'entreprise du groupe d'achat ainsi que pour le hub que vous fournissez directement.
 
-> Je suis producteur et je vends mes produits via mon propre comptoir mais également via un hub. Le hub souhaite gérer les stocks et les prix de mes produits de même que je souhaite gérer les stocks et les prix de mes produits.
+> Je suis producteur et je vends mes produits via ma propre boutique mais également via un hub. Le hub souhaite gérer les stocks et les prix de mes produits de même que je souhaite gérer les stocks et les prix de mes produits.
 
-Ce scénario peut être résolu en accordant au hub la permission "ajouter au catalogue comptoir" ainsi que la permission "vendre les produits \(ajouter au cycle de vente\)".   
+Ce scénario peut être résolu en accordant au hub la permission "ajouter au catalogue boutique" ainsi que la permission "vendre les produits \(ajouter au cycle de vente\)".   
   
 Cela permet au hub de stocker vos produits dans sa boutique, mais de fixer ses propres prix et niveaux de stock. Lorsque vous stockerez vos produits dans votre propre boutique, ils continueront à refléter les prix et les niveaux de stock que vous avez définis.
 
