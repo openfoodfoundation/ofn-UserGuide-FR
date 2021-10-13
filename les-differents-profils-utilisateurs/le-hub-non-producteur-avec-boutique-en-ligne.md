@@ -6,24 +6,24 @@ Les hubs peuvent prendre différentes formes, mais avant tout, il s'agit de bout
 
 ## Les atouts
 
-**Intéressant pour le consommateur**  
+**Intéressant pour le consommateur**\
 Le consommateur peut accéder à chacun des profils des producteurs livrant des produits au hub. La gestion du hub est transparente pour lui et il a accès à une grande diversité de produits au sein d'une même boutique.
 
-**Administration**  
+**Administration**\
 Pour faciliter votre gestion au jour-le-jour, l'interface d'administration vous permet de suivre les commandes et d'accéder à un historique des commandes et des paiements.
 
-**Gestion des commandes périodiques**  
+**Gestion des commandes périodiques**\
 Vous décidez des périodes d'ouverture de votre boutique et vous gérez vos cycle de vente.
 
-**Implique vos fournisseurs**  
+**Implique vos fournisseurs**\
 Vos fournisseurs peuvent se connecter directement à OFN et mettre à jour leurs stocks et leurs prix, vous permettant de gagner du temps.
 
-**Vous rend flexible**  
+**Vous rend flexible**\
 L'avantage d'une plateforme en ligne, c'est que vous pouvez tester à tout moment de nouvelles fonctionnalités, ou encore changer en dernière minute les paramétrages, en ajoutant une nouvelle date de livraison par exemple.
 
 ## Les étapes de création du profil
 
-1\) [Créez votre profil](../fonctionnalites-standards/inscription-et-creation-de-profil.md) sur Open Food Network \(OFN\). Pour cette étape, il est nécessaire d'avoir vos coordonnées et un accès à votre boite mail à proximité afin de valider votre adresse.
+1\) [Créez votre profil](../fonctionnalites-standards/inscription-et-creation-de-profil.md) sur Open Food Network (OFN). Pour cette étape, il est nécessaire d'avoir vos coordonnées et un accès à votre boite mail à proximité afin de valider votre adresse.
 
 2\) Sélectionnez le 'hub non producteur avec boutique en ligne' dans les [types de package](../fonctionnalites-standards/votre-profil/types-de-package.md).
 
@@ -39,23 +39,23 @@ L'avantage d'une plateforme en ligne, c'est que vous pouvez tester à tout momen
 
 8\) Gérez vos produits
 
-Les instructions suivantes sont divisées en fonction des choix que vous avez réalisés à l'étape 7 : soit a\) vous avez créé des profils pour les producteurs avec qui vous travaillez \(car ils n'avaient pas encore de profil OFN\) ; ou b\) vous avez connecté votre profil avec des profils de producteurs existants.
+Les instructions suivantes sont divisées en fonction des choix que vous avez réalisés à l'étape 7 : soit a) vous avez créé des profils pour les producteurs avec qui vous travaillez (car ils n'avaient pas encore de profil OFN) ; ou b) vous avez connecté votre profil avec des profils de producteurs existants.
 
-8a\) Vous avez créé des profils pour les producteurs avec lesquels vous travaillez  
+8a) Vous avez créé des profils pour les producteurs avec lesquels vous travaillez\
 Dans ce cas, vous aurez aussi besoin [d'ajouter leurs produits](../fonctionnalites-standards/produits-1/produits.md) à leurs profils, avant que vous puissiez gérer les stocks.
 
-8b\) Vous avez connecté votre profil à des profils de producteurs existants  
+8b) Vous avez connecté votre profil à des profils de producteurs existants\
 Chaque producteurs devra vous donner accès à ses stocks.
 
 Si votre fournisseur a un profil, mais n'a pas ajouté de produits, vous devrez tout d'abord avoir la permission de gérer leur stock. Ensuite, vous pourrez [ajouter des produits](../fonctionnalites-standards/produits-1/produits.md).
 
-**Une fois toutes ces étapes effectuées, vous pouvez ouvrir votre boutique en suivant cette dernière étape :** 
+**Une fois toutes ces étapes effectuées, vous pouvez ouvrir votre boutique en suivant cette dernière étape : **
 
 9\)[ Ouvrez votre boutique en créant un nouveau cycle de vente](../fonctionnalites-standards/mise-en-place-dune-boutique/cycles-de-vente/cycle-de-vente-pour-les-hub.md).
 
-**Une fois que les premières commandes auront été effectuées, vous pouvez consulter l'historique des commandes et accéder aux rapport.**    
-  
-10\) [Visualiser et modifier les commandes](../fonctionnalites-standards/commandes/visualisation-des-commandes.md).
+**Une fois que les premières commandes auront été effectuées, vous pouvez consulter l'historique des commandes et accéder aux rapport.  **\
+****\
+****10) [Visualiser et modifier les commandes](../fonctionnalites-standards/commandes/visualisation-des-commandes.md).
 
 11\) [Accéder aux rapports](https://github.com/OFNUserguideFr/OFNUserGuide-France/tree/1d234e8c405da5bfe626c5ecf5f2eb351ab64b8a/reports.md). Les rapports vous permettent également de générer des factures ou des relances emails.
 
@@ -64,6 +64,4 @@ Si votre fournisseur a un profil, mais n'a pas ajouté de produits, vous devrez 
 * [Intégrer](../fonctionnalites-standards/mise-en-place-dune-boutique/embedded-shops.md) votre boutique dans VOTRE site internet
 * [Fixer les prix de produits "irréguliers" comme la viande](../fonctionnalites-standards/produits-1/pricing-irregular-items-kg.md)
 * [Ouvrir plusieurs cycles de ventre simultanés](../fonctionnalites-standards/mise-en-place-dune-boutique/cycles-de-vente/opening-more-than-one-order-cycle.md).
-
-
 

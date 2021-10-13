@@ -7,4 +7,3 @@ Voici les liens vers les questions les plus fréquemment posées, classées par 
 [PRODUCTEUR](producteur/)
 
 [HUB](producteur/hub.md)
-

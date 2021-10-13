@@ -5,4 +5,3 @@ Une fois le compte entreprise créé, vous devez vous connecter sur l'interface 
 {% hint style="info" %}
 Il est important d'aller jusqu'au bout de ce processus car sans cela votre entreprise pourrait ne pas apparaître sur la carte, ou apparaître sans que le profil soit correctement renseigné, ce qui peut nuire à votre image.
 {% endhint %}
-

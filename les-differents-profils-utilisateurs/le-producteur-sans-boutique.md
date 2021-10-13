@@ -10,10 +10,10 @@
 
 ## Les atouts
 
-**Augmenter votre visibilité**  
-Lorsque vous vous créez un compte sur la plateforme Open Food Network, vous devenez visible dans la communauté locale et francophone. Vous pouvez vendre vos produits via diverses boutiques \(avec lesquelles vous travaillez peut-être déjà\) et d'autres entreprises peuvent vous contacter pour des partenariats éventuels.
+**Augmenter votre visibilité**\
+Lorsque vous vous créez un compte sur la plateforme Open Food Network, vous devenez visible dans la communauté locale et francophone. Vous pouvez vendre vos produits via diverses boutiques (avec lesquelles vous travaillez peut-être déjà) et d'autres entreprises peuvent vous contacter pour des partenariats éventuels.
 
-**Accéder à plusieurs boutiques qui pourront vendre vos produits**  
+**Accéder à plusieurs boutiques qui pourront vendre vos produits**\
 Si vous travaillez déjà avec une boutique visible sur Open Food Network, vous inscrire vous permettra de gérer vos produits et de les rendre visible à cette boutique. Par la suite, vous pourrez également choisir de vendre vos produits au travers d'autres boutiques du réseau Open Food Network.
 
 ## Les étapes de création du profil
@@ -26,9 +26,9 @@ Si vous travaillez déjà avec une boutique visible sur Open Food Network, vous 
 
 Si vous avez besoin de le modifier et ou d'ajouter des détails, vous pouvez :
 
-3\) Modifier vos [Paramètres](../fonctionnalites-standards/votre-profil/parametres.md). C'est toujours un plus si vous pouvez indiquer vos méthodes de production \(BIO, élevage en plein air...\), des images, et des textes descriptifs de votre activité.
+3\) Modifier vos [Paramètres](../fonctionnalites-standards/votre-profil/parametres.md). C'est toujours un plus si vous pouvez indiquer vos méthodes de production (BIO, élevage en plein air...), des images, et des textes descriptifs de votre activité.
 
-### Bien joué, votre profil est désormais complété ;\)
+### Bien joué, votre profil est désormais complété ;)
 
 Si **vous souhaitez qu'une boutique vende vos produits :**
 
@@ -40,6 +40,5 @@ Si **vous souhaitez qu'une boutique vende vos produits :**
 
 * [Rendre votre profil consultable par catégorie de produit ](../fonctionnalites-standards/votre-profil/making-a-producer-profile-searchable-by-product-category.md)
 
-**Vous souhaitez ouvrir une boutique en ligne ?**    
-En quelques clics, vous pouvez ouvrir votre propre boutique en ligne. Pour ce point, consultez le [guide à ce lien](le-producteur-en-vente-directe-avec-une-boutique.md). Vous avez déjà réalisé l'étape 1, il vous suffit de vous rendre directement à l'étape deux et changer vos types de packages.
-
+**Vous souhaitez ouvrir une boutique en ligne ?  **\
+****En quelques clics, vous pouvez ouvrir votre propre boutique en ligne. Pour ce point, consultez le [guide à ce lien](le-producteur-en-vente-directe-avec-une-boutique.md). Vous avez déjà réalisé l'étape 1, il vous suffit de vous rendre directement à l'étape deux et changer vos types de packages.

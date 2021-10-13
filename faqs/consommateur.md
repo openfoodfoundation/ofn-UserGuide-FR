@@ -1,6 +1,6 @@
 # Acheteur
 
-A propos de la plateforme locale Open Food Network \(ex: [https://www.openfoodnetwork.be](https://www.openfoodnetwork.be)\)
+A propos de la plateforme locale Open Food Network (ex: [https://www.openfoodnetwork.be](https://www.openfoodnetwork.be))
 
 **La plateforme livre-t-elle des paniers de fruits et légumes ?**
 
@@ -8,7 +8,7 @@ Pas exactement. Open Food Network est un site internet qui permet aux entreprise
 
 **En quoi la plateforme Open Food Network est transparente ?**
 
-La plateforme permet de visualiser pour un produit donné dans une boutique donnée l'allocation exacte du prix entre la part du producteur et celle du distributeur \(dans notre cas essentiellement des associations, épiceries, coopératives et collectifs de producteurs\). Les utilisateurs s'engagent également à renseigner les caractéristiques des produits \(certification biologique, lieu de production...\).
+La plateforme permet de visualiser pour un produit donné dans une boutique donnée l'allocation exacte du prix entre la part du producteur et celle du distributeur (dans notre cas essentiellement des associations, épiceries, coopératives et collectifs de producteurs). Les utilisateurs s'engagent également à renseigner les caractéristiques des produits (certification biologique, lieu de production...).
 
 **En quoi acheter sur Open Food Network est bénéfique à l'environnement, aux producteurs ou à mon quartier ?**
 
@@ -24,9 +24,9 @@ Open Food Network est un réseau de "plateformes coopératives" dédiées à la 
 
 Certaines boutiques fonctionnent grâce à un cycle de vente, par opposition avec d'autres qui sont ouvertes de manière continue et gèrent les commandes au cas par cas. Un cycle de vente permet aux entreprises de massifier les commandes, ce qui facilite leur gestion, la préparation des paniers, le transport, etc.
 
-Un cycle de vente démarre par une période durant laquelle la boutique est ouverte et accepte les commandes. Ensuite la boutique ferme et traite toutes les commandes qui ont été réalisées \(récolte, préparation des paniers et livraison\). Le processus peut ensuite se répéter.
+Un cycle de vente démarre par une période durant laquelle la boutique est ouverte et accepte les commandes. Ensuite la boutique ferme et traite toutes les commandes qui ont été réalisées (récolte, préparation des paniers et livraison). Le processus peut ensuite se répéter.
 
-Un cycle de vente complet peut prendre souvent jusqu'à deux semaines \(de la commande à la livraison\), voire plus pour des commandes de viande par exemple. Cela signifie qu'il est possible d'être livré entre quelques jours et quelques semaines, une fois sa commande passée.
+Un cycle de vente complet peut prendre souvent jusqu'à deux semaines (de la commande à la livraison), voire plus pour des commandes de viande par exemple. Cela signifie qu'il est possible d'être livré entre quelques jours et quelques semaines, une fois sa commande passée.
 
 Si une boutique fermée, elle expliquera potentiellement quand ouvrira le prochain cycle de vente dans le message d'accueil aux visiteurs.
 
@@ -40,13 +40,13 @@ Chaque boutique est indépendante et gère elle-même les différents type de m�
 
 **Est-ce que je peux voir un historique des mes commandes passées ?**
 
-En vous connectant à la plateforme \(en haut à droite sur la page d'accueil\), vous pouvez accéder à votre compte et ainsi consulter toutes vos commandes passées.
+En vous connectant à la plateforme (en haut à droite sur la page d'accueil), vous pouvez accéder à votre compte et ainsi consulter toutes vos commandes passées.
 
 ## Autre
 
 **Toutes les boutiques sur Open Food Network sont différentes. Comment trouver celle qui me convient le mieux ?**
 
-Les boutiques sont très diverses, cela signifie qu'il y en a forcément une qui correspond à vos besoins. Vous pouvez utilisez la carte pour découvrir les boutiques à côté de chez vous. Sur chaque profil de boutique, vous pouvez connaitre le type de produits vendus, les méthodes de paiement et de livraison, et surtout, connaitre les producteurs à l'origine des produits vendus \(quelles sont leurs méthodes de production, etc\). Les tarifs sont transparents : pour chaque boutique vous connaissez le montant reversé à la boutique et le montant reversé au producteur.
+Les boutiques sont très diverses, cela signifie qu'il y en a forcément une qui correspond à vos besoins. Vous pouvez utilisez la carte pour découvrir les boutiques à côté de chez vous. Sur chaque profil de boutique, vous pouvez connaitre le type de produits vendus, les méthodes de paiement et de livraison, et surtout, connaitre les producteurs à l'origine des produits vendus (quelles sont leurs méthodes de production, etc). Les tarifs sont transparents : pour chaque boutique vous connaissez le montant reversé à la boutique et le montant reversé au producteur.
 
 **Puis-je acheter dans toutes les boutiques ?**
 
@@ -54,14 +54,13 @@ Certaines boutiques sont réservées à leurs membres. Vous les reconnaîtrez ca
 
 **Les produits vendus sont-ils bon marché ?**
 
-Notre objectif est de rendre accessible les bons produits aux bons prix \(bons pour les producteurs, bons pour les mangeurs\). En réduisant les intermédiaires et en affichant une meilleure transparence, les acheteurs peuvent savoir d'où viennent les produits achetés et à quoi sert leur argent. Mais encore une fois, les boutiques ont des modèles différents, certains sont plus associatifs, d'autres plus commerciaux, à vous de voir ce qui vous convient !
+Notre objectif est de rendre accessible les bons produits aux bons prix (bons pour les producteurs, bons pour les mangeurs). En réduisant les intermédiaires et en affichant une meilleure transparence, les acheteurs peuvent savoir d'où viennent les produits achetés et à quoi sert leur argent. Mais encore une fois, les boutiques ont des modèles différents, certains sont plus associatifs, d'autres plus commerciaux, à vous de voir ce qui vous convient !
 
 **Qu'est-ce qu'un groupement d'achat et comment puis-je en créer un ou en rejoindre un ?**
 
-Un groupement d'achat est un collectif d'acheteurs, réalisant leur commande en groupe au travers d'une boutique, puis redistribuant les commandes au sein des membres du groupe. Cela peut prendre forme dans le jardin d'une personne ou dans un espace communal. Les groupements d'achats sont généralement à but non lucratif et gérés par leurs propres membres.  
+Un groupement d'achat est un collectif d'acheteurs, réalisant leur commande en groupe au travers d'une boutique, puis redistribuant les commandes au sein des membres du groupe. Cela peut prendre forme dans le jardin d'une personne ou dans un espace communal. Les groupements d'achats sont généralement à but non lucratif et gérés par leurs propres membres.\
 En commandant par lot, et en internalisant certaines tâches comme la préparation des paniers et la distribution , les membres sont assurés d'obtenir les produits à un prix plus bas qu'en vente directe individuelle ou via une boutique classique. Créer un groupement d'achat peut être un bon moyen de souder un voisinage tout en donnant accès à de bons produits.
 
 Si une boutique livre un groupement d'achat, n'hésitez pas à les contacter directement pour connaître leur conditions d'inscription.
 
 A l'inverse si vous êtes dans un processus de création d'un groupement d'achat, contactez les boutiques afin de savoir si elles peuvent vous livrer.
-

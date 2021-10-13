@@ -4,20 +4,20 @@ Au cours de vos ventes, vous allez sans doute être amené à procéder à des a
 
 Les scénarios les plus courants sont les suivants :
 
-1. Un **produit au poids variable** a été commandé, et au moment de la livraison, vous allez renseigner le poids exact pour ajuster le prix réel à régler  
-2. Un produit **n'a pas été livré** par le producteur  
-3. L'acheteur a souhaité sur place **ajouter des produits** dans la commande d'origine  
-4. il y a un soucis sur la commande et vous voulez **accorder une ristourne sur cette commande**  
+1\. Un **produit au poids variable** a été commandé, et au moment de la livraison, vous allez renseigner le poids exact pour ajuster le prix réel à régler\
+2\. Un produit **n'a pas été livré **par le producteur\
+3\. L'acheteur a souhaité sur place **ajouter des produits **dans la commande d'origine\
+4\. il y a un soucis sur la commande et vous voulez **accorder une ristourne sur cette commande**\
+****
 
+Deux cas de figure principaux se présentent :\
+\
+**A. La commande n'a pas été payée d'avance **et sera réglée sur place au moment du retrait. Dans ce cas, les ajustements sont passés avant le règlement, et ce qui sera réglé sera donc le montant final exact.
 
-Deux cas de figure principaux se présentent :  
-  
-**A. La commande n'a pas été payée d'avance** et sera réglée sur place au moment du retrait. Dans ce cas, les ajustements sont passés avant le règlement, et ce qui sera réglé sera donc le montant final exact.
-
-**B. La commande a été payée au moment de la commande, par Stripe ou Paypal par exemple, ou virement bancaire.** Dans ce cas, 3 situations possibles :  
-- le solde est créditeur, vous devez de l'argent à l'acheteur et souhaitez le rembourser  
-- le solde est créditeur, vous devez de l'argent à l'acheteur et souhaitez qu'il puisse utiliser ce solde pour payer en partie sa prochaine facture  
-- le solde est débiteur, il vous doit de l'argent
+**B. La commande a été payée au moment de la commande, par Stripe ou Paypal par exemple, ou virement bancaire. **Dans ce cas, 3 situations possibles :\
+\- le solde est créditeur, vous devez de l'argent à l'acheteur et souhaitez le rembourser\
+\- le solde est créditeur, vous devez de l'argent à l'acheteur et souhaitez qu'il puisse utiliser ce solde pour payer en partie sa prochaine facture\
+\- le solde est débiteur, il vous doit de l'argent
 
 ## A- Comment rembourser un trop perçu sur une commande ?
 
@@ -27,31 +27,31 @@ Si le paiement a été effectué via votre compte marchand Stripe, le remboursem
 
 La commande que vous souhaitez ajuster est notée comme "payée" :
 
-![](../../.gitbook/assets/capture-du-2019-02-27-19-54-27.png)
+![](<../../.gitbook/assets/Capture du 2019-02-27 19-54-27.png>)
 
 Vous allez vouloir soit saisir l'ajustement en édition de cette commande, soit modifier le poids du produit réel dans "gestion des commandes par lot, par exemple". Ici nous prenons le cas d'une modification de poids livré réellement à un acheteur :
 
-![](../../.gitbook/assets/capture-du-2019-02-27-20-01-57.png)
+![](<../../.gitbook/assets/Capture du 2019-02-27 20-01-57.png>)
 
  Vous constatez ensuite la commande modifiée avec le crédit sur la commande, et vous pouvez alors cliquer sur le symbole "Créditer" ici encadré sur l'image pour lancer le remboursement par Stripe sur le compte du client du crédit dû :
 
-![](../../.gitbook/assets/capture-du-2019-02-27-20-04-19.png)
+![](<../../.gitbook/assets/Capture du 2019-02-27 20-04-19.png>)
 
 Vous constatez bien sur votre compte Stripe le remboursement partiel :
 
-![](../../.gitbook/assets/capture-du-2019-02-27-20-06-06.png)
+![](<../../.gitbook/assets/Capture du 2019-02-27 20-06-06.png>)
 
 {% hint style="info" %}
 Le remboursement va mettre 5 à 10 jours pour apparaître sur le compte de votre acheteur.
 {% endhint %}
 
 {% hint style="info" %}
-Les frais prélevés par Stripe \(1,2 - 1,4% + 0,2 cts par transaction\) ne sont pas remboursés bien entendu, et reste prélevés sur la base du montant payé à l'origine. Il peut être parfois plus avantageux de capturer un ajustement sur la commande suivante de l'acheteur, ou lui proposer d'utiliser ses crédits pour payer une future commande \(fonctionnalité qui sera développée dans les mois à venir\).
+Les frais prélevés par Stripe (1,2 - 1,4% + 0,2 cts par transaction) ne sont pas remboursés bien entendu, et reste prélevés sur la base du montant payé à l'origine. Il peut être parfois plus avantageux de capturer un ajustement sur la commande suivante de l'acheteur, ou lui proposer d'utiliser ses crédits pour payer une future commande (fonctionnalité qui sera développée dans les mois à venir).
 {% endhint %}
 
 Si une commande a été annulée et que vous voulez intégralement rembourser la commande, vous également pouvez le faire directement depuis l'interface Open Food Network :
 
-![](../../.gitbook/assets/capture-du-2019-02-27-20-17-57.png)
+![](<../../.gitbook/assets/Capture du 2019-02-27 20-17-57.png>)
 
 
 
@@ -61,7 +61,7 @@ Les remboursements partiels ou totaux de commandes réglés par Paypal ne foncti
 
 ### c- Paiement via virement bancaire
 
-Si le paiement a été réalisé via un mode de paiement non automatique \(hors Stripe et Paypal donc\), mais déjà capturé comme payé, comme par exemple, via virement bancaire, vous pouvez saisir un ajustement sur la commande, et capturer un paiement négatif.
+Si le paiement a été réalisé via un mode de paiement non automatique (hors Stripe et Paypal donc), mais déjà capturé comme payé, comme par exemple, via virement bancaire, vous pouvez saisir un ajustement sur la commande, et capturer un paiement négatif.
 
 ## B- Comment permettre à  un acheteur de régler partiellement sa prochaine facture avec ses crédits ?
 
@@ -73,7 +73,7 @@ Nous avons le projet de permettre à un acheteur qui a des crédits disponible d
 
 ## C- Comment prélever le montant complémentaire ?
 
-Si vous avez ajouté à une commande déjà réglée \(quel que soit le moyen de paiement\) un nouvel article par exemple, vous avez la possibilité de capturer un paiement complémentaire. Ce paiement doit être capturé manuellement, et ne peut pas être prélevé via Stripe ou Paypal. 
+Si vous avez ajouté à une commande déjà réglée (quel que soit le moyen de paiement) un nouvel article par exemple, vous avez la possibilité de capturer un paiement complémentaire. Ce paiement doit être capturé manuellement, et ne peut pas être prélevé via Stripe ou Paypal. 
 
 {% hint style="info" %}
 Tant que les prélèvements complémentaires sur des paiement en ligne via Stripe ou Paypal ne peuvent pas être gérés de manière satisfaisante, il peut être judicieux d'être vigilant à la façon de saisir les produits, pour éviter les ajustements positifs, et inviter à passer une commande complémentaire si un produit a été oublié, cette nouvelle commande pouvant donc être réglée via Stripe ou Paypal.
@@ -81,6 +81,4 @@ Tant que les prélèvements complémentaires sur des paiement en ligne via Strip
 
 
 
-  
-
-
+\

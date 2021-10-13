@@ -14,5 +14,3 @@ Cette page est en construction
 
 {% embed url="https://www.loom.com/share/ee857ca03f474c34ab064eeda536c9b8" %}
 
-
-

@@ -1,28 +1,28 @@
-# Hubs : créer ou se connecter à des fournisseurs
+# Hubs : créer ou se connecter à des producteurs (fournisseurs)
 
-> _Cette page concerne les entreprises de type "hub producteur" ou "boutique hub", donc les producteurs souhaitant vendre des produits d'autres producteurs / fournisseurs ainsi que les es distributeurs \(=hubs\) non-producteurs._
+> _Cette page concerne les entreprises de type "hub producteur" ou "boutique hub", donc les producteurs souhaitant vendre des produits d'autres producteurs / fournisseurs ainsi que les es distributeurs (=hubs) non-producteurs._
 
 Pour ces utilisateurs, cette étape est préliminaire à l'ajout de produits dans votre boutique.
 
-Tous les producteurs proposant / vendant des produits sur Open Food Network doivent détenir un compte entreprise sur la plateforme. Les produits sont saisis dans le catalogue du producteur, puis "affichés" \(avec potentiellement des prix et stock différents\) dans les boutiques du producteur et autres distributeurs à qui le producteur en a donné l'[autorisation](e2e-permissions.md). Cela permet aux acheteurs de connaître l'origine des produits qu'ils achètent : 
+Tous les producteurs proposant / vendant des produits sur Open Food Network doivent détenir un compte entreprise sur la plateforme. Les produits sont saisis dans le catalogue du producteur, puis "affichés" (avec potentiellement des prix et stock différents) dans les boutiques du producteur et autres distributeurs à qui le producteur en a donné l'[autorisation](e2e-permissions.md). Cela permet aux acheteurs de connaître l'origine des produits qu'ils achètent : 
 
-![](../../.gitbook/assets/capture-du-2019-07-31-00-08-56.png)
+![](<../../.gitbook/assets/Capture du 2019-07-31 00-08-56.png>)
 
-En tant que hub-distributeur, vous avez **deux options** :   
-- soit vous créez les profils des producteurs avec qui vous travaillez  
-- soit vous vous connectez à des profils producteurs déjà existants sur la plateforme.
+En tant que hub-distributeur, vous avez **deux options** : \
+\- soit vous créez les profils des producteurs avec qui vous travaillez\
+\- soit vous vous connectez à des profils producteurs déjà existants sur la plateforme.
 
 Comment savoir si un producteur a déjà un profil sur Open Food Network ? Rendez-vous sur le menu principal "producteurs"' et recherchez-les : 
 
-![](../../.gitbook/assets/capture-du-2019-07-31-00-15-51.png)
+![](<../../.gitbook/assets/Capture du 2019-07-31 00-15-51.png>)
 
 {% hint style="info" %}
 Si un producteur a déjà un profil, et un catalogue produits, vous pourrez alors lui [demander un accès](e2e-permissions.md) à son catalogue. Mais si le profil du producteur a déjà été créé par un autre distributeur, il sera peut-être difficile de "partager" l'accès au catalogue. N'hésitez pas à nous contacter pour nous faire part de votre situation.
 {% endhint %}
 
-## 1\) Le producteur n'a pas de profil existant sur la plateforme
+## 1) Le producteur n'a pas de profil existant sur la plateforme
 
-En créant un profil pour le producteur, vous devenez \(enfin techniquement, votre compte utilisateur devient\) "gestionnaire principal" de son profil. Vous aurez ainsi la possibilité de modifier ses produits ainsi que son prix et stock. Vous pourrez voir les profils sur votre tableau de bord. Si un producteur vous demande accès à son profil mais souhaite que vous en restiez gestionnaire principal, vous pouvez le nommer comme gestionnaire \([cf paramètres du profil, rubrique utilisateurs](parametres.md#utilisateurs)\). S'il souhaite reprendre le contrôle complet sur son profil, vous pouvez le nommer gestionnaire principal [de cette manière](transfer-ownership.md).
+En créant un profil pour le producteur, vous devenez (enfin techniquement, votre compte utilisateur devient) "gestionnaire principal" de son profil. Vous aurez ainsi la possibilité de modifier ses produits ainsi que son prix et stock. Vous pourrez voir les profils sur votre tableau de bord. Si un producteur vous demande accès à son profil mais souhaite que vous en restiez gestionnaire principal, vous pouvez le nommer comme gestionnaire ([cf paramètres du profil, rubrique utilisateurs](parametres.md#utilisateurs)). S'il souhaite reprendre le contrôle complet sur son profil, vous pouvez le nommer gestionnaire principal [de cette manière](transfer-ownership.md).
 
 ### Informations importantes avant de créer les profils :
 
@@ -36,23 +36,22 @@ Par défaut vous pouvez créer jusqu'à 5 profils entreprises sur la plateforme.
 
 Une fois connecté à l'interface d'administration, rendez-vous dans le menu "entreprises" et cliquez sur "nouvelle entreprise" :
 
-![](../../.gitbook/assets/capture-du-2019-07-31-00-24-17.png)
+![](<../../.gitbook/assets/Capture du 2019-07-31 00-24-17.png>)
 
 Cette action vous amènera sur cette page :
 
-![](../../.gitbook/assets/capture-du-2019-07-31-00-25-47.png)
+![](<../../.gitbook/assets/Capture du 2019-07-31 00-25-47.png>)
 
 **Nom :** Renseignez le nom du producteur. Si vous voyez un message d'erreur vous indiquant que le nom existe déjà, cela signifie qu'il existe déjà un profil pour ce producteur. Dans ce cas passez directement  à [l''option 2](creez-ou-connectez-vos-producteurs.md).
 
-**Producteur ? :** Cochez bien la case !
+**Producteur ? : **Cochez bien la case !
 
-**Email public et téléphone :** Ces informations sont publiques. Si le producteur ne souhaite pas les indiquer, ajoutez les votre.
+**Email public et téléphone : **Ces informations sont publiques. Si le producteur ne souhaite pas les indiquer, ajoutez les votre.
 
-## 2\) Le producteur a déjà un profil sur OFN <a id="supplyingproducer"></a>
+## 2) Le producteur a déjà un profil sur OFN <a href="supplyingproducer" id="supplyingproducer"></a>
 
 Dans ce cas, vous devez lui demander sa permission pour vendre ses produits via votre boutique. Pour le contacter, vous trouverez ses coordonnées sur son profil. N'oubliez pas que le gestionnaire du profil peut aussi être un autre hub. Comme évoqué précédemment, deux hubs peuvent vendre le même produit, mais cela peut demander, si le profil est géré par un autre hub, quelque peu de concertation pour s'assurer que l'autre hub ne modifie pas les produits du catalogue sans prévenir les hubs qui les distribuent.
 
 Sur Open Food Network, [la gestion des permissions](e2e-permissions.md) est utilisé pour contrôler la nature des droits octroyés entre les producteurs et les hubs-distributeurs. Les producteurs peuvent donner différentes permissions aux hubs, en les combinant de manière unique. Au plus simple, le producteur donne la permission au hub de vendre ses produits et les ajouter à son [catalogue boutique](../produits-1/inventory-tool.md), voir de les modifier et de modifier son profil.
 
 [Cette page](e2e-permissions.md) donne tous les détails sur les permissions existantes. 
-

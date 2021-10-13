@@ -8,21 +8,21 @@
 
 ## Les atouts
 
-**Vendre vos produits à votre manière**  
+**Vendre vos produits à votre manière**\
 Une boutique en ligne inclue toutes les fonctionnalités vous permettant de vendre vos produits en ligne, en direct à vos clients. Vous pouvez ajouter des produits à votre boutique, et les vendre à votre guise. Vous choisissez le processus de commande, le processus de livraison et les méthodes de paiement. Vous êtes le maître à bord !
 
-**Administration**  
+**Administration**\
 Pour faciliter votre gestion au jour-le-jour, l'interface d'administration vous permet de suivre les commandes et d'accéder à un historique des commandes et des paiements.
 
-**Collaborer avec d'autres membres**  
+**Collaborer avec d'autres membres**\
 Open Food Network est un réseau : vous pouvez vous connecter à d'autres boutiques. Ainsi vous vendez vos produits dans votre propre boutique en ligne, mais vous pouvez également fournir les autres boutiques d'OFN.
 
-**Vous rendre visible**  
+**Vous rendre visible**\
 La première étape avant de créer votre boutique en ligne, c'est la création de votre profil. En ayant un profil sur OFN, vous devenez visible pour votre communauté locale. Les entreprises présentes dans le réseau et souhaitant collaborer avec vous ou distribuer vos produits peuvent vous contacter.
 
 ## Les étapes de création du profil
 
-1\) [Créez votre profil](../fonctionnalites-standards/inscription-et-creation-de-profil.md) sur Open Food Network \(OFN\). Pour cette étape, il est nécessaire d'avoir vos coordonnées et un accès à votre boite mail à proximité afin de valider votre adresse.
+1\) [Créez votre profil](../fonctionnalites-standards/inscription-et-creation-de-profil.md) sur Open Food Network (OFN). Pour cette étape, il est nécessaire d'avoir vos coordonnées et un accès à votre boite mail à proximité afin de valider votre adresse.
 
 2\) Sélectionnez "boutique producteur" dans les [types de package](../fonctionnalites-standards/votre-profil/types-de-package.md).
 
@@ -47,4 +47,3 @@ Vous pouvez désormais [voir vos commandes](../fonctionnalites-standards/command
 * [Intégrer](../fonctionnalites-standards/mise-en-place-dune-boutique/embedded-shops.md) votre boutique dans VOTRE site internet
 * [Fixer les prix de produits "irréguliers" comme la viande](../fonctionnalites-standards/produits-1/pricing-irregular-items-kg.md)
 * [Ouvrir plusieurs cycles de vente simultanés](../fonctionnalites-standards/mise-en-place-dune-boutique/cycles-de-vente/opening-more-than-one-order-cycle.md).
-

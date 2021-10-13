@@ -4,29 +4,25 @@
 
 **Pourquoi choisir Open Food Network ? Quelle est la différence avec les autres plateformes e-commerce ?**
 
-* **Réseau**
+*   **Réseau**
 
-  Contrairement aux plateformes classiques, Open Food Network fonctionne en réseau. Les producteurs peuvent vendre leurs produits via leur boutique, la boutique d'une autre entreprise et peuvent eux-même vendre des produits d'autres producteurs.
+    Contrairement aux plateformes classiques, Open Food Network fonctionne en réseau. Les producteurs peuvent vendre leurs produits via leur boutique, la boutique d'une autre entreprise et peuvent eux-même vendre des produits d'autres producteurs.
+*   **Visibilité**
 
-* **Visibilité**
+    La plateforme Open Food Network fédérant un grand nombre de profils, elle rend visible toutes les entreprises de son réseau.
+*   **Flexibilité**
 
-  La plateforme Open Food Network fédérant un grand nombre de profils, elle rend visible toutes les entreprises de son réseau.
+    Vous pouvez paramétrer vous même un grand nombre de fonctionnalités, notamment les méthodes de paiement utilisées. Vous n'êtes pas contraint par la plateforme.
+*   **Évolutivité**
 
-* **Flexibilité**
+    A partir d'un profil simple, vous pouvez évoluer simplement vers des profils avec boutique, revendeur ou non.
+*   **Valeurs**
 
-  Vous pouvez paramétrer vous même un grand nombre de fonctionnalités, notamment les méthodes de paiement utilisées. Vous n'êtes pas contraint par la plateforme.
-
-* **Évolutivité**
-
-  A partir d'un profil simple, vous pouvez évoluer simplement vers des profils avec boutique, revendeur ou non.
-
-* **Valeurs**
-
-  Le fournisseur local de la plateforme Open Food Network est une organisation sans but lucratif. Notre ambition est de co-construire et co-gérer la plateforme ensemble. 
+    Le fournisseur local de la plateforme Open Food Network est une organisation sans but lucratif. Notre ambition est de co-construire et co-gérer la plateforme ensemble. 
 
 **Combien ça coûte d'utiliser Open Food Network ?**
 
-Cela dépend du fournisseur local de la plateforme. Aujourd'hui l'utilisation d'Open Food Network par exemple repose sur donation libre, mais la création d'une coopérative \(en cours\) va entraîner la mise en place de frais d'utilisation entre contribution libre et 2% des ventes selon le cas. Mais ces décisions sont prises de façon collaborative avec les utilisateurs, alors nous rejoindre, c'est aussi avoir la possibilité de participer à notre gouvernance !
+Cela dépend du fournisseur local de la plateforme. Aujourd'hui l'utilisation d'Open Food Network par exemple repose sur donation libre, mais la création d'une coopérative (en cours) va entraîner la mise en place de frais d'utilisation entre contribution libre et 2% des ventes selon le cas. Mais ces décisions sont prises de façon collaborative avec les utilisateurs, alors nous rejoindre, c'est aussi avoir la possibilité de participer à notre gouvernance !
 
 ## La plateforme peut-elle vous convenir ?
 
@@ -46,7 +42,7 @@ Rendez-vous sur [cette page.](../../les-differents-profils-utilisateurs/le-march
 
 Vous pouvez créer [un profil simple](../../les-differents-profils-utilisateurs/le-producteur-sans-boutique.md) qui fera le lien avec votre boutique existante.
 
-**J'ai fréquemment un surplus \(non anticipé\) de produits que je souhaiterais vendre.**
+**J'ai fréquemment un surplus (non anticipé) de produits que je souhaiterais vendre.**
 
 Vous pouvez directement ajouter des produits qui seront ensuite disponible / vendu à la demande.
 
@@ -71,7 +67,7 @@ Oui, vous pouvez sélectionner l'ordre de chaque catégorie de produits. Ensuite
 Vérifiez les points suivants :
 
 * Est-ce que le produit à été ajouté à un cycle de vente en cours ?
-* Est-ce qu'il y a une quantité suffisante dans la quantité "à la demande" ? \(si c'est 0 , le produit n’apparaît plus en boutique\). Si le produit est toujours à la demande, pensez à cocher la case "à volonté" pour que ce problème n'apparaisse plus
+* Est-ce qu'il y a une quantité suffisante dans la quantité "à la demande" ? (si c'est 0 , le produit n’apparaît plus en boutique). Si le produit est toujours à la demande, pensez à cocher la case "à volonté" pour que ce problème n'apparaisse plus
 * Est-ce que le produit est sur votre catalogue boutique en mode masqué ?
 
 **Je souhaite que seuls mes clients actuels puissent accéder à la boutique en ligne. Est-ce possible ?**
@@ -84,7 +80,7 @@ Vous pouvez ajouter un message d'accueil à votre boutique.
 
 **Je produis des œufs, pourtant mon profil ne s'affiche pas lorsque je regarde la liste des producteurs d'œufs sur la plateforme. Pourquoi ?**
 
-Si vous avez un profil uniquement, il faut créer des produits factices \(et invisibles\). Rendez-vous sur [cette page.](../../fonctionnalites-standards/votre-profil/making-a-producer-profile-searchable-by-product-category.md)
+Si vous avez un profil uniquement, il faut créer des produits factices (et invisibles). Rendez-vous sur [cette page.](../../fonctionnalites-standards/votre-profil/making-a-producer-profile-searchable-by-product-category.md)
 
 **Je vends de la viande et doit m’assurer de pré-commandes suffisantes avant d’envoyer l’animal à l’abattoir. Comment fixer une quantités minimale de produits commandés ?**
 
@@ -107,4 +103,3 @@ La plateforme ne dispose pas de cette fonctionnalité pour l'instant. En revanch
 **Est-ce que je peux avoir des statistiques sur les commandes et les montants dépensés ?**
 
 Oui, la plateforme propose différents rapports et tableaux de bord afin de vous donner la possibilité de réaliser un suivi optimal.
-

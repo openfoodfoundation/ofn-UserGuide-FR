@@ -8,7 +8,7 @@ La fonctionnalité catalogue boutique permet à un hub-distributeur A de modifie
 
 Pour y accéder, rendez-vous sur **Entreprises**, puis "**paramètres**" et enfin "c**atalogue boutique**" dans le menu vertical de gauche :
 
-![](../../.gitbook/assets/image%20%2882%29.png)
+![](<../../.gitbook/assets/image (55).png>)
 
 Vous avez deux options : 
 
@@ -19,17 +19,17 @@ Vous avez deux options :
 
 Cliquez sur le menu **Produits** dans l'interface d'administration, puis sur **Catalogue** **boutique** dans le sous menu vert. Si vous gérez plusieurs boutiques, il vous sera demandé d'en sélectionner une car chaque catalogue est géré indépendamment. 
 
-![](../../.gitbook/assets/image%20%2846%29.png)
+![](<../../.gitbook/assets/image (56).png>)
 
 Lors de chaque visite de ce catalogue boutique, si de nouveaux produits ont été ajoutés par vos fournisseurs, un message vous alertera sur le fait que vous avez de nouveaux produits disponibles pouvant être ajoutés à votre catalogue. Tant que ce ne sera pas fait, ils resteront dans la catégorie "**Nouveaux produits**".
 
-![](../../.gitbook/assets/image%20%2828%29.png)
+![](<../../.gitbook/assets/image (57).png>)
 
 En cliquant sur "**vérifier maintenant**" vous serez redirigé vers la liste des **nouveaux produits**.
 
 ## Nouveaux produits
 
-![](../../.gitbook/assets/image%20%2836%29.png)
+![](<../../.gitbook/assets/image (58).png>)
 
 Les nouveaux produits peuvent être soit **ajoutés** à votre catalogue, soit **masqués**. Si vous souhaitez modifier pour votre boutique les caractéristiques prix/stock d'un produit de la liste, vous devez l'ajouter à votre catalogue boutique. S'il s'agit d'un produit que vous ne voudrez jamais vendre dans votre boutique ou en tout cas pas à court terme, vous pouvez choisir de le masquer.
 
@@ -37,15 +37,15 @@ Pour rappel, si l'option choisie dans les [paramètres](inventory-tool.md#1-les-
 
 ## Produits du Catalogue Boutique
 
-![](../../.gitbook/assets/image%20%2897%29.png)
+![](<../../.gitbook/assets/image (59).png>)
 
 Via le bouton colonnes à droite, vous pouvez choisir les éléments de paramétrage que vous souhaitez pouvoir voir et modifier lorsque cela est permis. 
 
-![](../../.gitbook/assets/image%20%2877%29.png)
+![](<../../.gitbook/assets/image (60).png>)
 
 ### Modifier pour votre boutique les prix, stocks et références produits
 
-Toutes les modifications que vous ferez ici seront visibles sur votre boutique. Vous pouvez modifier les champs suivants \(mais pas les autres, c'est-à-dire le nom du produit, le conditionnement, ou encore la description ou l'image\) :
+Toutes les modifications que vous ferez ici seront visibles sur votre boutique. Vous pouvez modifier les champs suivants (mais pas les autres, c'est-à-dire le nom du produit, le conditionnement, ou encore la description ou l'image) :
 
 * **Référence produit :** vous pouvez ici indiquer une autre référence produit que celle du producteur
 * **Prix :** le prix est modifiable mais n'oubliez pas que les quantités unitaires associées ne le sont pas
@@ -74,15 +74,14 @@ N'oubliez pas de sauvegarder vos modifications !
 
 ## Les Produits Masqués
 
-![](../../.gitbook/assets/image%20%2826%29.png)
+![](<../../.gitbook/assets/image (62).png>)
 
 Sur cette page, vous pouvez décider d'ajouter à votre catalogue boutique certains produits préalablement masqués en cliquant sur le bouton "Ajouter" :
 
-![](../../.gitbook/assets/image%20%2856%29.png)
+![](<../../.gitbook/assets/image (63).png>)
 
 ## Catalogue boutique et cycle de vente
 
-Dans le menu Cycle de vente &gt; Modifier un cycle de vente, si vous cliquez sur "paramètres avancés" vous disposez d'une option pour choisir si - sur ce cycle en particulier - les informations viennent de votre catalogue ou directement des fournisseurs :
+Dans le menu Cycle de vente > Modifier un cycle de vente, si vous cliquez sur "paramètres avancés" vous disposez d'une option pour choisir si - sur ce cycle en particulier - les informations viennent de votre catalogue ou directement des fournisseurs :
 
-![](../../.gitbook/assets/image%20%28106%29.png)
-
+![](<../../.gitbook/assets/image (64).png>)

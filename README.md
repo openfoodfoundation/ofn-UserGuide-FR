@@ -2,11 +2,11 @@
 
 Ce guide a pour objet de vous accompagner dans l'utilisation des plateformes reposant sur le **logiciel Open Food Network** et **opérant en Français**. 
 
-**3** plateformes utilisent à ce jour le logiciel en Français :
+**3 **plateformes utilisent à ce jour le logiciel en Français :
 
-- Open Food Network \(Belgique\) : [https://www.openfoodnetwork.be](https://www.openfoodnetwork.be)  
-- CoopCircuits \(France\) : [https://www.coopcircuits.fr/](https://www.coopcircuits.fr/)  
-- Open Food Network \(Canada\) : [https://openfoodnetwork.ca/](https://openfoodnetwork.ca/)  
+\- Open Food Network (Belgique) : [https://www.openfoodnetwork.be](https://www.openfoodnetwork.be)\
+\- CoopCircuits (France) : [https://www.coopcircuits.fr/](https://www.coopcircuits.fr)\
+\- Open Food Network (Canada) : [https://openfoodnetwork.ca/](https://openfoodnetwork.ca)\
 
 
 ## Deux entrées possibles
@@ -21,11 +21,11 @@ Vous pouvez voir pas à pas comment modéliser et paramétrer votre activité da
 
 **Dans les grandes lignes** :
 
-\* **Profil** : créer et paramétrer son profil, se connecter à des producteurs ou distributeurs existants avec qui vous voulez coopérer, etc.  
-     
-\* **Produits** : ajouter des produits/variantes à un catalogue producteur, définir des lots d'achat, ajuster le poids d’un produit \(produits à la pièce vendu au kg\), créer et gérer des catalogues boutiques pour simplifier la mise en place de vos cycles de vente, etc.
+\* **Profil** : créer et paramétrer son profil, se connecter à des producteurs ou distributeurs existants avec qui vous voulez coopérer, etc.\
+   \
+\* **Produits** : ajouter des produits/variantes à un catalogue producteur, définir des lots d'achat, ajuster le poids d’un produit (produits à la pièce vendu au kg), créer et gérer des catalogues boutiques pour simplifier la mise en place de vos cycles de vente, etc.
 
-\* **Boutiques \(appelées comptoirs en Belgique\)** : paramétrer les options de paiement et livraison, définir vos marges et commissions, créer des cycles de vente, restreindre l’accès à votre boutique, intégrer votre boutique à votre site web, etc.
+\* **Boutiques (appelées comptoirs en Belgique)** : paramétrer les options de paiement et livraison, définir vos marges et commissions, créer des cycles de vente, restreindre l’accès à votre boutique, intégrer votre boutique à votre site web, etc.
 
 \* **Traitement des commandes** : ajustements, envois des commandes aux fournisseurs, rapports
 
@@ -33,7 +33,7 @@ Vous pouvez voir pas à pas comment modéliser et paramétrer votre activité da
 
 ## Rechercher
 
-N'hésitez pas à utiliser la fonctionnalité de recherche en haut à droite \("rechercher"\) pour rechercher des points spécifiques.
+N'hésitez pas à utiliser la fonctionnalité de recherche en haut à droite ("rechercher") pour rechercher des points spécifiques.
 
 ## FAQs
 
@@ -47,4 +47,3 @@ Ecrivez-nous aux adresses suivantes :
 * support@coopcircuits.fr pour la France
 * support@openfoodnetwork.be pour la Belgique.
 {% endhint %}
-
